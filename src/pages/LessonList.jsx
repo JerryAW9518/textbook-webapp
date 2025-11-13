@@ -14,7 +14,7 @@ function LessonList({ subject, publisher, grade, onSelectLesson }) {
 
         // 載入對應的 mapping 檔案
         const subjectPath = subject === 'mandarin' ? 'mandarin' : 'math';
-        const mappingPath = `/data/${subjectPath}/${publisher}.json`;
+        const mappingPath = `${process.env.PUBLIC_URL}/data/${subjectPath}/${publisher}.json`;
 
         console.log('載入課次列表:', { subject, publisher, grade, mappingPath });
 

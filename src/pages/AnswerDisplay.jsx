@@ -439,7 +439,7 @@ function AnswerDisplay({ lesson, subject }) {
 
         // 載入答案 JSON
         const subjectPath = subject === 'mandarin' ? 'mandarin' : 'math';
-        const answerPath = `/data/${subjectPath}/${lesson.path}`;
+        const answerPath = `${process.env.PUBLIC_URL}/data/${subjectPath}/${lesson.path}`;
 
         console.log('載入答案:', answerPath);
 
