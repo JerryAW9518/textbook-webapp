@@ -1,0 +1,153 @@
+[
+  {
+    "title": "部首真有趣",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "娘", "姐", "妹", "姨", "婆"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "媽", "媽", "樂", "後", "短",
+          "短", "桌", "吃", "菜"
+        ],
+        "zhuyin": [
+          ["ㄇㄚ"], ["˙ㄇㄚ"], ["ㄌㄜˋ"], ["ㄏㄡˋ"], ["ㄉㄨㄢˇ"],
+          ["ㄉㄨㄢˇ"], ["ㄓㄨㄛ"], ["ㄔ"], ["ㄘㄞˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "來", "音", "樂", "會", "過",
+          "始", "就", "陣", "重", "真"
+        ],
+        "zhuyin": [
+          ["ㄌㄞˊ"], ["ㄧㄣ"], ["ㄩㄝˋ"], ["ㄏㄨㄟˋ"], ["ㄍㄨㄛˋ"],
+          ["ㄕˇ"], ["ㄐㄧㄡˋ"], ["ㄓㄣˋ"], ["ㄓㄨㄥˋ"], ["ㄓㄣ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "照樣寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "長", "漂亮"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "高", "帥氣"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "紅", "好吃"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "走回教室"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "我的肚子就餓了"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填入適當的標點符號",
+    "subtitle": "1",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "！"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "？"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "。"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "？", "！"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      }
+    ]
+  }
+]

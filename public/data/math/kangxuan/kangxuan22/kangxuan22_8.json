@@ -1,0 +1,351 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "輪子數量" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "腳踏車", "機車" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "汽車", "工程車" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "點心", "水果" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "果汁", "牛奶" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "蛋糕", "餅乾" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "水果" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "點心" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2" ],
+                    [ "書本", "文具" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "雜誌", "字典" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "剪刀", "色筆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "故事書" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "(略)" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄆ", "ㄇ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄅ", "ㄈ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6", "8" ],
+                    [ "12" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6", "8" ],
+                    [ "12" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "正方體" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 2 ],
+                      [ 0 ],
+                      [ 1 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

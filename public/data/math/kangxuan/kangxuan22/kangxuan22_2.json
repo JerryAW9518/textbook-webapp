@@ -1,0 +1,885 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "153" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "144", "9"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "521" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "7", "514"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "185 + 7 = 192" ],
+                    [ "答:192張" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "185", "7"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "298 + 6 = 304" ],
+                    [ "答:304個" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "298", "6"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "229" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "176", "53"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "753" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "87", "666"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "283 + 45 = 328" ],
+                    [ "答 : 328雙"]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "283", "45"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "78 + 336 = 414" ],
+                    [ "答: 414元"]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "78", "336"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "392" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "227", "165"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "900" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "682", "218"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "337 + 188 = 525" ],
+                    [ "答: 525個"]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "337", "188"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "299 + 299 = 598" ],
+                    [ "答: 598元"]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "+",
+            	  "line" : [ "299", "299"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "465" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "470", "5"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "516" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "522", "6"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "180 - 9 = 171" ],
+                    [ "答: 171顆"]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "180", "9"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "234 - 8 = 226" ],
+                    [ "答: 226公分"]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "234", "8"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "118" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "163", "45"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "483" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "507", "24"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "329 - 76 = 253" ],
+                    [ "答 : 253隻"]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "329", "76"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "895 - 59 = 836" ],
+                    [ "答 : 836元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "895", "59"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "108"]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "270", "162"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "86" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "407", "321"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      },
+      {
+      
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "539 - 369 = 170" ],
+                    [ "答 : 170元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "539", "369"]
+            	  }
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "305 - 154 = 151" ],
+                    [ "答 : 151個" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                "operator" : "-",
+            	  "line" : [ "305", "154"]
+            	  }
+            	}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "90 - 20 = 70" ],
+                    [ "答 : 70顆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "370 - 254 = 116" ],
+                    [ "答 : 116杯" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "47 + 85 = 132" ],
+                    [ "答 : 132輛" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "360 + 140 = 500" ],
+                    [ "答 : 500元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 2 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "80顆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "30個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "40" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "120" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "800元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "100元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", "", "", ""
+                    ],
+                    [
+                      "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 1 ],
+                      [ 1 ],
+                      [ 0 ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

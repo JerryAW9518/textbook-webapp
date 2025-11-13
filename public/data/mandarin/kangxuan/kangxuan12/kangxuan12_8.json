@@ -1,0 +1,162 @@
+[
+  {
+    "title": "部首真有趣",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "雷", "電"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "雪"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+        
+          "缸", "面", "穿", "落", "滴",
+          "顆", "顆", "珍", "珠", "雨",
+          "雙", "遊", "戲", "金", "魚", 
+          "妹", "游"
+        ],
+        "zhuyin": [
+          ["ㄍㄤ"], ["ㄇㄧㄢˋ"], ["ㄔㄨㄢ"], ["ㄌㄨㄛˋ"], ["ㄉㄧ"],
+          ["ㄎㄜ"], ["ㄎㄜ"], ["ㄓㄣ"], ["ㄓㄨ"], ["ㄩˇ"],
+          ["ㄕㄨㄤ"], ["ㄧㄡˊ"], ["ㄒㄧˋ"], ["ㄐㄧㄣ"], ["ㄩˊ"],
+          ["ㄇㄟˋ"], ["ㄧㄡ˙"]
+        ]
+      },
+      {
+      	"title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "照樣寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一隻隻"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "一雙雙"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "一顆顆"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "開心的跑向她"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "爸爸就趕快把衣服收進來"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖介紹",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

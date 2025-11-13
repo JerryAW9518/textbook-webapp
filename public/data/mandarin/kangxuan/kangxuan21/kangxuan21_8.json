@@ -1,0 +1,120 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "烏", "鴉", "旅", "行", "午", 
+          "森", "林", "渴", "瓶", "裝", 
+          "但", "瓶", "許", "石", "喝", 
+          "哈", "哈", "法", "物", "難", 
+          "忘", "熊"
+        ],
+        "zhuyin": [
+          ["ㄨ"], ["ㄧㄚ"], ["ㄌㄩˇ"], ["ㄒㄧㄥˊ"], ["ㄨˇ"], 
+          ["ㄙㄣ"], ["ㄌㄧㄣˊ"], ["ㄎㄜˇ"], ["ㄆㄧㄥˊ"], ["ㄓㄨㄤ"], 
+          ["ㄉㄢˋ"], ["ㄆㄧㄥˊ"], ["ㄒㄩˇ"], ["ㄕˊ"], ["ㄏㄜ"], 
+          ["ㄏㄚ"], ["ㄏㄚ"], ["ㄈㄚˇ"], ["ㄨˋ"], ["ㄋㄢˊ"],
+          ["ㄨㄤˋ"], ["ㄒㄩㄥˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、填寫適當的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "烏", "烏", "鳥"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "渴", "喝", "喝", "渴"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、圈出錯誤，再填寫適當詞語。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "難得", "難道"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "東躲西藏", "東找西找"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "每天練習說故事"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "慶祝獅子獲得冠軍"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "爸爸為了我們身體健康，買了許多食材回來煮晚餐。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

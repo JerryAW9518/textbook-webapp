@@ -1,0 +1,568 @@
+[
+  {
+    "title": "1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6", "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1400", "14000000" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2400000" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "202080" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "50500500" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "980000" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "980000、990099、999999" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "50500500、19005000、25000005" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "130 - 35 = 95" ],
+                    [ "答：95度" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "85 + 50 = 135" ],
+                    [ "答：135度" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "順時針" ],
+                    [ "120" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "逆時針" ],
+                    [ "60" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "18", "18000" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9", "200" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "22", "800" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "42", "300" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "55386" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 306,
+            		"multiplicand" : 181 
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9423" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 1047,
+            		"multiplicand" : 9 
+            	}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "386萬7500元 = 3867500" ],
+                    [ "3867500 + 2586000\n= 6453500" ],
+                    [ "答：6453500元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "12 + 12 = 24" ],
+                    [ "399 x 24 = 9576" ],
+                    [ "答：9576元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "12張千元 = 12000元" ],
+                    [ "63張百元 = 6300元" ],
+                    [ "6個十元 = 60元" ],
+                    [ "12000 + 6300 = 18300" ],
+                    [ "18300 + 60 = 18360" ],
+                    [ "答：18360元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "360 x 47 = 16920" ],
+                    [ "答：16920元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "border" : false,
+                  "tex": [
+                    [ "2\\frac{4}{5} = \\frac{14}{5}" ],
+                    [ "\\frac{14}{5} < \\frac{24}{5}" ],
+                    [ "答：奶茶" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "9",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "算算看",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "逆時針方向" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "東部海岸線長380公里" ],
+                    [ "南部海岸線長315公里" ],
+                    [ "西部海岸線長460公里" ],
+                    [ "北部海岸線長85公里" ],
+                    [ "380 + 315 = 695\n695 + 460 = 1155\n1155 + 85 = 1240" ],
+                    [ "答：1240公里" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "想想看",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "爸爸騎的路程比394公里直線距離長，是因為實際道路需要繞過山區、河流，並考量安全與地形設計，路線會彎曲。" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "texts": [
+                    [ "臺灣海岸線侵蝕不僅破壞沙灘，還可能導致基礎設施損壞、生態系統受損、農田鹽化，以及沿岸居民土地流失等危機。" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

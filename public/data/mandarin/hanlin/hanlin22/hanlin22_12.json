@@ -1,0 +1,115 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "受", "養", "運", "躺", "操",
+          "招"
+        ],
+        "zhuyin": [
+          ["ㄕㄡˋ"], ["ㄧㄤˇ"], ["ㄩㄣˋ"], ["ㄊㄤˇ"], ["ㄘㄠ"],
+          ["ㄓㄠ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "夜", "姑", "娘", "棍", "搗",
+          "仙", "藥", "玉", "吳", "砍",
+          "桂", "嚇", "鬧"
+        ],
+        "zhuyin": [
+          ["ㄧㄝˋ"], ["ㄍㄨ"], ["˙ㄋㄧㄤ"], ["ㄍㄨㄣˋ"], ["ㄉㄠˇ"],
+          ["ㄒㄧㄢ"], ["ㄧㄠˋ"], ["ㄩˋ"], ["ㄨˊ"], ["ㄎㄢˇ"],
+          ["ㄍㄨㄟˋ"], ["ㄒㄧㄚˋ"], ["ㄋㄠˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、寫出正確的讀音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "好", "了", "了", "重", "倒",
+          "數", "著", "數", "便", "著",
+          "便", "倒", "重", "好", "好"
+        ],
+        "zhuyin": [
+          ["ㄏㄠˋ"], ["ㄌㄧㄠˇ"], ["˙ㄌㄜ"], ["ㄓㄨㄥˋ"], ["ㄉㄠˋ"],
+          ["ㄕㄨˇ"], ["˙ㄓㄜ"], ["ㄕㄨˋ"], ["ㄅㄧㄢˋ"], ["ㄓㄠˊ"],
+          ["ㄆㄧㄢˊ"], ["ㄉㄠˇ"], ["ㄔㄨㄥˊ"], ["ㄏㄠˇ"], ["ㄏㄠˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "要", "才"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "下水練習游泳"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "先讀故事書", "玩跳棋"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "先洗手", "吃點心"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      }
+    ]
+  }
+]

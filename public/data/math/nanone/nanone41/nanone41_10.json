@@ -1,0 +1,1370 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "✓" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "✓" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "✓" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公里" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公里" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "10-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4000" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8000" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "15000" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6" ],
+                    [ "320" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "15", "120" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "12900" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "80000" ],
+                    [ "100000" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", "", "", ""
+                    ],
+                    [
+                      "", "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 3 ],
+                      [ 0 ],
+                      [ 2 ],
+                      [ 1 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "10-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公里" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公里", "公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "65000", "6500000" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5030", "503000" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8105", "810500" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "20" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "10-4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "27" ],
+                    [ "18 + 9 = 27" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "29" ],
+                    [ "48 - 19 = 29" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9", "127" ],
+                    [ "4075 + 5052 = 9127" ],
+                    [ "9127公尺 = 9公里127公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6", "854" ],
+                    [ "7010 - 156 = 6854" ],
+                    [ "6854公尺 = 6公里854公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7", "56" ]
+                  ]
+                }
+              },
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : true,
+            	    	"m" : true,
+            	    	"cm" : false,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 3,
+            	    		"m" : 56,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 4,
+            	    		"m" :  0,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"km" : false,
+            	    		"m" : false,
+            	    		"cm" : false,
+            	    		"mm" : false
+            	    	},
+            	    	{ 
+            	    		"km" : false,
+            	    		"m" :  true,
+            	    		"cm" : false,
+            	    		"mm" : false
+            	    	}
+            	    ]
+            	}
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "71", "45" ]
+                  ]
+                }
+              },
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : true,
+            	    	"m" : true,
+            	    	"cm" : false,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 71,
+            	    		"m" : 5,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 40,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"km" : false,
+            	    		"m" : false,
+            	    		"cm" : false,
+            	    		"mm" : false
+            	    	},
+            	    	{ 
+            	    		"km" : true,
+            	    		"m" :  false,
+            	    		"cm" : false,
+            	    		"mm" : false
+            	    	}
+            	    ]
+            	}
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3", "900" ]
+                  ]
+                }
+              },
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : true,
+            	    	"m" : true,
+            	    	"cm" : false,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 4,
+            	    		"m" :  5,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 105,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"km" : false,
+            	    		"m" : false,
+            	    		"cm" : false,
+            	    		"mm" : false
+            	    	},
+            	    	{ 
+            	    		"km" : true,
+            	    		"m" :  false,
+            	    		"cm" : false,
+            	    		"mm" : false
+            	    	}
+            	    ]
+            	}
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "856" ]
+                  ]
+                }
+              },
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : true,
+            	    	"m" : true,
+            	    	"cm" : false,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 6,
+            	    		"m" : 315,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 5,
+            	    		"m" : 459,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	}
+            	    ]
+            	}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4km 195m + 6km 826m" ],
+                    [ "= 11km 21m" ],
+                    [ "答：11公里 21公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6km 55m - 2km 329m" ],
+                    [ "= 3km 726m" ],
+                    [ "答：3公里 726公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2km 329m + 3km 223m\n= 5km 552m" ],
+                    [ "5km 552m < 6km 826m" ],
+                    [ "6km 826m - 5km 552m\n= 1km 274m" ],
+                    [ "答：棒球場直接到國家歌劇院，相差1公里 274公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3", "125" ],
+                    [ "625 x 5 = 3125" ],
+                    [ "3125公尺 = 3公里125公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "24", "80" ]
+                  ]
+                }
+              },
+              {
+                "category": "length",
+                "extras": {
+                    "multiplier" : 4,
+            	    "supportField" : {
+            	        "km" : true,
+            	    	"m" : true,
+            	    	"cm" : false,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "x",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 6,
+            	    		"m" : 20,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 4,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"km" : false,
+            	    		"m" : false,
+            	    		"cm" : false,
+            	    		"mm" : false
+            	    	},
+            	    	{ 
+            	    		"km" : true,
+            	    		"m" :  false,
+            	    		"cm" : false,
+            	    		"mm" : false
+            	    	}
+            	    ]
+            	}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "65", "200" ]
+                  ]
+                }
+              },
+              {
+                "category": "length",
+                "extras": {
+                    "multiplier" : 8,
+            	    "supportField" : {
+            	        "km" : true,
+            	    	"m" : true,
+            	    	"cm" : false,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "x",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 8,
+            	    		"m" : 150,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 8,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"km" : false,
+            	    		"m" : false,
+            	    		"cm" : false,
+            	    		"mm" : false
+            	    	},
+            	    	{ 
+            	    		"km" : true,
+            	    		"m" :  false,
+            	    		"cm" : false,
+            	    		"mm" : false
+            	    	}
+            	    ]
+            	}
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "13" ],
+                    [ "39 ÷ 3 = 13" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "720" ],
+                    [ "5公里40公尺\n= 5040公尺" ],
+                    [ "5040 ÷ 7 = 720" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "667" ],
+                    [ "6km3m\n= 6003m" ],
+                    [ "6003 ÷ 9 = 667" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1公里800公尺 × 7" ],
+                    [ "= 12公里 600公尺" ],
+                    [ "答 : 12公里 600公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "125公里200公尺 × 5" ],
+                    [ "= 626公里" ],
+                    [ "答 : 626公里" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9公里18公尺 = 9018公尺" ],
+                    [ "9018 ÷ 9 = 1002" ],
+                    [ "答 : 1002" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "270 ÷ 30 = 9" ],
+                    [ "答 : 9公里" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合篇",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                     
+                      {
+                        "type": "text",
+                        "value": "186公里",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "508公尺",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "B > A > C" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "B > C > A" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2030" ],
+                    [ "2", "30" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1080" ],
+                    [ "1", "80" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10255" ],
+                    [ "10", "255" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9890" ],
+                    [ "9", "890" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3570公尺 = 3公里570公尺" ],
+                    [ "3公里570公尺 + 2公里940公尺" ],
+                    [ "= 6公里510公尺" ],
+                    [ "答 : 6公里510公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2 公里 200 公尺－1 公里 730 公尺" ],
+                    [ "= 470公尺" ],
+                    [ "答 : 470公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2公里790公尺 = 2790公尺" ],
+                    [ "來回1趟\n2790 × 2 = 5580" ],
+                    [ "4趟 5580×4 = 22320" ],
+                    [ "22320公尺 = 22公里320公尺" ],
+                    [ "答 : 22公里320公尺"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

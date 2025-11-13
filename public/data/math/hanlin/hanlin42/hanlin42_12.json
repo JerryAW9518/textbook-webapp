@@ -1,0 +1,453 @@
+[
+  {
+    "title": "",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "9", "", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "13 14"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "10" ],
+                    [ "5", "30" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "莒光1車次" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1", "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "time",
+                "border" : false,
+                "extras": {
+                  "border" : false,
+                  "operator": "+",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 10,
+                      "minute": 17,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 2,
+                      "minute": 45,
+                      "second": 0
+                    }
+                  ],
+                  "number": 2,
+                  "fields": {
+                    "day": false,
+                    "hour": true,
+                    "minute": true,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "答 : 13時2分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "time",
+                "border" : false,
+                "extras": {
+                  "border" : false,
+                  "operator": "-",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 15,
+                      "minute": 0,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 1,
+                      "minute": 15,
+                      "second": 0
+                    }
+                  ],
+                  "number": 2,
+                  "fields": {
+                    "day": false,
+                    "hour": true,
+                    "minute": true,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : true,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "答 : 13時45分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0·05 x 48 = 2·4" ],
+                    [ "答 : 2·4公升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0·12 x 48 = 5·76" ],
+                    [ "答 : 5·76公斤" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0·3 - 0·05 = 0·25" ],
+                    [ "0·25 x 48 = 12" ],
+                    [ "答 : 12公斤" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "5 + 5 + 5 = 15" ],
+                    [ "15 x 10 = 150" ],
+                    [ "答 : 150平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "18 x 8 = 144" ],
+                    [ "20 - 8 = 12" ],
+                    [ "12 x 8 = 96" ],
+                    [ "144 + 96 = 240" ],
+                    [ "答 : 240平方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{4}{6}", "\\frac{8}{12}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "倫敦" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "東半球" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "下午8時" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8小時" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

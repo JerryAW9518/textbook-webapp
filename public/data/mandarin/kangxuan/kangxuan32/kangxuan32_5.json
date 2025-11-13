@@ -1,0 +1,152 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "倫", "敦", "改", "決", "員", 
+          "挖", "糾", "付", "費", "議", 
+          "建", "設", "擁", "紛", "紛", 
+          "擠", "爾", "市", "律"
+        ],
+        "zhuyin": [
+          ["ㄌㄨㄣˊ"], ["ㄉㄨㄣ"], ["ㄍㄞˇ"], ["ㄐㄩㄝˊ"], ["ㄩㄢˊ"],
+          ["ㄨㄚ"], ["ㄐㄧㄡ"], ["ㄈㄨˋ"], ["ㄈㄟˋ"], ["ㄧˋ"],
+          ["ㄐㄧㄢˋ"], ["ㄕㄜˋ"], ["ㄩㄥˇ"], ["ㄈㄣ"], ["ㄈㄣ"], 
+          ["ㄐㄧˇ"], ["ㄦˇ"], ["ㄕˋ"], ["ㄌㄩˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填入適當的詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "也"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "卻"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "如果"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "因此"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "突然"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "圈出適合的造詞，再填入句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "向下", "陷落", "向下陷落"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖完成句子，再另外造一個句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "變得乾淨又整齊的樣子了。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "經過三個月的防疫政策，疫情終於穩定下降了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文內容填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "背景",
+        "category": "vocabulary",
+        "answers": [
+          "交通"
+        ]
+      },
+      {
+        "title": "經過",
+        "category": "vocabulary",
+        "answers": [
+          "田鼠", "地下化"
+        ]
+      },
+      {
+        "title": "結果",
+        "category": "vocabulary",
+        "answers": [
+          "地鐵"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ① 改做...", "✓ ④ 推出..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  }
+]

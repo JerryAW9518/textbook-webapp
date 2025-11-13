@@ -1,0 +1,314 @@
+[
+  {
+    "title": "綜合練習(二)",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "畫法 略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "12 × 12 × 12 = 1728 " ],
+                    [ "答 : 1728立方公分 " ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3 × 2 ÷ 2 = 3" ],
+                    [ "3 × 5.5 = 16.5" ],
+                    [ "答 : 16.5立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "8 × 5 × 9 = 360" ],
+                    [ "答 : 360立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "12 ÷ 2 = 6" ],
+                    [ "10 ÷ 2 = 5" ],
+                    [ "(6 × 6 × 3.14 - 5 × 5 × 3.14)  × 15" ],
+                    [ "= (113.04 - 78.5) × 15" ],
+                    [ "= 34.54 × 15" ],
+                    [ "= 518.1" ],
+                    [ "答 : 518.1立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "20 - 12 = 8" ],
+                    [ "(20 × 20 - 8 × 8 × 3.14 × \\frac{1}{4})" ],
+                    [ " × 20" ],
+                    [ "= (400 - 50.24) × 20" ],
+                    [ "= 349.76 × 20" ],
+                    [ "= 6995.2" ],
+                    [ "答 : 6995.2立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(10 + 20) × 12 ÷ 2 × 24" ],
+                    [ "= 30 × 12 ÷ 2 × 24" ],
+                    [ "= 180 × 24" ],
+                    [ "= 4320" ],
+                    [ "答 : 4320立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "15 × 15 × 5 = 1125" ],
+                    [ "(15 × 15 + 15 × 5 + 15 × 5) × 2" ],
+                    [ "= 375 × 2" ],
+                    [ "= 750" ],
+                    [ "答 : 體積是1125立方公分，表面積是750平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "(1) =" ],
+                    [ "(2) >" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "42 × 5 = 210" ],
+                    [ "210 ÷ (49 - 42)" ],
+                    [ "= 210 ÷ 7" ],
+                    [ "= 30" ],
+                    [ "答 : 30分鐘" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "164 ÷ 2 = 82" ],
+                    [ "82 - 50 = 32" ],
+                    [ "答 : 分速32公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "71 - 28 = 43" ],
+                    [ "28 ÷ (3 - 1)" ],
+                    [ "= 28 ÷ 2 = 14" ],
+                    [ "43 - 14 = 29" ],
+                    [ "71 - 29 = 42 " ],
+                    [ "答 : 29年前，媽媽14歲，外公42歲" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "780 × 4 + 380 = 3500" ],
+                    [ "3500 ÷ 4 = 875" ],
+                    [ "答 : 875元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2 ÷ 2 = 1" ],
+                    [ "1 - 0.2 = 0.8" ],
+                    [ "1 × 1 × 3.14 × 3.2 = 10.048" ],
+                    [ "0.8 × 0.8 × 3.14 × (3.2 - 0.2)" ],
+                    [ "= 6.0288" ],
+                    [ "10.048 - 6.0288 = 4.0192" ],
+                    [ "答 : 體積 4.0192立方公尺，內部空間 6.0288立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2.3 × 4.0192 = 9.24416" ],
+                    [ "答 : 9.24416公噸" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

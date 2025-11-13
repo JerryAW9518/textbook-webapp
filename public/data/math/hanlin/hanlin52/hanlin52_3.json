@@ -1,0 +1,633 @@
+[
+  {
+    "title": "3-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "7" ],
+                    [ "4", "4" ],
+                    [ "3", "3" ],
+                    [ "84" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "84" ],
+                    [ "84" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "15 × 4 × 4 = 240" ],
+                    [ "答 : 240立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "7 × 5 × 7 = 245" ],
+                    [ "答 : 245立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "64" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "6 x 6 x 6 = 216" ],
+                    [ "答 : 216立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "7 × 7 × 7 = 343" ],
+                    [ "答 : 343立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "3-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "一個郵筒",
+                        "checked": "cross"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "包裹",
+                        "checked": "cross"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "郵務車",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "23" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "6 × 4 × 2 = 48" ],
+                    [ "答 : 48立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2 × 2 × 2 = 8" ],
+                    [ "答 : 8立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1公尺20公分 = 120公分" ],
+                    [ "120 × 35 × 5 = 21000" ],
+                    [ "答 : 21000 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "15公尺 = 1500公分" ],
+                    [ "3公尺 = 300公分" ],
+                    [ "1500 × 12 × 300 = 5400000" ],
+                    [ "答 : 5400000立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "3-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "19" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "5 × 4 × 2 = 40" ],
+                    [ "6 × 6 × 6 = 216" ],
+                    [ "40 + 216 = 256" ],
+                    [ "答 : 256立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "10 - 4 = 6" ],
+                    [ "4 × 4 × 4 = 64" ],
+                    [ "6 × 2 × 4 = 48" ],
+                    [ "64 + 48 = 112" ],
+                    [ "答 : 112立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3 + 3 = 6" ],
+                    [ "9 × 5 × 6 = 270" ],
+                    [ "9 × 5 × 3 = 135" ],
+                    [ "270 + 135 = 405" ],
+                    [ "答 : 405 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "18 × 12 × 10 = 2160" ],
+                    [ "6 × 9 × 4 = 216" ],
+                    [ "2160 - 216 = 1944" ],
+                    [ "答 : 1944 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "統整園地",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "20 × 20 × 12 = 4800" ],
+                    [ "答 : 4800立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "40 × 20 × 12 = 9600" ],
+                    [ "答 : 9600立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "40 - 20 = 20" ],
+                    [ "20 × 40 × 6 = 4800" ],
+                    [ "20 × 20 × 6 = 2400" ],
+                    [ "4800 + 2400 = 7200" ],
+                    [ "答 : 7200立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "10 × 12 × 7 = 840" ],
+                    [ "4 × 4 × 4 = 64" ],
+                    [ "840 - 64 = 776" ],
+                    [ "答 : 776立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "18 - 6 × 2 = 6" ],
+                    [ "6 × 6 × 6 = 216" ],
+                    [ "18 × 6 × 2 = 216" ],
+                    [ "216 + 216 = 432" ],
+                    [ "答 : 432立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4 × 9 × 5 = 180" ],
+                    [ "12 - 4 = 8" ],
+                    [ "9 - 6 = 3" ],
+                    [ "8 × 3 × 5 = 120" ],
+                    [ "180 + 120 = 300" ],
+                    [ "答 : 300立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "11 + 4 + 15 = 30" ],
+                    [ "30 x 10 x 15 = 4500" ],
+                    [ "4 x 4 x 15 = 240" ],
+                    [ "4500 - 240 = 4260" ],
+                    [ "答 : 4260立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

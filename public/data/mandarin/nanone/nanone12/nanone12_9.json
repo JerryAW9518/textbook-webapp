@@ -1,0 +1,103 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "早", "奶", "奶", "工", "作",
+          "樣", "學", "校", "邊", "園",
+          "她", "擦", "汗", "當", "成",
+          "寶", "貝"
+        ],
+        "zhuyin": [
+          ["ㄗㄠˇ"], ["ㄋㄞˇ"], ["˙ㄋㄞ"], ["ㄍㄨㄥ"], ["ㄗㄨㄛˋ"],
+          ["ㄧㄤˋ"], ["ㄒㄩㄝˊ"], ["ㄒㄧㄠˋ"], ["ㄅㄧㄢ"], ["ㄩㄢˊ"],
+          ["ㄊㄚ"], ["ㄘㄚ"], ["ㄏㄢˋ"], ["ㄉㄤˋ"], ["ㄔㄥˊ"],
+          ["ㄅㄠˇ"], ["ㄅㄟˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、讀一讀，並填入適當的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "您", "你", "您", "你", "您"
+        ],
+        "zhuyin": [
+          ["ㄋㄧㄣˊ"], ["ㄋㄧˇ"], ["ㄋㄧㄣˊ"], ["ㄋㄧˇ"], ["ㄋㄧㄣˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖填入適當的語詞，完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["高"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["大"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["漂亮"]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["開心"]
+      }
+    ]
+  },
+  {
+    "title": "四、依課文選出正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["2"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["3"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["1"]
+      }
+    ]
+  },
+  {
+    "title": "五、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["跳舞", "唱歌"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["看新聞", "喝茶"]
+      }
+    ]
+  }
+]

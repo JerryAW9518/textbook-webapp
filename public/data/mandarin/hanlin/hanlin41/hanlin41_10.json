@@ -1,0 +1,119 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "捕", "珊", "瑚", "隙", "撈",
+          "繽", "紛", "縫", "存"
+        ],
+        "zhuyin": [
+          ["ㄅㄨˇ"], ["ㄕㄢ"], ["ㄏㄨˊ"], ["ㄒㄧˋ"], ["ㄌㄠ"], 
+          ["ㄅㄧㄣ"], ["ㄈㄣ"], ["ㄈㄥˋ"], ["ㄘㄨㄣˊ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "稱", "礁", "積", "汙", "株",
+          "藻"
+        ],
+        "zhuyin": [
+          ["ㄔㄥ"], ["ㄐㄧㄠ"], ["ㄐㄧ"], ["ㄨ"], ["ㄓㄨ"], 
+          ["ㄗㄠˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、利用「這稱為」或「這叫做」來說明事物",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "這稱為"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "樹幹的橫切面上，有色彩深淺不一的同心環紋，這稱為「年輪」。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、縮寫句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "原因 ① ② ③", "結果 ④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "能達到乾爽的效果。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "總說",
+        "category": "vocabulary",
+        "answers": [
+          "海洋熱帶雨林"
+        ]
+      },
+      {
+        "title": "分說",
+        "category": "vocabulary",
+        "answers": [
+          "動物", "珊瑚蟲", "海洋生物", "海底世界", "過高", "白色"
+        ]
+      },
+      {
+        "title": "總結",
+        "category": "vocabulary",
+        "answers": [
+          "保護"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "總說",
+        "category": "vocabulary",
+        "answers": [
+          "刻不容緩"
+        ]
+      },
+      {
+        "title": "總結",
+        "category": "vocabulary",
+        "answers": [
+          "身體力行", "生生不息"
+        ]
+      }
+    ]
+  }
+]

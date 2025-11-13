@@ -1,0 +1,154 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "世", "界", "航", "險", "尋",
+          "古", "詩", "創", "科", "精",
+          "采", "曲", "頁", "頁", "限",
+          "任", "端", "追", "悠"
+        ],
+        "zhuyin": [
+          ["ㄕˋ"], ["ㄐㄧㄝˋ"], ["ㄏㄤˊ"], ["ㄒㄧㄢˇ"], ["ㄒㄩㄣˊ"],
+          ["ㄍㄨˇ"], ["ㄕ"], ["ㄔㄨㄤˋ"], ["ㄎㄜ"], ["ㄐㄧㄥ"],
+          ["ㄘㄞˇ"], ["ㄑㄩˇ"], ["ㄧㄝˋ"], ["ㄧㄝˋ"], ["ㄒㄧㄢˋ"],
+          ["ㄖㄣˋ"], ["ㄉㄨㄢ"], ["ㄓㄨㄟ"], ["ㄧㄡ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先拼國字，再填寫正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "待", "時", "詩", "等"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "時", "等", "待", "詩"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "(1) 森林 ➝ 欣賞", "(2) 書海 ➝ 探索", "(3) 雲端 ➝ 利用"
+        ]
+      },
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 0 ],
+              [ 2 ],
+              [ 1 ]
+            ]
+          ]
+        }
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖想一想，再作答",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "厲害", "籃球場", "跑道", "泳池", "精采"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據提示，填寫適當的點案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "白紙", "小船", "大海", "和海豚去旅行", "一個人的時候"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先聽故事，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

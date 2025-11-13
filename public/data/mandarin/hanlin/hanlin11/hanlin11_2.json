@@ -1,0 +1,129 @@
+[
+  {
+    "title": "一、寫一寫，說一說說出筆話名稱",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "橫"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "橫"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "橫"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "豎"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "橫"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先圈出相同的地方，再選出正確的國字。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "們", "停"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "和", "吹"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "special": "noNumber",
+        "answers": [
+          "們", "吹", "風", "來", "玩",
+          "跑", "大", "不", "停", "的"
+        ],
+        "zhuyin": [
+          ["˙ㄇㄣ"], ["ㄔㄨㄟ"], ["ㄈㄥ"], ["ㄌㄞˊ"], ["ㄨㄢˊ"],
+          ["ㄆㄠˇ"], ["ㄉㄚˋ"], ["ㄅㄨˋ"], ["ㄊㄧㄥˊ"], ["˙ㄉㄜ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓右圖"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓左圖"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓右圖"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、看圖寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "跑步"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "妹妹", "擦桌子"
+        ]
+      }
+    ]
+  }
+]

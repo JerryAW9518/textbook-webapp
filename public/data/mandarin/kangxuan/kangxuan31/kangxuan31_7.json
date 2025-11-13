@@ -1,0 +1,163 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "阿", "婆", "統", "蒼", "坡", "商", "鐵", "硬", "愈", "嚼", "愈", "香", "夕", "網", "燙", "憶"
+        ],
+        "zhuyin": [
+          ["ㄚ"], ["ㄆㄛˊ"], ["ㄊㄨㄥˇ"], ["ㄘㄤ"], ["ㄆㄛ"], ["ㄕㄤ"], ["ㄊㄧㄝˇ"], ["ㄧㄥˋ"], ["ㄩˋ"], ["ㄐㄧㄠˊ"], ["ㄩˋ"], ["ㄒㄧㄤ"], ["ㄒㄧˋ"], ["ㄨㄤˇ"], ["ㄉㄤˋ"], ["ㄧˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "④", "①", "②", "③"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、讀一讀，再填入正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "坡", "波"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "蒼", "蒼", "倉"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "夕", "多"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填入適當的詞語，再造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "搖盪", "小孩坐在搖椅上，開心地搖盪著，享受著微風吹過的舒服感。"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "回憶", "我們在沙灘上度過的美好時光成為了珍貴的回憶，每次想起都讓人心情愉悅。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ③", "✓ ④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "(1) 老街", "(2) 紅毛城"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : false,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③", "①", "②"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "猴", "祕", "條", "坑", "挖",
+          "辦", "吸", "鼻", "久", "之",
+          "猴", "模", "惜", "其", "度",
+          "探", "病", "無", "兔", "請",
+          "體"
+        ],
+        "zhuyin": [
+          ["ㄏㄡˊ"], ["ㄇㄧˋ"], ["ㄊㄧㄠˊ"], ["ㄎㄥ"], ["ㄨㄚ"],
+          ["ㄅㄢˋ"], ["ㄒㄧ"], ["ㄅㄧˊ"], ["ㄐㄧㄡˇ"], ["ㄓ"],
+          ["ㄏㄡˊ"], ["ㄇㄛˊ"], ["ㄒㄧˊ"], ["ㄑㄧˊ"], ["ㄉㄨˋ"],
+          ["ㄊㄢˋ"], ["ㄅㄧㄥˋ"], ["ㄨˊ"], ["ㄊㄨˋ"], ["ㄑㄧㄥˇ"],
+          ["ㄊㄧˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "找一找，寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "昔"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1", "3", "2", "4"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再作答",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "1",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      }, 
+      {
+      	"title": "2",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "同學們", "水壺"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "除了如真背著背包，同學們都背著水壺"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先聽故事，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 小兔子"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 車身摔壞了"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 小熊"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 小兔子不理他"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  }
+]

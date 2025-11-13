@@ -1,0 +1,184 @@
+[
+  {
+    "title": "一、用色筆先寫出每個字的橫筆，再勾選出",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "1",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+      	"title": "2",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+      	"title": "3",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+      	"title": "4",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+      	"title": "5",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "二、寫出正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "推"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "站"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "忙"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "陽", "光", "毛", "毛", "蟲",
+          "站", "葉", "船", "面", "中", "兒",
+          "青", "蛙", "游", "幫", "忙",
+          "推", "拉", "邊"
+        ],
+        "zhuyin": [
+          ["ㄧㄤˊ"],["ㄍㄨㄤ"], ["ㄇㄠˊ"], ["ㄇㄠˊ"], ["ㄔㄨㄥˊ"],
+          ["ㄓㄢˋ"], ["ㄧㄝˋ"], ["ㄔㄨㄢˊ"], ["ㄇㄧㄢˋ"], ["ㄓㄨㄥ"], ["ㄦ"],
+          ["ㄑㄧㄥ"], ["ㄨㄚ"], ["ㄧㄡˊ"], ["ㄅㄤ"], ["ㄇㄤˊ"],
+          ["ㄊㄨㄟ"], ["ㄌㄚ"], ["ㄅㄧㄢ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、依課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 大家來幫忙"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 著急 ➝ 開心"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "大葉子"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、重組句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "我們只能坐在教室裡"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "要送給妹妹什麼禮物呢"
+        ]
+      }
+    ]
+  }
+]

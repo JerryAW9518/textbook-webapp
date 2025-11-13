@@ -1,0 +1,550 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "合起來是多少",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "合起來是多少",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "6+2=8"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "4+5=9"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "2+3=5"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "4+2=6"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1 + 6 = 7" ],
+                    [ "7顆" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3 + 5 = 8" ],
+                    [ "8隻" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7 + 2 = 9" ],
+                    [ "9個" ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2 + 6 = 8" ],
+                    [ "8袋" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3 + 4 = 7" ],
+                    [ "7袋" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5 + 4 = 9" ],
+                    [ "9袋" ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "0的加法",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3 + 0 = 3" ],
+                    [ "3個" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "0 + 4 = 4" ],
+                    [ "4個" ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      
+      },
+      {
+        "title": "2",
+        "subtitle": "算算看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6" ]
+                  ]
+                }
+              }
+            ]
+          }
+          
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "加加看",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4 + 4 = 8" ],
+                    [ "8個" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3 + 3 = 6" ],
+                    [ "6張" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2 + 2 = 4" ],
+                    [ "4顆" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4 + 6 = 10" ],
+                    [ "10個" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7 + 3 = 10" ],
+                    [ "10頁" ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      
+      },
+      {
+        "title": "2",
+        "subtitle": "算算看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10" ]
+                  ]
+                }
+              }
+            ]
+          }
+          
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "算算看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "7",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "8",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9" ]
+                  ]
+                }
+              }
+            ]
+          }
+          
+        ]
+      }
+    ]
+  }
+]

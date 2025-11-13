@@ -1,0 +1,198 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "噴", "嚏", "弱", "織", "絡",
+          "鄰", "競", "穩", "逆", "疲",
+          "圈", "抗", "碌", "盎"
+        ],
+        "zhuyin": [
+          ["ㄆㄣ"], ["ㄊㄧˋ"], ["ㄖㄨㄛˋ"], ["ㄓ"], ["ㄌㄨㄛˋ"],
+          ["ㄌㄧㄣˊ"], ["ㄐㄧㄥˋ"], ["ㄨㄣˇ"], ["ㄋㄧˋ"], ["ㄆㄧˊ"],
+          ["ㄑㄩㄢ"], ["ㄎㄤˋ"], ["ㄌㄨˋ"], ["ㄤˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先寫注音，再將正確的國字填入短文中。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "憐", "鄰", "鱗"
+        ],
+        "zhuyin": [
+          ["ㄌㄧㄢˊ"], ["ㄌㄧㄣˊ"], ["ㄌㄧㄣˊ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "鄰", "鱗", "憐"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "織", "職", "幟"
+        ],
+        "zhuyin": [
+          ["ㄓ"], ["ㄓˊ"], ["ㄓˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "職", "織", "幟"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、先找出和 意思相近的詞語，填入空格中，再另外造句。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "精疲力盡", "跑完操場十圈後，我精疲力盡，連說話的力氣都沒有了。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "好逸惡勞", "他總是選擇好逸惡勞，寧願躺在沙發上看電視，也不願出去運動。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "磨練", "這項挑戰將是他的一次成長機會，透過磨練他將變得更加堅韌和成熟。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據提示，整理故事的要點與觀點。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1\n(1)逆境",
+        "category": "vocabulary",
+        "answers": [
+          "氣流", "強風"
+        ]
+      },
+      {
+        "title": "1\n(1)結果",
+        "category": "vocabulary",
+        "answers": [
+          "更高", "更遠"
+        ]
+      },
+      {
+        "title": "1\n(2)",
+        "category": "vocabulary",
+        "answers": [
+          "逆境", "意志"
+        ]
+      },
+      {
+        "title": "2\n(1) 逆境",
+        "category": "vocabulary",
+        "answers": [
+          "脆弱"
+        ]
+      },
+      {
+        "title": "2\n(1) 結果",
+        "category": "vocabulary",
+        "answers": [
+          "整面網都織好"
+        ]
+      },
+      {
+        "title": "2\n(2)",
+        "category": "vocabulary",
+        "answers": [
+          "堅持到底"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文、回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ②", "✓ ④"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、聆聽故事、再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ④"
+        ]
+      }
+    ]
+  }
+]

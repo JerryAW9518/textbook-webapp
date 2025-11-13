@@ -1,0 +1,123 @@
+[
+  {
+    "title": "一、寫出正確的筆畫順序。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "由左至右分別為1 2 3"
+        ] 
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "由上至下分別為1 3 2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "由上至下分別為1 2 3"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先圈出相同的地方，再連一連。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "言", "言", "言", "➝ 言"
+        ] 
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "亻", "亻", "亻", "➝ 人"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "子", "低", "空", "田", "是", "誰", 
+          "說", "早", "秋", "千",
+           "找", "陪", "他"
+        ],
+        "zhuyin": [
+          ["˙ㄗ"], ["ㄉㄧ"], ["ㄎㄨㄥ"], ["ㄊㄧㄢˊ"], ["ㄕˋ"], ["ㄕㄟˊ"],
+          ["ㄕㄨㄛ"], ["ㄗㄠˇ"], ["ㄑㄧㄡ"], ["ㄑㄧㄢ"],
+          ["ㄓㄠˇ"], ["ㄆㄟˊ"], ["ㄊㄚ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 秋千"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、寫出句子裡的「你」、「他」是誰？",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "你是指",
+        "category": "vocabulary",
+        "answers": [
+          "小彩"
+        ] 
+      },
+      {
+        "title": "我是指",
+        "category": "vocabulary",
+        "answers": [
+          "小千"
+        ]
+      },
+      {
+        "title": "他是指",
+        "category": "vocabulary",
+        "answers": [
+          "小星"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一下子", "一下子"
+        ] 
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "一下子", "哭", "一下子", "笑"
+        ]
+      }
+    ]
+  }
+]

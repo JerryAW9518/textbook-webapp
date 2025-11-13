@@ -1,0 +1,526 @@
+[
+  {
+    "title": "4-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+           "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+           "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+           "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+           "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "三",
+        "subtitle": "",
+        "question": [
+          {
+           "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "四",
+        "subtitle": "",
+        "question": [
+          {
+           "title": "",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "五",
+        "subtitle": "",
+        "question": [
+          {
+           "title": "",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option2",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "六",
+        "subtitle": "",
+        "question": [
+          {
+           "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+           "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+           "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "乙" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+           "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1" ]
+                  ]
+                }
+              }
+            ]
+          }
+          
+        ]
+      }
+    ]
+  }
+]

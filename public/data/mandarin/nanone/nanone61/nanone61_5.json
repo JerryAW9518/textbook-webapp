@@ -1,0 +1,156 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "援", "攝", "副", "迅", "避",
+          "檔", "註", "承", "載", "監"
+        ],
+        "zhuyin": [
+          ["ㄩㄢˊ"], ["ㄕㄜˋ"], ["ㄈㄨˋ"], ["ㄒㄩㄣˋ"], ["ㄅㄧˋ"],
+          ["ㄉㄤˇ"], ["ㄓㄨˋ"], ["ㄔㄥˊ"], ["ㄗㄞˋ"], ["ㄐㄧㄢ"],
+          [""], [""], [""]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 讀稿機不是萬能，如果發生故障，需要主播隨機應對", "✓ 讀稿機放在鏡頭前下方，主播看向鏡頭就能讀到文字"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文內容完成表格",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "右上空格",
+        "category": "vocabulary",
+        "answers": [
+          "為什麼表演者要戴耳機？"
+        ]
+      },
+      {
+        "title": "右下空格",
+        "category": "vocabulary",
+        "answers": [
+          "1.伴奏", "2.自己的聲音", "3.阻絕現場噪音"
+        ]
+      },
+      {
+        "title": "中下空格",
+        "category": "vocabulary",
+        "answers": [
+          "消防衣", "2.主要防止有毒液體腐蝕", "3.能隔絕肌膚接觸高溫"
+        ]
+      },
+      {
+        "title": "左上空格",
+        "category": "vocabulary",
+        "answers": [
+          "為什麼拍電影需要打板？"
+        ]
+      },
+      {
+        "title": "左下空格",
+        "category": "vocabulary",
+        "answers": [
+          "準確、有效率的將影音同步"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、連連看",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 3,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"4", "3", "2", "1"
+          	],
+          	[
+            	"", "", "", ""
+          	],
+          	[
+            	"", "", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 3 ],
+          		[ 0 ],
+          		[ 2 ],
+          		[ 1 ]
+        		],
+        		[
+          		[ 0 ],
+          		[ 3],
+          		[ 1 ],
+          		[ 2 ]
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "四、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "B"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 家庭主婦..."
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "需要處理多項任務，包括做飯、打掃家務、安排孩子的教育和活動，以及照顧家庭成員的身心健康。這些職責涉及多種技能，並且需要高度的管理和組織能力。"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "這篇文章以問句開頭，作者想要引發讀者的思考與共鳴。透過提出一個具有挑戰性的問題，作者吸引讀者的注意，並讓他們對接下來的內容感到好奇。這種寫作手法能有效地引導讀者進一步思考這份工作的重要性和困難度，從而更容易理解和接受作者後續的觀點。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

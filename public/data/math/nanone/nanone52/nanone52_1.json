@@ -1,0 +1,1277 @@
+[
+  {
+    "title": "1-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{4}{5}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{8}{3}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{7}{13}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "畫法 略" ],
+                    [ "3÷4＝\\frac{3}{4}" ],
+                    [ "答 : \\frac{3}{4}個"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "3 ÷ 5 = \\frac{3}{5}" ],
+                    [ "答 : \\frac{3}{5}個"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", "", "", ""
+                    ],
+                    [
+                      "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 1 ],
+                      [ 0 ],
+                      [ 1 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "7 ÷ 5 = \\frac{7}{5}" ],
+                    [ "= 1\\frac{2}{5}" ],
+                    [ "答 : 1\\frac{2}{5}公斤"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "9 ÷ 2 = \\frac{9}{2}" ],
+                    [ "= 4\\frac{1}{2}" ],
+                    [ "答 : 4\\frac{1}{2}瓶"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "1小時 = 60分鐘" ],
+                    [ "30 ÷ 60 = \\frac{30}{60}" ],
+                    [ "= \\frac{1}{2}" ],
+                    [ "答 : \\frac{1}{2}小時"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "1-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "= \\frac{15}{8}" ],
+                    [ "= 1\\frac{7}{8}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "= \\frac{12 × 3}{7}" ],
+                    [ "= \\frac{36}{7}" ],
+                    [ "= 5\\frac{1}{7}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "= 9 × \\frac{3}{4}" ],
+                    [ "= \\frac{9 × 3}{4}" ],
+                    [ "= \\frac{27}{4}" ],
+                    [ "= 6\\frac{3}{4}" ],
+                    [ "答 : 6\\frac{3}{4}公尺"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "110 × \\frac{1}{8}" ],
+                    [ "= \\frac{110}{8}" ],
+                    [ "= 13\\frac{6}{8}" ],
+                    [ "答 : 13\\frac{6}{8}公升"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(1)" ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "16 × \\frac{5}{6}" ],
+                    [ "= \\frac{18 × 5}{6}" ],
+                    [ "= 15" ],
+                    [ "答 : 15個"]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(2)" ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "18 × \\frac{7}{3}" ],
+                    [ "= \\frac{18 × 7}{3}" ],
+                    [ "= 42" ],
+                    [ "答 : 42個"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "2\\frac{3}{4} × 9" ],
+                    [ "= \\frac{11}{4} × 9" ],
+                    [ "= \\frac{99}{4} = 24\\frac{3}{4}"],
+                    [ "9 × 2\\frac{3}{4}" ],
+                    [ "= 9 × \\frac{11}{4} " ],
+                    [ "= \\frac{99}{4} = 24\\frac{3}{4}" ],
+                    [ "答：一樣大" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "10 × 10\\frac{2}{5}" ],
+                    [ "=10 × \\frac{52}{5}" ],
+                    [ "= 104"],
+                    [ "答 : 104公升"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "6 × 5\\frac{7}{10}" ],
+                    [ "= 6 × \\frac{57}{10}" ],
+                    [ "= \\frac{171}{5}" ],
+                    [ "= 34\\frac{1}{5}" ],
+                    [ "答 : 34\\frac{1}{5}公斤" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "1-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "2", "3" ],
+                    [ "\\frac{1}{6}", "\\frac{1}{6}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "3" ],
+                    [ "2", "5" ],
+                    [ "\\frac{3}{10}", "\\frac{3}{10}"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{1}{3} × \\frac{4}{5} = \\frac{1×4}{3×5}=\\frac{4}{15}" ],
+                    [ "\\frac{4}{15}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{2}{5} × \\frac{2}{3}" ],
+                    [ "=\\frac{2×2}{5×3}" ],
+                    [ "=\\frac{4}{15}" ],
+                    [ "答 : \\frac{4}{15}塊"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{5}{7}×\\frac{3}{4}" ],
+                    [ "=\\frac{5×3}{7×4}" ],
+                    [ "=\\frac{15}{28}" ],
+                    [ "答 : \\frac{15}{28}張" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=\\frac{3×4}{7×5}" ],
+                    [ "=\\frac{12}{35}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=\\frac{7×7}{10×9}" ],
+                    [ "=\\frac{49}{90}"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=\\frac{5×3}{4×7}" ],
+                    [ "=\\frac{15}{28}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{19}{8} × \\frac{4}{5}" ],
+                    [ "=\\frac{19}{10} = 1\\frac{9}{10}" ],
+                    [ "答 : 1\\frac{9}{10}平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "1\\frac{1}{5}×\\frac{1}{3}" ],
+                    [ "=\\frac{6}{5}×\\frac{1}{3}" ],
+                    [ "=\\frac{2}{5}" ],
+                    [ "答 : \\frac{2}{5}個"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{7}{5}×7\\frac{1}{2}" ],
+                    [ "=\\frac{7}{5} × \\frac{15}{2}" ],
+                    [ "=\\frac{21}{2}" ],
+                    [ "=10\\frac{1}{2}" ],
+                    [ "答 : 10\\frac{1}{2}公尺"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "5\\frac{1}{4}×1\\frac{5}{7}" ],
+                    [ "=\\frac{21}{4} × \\frac{12}{7}" ],
+                    [ "= 9" ],
+                    [ "答 : 9" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "1-4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "cross"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "木雕熊" ],
+                    [ "2\\frac{1}{2}×2\\frac{1}{2}" ],
+                    [ "=\\frac{2}{5}×\\frac{3}{2}" ],
+                    [ "=\\frac{15}{4} = 3\\frac{3}{4}"],
+                    [ "木雕貓" ],
+                    [ "2\\frac{1}{2} × \\frac{4}{5}" ],
+                    [ "=\\frac{5}{2} × \\frac{4}{5} = 2" ],
+                    [ "3\\frac{3}{4} > 2\\frac{1}{2} > 2"],
+                    [ "答：木雕熊最重，木雕貓最輕" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "1-5",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{1}{3} ÷ 4" ],
+                    [ "=\\frac{1}{3×4}" ],
+                    [ "=\\frac{1}{12}"],
+                    [ "答 : \\frac{1}{12}盒"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{9}{10} ÷ 3" ],
+                    [ "=\\frac{9}{10} × \\frac{1}{3}" ],
+                    [ "= \\frac{3}{10}" ],
+                    [ "答 : \\frac{3}{10}公尺"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=\\frac{6}{11}×\\frac{1}{5}" ],
+                    [ "=\\frac{6}{55}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=\\frac{17}{6}×\\frac{1}{6}" ],
+                    [ "=\\frac{17}{36}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=\\frac{21}{8}×\\frac{1}{5}" ],
+                    [ "=\\frac{21}{40}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "5\\frac{1}{2} ÷ 4" ],
+                    [ "=\\frac{11}{2} ÷ 4" ],
+                    [ "=\\frac{11}{8}" ],
+                    [ "=1\\frac{3}{8}" ],
+                    [ "答 : 1\\frac{3}{8}公尺"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "3\\frac{2}{5} ÷ 5" ],
+                    [ "=\\frac{17}{5} ÷ 5" ],
+                    [ "=\\frac{17}{25}"],
+                    [ "答 : \\frac{17}{25}公尺"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "(1)" ],
+                    [ "6 ÷ 8 = \\frac{6}{8}" ],
+                    [ "答 :\\frac{6}{8}公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "(2)" ],
+                    [ "\\frac{6}{8} ÷ 10 = \\frac{6}{80}" ],
+                    [ "答 :\\frac{6}{80}公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合篇",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{5}{6}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "1\\frac{1}{3}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=\\frac{8×2}{15×7}" ],
+                    [ "=\\frac{16}{105}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=\\frac{21}{8} × \\frac{1}{3}" ],
+                    [ "=\\frac{7}{8}"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=20 × \\frac{21}{16}" ],
+                    [ "=\\frac{105}{4}" ],
+                    [ "=26\\frac{1}{4}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=\\frac{14}{13} × \\frac{26}{7}" ],
+                    [ "=4" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", "", "", ""
+                    ],
+                    [
+                      "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 0 ],
+                      [ 0 ],
+                      [ 1 ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "3\\frac{3}{10} ÷ 11" ],
+                    [ "=\\frac{33}{10} × \\frac{1}{11}" ],
+                    [ "=\\frac{3}{10}" ],
+                    [ "答 : \\frac{3}{10}公斤"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "140 × \\frac{9}{20}" ],
+                    [ "=63"],
+                    [ "答 : 63平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "1小時 = 60分鐘" ],
+                    [ "60 × \\frac{1}{2} = 30" ],
+                    [ "3\\frac{3}{4} × 30" ],
+                    [ "= \\frac{15}{4} × 30"],
+                    [ "= \\frac{225}{2}" ],
+                    [ "= 112\\frac{1}{2}" ],
+                    [ "答 : 112\\frac{1}{2}公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

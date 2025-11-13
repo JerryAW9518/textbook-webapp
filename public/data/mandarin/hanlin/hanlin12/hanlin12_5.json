@@ -1,0 +1,147 @@
+[
+  {
+    "title": "一、填入適當的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "跳"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "外"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "停"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "麻"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "才"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "在"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "再"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "在", "再"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "但", "急", "找", "才", "可", "以"
+        ],
+        "zhuyin": [
+          ["ㄉㄢˋ"], ["ㄐㄧˊ"], ["ㄓㄠˇ"], ["ㄘㄞˊ"], ["ㄎㄜˇ"], ["ㄧˇ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "課", "字", "先", "跳", "再", 
+          "窗", "外", "麻", "雀", "遊",
+          "戲"
+        ],
+        "zhuyin": [
+          ["ㄎㄜˋ"], ["ㄗˋ"], ["ㄒㄧㄢ"], ["ㄊㄧㄠˋ"], ["ㄗㄞˋ"],
+          ["ㄔㄨㄤ"], ["ㄨㄞˋ"], ["ㄇㄚˊ"], ["ㄑㄩㄝˋ"], ["ㄧㄡˊ"],
+          ["ㄒㄧˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "3", "1", "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "唱", "彈"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "冰", "甜"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "吃飽飯", "幫你找洋娃娃"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "吵", "寫完功課", "帶你去散步"
+        ]
+      }
+    ]
+  }
+]

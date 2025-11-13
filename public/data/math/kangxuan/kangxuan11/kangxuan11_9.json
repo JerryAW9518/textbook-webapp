@@ -1,0 +1,523 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "時間的先後和長短",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "用算式記記看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "2",
+                      "3",
+                      "1"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "3",
+                      "1",
+                      "2"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "0的加法",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "看鐘面回答問題。",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3", "4", "6", "7", "8", "10", "12" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "長針塗藍 指向12點" ],
+                    [ "短針塗紅 指向8點" ]
+                  ]
+                }
+              }
+            ]
+          },
+        
+        {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      }
+                    
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "加加看",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [
+                      "10"
+                    ],
+                    [
+                      "12"
+                    ],
+                    [
+                      "10點鐘"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [
+                      "12"
+                    ],
+                    [
+                      "12"
+                    ],
+                    [
+                      "12點鐘"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [
+                      "3"
+                    ],
+                    [
+                      "12"
+                    ],
+                    [
+                      "3點鐘"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [
+                      "4"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "是幾點鐘?連連看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 3,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "6點",
+                      "11點",
+                      "2點",
+                      "9點",
+                      "12點",
+                      "8點"
+                    ],
+                    [
+                      "", "", ""
+
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 2 ],
+                      [ 3 ],
+                      [ 4 ]
+                    ],
+                    [
+                      [ 1 ],
+                      [ 0 ],
+                      [  ],
+                      [  ],
+                      [  ],
+                      [ 2 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動4",
+    "subtitle": "幾點半",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [
+                      "5", "6"
+                    ],
+                    [
+                      "6"
+                    ],
+                    [
+                      "5"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [
+                      "6"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [
+                      "6", "7"
+                    ],
+                    [
+                      "6"
+                    ],
+                    [
+                      "6"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "把對應的鐘面連起來",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "",
+                      "",
+                      ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 0 ],
+                      [ 2 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "把對應的鐘面連起來",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "上午 11 點半", "2" ],
+                    [ "下午 4 點半", "4" ],
+                    [ "上午 7 點半", "1" ],
+                    [ "下午 1 點半", "3" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

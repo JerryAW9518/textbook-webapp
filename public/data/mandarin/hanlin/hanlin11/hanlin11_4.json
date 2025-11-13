@@ -1,0 +1,146 @@
+[
+  {
+    "title": "一、寫一寫，說一說",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一", "橫"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "丨", "豎"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "一", "橫"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "丨", "豎"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "丨", "豎"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、再圈出適當的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "大", "小"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "少", "多"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "左", "右"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "太", "陽", "了", "請", "問", 
+          "去", "哪", "高", "天", "星", 
+          "星", "有", "多", "少", "草", 
+          "水", "珠"
+        ],
+        "zhuyin": [
+          ["ㄊㄞˋ"], ["ㄧㄤˊ"], ["˙ㄌㄜ"], ["ㄑㄧㄥˇ"], ["ㄨㄣˋ"],
+          ["ㄑㄩˋ"], ["ㄋㄚˇ"], ["ㄍㄠ"], ["ㄊㄧㄢ"], ["ㄒㄧㄥ"],
+          ["˙ㄒㄧㄥ"], ["ㄧㄡˇ"], ["ㄉㄨㄛ"], ["ㄕㄠˇ"], ["ㄘㄠˇ"],
+          ["ㄕㄨㄟˇ"],["ㄓㄨ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "星星"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、加上請問，有禮貌問問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "請問"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "同學，請問你的生日是那一天呢?"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、練習寫句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "有多"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "長"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "有多", "深"
+        ]
+      }
+    ]
+  }
+]

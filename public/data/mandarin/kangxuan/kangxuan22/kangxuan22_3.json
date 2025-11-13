@@ -1,0 +1,125 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "各", "被", "強", "壞", "舌",
+          "漸", "果", "突", "定", "互",
+          "換", "座", "欣", "賞", "表",
+          "對", "融", "共", "此", "特"
+        ],
+        "zhuyin": [
+          ["ㄍㄜˋ"], ["ㄅㄟˋ"], ["ㄑㄧㄤˊ"], ["ㄏㄨㄞˋ"], ["ㄕㄜˊ"],
+          ["ㄐㄧㄢˋ"], ["ㄍㄨㄛˇ"], ["ㄊㄨˊ"], ["ㄉㄧㄥˋ"], ["ㄏㄨˋ"],
+          ["ㄏㄨㄢˋ"], ["ㄗㄨㄛˋ"], ["ㄒㄧㄣ"], ["ㄕㄤˇ"], ["ㄅㄧㄠˇ"],
+          ["ㄉㄨㄟˋ"], ["ㄖㄨㄥˊ"], ["ㄍㄨㄥˋ"], ["ㄘˇ"], ["ㄊㄜˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "圈出正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "座", "坐"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "突", "空"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "比", "此"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填入適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "熱情", "笑咪咪", "沉著冷靜", "強風", "種子", "彩色王國"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "換句話說",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "水果", "妹妹"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "小狗", "哥哥"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "果醬被我吃完了。"
+        ]
+      }
+    ]
+  }
+]

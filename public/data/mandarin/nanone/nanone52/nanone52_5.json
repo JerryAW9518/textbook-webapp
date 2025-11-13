@@ -1,0 +1,150 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "尷", "尬", "隨", "啞", "倘",
+          "若", "免", "距", "鋒", "默"
+        ],
+        "zhuyin": [
+          ["ㄍㄢ"], ["ㄍㄚˋ"], ["ㄙㄨㄟˊ"], ["ㄧㄚˇ"], ["ㄊㄤˇ"],
+          ["ㄖㄨㄛˋ"], ["ㄇㄧㄢˇ"], ["ㄐㄩˋ"], ["ㄈㄥ"], ["ㄇㄛˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、填入適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "論點",
+        "category": "vocabulary",
+        "answers": [
+          "必須心懷善意，好好說，說好話才是最高明的說話術。"
+        ]
+      },
+      {
+        "title": "論據",
+        "category": "vocabulary",
+        "answers": [
+          "正例", "(1) 他以溫和幽默的話代替指責", "(2) 用善意體貼的言語"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "反例", "新聞及網路社群", "帶有惡意的言論", "令人心情不快的禍源"
+        ]
+      },
+      {
+        "title": "結論",
+        "category": "vocabulary",
+        "answers": [
+          "理性柔和的態度", "為人著想的好話", "祥和美好"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、換個方式說話",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "抱歉！剛才走過去的時候沒注意到，我幫你撿起來。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、句型練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "在學校，我們可以選擇在圖書館安靜閱讀，也可以選擇到體育館運動鍛煉身體。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、連出正確的意思",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 2 ],
+              [ 0 ],
+              [ 1 ]
+            ]
+          ]
+        }
+      }     
+    ]
+  },
+  {
+    "title": "六、讀完文章，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①", "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "高明的說話術是能夠清晰表達觀點、尊重他人、考慮周全並善於聆聽的能力。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "七、寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

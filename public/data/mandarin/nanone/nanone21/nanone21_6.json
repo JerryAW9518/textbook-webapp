@@ -1,0 +1,140 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "沙", "灘", "對", "牠", "塑",
+          "膠", "自", "己", "便", "減",
+          "少", "該", "撿", "垃", "圾"
+        ],
+        "zhuyin": [
+          ["ㄕㄚ"], ["ㄊㄢ"], ["ㄉㄨㄟˋ"], ["ㄊㄚ"], ["ㄙㄨˋ"],
+          ["ㄐㄧㄠ"], ["ㄗˋ"], ["ㄐㄧˇ"], ["ㄅㄧㄢˋ"], ["ㄐㄧㄢˇ"],
+          ["ㄕㄠˇ"], ["ㄍㄞ"], ["ㄐㄧㄢˇ"], ["ㄌㄜˋ"], ["ㄙㄜˋ"]
+        ]
+      },
+      {
+        "title": "動動腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 撿垃圾"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先連一連，將字組合成詞語",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"開", "安", "如"
+          	],
+          	[
+            	"全", "果", "始"
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 2 ],
+          		[ 0 ],
+          		[ 1 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "開始"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "安全"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "如果"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖照樣寫短語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "長長短短"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "高高低低", "樹木"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "如果我有帶水，現在就不會這麼渴了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      }
+    ]
+  }
+]

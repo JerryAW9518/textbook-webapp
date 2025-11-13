@@ -1,0 +1,1025 @@
+[
+  {
+    "title": "3-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "cross"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄇ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄆ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "畫法 略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "3-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "cross"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄅ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄆ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "畫法 略" ],
+                    [ "4 公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "畫法 略" ],
+                    [ "3 公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "畫法 略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "3-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "cross"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "cross"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3×4＝12" ],
+                    [ "答：12公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "cross"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "cross"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "cross"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "畫法 略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "畫法 略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "統整園地",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄇ", "ㄈ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄅ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄇ", "ㄈ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "甲" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1, 2 ],
+                      [ 0 ],
+                      [ 0 ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "左",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "右",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "左",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "右",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

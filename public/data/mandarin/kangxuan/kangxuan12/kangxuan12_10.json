@@ -1,0 +1,148 @@
+[
+  {
+    "title": "部首真有趣",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "箭", "竹", "籃", "筆", "筒"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "每", "風", "箏", "跳", "件", "趣",
+          "事", "情",  "線", "風",
+          "箏", "地", "跑", "笑", "升",
+          "化", "神", "奇"
+        ],
+        "zhuyin": [
+          ["ㄇㄟˇ"], ["ㄈㄥ"], ["ㄓㄥ"], ["ㄊㄧㄠˋ"], ["ㄐㄧㄢˋ"], ["ㄑㄩˋ"],
+          ["ㄕˋ"], ["ㄑㄧㄥˊ"],  ["ㄒㄧㄢˋ"], ["ㄈㄥ"],
+          ["ㄓㄥ"], ["ㄉㄧˋ"], ["ㄆㄠˇ"], ["ㄒㄧㄠˋ"], ["ㄕㄥ"],
+          ["ㄏㄨㄚˋ"], ["ㄕㄣˊ"], ["ㄑㄧˊ"]
+        ]
+      },
+      {
+      	"title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "讀一讀，填寫正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3", "5", "4", "2", "1"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再圈出正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["歡喜"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["喜歡"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["歡喜"]
+      }
+    ]
+  },
+  {
+    "title": "填入適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "吃吃喝喝"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "唱唱跳跳"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③看書"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②嘩啦嘩啦"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

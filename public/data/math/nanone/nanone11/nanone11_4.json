@@ -1,0 +1,388 @@
+[
+  {
+    "title": "4-1",
+    "subtitle": "10以內的序數",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "兔子", "豬", "猴子", "狐狸", "長頸鹿"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "○"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      
+      },
+      {
+      
+        "title": "三",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "第8個" ],
+                    [ "有3個" ],
+                    [ "有4個" ]
+                    
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "第4個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "四",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "○○○○○" ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "", "", "", "○", "", "", "", "", ""
+                    ]
+                  ]
+                }
+              }  
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "", "", "", "", "", "", "", "○", ""
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "○○○○○○○○○" ]
+                  ]
+                }
+              } 
+            ]
+          }
+        ]
+      
+      }
+    ]
+  },
+  {
+    "title": "4-2",
+    "subtitle": "合起來",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "○"
+                    ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", ""
+                    ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", ""
+                    ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", ""
+                    ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", "○", "○", "○", "○", "○", "", "", "", ""
+                    ],
+                     [
+                      "○", "○", "○", "○", "", "", "", "", "", ""
+                    ]
+                  ]
+                
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", ""
+                    ]
+                  ]
+                } 
+              }      
+            ]
+          }
+        ]
+      },
+      {
+        "title": "三",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", "○", "○", "○", "○", "○", "○", "", "", ""
+                    ],
+                    [
+                      "○", "○", "○", "○", "○", "○", "○", "○", "○", ""
+                    ]
+                  ]
+                }
+                
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+      
+        "title": "四",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "✓"
+                    ],
+                    [
+                      "7", "6"
+                    ]
+                  ]
+                }
+                
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "✓", ""
+                    ],
+                    [
+                      "5", "8"
+                    ]
+                  ]
+                }
+                
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "五",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "9隻", "10隻"
+                    ],
+                    [
+                      "", "✓"
+                    ]
+                  ]
+                }
+                
+              }
+            ]
+          }
+        ]
+      
+      
+      }
+    ]
+  }]

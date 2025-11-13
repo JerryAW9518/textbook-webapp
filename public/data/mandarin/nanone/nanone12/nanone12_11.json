@@ -1,0 +1,153 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "鴨", "拉", "池", "塘", "星",
+          "星", "告", "訴", "面", "波",
+          "紋", "許", "圈", "怪", "見"
+        ],
+        "zhuyin": [
+          ["ㄧㄚ"], ["ㄌㄚ"], ["ㄔˊ"], ["ㄊㄤˊ"], ["ㄒㄧㄥ"],
+          ["˙ㄒㄧㄥ"], ["ㄍㄠˋ"], ["ㄙㄨˋ"], ["ㄇㄧㄢˋ"], ["ㄅㄛ"],
+          ["ㄨㄣˊ"], ["ㄒㄩˇ"], ["ㄑㄩㄢ"], ["ㄍㄨㄞˋ"], ["ㄐㄧㄢˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "甜圈圈"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先寫出相同的地方，再造詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "氵", "波浪", "池塘"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "日", "星星", "早安"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、我會照樣寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一陣陣", "微風"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "一顆顆", "彈珠"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、連一連",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 我問媽媽..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 剛買的..."
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 我看著..."
+        ]
+      },
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 0 ],
+              [ 2 ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "五、將圖片填上順序",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      }
+    ]
+  }
+]

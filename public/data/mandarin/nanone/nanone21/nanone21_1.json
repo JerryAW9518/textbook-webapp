@@ -1,0 +1,167 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "雲", "又", "吸", "用", "力",
+          "噴", "哇", "白", "前", "游",
+          "擠", "第"
+        ],
+        "zhuyin": [
+          ["ㄩㄣˊ"], ["ㄧㄡˋ"], ["ㄒㄧ"], ["ㄩㄥˋ"], ["ㄌㄧˋ"],
+          ["ㄆㄣ"], ["ㄨㄚ"], ["ㄅㄞˊ"], ["ㄑㄧㄢˊ"], ["ㄧㄡˊ"],
+          ["ㄐㄧˇ"], ["ㄉㄧˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 雲兒"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出「口」部的字。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "吸"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "噴"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "告"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "呼"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、找一找，寫一寫，再造詞。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "柔弱", "水柱"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "言", "試驗", "許久"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "力", "功課", "加強"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "雨", "雲朵", "電燈"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖照樣造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "右", "看"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "我", "猴子", "上", "爬"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : false,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "白天。 從課文中 ＂哇!好亮唷＂ 可以知道是白天。"
+        ]
+      }
+    ]
+  }
+]

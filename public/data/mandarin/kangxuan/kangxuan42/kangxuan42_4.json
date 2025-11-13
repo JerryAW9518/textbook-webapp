@@ -1,0 +1,184 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "推", "稻", "米", "陳", "艾",  
+          "粿", "蘿", "蔔", "鹹", "粒", 
+          "漿", "蒸", "康", "粽"
+        ],
+        "zhuyin": [
+          ["ㄊㄨㄟ"], ["ㄉㄠˋ"], ["ㄇㄧˇ"], ["ㄔㄣˊ"],  ["ㄞˋ"], 
+          ["ㄍㄨㄛˇ"], ["ㄌㄨㄛˊ"], ["˙ㄅㄛ"], ["ㄒㄧㄢˊ"], ["ㄌㄧˋ"],
+          ["ㄐㄧㄤ"], ["ㄓㄥ"], ["ㄎㄤ"], ["ㄗㄨㄥˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓①", "✓③", "✓④"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出注音，再填入正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "漿", "醬", "獎"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄤ"], ["ㄐㄧㄤˇ"], ["ㄐㄧㄤˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "漿", "醬", "獎"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "稻", "蹈", "滔"
+        ],
+        "zhuyin": [
+          ["ㄉㄠˋ"], ["ㄉㄠˋ"], ["ㄊㄠ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "稻", "滔", "滔", "蹈" 
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先讀句子，再選出適合的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1", "3", "7"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2", "5"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4", "6", "8"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據提示，完成練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "④", "①"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "他昨晚熬夜看書，所以白天都精神不濟，一直狂打哈欠。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，完成小檔案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "生活", "節慶"
+        ]
+      },
+      {
+        "title": "過年",
+        "category": "vocabulary",
+        "answers": [
+          "好彩頭", "發財"
+        ]
+      },
+      {
+        "title": "清明節",
+        "category": "vocabulary",
+        "answers": [
+          "希望身體健康"
+        ]
+      },
+      {
+        "title": "冬至",
+        "category": "vocabulary",
+        "answers": [
+          "湯圓", "圓滿的福福"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          ""
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "米食文化"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      }
+    ]
+  }
+]

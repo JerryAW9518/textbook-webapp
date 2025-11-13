@@ -1,0 +1,179 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "瑣", "頰", "礫", "鹽", "洶",
+          "湧", "濤", "岩", "泣"
+        ],
+        "zhuyin": [
+          ["ㄙㄨㄛˇ"], ["ㄐㄧㄚˊ"], ["ㄌㄧˋ"], ["ㄧㄢˊ"], ["ㄒㄩㄥ"],
+          ["ㄩㄥˇ"], ["ㄊㄠˊ"], ["ㄧㄢˊ"], ["ㄑㄧˋ"]
+        ]
+      },
+      {
+      
+        "title": "金頭腦",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+            	"", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 2 ],
+          		[ 1 ],
+          		[ 0 ]
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "二、形近字練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "挽", "晚", "勉"
+        ],
+        "zhuyin": [
+          ["ㄨㄢˇ"], ["ㄨㄢˇ"], ["ㄇㄧㄢˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "勉", "挽", "晚" 
+        ]
+        
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "蹋", "榻", "塌"
+        ],
+        "zhuyin": [
+          ["ㄊㄚˋ"], ["ㄊㄚˋ"], ["ㄊㄚ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "榻", "塌", "蹋"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、聆聽練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "綠色的屏障，把外界的喧囂隔絕在外。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "這條蜿蜒的小徑仿若一條絲帶，把我們帶入了美麗的森林深處。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①沙灘", "②花東海岸", "③岩岸"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

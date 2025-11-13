@@ -1,0 +1,596 @@
+[
+  {
+    "title": "",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "270 ÷ 4 = 67⋯2" ],
+                    [ "答：裝成67袋，剩下2片" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "border" : false,
+                "extras": {
+            			"dividend" : 270,
+            			"divisor" : 4
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1050毫升 = 1公升50毫升" ]
+                  ]
+                }
+              },
+              {
+                "category": "capacity",
+                "border" : false,
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 1,
+            	    		"ml" : 50
+            	    	},
+            	    	{ 
+            	    		"l" : 4,
+            	    		"ml" : 650
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              },
+            	{
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "答：5公升650毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1680－720 = 960" ],
+                    [ "960 ÷ 3 = 320" ],
+                    [ "答：320元" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "border" : false,
+                "extras": {
+            			"dividend" : 960,
+            			"divisor" : 3
+            		}
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{15}{9}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{3}{7}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{8}{8}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "公升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "毫升" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "塗法 略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "division",
+                "border" : false,
+                "extras": {
+            			"dividend" : 405,
+            			"divisor" : 6
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "division",
+                "border" : false,
+                "extras": {
+            			"dividend" : 726,
+            			"divisor" : 4
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "division",
+                "border" : false,
+                "extras": {
+            			"dividend" : 864,
+            			"divisor" : 8
+            		}
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{13}{12} - \\frac{5}{12} = \\frac{8}{12}" ],
+                    [ "答:\\frac{8}{12}盒" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "capacity",
+                "border" : false,
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 2,
+            	    		"ml" : 300
+            	    	},
+            	    	{ 
+            	    		"l" : 1,
+            	    		"ml" : 0
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : true
+            	    	}
+            	    ]
+            		}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "答：1公升300毫升" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "數學閱讀",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "算算看",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "30 ÷ 2 = 15" ],
+                    [ "答：15輛" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "380 ÷ 5 = 76" ],
+                    [ "答：76個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "100 x 7 = 700" ],
+                    [ "700 x 2 = 1400" ],
+                    [ "答：1400公斤" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "想想看",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "抹香鯨", "虎鯨"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "title": "9-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "", "", "30", ""
+                    ],
+                    [
+                      "", "", "", "", "17"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "50" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "沛于的年齡 - 弟弟的年齡 = 3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "33" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(420 - 80) ÷ 2 = 170" ],
+                    [ "170 + 80 = 250" ],
+                    [ "答:子婷付250元、弟弟付170元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(29 - 3) ÷ 2 = 13" ],
+                    [ "13 + 3 = 16" ],
+                    [ "答:男生13人、女生16人" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "400 ÷ 2 = 200" ],
+                    [ "(200 - 40) ÷ 2 = 80" ],
+                    [ "80 + 40 = 120" ],
+                    [ "答:長120公分、寬80公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(72 - 64) ÷ 2 = 4" ],
+                    [ "答:4個人" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(18 - 6) ÷ 2 = 6" ],
+                    [ "答:6公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "5 × 2 = 10" ],
+                    [ "30 - 10 = 20" ],
+                    [ "答:20公升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3 × 2 = 6" ],
+                    [ "26 + 6 = 32" ],
+                    [ "答:32人" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "9-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "10", "14", "18", "22", "26", "30"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3", "3" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2 × 10 = 20" ],
+                    [ "答:20隻" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4 - 2 = 2" ],
+                    [ "24 ÷ 2 = 12" ],
+                    [ "答:12隻" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "不正確，因為腳的相差總數不會是奇數" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4 × 12 = 48" ],
+                    [ "48 - 40 = 8" ],
+                    [ "4 - 2 = 2" ],
+                    [ "8 ÷ 2 = 4" ],
+                    [ "12 - 4 = 8" ],
+                    [ "答:4隻雞和8隻兔子" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "50 × 13 = 650" ],
+                    [ "650 - 250 = 400" ],
+                    [ "50 - 10 = 40" ],
+                    [ "400 ÷ 40 = 10" ],
+                    [ "13 - 10 = 3" ],
+                    [ "答:10元10個、50元3個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "50 × 12 = 600" ],
+                    [ "720 - 600 = 120" ],
+                    [ "80 - 50 = 30" ],
+                    [ "120 ÷ 30 = 4" ],
+                    [ "12 - 4 = 8" ],
+                    [ "答:套圈圈4次、射氣球8次" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "15 × 11 = 165" ],
+                    [ "165 - 116 = 49" ],
+                    [ "15 - 8 = 7" ],
+                    [ "49 ÷ 7 = 7" ],
+                    [ "11 - 7 = 4" ],
+                    [ "答:大盒4盒、小盒7盒" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "550 × 10 = 5500" ],
+                    [ "6900 - 5500 = 1400" ],
+                    [ "900 - 550 = 350" ],
+                    [ "1400 ÷ 350 = 4" ],
+                    [ "10 - 4 = 6" ],
+                    [ "答:砂糖橘6袋、茂谷柑4袋" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "統整園地",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(500 - 450) ÷ 2 = 25" ],
+                    [ "答:25毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "150 × 2 = 300" ],
+                    [ "500 - 300 = 200" ],
+                    [ "答:200毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "150 × 2 = 300" ],
+                    [ "500 + 300 = 800" ],
+                    [ "答:800毫升" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "80 × 6 = 480" ],
+                    [ "600 - 480 = 120" ],
+                    [ "120 - 80 = 40" ],
+                    [ "120 ÷ 40 = 3" ],
+                    [ "6 - 3 = 3" ],
+                    [ "答:3張成人票、3張兒童票" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "80 × 8 = 640" ],
+                    [ "880 - 640 = 240" ],
+                    [ "120 - 80 = 40" ],
+                    [ "240 ÷ 40 = 6" ],
+                    [ "8 - 6 = 2" ],
+                    [ "答:6張成人票、2張兒童票" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1080 - 40 = 1040" ],
+                    [ "12 - 1 = 11" ],
+                    [ "80 × 11 = 880" ],
+                    [ "1040 - 880 = 160" ],
+                    [ "120 - 80 = 40" ],
+                    [ "160 ÷ 40 = 4" ],
+                    [ "11 - 4 = 7" ],
+                    [ "答:4張成人票、7張兒童票" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

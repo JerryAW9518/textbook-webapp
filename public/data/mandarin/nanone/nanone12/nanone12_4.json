@@ -1,0 +1,101 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "書", "神", "奇", "陪", "海", 
+          "豚", "跳", "跟", "恐", "龍",
+          "去", "險", "次", "猜", "猜", 
+          "誰", "找"
+        ],
+        "zhuyin": [
+          ["ㄕㄨ"], ["ㄕㄣˊ"], ["ㄑㄧˊ"], ["ㄆㄟˊ"], ["ㄏㄞˇ"],
+          ["ㄊㄨㄣˊ"], ["ㄊㄧㄠˋ"], ["ㄍㄣ"], ["ㄎㄨㄥˇ"], ["ㄌㄨㄥˊ"],
+          ["ㄑㄩˋ"], ["ㄒㄧㄢˇ"], ["ㄘˋ"], ["ㄘㄞ"], ["ㄘㄞ"],
+          ["ㄕㄟˊ"], ["ㄓㄠˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["✓ 恐龍"]
+      }
+    ]
+  },
+  {
+    "title": "二、連一連",
+    "subtitle": "",
+    "question": [
+    	{
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": false,
+        "layerWidgets": [
+          	[
+            	"", "", "", "", ""
+          	],
+          	[
+              "", "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 3 ],
+              [ 0 ],
+              [ 4 ],
+              [ 2 ]
+            ]
+          ]
+        }
+      }    
+    ]
+  },
+  {
+    "title": "三、填一填",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["跳", "打", "說", "看", "跑"]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖照樣照句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["表弟", "學游泳"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["孫子", "爺爺", "運動"]
+      }
+    ]
+  },
+  {
+    "title": "五、寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "我看過屁屁偵探", 
+          "下次，我要和屁屁偵探一起去破案。"
+        ]
+      }
+    ]
+  }
+]

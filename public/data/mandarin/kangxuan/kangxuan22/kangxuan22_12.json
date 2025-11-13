@@ -1,0 +1,138 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "狂", "差", "百", "食", "量",
+          "桶", "餓", "累", "根", "牆",
+          "趕", "尖", "呼", "巨", "髮",
+          "倒", "睜", "倒", "緊", "底"
+        ],
+        "zhuyin": [
+          ["ㄎㄨㄤˊ"], ["ㄔㄚ"], ["ㄅㄞˇ"], ["ㄕˊ"], ["ㄌㄧㄤˋ"],
+          ["ㄊㄨㄥˇ"], ["ㄜˋ"], ["ㄌㄟˋ"], ["ㄍㄣ"], ["ㄑㄧㄤˊ"],
+          ["ㄍㄢˇ"], ["ㄐㄧㄢ"], ["ㄏㄨ"], ["ㄐㄩˋ"], ["ㄈㄚˇ"],
+          ["ㄉㄠˇ"], ["ㄓㄥ"], ["ㄉㄠˋ"], ["ㄐㄧㄣˇ"], ["ㄉㄧˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，填寫正確的注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "ㄌㄧㄤˊ", "ㄌㄧㄤˋ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "ㄌㄟˇ", "ㄌㄟˋ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄠˋ", "ㄉㄠˇ"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "ㄔㄚ", "ㄔㄞ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "觀察圖片，完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "月亮", "櫻桃", "芝麻"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "我會分享好書",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 2", "✓ 3"
+        ]
+      }
+    ]
+  }
+]

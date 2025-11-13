@@ -1,0 +1,830 @@
+[
+  {
+    "title": "8-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(1)" ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{21}{27}" ],
+                    [ "\\frac{6}{27}" ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(2)" ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{19}{26}" ],
+                    [ "\\frac{7}{26}" ]
+                  ]
+                }
+              }
+            
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(1)" ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "0.46", "0.36" ],
+                    [ "0.18"]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(2)" ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "1" ]
+                  ]
+                }
+              }
+            
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "6000 × \\frac{5}{8} = 3750" ],
+                    [ "答:3750 個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "625×0.64=400" ],
+                    [ "答:400 票" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "小祥 7÷10=\\frac{7}{10}" ],
+                    [ "阿信 8÷12=\\frac{8}{12}" ],
+                    [ "阿仁 12÷16=\\frac{12}{16}" ],
+                    [ "小哲 14÷18=\\frac{14}{18}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "0.3", "0.25", "0.29", "0.32"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "(1)" ],
+                    [ "超越 45÷150=0.3" ],
+                    [ "成功 37÷148=0.25" ],
+                    [ "勝利 58÷200=0.29" ],
+                    [ "凱旋 56÷175=0.32" ],
+                    [ "(2)" ],
+                    [ "0.32＞0.3＞0.29＞0.25" ],
+                    [ "凱旋隊最高，成功隊的最低。" ],
+                    [ "答:凱旋隊，成功隊" ]
+                    
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "8-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "60" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "7" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "37" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "48％", "56％", "80％", "27％"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "(1)" ],
+                    [ "小狗 32÷100=\\frac{32}{100}=32％" ],
+                    [ "小鳥 28÷100=\\frac{28}{100}=28％" ],
+                    [ "小貓 40÷100=\\frac{40}{100}=40％" ],
+                    [ "答:小狗 32％，小鳥 28％，" ],
+                    [ "小貓 40％" ],
+                    [ "(2)" ],
+                    [ "32％+28％+40％=100％" ],
+                    [ "答:100％" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "89 ％" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "40％" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3％" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "97.1％" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.72" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.814" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.015" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.875", "87.5" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.7", "70" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.04", "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "甲班 0.7=70％" ],
+                    [ "乙班 \\frac{6}{8}=6÷8=0.75=75％" ],
+                    [ "丙班 0.625=62.5％" ],
+                    [ "答:甲班 70％，乙班 75％，" ],
+                    [ "丙班 62.5％" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "8-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4000×1.2％" ],
+                    [ "= 4000×0.012" ],
+                    [ "= 48" ],
+                    [ "答:48 公克" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2800-980=1820" ],
+                    [ "1820÷2800=0.65=65％" ],
+                    [ "答:65％" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "525+175=700" ],
+                    [ "175÷700=0.25=25％" ],
+                    [ "答:25％" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "90-80=10" ],
+                    [ "10÷80=0.125=12.5％" ],
+                    [ "答:12.5％" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "60-45=15" ],
+                    [ "15÷60=0.25=25％" ],
+                    [ "答:25％" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "售價是原價的 60％", "40％ off" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "25％" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "26800×75％=20100" ],
+                    [ "答:20100 元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "一成是 10％" ],
+                    [ "990×10％=99" ],
+                    [ "99×8=792" ],
+                    [ "答:792 元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "38000-7600=30400" ],
+                    [ "30400÷38000=0.8" ],
+                    [ "答:8 折" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(1)" ],
+                    [ "四成=40％" ],
+                    [ "10000×40％=4000" ],
+                    [ "10000+4000=14000" ],
+                    [ "答:14000 元" ],
+                    [ "(2)"],
+                    [ "14000×70％=9800" ],
+                    [ "9800<10000" ],
+                    [ "答:9800 元，賠錢" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合篇",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "40×55％=22" ],
+                    [ "40-22=18" ],
+                    [ "答:男生 18 個，女生 22 個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "250+20+30=300" ],
+                    [ "30÷300=\\frac{30}{300}=\\frac{10}{100}" ],
+                    [ "=0.1=10%" ],
+                    [ "答:10％" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "800×25％=200" ],
+                    [ "800+200=1000" ],
+                    [ "1000×79％=790" ],
+                    [ "答:790 元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "3000×80％=2400" ],
+                    [ "2400×90％=2160" ],
+                    [ "3000-2160=840" ],
+                    [ "答:840 元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "(1)" ],
+                    [ "600÷2400=0.25=25％" ],
+                    [ "25％ = 二成五" ],
+                    [ "答:二成五" ],
+                    [ "(2)" ],
+                    [ "2400+600=3000" ],
+                    [ "3000×（1-25％）" ],
+                    [ "3000×75％=2250" ],
+                    [ "2250<2400" ],
+                    [ "2400-2250=150" ],
+                    [ "答:少 150 元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

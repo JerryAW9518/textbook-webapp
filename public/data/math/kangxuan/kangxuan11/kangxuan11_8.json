@@ -1,0 +1,606 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "剩下多少",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "用算式記記看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "4-1=3"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "8 - 2 = 6"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "6-4=2"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8 - 1 = 7" ],
+                    [ "7片" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9 - 6 = 3" ],
+                    [ "3片" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7 - 2 = 5" ],
+                    [ "5顆" ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      }
+      
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "0的加法",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ"
+                    ],
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "", "", "", ""
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9 - 5 = 4" ],
+                    [ "4張" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "", ""
+                    ],
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8 - 6 = 2" ],
+                    [ "2枝" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ"
+                    ],
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", ""
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8 - 7 = 1" ],
+                    [ "1片" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "", "", "", ""
+                    ],
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7 - 3 = 4" ],
+                    [ "4根" ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      
+      },
+      {
+        "title": "2",
+        "subtitle": "算算看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7 - 5 = 2" ],
+                    [ "2個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8 - 4 = 4" ],
+                    [ "4個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "加加看",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "0" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "0" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2" ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      
+      },
+      {
+        "title": "2",
+        "subtitle": "算算看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9 - 9 = 0" ],
+                    [ "0瓶" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5 - 0 = 5" ],
+                    [ "5個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "算算看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "7",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "8",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+  
+    "title": "活動4",
+    "subtitle": "加加減減",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "✓ 4 + 3 = 7" ], 
+                    [ "7朵" ]
+                    
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "✓ 8 - 2 = 6" ], 
+                    [ "6隻" ]
+                    
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "✓ 6 + 1 = 7" ], 
+                    [ "7張" ]
+                    
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      
+      },
+      {
+        "title": "2",
+        "subtitle": "用算式記記看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4 + 4 = 8" ],
+                    [ "8顆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8 - 3 = 5" ],
+                    [ "5個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10 - 3 = 7" ],
+                    [ "7個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  
+  }
+]

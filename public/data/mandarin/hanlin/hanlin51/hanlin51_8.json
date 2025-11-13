@@ -1,0 +1,159 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "盼", "營", "葫", "蘆", "灌",
+          "蝴", "蝶", "蜂", "翩", "誠",
+          "鄰"
+        ],
+        "zhuyin": [
+          ["ㄆㄢˋ"], ["ㄧㄥˊ"], ["ㄏㄨˊ"], ["ㄌㄨˊ"], ["ㄍㄨㄢˋ"],
+          ["ㄏㄨˊ"], ["ㄉㄧㄝˊ"], ["ㄈㄥ"], ["ㄆㄧㄢ"], ["ㄔㄥ˙"],
+          ["ㄌㄧㄣˊ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、形近字練習",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "缶", "罐", "ㄍㄨㄢˋ"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "權", "ㄑㄩㄢˊ"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "見"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "力", "勸"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "灌", "罐", "勸", "觀", "權"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、語詞練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①", "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②", "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "下課鐘一響，操場上立刻熱鬧起來，同學們吱吱喳喳地談著假日要去遊樂園的計畫，像一群快樂的小麻雀。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、情境練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "成就感", "不起眼", "微妙", "堅實", "攀爬", "青綠的彩裝", "營營", "翩翩", "出其不意"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "作者之所以覺得這是值得高興的事，是因為這代表了自然環境的健康和生態保護的成功，並且帶來了意外的喜悅和驚喜。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "雨後山區散步的驚喜遭遇：白腹秧雞家族"
+        ]
+      }
+    ]
+  }
+]

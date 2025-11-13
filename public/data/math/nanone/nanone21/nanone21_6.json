@@ -1,0 +1,316 @@
+[
+  {
+    "title":  "6-1",
+    "subtitle":  "",
+    "section":  [
+      {
+        "title":  "一",
+        "subtitle":  "",
+        "question":  [
+          {
+            "title":  "1",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "42 + 56 = 98" ],
+                    [ "98 + 34 = 132" ],
+                    [ "答: 132 枝" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "2",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "50 + 36 = 86" ],
+                    [ "86 + 40 = 126" ],
+                    [ "答: 126 顆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "3",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "16 + 32 = 48" ],
+                    [ "48 + 24 = 72" ],
+                    [ "答: 72 枝" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "4",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "25 + 28 = 53" ],
+                    [ "53 + 45 = 98" ],
+                    [ "答: 98 枝" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title":  "6-2",
+    "subtitle":  "",
+    "section":  [
+      {
+        "title":  "一",
+        "subtitle":  "",
+        "question":  [
+          {
+            "title":  "1",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "64 - 18 = 46" ],
+                    [ "46 - 35 = 11" ],
+                    [ "答: 11 枝" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "2",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "24 - 8 = 16" ],
+                    [ "16 - 6 = 10" ],
+                    [ "答: 10 個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "3",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "90 - 35 = 55" ],
+                    [ "55 - 50 = 5" ],
+                    [ "答: 5 元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "4",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "32 - 12 = 20" ],
+                    [ "20 - 8 = 12" ],
+                    [ "答: 12 件" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title":  "6-3",
+    "subtitle":  "",
+    "section":  [
+      {
+        "title":  "一",
+        "subtitle":  "",
+        "question":  [
+          {
+            "title":  "1",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "13 + 9 = 22" ],
+                    [ "22 - 12 = 10" ],
+                    [ "答: 10 個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "2",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "15 + 18 = 33" ],
+                    [ "40 - 33 = 7" ],
+                    [ "答: 7 個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "3",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "78 - 28 = 50" ],
+                    [ "50 + 13 = 63" ],
+                    [ "答: 63 個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "4",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "50 - 38 = 12" ],
+                    [ "12 + 25 = 37" ],
+                    [ "答: 37 元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":  "二",
+        "subtitle":  "",
+        "question":  [
+          {
+            "title":  "1",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "44 + 26 = 70" ],
+                    [ "44 + 70 = 114" ],
+                    [ "答: 114 個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "2",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "33 - 12 = 21" ],
+                    [ "33 + 21 = 54" ],
+                    [ "答: 54 個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "3",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "23 + 6 = 29" ],
+                    [ "29 + 3 = 32" ],
+                    [ "答: 32 隻" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title":  "4",
+            "answers":  [
+              {
+                "category":  "text",
+                "extras":  {
+                  "border" :  false,
+                  "decoration":  "none",
+                  "texts":  [
+                    [ "94 - 39 = 55" ],
+                    [ "55 - 18 = 37" ],
+                    [ "答: 37 元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

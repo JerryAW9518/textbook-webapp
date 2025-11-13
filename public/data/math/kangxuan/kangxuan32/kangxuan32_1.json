@@ -1,0 +1,705 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "4" ],
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3", "6" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1", "12" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "一樣多" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{5}{6}" ],
+                    [ "畫法 (略)" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{4}{5}" ],
+                    [ "畫法 (略)" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{7}{8}" ],
+                    [ "畫法 (略)" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{8}{10}" ],
+                    [ "畫法 (略)" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{8}{9}" ],
+                    [ "畫法 (略)" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{6}{12} + \\frac{6}{12} = \\frac{12}{12} = 1" ],
+                    [ "答:1盤" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{5}{9} + \\frac{2}{9} = \\frac{7}{9}" ],
+                    [ "答:\\frac{7}{9}公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{2}{8} + \\frac{4}{8} = \\frac{6}{8}" ],
+                    [ "答:\\frac{6}{8}包" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{3}{7} + \\frac{4}{7} = \\frac{7}{7} = 1" ],
+                    [ "答:1盒" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{7}{10} + \\frac{2}{10} = \\frac{9}{10}" ],
+                    [ "答:\\frac{9}{10}公升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{8}{12} + \\frac{4}{12} = \\frac{12}{12} = 1" ],
+                    [ "答:1籠" ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{8}{12}", "\\frac{4}{12}" ]
+                  ]
+                }
+              
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{4}{5}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{2}{8}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{6}{9}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{7}{10}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{3}{6}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{5}{12}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "2瓶 = \\frac{2}{9}箱" ],
+                    [ "\\frac{4}{9} - \\frac{2}{9} = \\frac{2}{9}" ],
+                    [ "答:\\frac{2}{9}箱" ]
+                    
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{5}{10} - \\frac{3}{10} = \\frac{2}{10}" ],
+                    [ "答:\\frac{2}{10}公升" ]
+                    
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{10}{12}-\\frac{6}{12}=\\frac{4}{12}" ],
+                    [ "答:\\frac{4}{12}箱"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "1 - \\frac{5}{10}" ],
+                    [ "=\\frac{10}{10} - \\frac{5}{10}" ],
+                    [ "=\\frac{5}{10}" ],
+                    [ "答:\\frac{5}{10}公尺"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "1 - \\frac{3}{12}" ],
+                    [ "=\\frac{12}{12} - \\frac{3}{12}" ],
+                    [ "=\\frac{9}{12}" ],
+                    [ "答:\\frac{9}{12}盒"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "1 - \\frac{5}{8}" ],
+                    [ "=\\frac{8}{8} - \\frac{5}{8}" ],
+                    [ "=\\frac{3}{8}" ],
+                    [ "答:\\frac{3}{8}公升"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合練習",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{7}{12}" ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "1 - \\frac{5}{12}" ],
+                    [ "= \\frac{12}{12} - \\frac{5}{12}" ],
+                    [ "= \\frac{7}{12}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{11}{11}" ]
+                  ]
+                }
+              },
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{6}{11} + \\frac{5}{11}" ],
+                    [ "= \\frac{11}{11}" ],
+                    [ "= 1"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "1 - \\frac{2}{10}" ],
+                    [ "=\\frac{10}{10}- \\frac{2}{10}" ],
+                    [ "=\\frac{8}{10}"],
+                    [ "答:\\frac{8}{10}瓶"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "3片=\\frac{3}{12}條" ],
+                    [ "\\frac{4}{12}+\\frac{3}{12}" ],
+                    [ "=\\frac{7}{12}" ],
+                    [ "答:\\frac{7}{12}條"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{7}{10}-\\frac{2}{10}=\\frac{5}{10}" ],
+                    [ "答:\\frac{5}{10}包" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{6}{12} + \\frac{4}{12} = \\frac{10}{12}" ],
+                    [ "答:\\frac{10}{12}桶" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "tex": [
+                    [ "\\frac{3}{12}", "\\frac{1}{12}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

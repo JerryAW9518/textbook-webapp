@@ -1,0 +1,144 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "乖", "如", "果", "別", "擔"
+        ],
+        "zhuyin": [
+          ["ㄍㄨㄞ"], ["ㄖㄨˊ"], ["ㄍㄨㄛˇ"], ["ㄅㄧㄝˊ"], ["ㄉㄢ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "猜", "猜", "蝦", "蟆", "抓",
+          "抓", "腦", "袋", "瓜", "靠", 
+          "近", "影", "聞", "聲", "證", 
+          "明", "頂", "呱", "呱"
+        ],
+        "zhuyin": [
+          ["ㄘㄞ"], ["ㄘㄞ"], ["ㄏㄚˊ"], ["˙ㄇㄚ"], ["ㄓㄨㄚ"],
+          ["ㄓㄨㄚ"], ["ㄋㄠˇ"], ["ㄉㄞˋ"], ["ㄍㄨㄚ"],["ㄎㄠˋ"], 
+          ["ㄐㄧㄣˋ"], ["ㄧㄥˇ"], ["ㄨㄣˊ"], ["ㄕㄥ"], ["ㄓㄥˋ"], 
+          ["ㄇㄧㄥˊ"], ["ㄉㄧㄥˇ"], ["ㄍㄨㄚ"], ["ㄍㄨㄚ"]
+          
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 青蛙"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、讀一讀，填入正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "進", "近"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "新", "心"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "生", "聲"
+        ]
+      }
+    ]
+  },
+  
+  {
+    "title": "三、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "吃水果", "喝牛奶"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "打雷", "下大雨"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "柳丁", "橘子"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "飛蛾", "蝴蝶"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 青蛙"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 只聽到聲音"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 被小朋友抓"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 頭頂...", "✓ 稱讚..."
+        ]
+      }
+    ]
+  }
+]

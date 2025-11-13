@@ -1,0 +1,914 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "50" ],
+                    [ "60" ],
+                    [ "70" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "80" ],
+                    [ "90" ],
+                    [ "100" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "圖形 略" ],
+                    [ "猴子" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "53" ],
+                    [ "63" ],
+                    [ "73" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "49" ],
+                    [ "59" ],
+                    [ "69" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "62" ],
+                    [ "72" ],
+                    [ "82" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "100" ],
+                    [ "90" ],
+                    [ "80" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "99" ],
+                    [ "98" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "67" ],
+                    [ "57" ],
+                    [ "56" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "74" ],
+                    [ "73" ],
+                    [ "63" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "62", "52", "32", "22" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "62", "61", "60", "59" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "55" ]
+                  ]
+                }
+              },
+              {
+                "category": "blocks",
+                "extras": {
+                    "hundreds" : 0,
+                    "tens" : 5,
+                    "ones" : 5
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "5", "5" ],
+                    [ "5" ,"5", "55"]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [
+                      "5", "5"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "", "十位"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "個位", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6" ],
+                    [ "7" ],
+                    [ "6", "7" ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "6", "7"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8" ],
+                    [ "0" ],
+                    [ "8", "0" ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "8", "0"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "18", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    
+                    [ 
+                      "68", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "5", "10" ],
+                    [ "5", "10" ],
+                    [ "60" ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "6", "0"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "5", "20" ],
+                    [ "5", "20" ],
+                    [ "70" ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "7", "0"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6", "14" ],
+                    [ "6", "14" ],
+                    [ "74" ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "7", "4"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "5", "9"
+                    ],
+                    [ 
+                      "7", "4"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "", "永琪"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "6", "0"
+                    ],
+                    [ 
+                      "6", "8"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "", "書瑋"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "87", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "80", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "", "61"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", ""
+                    ],
+                    [
+                      "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 0 ],
+                      [  ]
+                    ]
+                  ]
+                  
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "恩宇", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "5", "9"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "6", "5"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "6", "6"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "7", "5"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "7", "6"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "十位", "個位"
+                    ],
+                    [ 
+                      "7", "7"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動5",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "", "", "56"
+                    ],
+                    [ 
+                      "", "65", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "", "", "67", ""
+                    ],
+                    [ 
+                      "", "76", "", "78"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "", "64"
+                    ],
+                    [ 
+                      "", "74"
+                    ],
+                    [ 
+                      "83", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "77", "", "", "80"
+                    ],
+                    [ 
+                      "", "", "89", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "34", "35", ""
+                    ],
+                    [ 
+                      "", "", "46"
+                    ],
+                    [ 
+                      "", "55", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ 
+                      "", "", "39", ""
+                    ],
+                    [ 
+                      "47", "", "", "50"
+                    ],
+                    [ 
+                      "", "58", "59", "50"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

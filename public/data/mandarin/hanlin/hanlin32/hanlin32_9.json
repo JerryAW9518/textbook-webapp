@@ -1,0 +1,111 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "垃", "圾", "免", "餐", "扁",
+          "筷", "廚", "端", "較"
+        ],
+        "zhuyin": [
+          ["ㄌㄜˋ"], ["ㄙㄜˋ"], ["ㄇㄧㄢˇ"], ["ㄘㄢ"], ["ㄅㄧㄢˇ"],
+          ["ㄎㄨㄞˋ"], ["ㄔㄨˊ"], ["ㄉㄨㄢ"], ["ㄐㄧㄠˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "慣", "免", "化", "取"
+        ],
+        "zhuyin": [
+          ["ㄍㄨㄢˋ"], ["ㄇㄧㄢˇ"], ["ㄏㄨㄚˋ"], ["ㄑㄩˇ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 不易滾到地上", "✓ 可以減少垃圾"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一舉兩得"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "能運動健身", "能欣賞風景"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "我們這次的社區清潔活動不僅讓環境變得更整潔，也增進了居民之間的交流，可以說是一舉兩得。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、換句話說",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "因為", "所以"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "弟弟不小心打翻了水杯", "他趕緊清理桌子"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 相似"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 不同國家..."
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "漢堡、三明治還有麵線 (僅供參考)"
+        ]
+      }
+    ]
+  }
+]

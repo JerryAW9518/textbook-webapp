@@ -1,0 +1,121 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "蹤", "邀", "相", "旦", "逼", "布",
+          "尚", "鷹", "維", "困", "擾"
+        ],
+        "zhuyin": [
+          ["ㄗㄨㄥ"], ["ㄧㄠ"], ["ㄒㄧㄤ"], ["ㄉㄢˋ"], ["ㄅㄧ"], ["ㄅㄨˋ"],
+          ["ㄕㄤˋ"], ["ㄧㄥ"], ["ㄨㄟˊ"], ["ㄎㄨㄣˋ"], ["ㄖㄠˇ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "朗", "孫", "寺",
+          "佛", "肖", "相"
+        ],
+        "zhuyin": [
+          ["ㄌㄤˇ"], ["ㄙㄨㄣ"], ["ㄙˋ"],
+          ["ㄈㄛˊ"], ["ㄒㄧㄠˋ"], ["ㄒㄧㄤˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、語詞替換",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "烏雲密布"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "畫龍點睛"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "維妙維肖"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 他遇到問題／立刻請教老師"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "一旦學會了游泳，就能享受在水中的樂趣。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "張僧繇在牆上畫了兩隻老鷹後，野鳥竟然嚇得不敢靠近。",
+          "站在牆前的老奶奶，被張僧繇畫的龍嚇著了"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "突然間，原本晴朗的天空竟然烏雲密布、雷電交加，那兩條點了眼珠子的龍，奮力飛出牆壁，直上天際，一下子就消失得無影無蹤"
+        ]
+      }
+    ]
+  }
+]

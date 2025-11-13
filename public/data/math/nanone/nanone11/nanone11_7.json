@@ -1,0 +1,353 @@
+[
+  {
+    "title": "7-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "1",
+                      "2",
+                      "3",
+                      "4"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 2,3 ],
+                      [ 1 ],
+                      [ 0 ]
+                      
+                      
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+      
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "1", "2", "3", "4"
+                    ],
+                    [
+                      "",
+                      "",
+                      ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 2 ],
+                      [ 0 ],
+                      [ 0 ]
+                      
+                      
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      
+      }
+    ]
+  },
+  {
+    "title": "7-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "圓形",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "ㄅ、ㄇ、ㄍ" ]
+                  ]
+                }
+              }               
+            ]
+          },
+          {
+            "title": "正方形",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "ㄋ、ㄎ" ]
+                  ]
+                }
+              }               
+            ]
+          },
+          {
+            "title": "長方形",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "ㄈ、ㄌ" ]
+                  ]
+                }
+              }               
+            ]
+          },
+          {
+            "title": "三角形",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "ㄆ、ㄉ、ㄊ" ]
+                  ]
+                }
+              }               
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "三角形" ]
+                  ]
+                }
+              }            
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "圓形" ]
+                  ]
+                }
+              }            
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "長方形" ]
+                  ]
+                }
+              }            
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "正方形" ]
+                  ]
+                }
+              }            
+            ]
+          }
+        ]
+      },
+      {
+        "title": "三",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5個" ]
+                  ]
+                }
+              }            
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3個" ]
+                  ]
+                }
+              }            
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7個" ]
+                  ]
+                }
+              }            
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7個" ]
+                  ]
+                }
+              }            
+            ]
+          }
+        ]
+      
+      }
+    ]
+  },
+  {
+    "title": "7-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "●"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "▂", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "▼", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "■", "", "", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

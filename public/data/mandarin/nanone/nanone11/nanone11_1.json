@@ -1,0 +1,128 @@
+[
+  {
+    "title": "一、看圖寫國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "上", "船", "向", "前", "走",
+          "左", "右", "也", "小", "魚",
+          "來", "加", "油"
+        ],
+        "zhuyin": [
+          ["ㄕㄤˋ"], ["ㄔㄨㄢˊ"], ["ㄒㄧㄤˋ"], ["ㄑㄧㄢˊ"], ["ㄗㄡˇ"],
+          ["ㄗㄨㄛˇ"], ["ㄧㄡˋ"], ["ㄧㄝˇ"], ["ㄒㄧㄠˇ"], ["ㄩˊ"],
+          ["ㄌㄞˊ"], ["ㄐㄧㄚ"], ["ㄧㄡˊ"]
+        ]
+      }
+    ]
+  },
+ 
+  {
+    "title": "二、讀一讀，再填上正確的注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "一"
+        ],
+        "zhuyin": [
+          ["ㄧˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "一", "一"
+        ],
+        "zhuyin": [
+          ["ㄧˊ"], ["ㄧˋ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "一"
+        ],
+        "zhuyin": [
+          ["ㄧ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖填入正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "上"
+        ],
+        "zhuyin": [
+          ["ㄕㄤˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "小"
+        ],
+        "zhuyin": [
+          ["ㄒㄧㄠˇ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "右", "左"
+        ],
+        "zhuyin": [
+          ["ㄧㄡˋ"], ["ㄗㄨㄛˇ"]
+        ]
+      }
+    ]
+  },  
+  {
+    "title": "四、看圖選一選",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "唱歌", "也在唱歌"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、說一說",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

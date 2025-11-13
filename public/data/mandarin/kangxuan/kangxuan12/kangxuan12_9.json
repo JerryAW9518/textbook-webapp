@@ -1,0 +1,120 @@
+[
+  {
+    "title": "部首真有趣",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "削", "別", "刀", "利", "切",
+          "到", "分"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "國", "掃", "除", "樹", "葉",
+          "低", "刷", "洗", "認", "淨", 
+          "馬", "送", "彩", "虹", "很",
+          "太" 
+         
+        ],
+        "zhuyin": [
+          ["ㄍㄨㄛˊ"], ["ㄙㄠˇ"], ["ㄔㄨˊ"], ["ㄕㄨˋ"], ["ㄧㄝˋ"],
+          ["ㄉㄧ"], ["ㄕㄨㄚ"], ["ㄒㄧˇ"], ["ㄖㄣˋ"], ["ㄐㄧㄥˋ"], 
+          ["ㄇㄚˇ"], ["ㄙㄨㄥˋ"],  ["ㄘㄞˇ"], ["ㄏㄨㄥˊ"], ["ㄏㄣˇ"],
+          ["ㄊㄞˋ"]
+        ]
+      },
+       {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "照樣寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "排", "好整齊"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "跳", "真開心"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "寫", "真漂亮"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "找出原因、經過、結果，填寫答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "3", "1", "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先聽故事，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

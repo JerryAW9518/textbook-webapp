@@ -1,0 +1,867 @@
+[
+  {
+    "title": "8-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "36" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "58" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "48" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "28" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "31" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "20" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "43" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "50" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "9+17=26"
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "26" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "money",
+                "extras": {
+            			
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 5
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 4
+            			}
+            		}
+              },
+              {
+                "category": "money",
+                "extras": {
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 6
+            			}
+            		}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "54 + 6 = 60" ],
+                    [ "60" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "money",
+                "extras": {
+            			
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 3
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 2
+            			}
+            		}
+              },
+              {
+                "category": "money",
+                "extras": {
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 7
+            			}
+            		}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "32 + 7 = 39" ],
+                    [ "39" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "money",
+                "extras": {
+            			
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 2
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 5
+            			}
+            		}
+              },
+              {
+                "category": "money",
+                "extras": {
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 8
+            			}
+            		}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "25 + 8 = 33" ],
+                    [ "33" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "8-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "20" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "30" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "41" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "30" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "43" ]
+                  ]
+                }
+              },
+              {
+                "category": "money",
+                "extras": {
+            			
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 4
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 5,
+            				"lineThrough" : 2
+            			}
+            		}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "31" ]
+                  ]
+                }
+              },
+              {
+                "category": "money",
+                "extras": {
+            			
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 3
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 6,
+            				"lineThrough" : 5
+            			}
+            		}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "43" ]
+                  ]
+                }
+              },
+              {
+                "category": "money",
+                "extras": {
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 7,
+            				"lineThrough" : 3
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 7,
+            				"lineThrough" : 4
+            			}
+            		}
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "11" ]
+                  ]
+                }
+              },
+              {
+                "category": "money",
+                "extras": {
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 2,
+            				"lineThrough" : 1
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 9,
+            				"lineThrough" : 8
+            			}
+            		}
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "50" ]
+                  ]
+                }
+              },
+              {
+                "category": "money",
+                "extras": {
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 6,
+            				"lineThrough" : 1
+            			}
+            		}
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "51" ]
+                  ]
+                }
+              },
+              {
+                "category": "money",
+                "extras": {
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 5,
+            				"lineThrough" : 0
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 3,
+            				"lineThrough" : 2
+            			}
+            		}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "25 - 3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "32 - 10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "69 - 5" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "24 - 13 = 11" ],
+                    [ "11" ]
+                  ]
+                }
+              },
+              {
+                "category": "money",
+                "extras": {
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 2,
+            				"lineThrough" : 1
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 4,
+            				"lineThrough" : 3
+            			}
+            		}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "50 - 9 = 41" ],
+                    [ "41" ]
+                  ]
+                }
+              },
+              {
+                "category": "money",
+                "extras": {
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 5,
+            				"lineThrough" : 1
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 10,
+            				"lineThrough" : 9
+            			}
+            		}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "21 - 7 = 14" ],
+                    [ "14" ]
+                  ]
+                }
+              },
+              {
+                "category": "money",
+                "extras": {
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 2,
+            				"lineThrough" : 1
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 11,
+            				"lineThrough" : 7
+            			}
+            		}
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "8-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "33 + 22 = 55" ],
+                    [ "55" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "59 - 40 = 19" ],
+                    [ "19" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "23 + 23 = 46" ],
+                    [ "46" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "25 - 21 = 4" ],
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "塗黃色",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "72 - 51" ],
+                    [ "17 + 4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "塗綠色",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "31 + 14" ],
+                    [ "48 - 3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "塗藍色",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "42 - 9" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "動手動腦學數學",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "11➝13➝20➝6➝10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "9➝30➝8➝12" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

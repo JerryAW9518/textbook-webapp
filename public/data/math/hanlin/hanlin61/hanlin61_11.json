@@ -1,0 +1,579 @@
+[
+  {
+    "title": "",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "short_division",
+                "extras": {
+                  "number": 66
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "short_division",
+                "extras": {
+                  "number": 80
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "short_division_gcf",
+                "extras": {
+                  "number1": 25,
+                  "number2": 14
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1×25×14＝350" ],
+                    [ "最大公因數:1" ],
+                    [ "最小公倍數:350" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "short_division_gcf",
+                "extras": {
+                  "number1": 54,
+                  "number2": 63
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3×3＝9" ],
+                    [ "3×3×6×7＝378" ],
+                    [ "最大公因數:9" ],
+                    [ "最小公倍數:378" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "short_division_gcf",
+                "extras": {
+                  "number1": 57,
+                  "number2": 171
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3×19＝57" ],
+                    [ "3×19×1×3＝171" ],
+                    [ "最大公因數:57" ],
+                    [ "最小公倍數:171" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "= \\frac{15}{4} × \\frac{1}{2}" ],
+                    [ "= \\frac{15}{8}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "= \\frac{38}{15}×\\frac{5}{2}" ],
+                    [ "= \\frac{19}{3}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "= \\frac{77}{10} ÷ \\frac{33}{5}" ],
+                    [ "= \\frac{77}{10} × \\frac{5}{33}" ],
+                    [ "= \\frac{7}{6}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6.06 " ]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 2.12,
+                  "divisor": 0.35,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.09" ]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 0.54,
+                  "divisor": 6.3,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2.66" ]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 3.3,
+                  "divisor": 1.24,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "16根",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "36根",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "44根",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "short_division_gcf",
+                "extras": {
+                  "number1": 48,
+                  "number2": 72
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2×2×2×3＝24" ],
+                    [ "48÷24＝2" ],
+                    [ "72÷24＝3" ],
+                    [ "答:24盒，2個蛋黃酥，3個鳳梨酥" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "short_division_gcf",
+                "extras": {
+                  "number1": 21,
+                  "number2": 14
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "7×3×2＝42" ],
+                    [ "200÷42＝4⋯32" ],
+                    [ "42×4＝168" ],
+                    [ "答:168個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "6×5＝30" ],
+                    [ "答:30種 " ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "8÷\\frac{3}{5}" ],
+                    [ "= \\frac{8}{1}×\\frac{5}{3}" ],
+                    [ "= \\frac{40}{3}" ],
+                    [ "答:\\frac{40}{3}瓶"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "7\\frac{1}{5}÷2\\frac{1}{4}" ],
+                    [ "= \\frac{36}{5}÷\\frac{9}{4}" ],
+                    [ "= \\frac{36}{5}×\\frac{4}{9}" ],
+                    [ "= \\frac{16}{5}" ],
+                    [ "答:\\frac{16}{5}公尺"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "9÷0.45＝20" ],
+                    [ "答:大約20磅"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "7",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1.5÷6.25＝0.24" ],
+                    [ "答:0.24張"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "8",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "3\\frac{1}{5}:20=16:☐" ],
+                    [ "16÷3\\frac{1}{5}=5" ],
+                    [ "20×5＝100" ],
+                    [ "答:100點"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "做做看",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "9:1＝108:☐" ],
+                    [ "108÷9＝12" ],
+                    [ "1×12＝12" ],
+                    [ "答:12毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "想想看",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "因為粗壯枝葉比較耐，能用 1:200 的較濃藥液；嫩葉比較脆弱，只能用 1:500 的稀藥液才不會受傷。" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

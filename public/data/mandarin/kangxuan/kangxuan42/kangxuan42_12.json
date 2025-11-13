@@ -1,0 +1,81 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "齊", "橘", "斗", "聖", "掀",
+          "砰", "壓", "箍", "咒", "喚",
+          "乖", "掏", "擋", "筋", "修"
+        ],
+        "zhuyin": [
+          ["ㄑㄧˊ"], ["ㄐㄩˊ"], ["ㄉㄡˇ"], ["ㄕㄥˋ"], ["ㄒㄧㄢ"],
+          ["ㄆㄥ"], ["ㄧㄚ"], ["ㄍㄨ"], ["ㄓㄡˋ"], ["ㄏㄨㄢˋ"],
+          ["ㄍㄨㄞ"], ["ㄊㄠ"], ["ㄉㄤˇ"], ["ㄐㄧㄣ"], ["ㄒㄧㄡ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，填入適當的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "在", "向", "從", "在"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，填入答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "1", "5", "3"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "6", "2", "3", "1", "4", "5"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "足智多謀", "他為了到西方取經通過火焰山，變成小蟲逼鐵扇公主借扇，再接著變成牛魔王騙鐵扇公主。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "作文練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,837 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 11,
+                  "isSingleImage" : true,
+                  "rowCount" : 5,
+                  "totalCount" : 20,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/dollar1.png"
+                    }
+                  ]
+                }
+               
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 20,
+                  "isSingleImage" : true,
+                  "rowCount" : 5,
+                  "totalCount" : 20,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/dollar1.png"
+                    }
+                  ]
+                }
+               
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 0,
+                  "isSingleImage" : true,
+                  "rowCount" : 8,
+                  "totalCount" : 6,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/dollar1.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 0,
+                  "isSingleImage" : true,
+                  "rowCount" : 8,
+                  "totalCount" : 8,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/dollar1.png"
+                    }
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "14", "14" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 0 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "30" ],
+                    [ "6" ],
+                    [ "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8" ],
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 50,
+                  "isSingleImage" : true,
+                  "rowCount" : 10,
+                  "totalCount" : 50,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/dollar1.png"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 10,
+                  "isSingleImage" : true,
+                  "rowCount" : 5,
+                  "totalCount" : 15,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/dollar5.png"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 5,
+                  "isSingleImage" : true,
+                  "rowCount" : 5,
+                  "totalCount" : 10,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/dollar10.png"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "5" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "50" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 20,
+                  "isSingleImage" : true,
+                  "rowCount" : 10,
+                  "totalCount" : 40,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/dollar5.png"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 10,
+                  "isSingleImage" : true,
+                  "rowCount" : 8,
+                  "totalCount" : 24,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/dollar10.png"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 2,
+                  "isSingleImage" : true,
+                  "rowCount" : 5,
+                  "totalCount" : 10,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/dollar50.png"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 0 ],
+                      [ 1 ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "100" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "55" ],
+                    [ "89" ],
+                    [ "100" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "63" ],
+                    [ "48" ],
+                    [ "99" ],
+                    [ "56" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "佳如" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "維中" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "money",
+                "extras": {
+            			"100" : {
+            				"shape" : "rectangle",
+            				"number" : 0
+            			},
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 8
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 5
+            			}
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "money",
+                "extras": {
+            			"100" : {
+            				"shape" : "rectangle",
+            				"number" : 0
+            			},
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 7
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 4
+            			}
+            		}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "money",
+                "extras": {
+            			"100" : {
+            				"shape" : "rectangle",
+            				"number" : 0
+            			},
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 9
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 2
+            			}
+            		}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "money",
+                "extras": {
+            			"100" : {
+            				"shape" : "rectangle",
+            				"number" : 0
+            			},
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 6
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 0
+            			}
+            		}
+            	},
+            	{
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "money",
+                "extras": {
+            			"100" : {
+            				"shape" : "rectangle",
+            				"number" : 0
+            			},
+            			"10" : {
+            				"shape" : "circle",
+            				"number" : 4
+            			},
+            			"1" : {
+            				"shape" : "circle",
+            				"number" : 0
+            			}
+            		}
+            	},
+            	{
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

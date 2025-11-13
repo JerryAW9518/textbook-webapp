@@ -1,0 +1,440 @@
+[
+  {
+    "title": "",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "=\\frac{25}{9} × \\frac{27}{5}" ],
+                    [ "= 15" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "= \\frac{21}{8} ×  \\frac{10}{3}" ],
+                    [ "= \\frac{35}{4}" ],
+                    [ "=8 \\frac{3}{4}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "40 × 2\\frac{3}{5}" ],
+                    [ "= 40 × \\frac{13}{5}" ],
+                    [ "= 104"],
+                    [ "40 × 3\\frac{1}{4}" ],
+                    [ "= 40 × \\frac{13}{4}"],
+                    [ "= 130" ],
+                    [ "答：阿姨 104 元，媽媽 130 元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{3}{2} × \\frac{3}{5}" ],
+                    [ "= \\frac{9}{10}" ],
+                    [ "答 : \\frac{}{}公斤" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "畫法 略" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "畫法 略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "28.35×36＝1020.6" ],
+                    [ "答：1020.6 公克" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1.45×15＝21.75" ],
+                    [ "答：21.75 公斤" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.148×55＝8.14" ],
+                    [ "答：8.14 元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1.2×1.2×1.2＝1.728" ],
+                    [ "答：1.728 立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4 公尺＝400 公分" ],
+                    [ "1.25 公尺＝125 公分" ],
+                    [ "2.1 公尺＝210 公分" ],
+                    [ "400×125×210＝10500000" ],
+                    [ "答：10500000 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "30－10－10＝10" ],
+                    [ "20×10×10＝2000" ],
+                    [ "2000×4＝8000" ],
+                    [ "答：8000 立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "10×10×10＝1000" ],
+                    [ "5×5×5＝125" ],
+                    [ "1000－125＝875" ],
+                    [ "答：875 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.624÷4＝0.156" ],
+                    [ "答：0.156 公斤" ]
+                  ]
+                }
+              },
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 0.0624,
+                  "divisor": 4,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }  
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1.235÷5＝0.247" ],
+                    [ "答：0.247 公斤" ]
+                  ]
+                }
+              },
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 1.235,
+                  "divisor": 5,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }  
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.72÷6＝0.12" ],
+                    [ "答：0.12 公斤" ]
+                  ]
+                }
+              },
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 0.72,
+                  "divisor": 6,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }  
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "5.04÷3＝1.68" ],
+                    [ "答：1.68 公斤" ]
+                  ]
+                }
+              },
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 5.04,
+                  "divisor": 3,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }  
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

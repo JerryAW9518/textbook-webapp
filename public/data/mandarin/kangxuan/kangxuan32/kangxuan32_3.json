@@ -1,0 +1,159 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "髮", "椅", "架", "電", "腦",
+          "拾", "助", "區", "戴", "麻",
+          "雀", "吵", "魔", "展", "術",
+          "製", "鏡", "號"
+        ],
+        "zhuyin": [
+          ["ㄈㄚˇ"], ["ㄧˇ"], ["ㄐㄧㄚˋ"], ["ㄉㄧㄢˋ"], ["ㄋㄠˇ"],
+          ["ㄕˊ"], ["ㄓㄨˋ"], ["ㄑㄩ"], ["ㄉㄞˋ"], ["ㄇㄚˊ"],
+          ["ㄑㄩㄝˋ"], ["ㄔㄠˇ"], ["ㄇㄛˊ"], ["ㄓㄢˇ"], ["ㄕㄨˋ"],
+          ["ㄓˋ"], ["ㄐㄧㄥˋ"], ["ㄏㄠˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先讀一讀，再填入正確的國字。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "炒", "沙", "妙", "吵"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "圈出適當的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "張", "本"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "副", "幅"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "朵", "滴"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "圈出使用錯誤的詞語，並寫出正確的答案。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "失散", "散落"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "安靜", "吵鬧"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "假裝", "假如"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "活動", "活力"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "作文練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1552 @@
+[
+  {
+    "title": "3-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "40" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 5,
+            		"multiplicand" : 8 
+            	}
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "300" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 60,
+            		"multiplicand" : 5 
+            	}
+              
+              }    
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10 x 6 = 60" ],
+                    [ "答：60元" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 10,
+            		"multiplicand" : 6 
+            	}
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "80 x 5 = 400" ],
+                    [ "答：400元" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 80,
+            		"multiplicand" : 5 
+            	}
+              }    
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "3-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8" ],
+                    [ "40" ],
+                    [ "48" ],
+                    [ "答:(48)元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "12 x 4 = 48" ],
+                    [ "答：48位" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 12,
+            		"multiplicand" : 4 
+            	}
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "32 x 3 = 96" ],
+                    [ "答：96個" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 32,
+            		"multiplicand" : 3 
+            	}
+              }    
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "18" ],
+                    [ "60" ],
+                    [ "78" ],
+                    [ "答:78元"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "60" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 15,
+            		"multiplicand" : 4 
+            	}
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "84" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 28,
+            		"multiplicand" : 3 
+            	}
+              }    
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "450" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 75,
+            		"multiplicand" : 6 
+            	}
+              }    
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "204" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 68,
+            		"multiplicand" : 3 
+            	}
+              }    
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "31 x 7 = 217" ],
+                    [ "答：217天" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 31,
+            		"multiplicand" : 7
+            	}
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "25 x 8 = 200" ],
+                    [ "答：200公分" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 25,
+            		"multiplicand" : 8
+            	}
+              }    
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "3-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1000" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "40" ],
+                    [ "400" ],
+                    [ "4000" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "800" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 400,
+            		"multiplicand" : 2
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6300" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 900,
+            		"multiplicand" : 7
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3000" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 600,
+            		"multiplicand" : 5
+            	}
+              }   
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "300 x 7 = 2100" ],
+                    [ "答:2100元" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 300,
+            		"multiplicand" : 7
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "900 x 9 = 8100" ],
+                    [ "答:8100元" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 900,
+            		"multiplicand" : 9
+            	}
+              }   
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "3-4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6" ],
+                    [ "30" ],
+                    [ "300" ],
+                    [ "336" ],
+                    [ "答:336元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "424" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 212,
+            		"multiplicand" : 2
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "550" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 110,
+            		"multiplicand" : 5
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "969" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 323,
+            		"multiplicand" : 3
+            	}
+              }   
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "585" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 117,
+            		"multiplicand" : 5
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "608" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 152,
+            		"multiplicand" : 4
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1668" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 834,
+            		"multiplicand" : 2
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "861" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 287,
+            		"multiplicand" : 3
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2688" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 672,
+            		"multiplicand" : 4
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5490" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 915,
+            		"multiplicand" : 6
+            	}
+              }   
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "295 x 3 = 885" ],
+                    [ "答:885元" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 295,
+            		"multiplicand" : 3
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "125 x 4 = 500" ],
+                    [ "答:500條" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 125,
+            		"multiplicand" : 4
+            	}
+              }   
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1592" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 199,
+            		"multiplicand" : 8
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1304" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 326,
+            		"multiplicand" : 4
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1005" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 335,
+            		"multiplicand" : 3
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4524" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 754,
+            		"multiplicand" : 6
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7000" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 875,
+            		"multiplicand" : 8
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8991" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 999,
+            		"multiplicand" : 9
+            	}
+              }   
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "699 x 6 = 4194" ],
+                    [ "答:4194元"]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 699,
+            		"multiplicand" : 6
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "989 x 5 = 4945" ],
+                    [ "答:4945個"]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 989,
+            		"multiplicand" : 5
+            	}
+              }   
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "609" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 203,
+            		"multiplicand" : 3
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1809" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 201,
+            		"multiplicand" : 9
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5200" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 650,
+            		"multiplicand" : 8
+            	}
+              }   
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "102 x 9 = 918" ],
+                    [ "答:918"]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 102,
+            		"multiplicand" : 9
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "506 x 8 = 4048" ],
+                    [ "答:4048元"]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 506,
+            		"multiplicand" : 8
+            	}
+              }   
+            ]
+          }
+        ]
+      },
+      {
+        "title": "9",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "✓" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "3-5",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "1800元",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "4000元",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "600顆",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "1800",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "525" ],
+                    [ "525" ],
+                    [ "答:525元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "100" ]
+                  ]
+                }
+              },
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "100x5=500"
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "500元" ]
+                  ]
+                }
+              }  
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合篇",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "504" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 63,
+            		"multiplicand" : 8 
+            	}
+              
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2982" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 497,
+            		"multiplicand" : 6 
+            	}
+              
+              }              
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "412 x 3",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "55 x 4",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }  
+            ]
+          }
+        ]
+      },
+      {
+      
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4" ],
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5" ],
+                    [ "5" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "365 x 3 = 1095" ],
+                    [ "答:1095天" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "6月", "7月", "8月", "9月", "10月", "11月", "12月"
+                    ],
+                    [
+                      "30", "31", "31", "30", "31", "30", "31"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "31 x 4 = 124" ],
+                    [ "30 x 3 = 90" ],
+                    [ "124 + 90 = 214" ],
+                    [ "答:214天" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "12 x 6 = 72" ],
+                    [ "答:72枝" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "72 x 5 = 360" ],
+                    [ "答:360枝" ]
+                  ]
+                }
+              }  
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "137 x 2 = 274" ],
+                    [ "答:274公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "274 x 5 = 1370" ],
+                    [ "答:1370公尺" ]
+                  ]
+                }
+              }  
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

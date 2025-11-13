@@ -1,0 +1,213 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "初", "夏", "桐", "梢", "抬",
+          "染", "腰", "覆", "簇",
+          "簇", "椏", "鋪", "瓣", "禮",
+          "肩", "取", "掌", "蕊", "童"
+        ],
+        "zhuyin": [
+          ["ㄔㄨ"], ["ㄒㄧㄚˋ"], ["ㄊㄨㄥˊ"], ["ㄕㄠ"], ["ㄊㄞˊ"],
+          ["ㄖㄢˇ"], ["ㄧㄠ"], ["ㄈㄨˋ"], ["ㄘㄨˋ"],
+          ["ㄘㄨˋ"], ["ㄧㄚ"], ["ㄆㄨ"], ["ㄅㄢˋ"], ["ㄌㄧˇ"],
+          ["ㄐㄧㄢ"], ["ㄑㄩˇ"], ["ㄓㄤˇ"], ["ㄖㄨㄟˇ"], ["ㄊㄨㄥˊ"]
+        ]
+      },
+      {
+      	"title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "讀一讀，再填入正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "銅"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "筒"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "桐"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "洞"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "茼"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先寫出短語，再寫完整句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "緩緩", "蝴蝶緩緩飛來，停在五彩繽紛的花朵上。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "紛紛", "棒球比賽即將開打，在場外的觀眾紛紛進入球場看台。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1", "2", "4", "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ① 油桐...", "✓ ③ 五片雪白..."
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "山林間的白雪 (僅供參考)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "聽一聽，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "1",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 0 ],
+              [ 2 ]
+            ]
+          ]
+        }
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③ 每月盛開..."
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ① 與主題無關"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      }
+    ]
+  }
+]

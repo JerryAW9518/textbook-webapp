@@ -1,0 +1,155 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "幕", "獵", "餐", "損", "威",  
+          "虎", "逃", "鹿", "填", "胃",
+          "獵", "布", "理", "撲", "夠",
+          "槍", "砰"
+        ],
+        "zhuyin": [
+          ["ㄇㄨˋ"], ["ㄌㄧㄝˋ"], ["ㄘㄢ"], ["ㄙㄨㄣˇ"], ["ㄨㄟ"], 
+          ["ㄏㄨˇ"], ["ㄊㄠˊ"], ["ㄌㄨˋ"], ["ㄊㄧㄢˊ"], ["ㄨㄟˋ"],
+          ["ㄌㄧㄝˋ"], ["ㄅㄨˋ"], ["ㄌㄧˇ"], ["ㄆㄨ"], ["ㄍㄡˋ"],
+          ["ㄑㄧㄤ"], ["ㄆㄥ"]
+        ]
+      },
+      {
+      	"title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "讀一讀，再填入正確國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "幕", "幕", "幕", "慕"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "損", "損", "捐"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據情境，完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1", "2", "才可以發現有許多小昆蟲躲在裡面。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ (2)",
+          "只有均衡飲食，養成運動的習慣，才能保持身體健康。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文故事情境，完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "鼠鹿他聲音充滿了擔憂，臉上表情凝重說到：「等一等，您是大王，吃東西不能隨便，要不然傳出去多難聽！」"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "作文練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

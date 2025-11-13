@@ -1,0 +1,130 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "簇", "簇", "潔", "桐", "漫", "遍", 
+          "瞬", "踮"
+        ],
+        "zhuyin": [
+          ["ㄘㄨˋ"], ["ㄘㄨˋ"], ["ㄐㄧㄝˊ"], ["ㄊㄨㄥˊ"], ["ㄇㄢˋ"], ["ㄅㄧㄢˋ"], 
+          ["ㄕㄨㄣˋ"], ["ㄉㄧㄢˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "芝", "磨", "磨", "碎",
+          "擂"
+        ],
+        "zhuyin": [
+          ["ㄓ"], ["ㄇㄛˋ"], ["ㄇㄛˊ"], ["ㄙㄨㄟˋ"], 
+          ["ㄌㄟˊ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "趕", "冒", "漫"
+        ],
+        "zhuyin": [
+          ["ㄍㄢˇ"], ["ㄇㄠˋ"], ["ㄇㄢˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、縮寫句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "舀出", "放上", "加上", "攪拌"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "舀出豆花，放上配料，加上糖水和碎冰攪拌"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、接寫練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "放眼望去", "雲霧繚繞宛如仙境"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "走近一看", "迎風搖動，就像狐狸尾巴一樣美麗"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "起因",
+        "category": "vocabulary",
+        "answers": [
+          "大背包"
+        ]
+      },
+      {
+        "title": "到達入口",
+        "category": "vocabulary",
+        "answers": [
+          "細碎的白花"
+        ]
+      },
+      {
+        "title": "沿著步道",
+        "category": "vocabulary",
+        "answers": [
+          "新娘身上長長的白紗"
+        ]
+      },
+      {
+        "title": "走進涼亭",
+        "category": "vocabulary",
+        "answers": [
+          "清淡的茶香", "客家擂茶"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、寫作練習",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

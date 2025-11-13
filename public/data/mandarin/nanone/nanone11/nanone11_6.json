@@ -1,0 +1,107 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "滿", "紅", "金"
+        ],
+        "zhuyin": [
+          ["ㄇㄢˇ"], ["ㄏㄨㄥˊ"], ["ㄐㄧㄣ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "悄", "悄", "缸", "吐"
+        ],
+        "zhuyin": [
+          ["ㄑㄧㄠˇ"], ["ㄑㄧㄠˇ"], ["ㄍㄤ"], ["ㄊㄨˇ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "句", "話", "都", "說", "搖",
+          "尾", "巴"
+        ],
+        "zhuyin": [
+          ["ㄐㄩˋ"], ["ㄏㄨㄚˋ"], ["ㄉㄡ"], ["ㄕㄨㄛ"], ["ㄧㄠˊ"],
+          ["ㄨㄟˇ"], ["˙ㄅㄚ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、填一填",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "兩"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "二"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "二"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "兩"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、用「......都是......」合併句子。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "杯子", "眼鏡"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "鍋子", "果汁", "媽媽買的"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③"
+        ]
+      }
+    ]
+  }
+]

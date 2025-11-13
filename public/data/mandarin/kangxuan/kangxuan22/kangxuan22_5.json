@@ -1,0 +1,163 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "爺", "爺", "軍", "機", "採",
+          "品", "告", "訴", "管", "流",
+          "辛", "苦", "蕉", "蓋", "堅",
+          "固", "安", "剛", "幅", "幅",
+          "寶", "貝"
+        ],
+        "zhuyin": [
+          ["ㄧㄝ˙"], ["˙ㄧㄝ"], ["ㄐㄩㄣ"], ["ㄐㄧ"], ["ㄘㄞˇ"],
+          ["ㄆㄧㄣˇ"], ["ㄍㄠˋ"], ["ㄙㄨˋ"], ["ㄍㄨㄢˇ"], ["ㄌㄧㄡˊ"],
+          ["ㄒㄧㄣ"], ["ㄎㄨˇ"], ["ㄐㄧㄠ"], ["ㄍㄞˋ"], ["ㄐㄧㄢ"],
+          ["ㄍㄨˋ"], ["ㄢ"], ["ㄍㄤ"], ["ㄈㄨˊ"], ["ㄈㄨˊ"],
+          ["ㄅㄠˇ"], ["ㄅㄟˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "找一找，寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "口部 ： 問、唱", "囗部 ： 固、因"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "口部 ： 吊、后", "囗部 ： 回、圈"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，圈出正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "他", "你", "我們", "你們", "我"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "用不管...都...完成對話",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "努力的站在風雨中"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "我都能堅持到底"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據提示完成答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "香蕉", "妹妹"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "軍人", "軍服", "飛機"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "永成"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "家事", "小寶貝"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據提示想一想，再作答",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "(1) ➝ 警察", "(2) ➝ 廚師", "(3) ➝ 醫生"
+        ]
+      },
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 2 ],
+              [ 0 ]
+            ]
+          ]
+        }
+      }, 
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "穿著潛水裝備", "在海底探險", "充滿冒險精神"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

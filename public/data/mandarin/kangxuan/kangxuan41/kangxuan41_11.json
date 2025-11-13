@@ -1,0 +1,159 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "扇", "汁", "盒", "錶", "鑰",
+          "匙", "袋", "迫", "背", "示",
+          "深", "鎖", "哭", "遲", "掉"
+        ],
+        "zhuyin": [
+          ["ㄕㄢˋ"], ["ㄓ"], ["ㄏㄜˊ"], ["ㄅㄧㄠˇ"],["ㄧㄠˋ"], 
+          ["˙ㄕ"], ["ㄉㄞˋ"], ["ㄆㄛˋ"], ["ㄅㄟˋ"], ["ㄕˋ"],
+          ["ㄕㄣ"], ["ㄙㄨㄛˇ"], ["ㄎㄨ"], ["ㄔˊ"], ["ㄉㄧㄠˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先組成國字，再把正確的國字填入句子裡。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "合",
+        "category": "vocabulary",
+        "answers": [
+          "盒"
+        ]
+      },
+      {
+        "title": "分",
+        "category": "vocabulary",
+        "answers": [
+          "盆"
+        ]
+      },
+      {
+        "title": "成",
+        "category": "vocabulary",
+        "answers": [
+          "盛"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "盛", "盒", "盆"
+        ]
+      }
+
+    ]
+  },
+  {
+    "title": "三、勾選最具體的句子，再完成接寫",
+    "subtitle": "",
+    "question": [
+     
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 團團轉", "阿姨最近工作忙得團團轉。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、接寫句子，再另外造一個句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "夫人等太久。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "避免因為太緊張而失常"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "我們在圖書館時應該保持安靜，以免影響到其他的閱讀者。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文、回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、先讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "title": "一、連連看",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 3,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1"
+          	],
+          	[
+            	"", "", ""
+          	],
+          	[
+            	"", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 1 ],
+          		[ 2 ],
+          		[ 0 ]
+        		],
+        		[
+          		[ 2 ],
+          		[ 1 ],
+          		[ 0 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "special": "noNumber",
+        "answers": [
+          "火", "門", "山"
+        ],
+        "zhuyin": [
+          ["ㄏㄨㄛˇ"], ["ㄇㄣˊ"], ["ㄕㄢ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先圈出相同的地方，再選出正確的國字。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "在", "堆"
+        ]
+      }, 
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "個", "停"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "special": "noNumber",
+        "answers": [
+          "堆", "出", "個", "山", "洞",
+          "又", "做", "小", "火", "車",
+          "開", "心", "過"
+        ],
+        "zhuyin": [
+          ["ㄉㄨㄟ"], ["ㄔㄨ"], ["˙ㄍㄜ"], ["ㄕㄢ"], ["ㄉㄨㄥˋ"],
+          ["ㄧㄡˋ"], ["ㄗㄨㄛˋ"], ["ㄒㄧㄠˇ"], ["ㄏㄨㄛˇ"], ["ㄔㄜ"],
+          ["ㄎㄞ"], ["ㄒㄧㄣ"], ["ㄍㄨㄛˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、圈一圈，說一說。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "快樂", "開心", "快快樂樂", "開開心心", "高興", "高高興興"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "我比較喜歡女生寫的，因為用了“快快樂樂”、“開開心心”、“高高興興”這些詞，讓句子變得更有趣，感覺更開心。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、看圖完成短語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "花瓣"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "一本", "書"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "一顆", "一顆", "水果"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、看圖選出代號，再讀一讀句子。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "ㄅ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "ㄆ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "ㄇ"
+        ]
+      }
+    ]
+  }
+]

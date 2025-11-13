@@ -1,0 +1,119 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "秋", "方", "松", "鼠", "從",
+          "很", "卡", "片", "採", "果",
+          "埋", "吃", "飽"
+        ],
+        "zhuyin": [
+          ["ㄑㄧㄡ"], ["ㄈㄤ"], ["ㄙㄨㄥ"], ["ㄕㄨˇ"], ["ㄘㄨㄥˊ"],
+          ["ㄏㄣˇ"], ["ㄎㄚˇ"], ["ㄆㄧㄢˋ"], ["ㄘㄞˇ"], ["ㄍㄨㄛˇ"],
+          ["ㄇㄞˊ"], ["ㄔ"], ["ㄅㄠˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 採果子"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依據課文，填上順序",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "4 收到卡片", "2 埋進土裡", "1 採果子", "3 從土裡冒出來"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖照樣造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "跳來來去", "找小蟲"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "鴨子", "游來游去", "追小魚"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、想一想，連一連",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["➝ 我很喜歡..."]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["➝ 我會寫..."]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["➝ 謝謝你..."]
+      },
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 0 ],
+              [ 2 ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "五、我會寫卡片",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "小熊", "藍色帽子", "請您吃蜂蜜", "小松鼠", "七", "七"
+        ]
+      }
+    ]
+  }
+]

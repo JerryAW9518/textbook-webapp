@@ -1,0 +1,143 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "太", "陽", "冒", "草", "心"
+        ],
+        "zhuyin": [
+          ["ㄊㄞˋ"], ["ㄧㄤˊ"], ["ㄇㄠˋ"], ["ㄘㄠˇ"], ["ㄒㄧㄣ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "冬", "過", "後", "為", "土"
+        ],
+        "zhuyin": [
+          ["ㄉㄨㄥ"], ["ㄍㄨㄛˋ"], ["ㄏㄡˋ"], ["ㄨㄟˋ"], ["ㄊㄨˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 睡覺"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "充"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "電"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "雨"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "哭"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、依課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖照樣照句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "大樹", "被吹倒"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "大雨", "花朵", "被打到地上"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、看圖寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "唱歌"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "準備早餐"
+        ]
+      }
+    ]
+  }
+]

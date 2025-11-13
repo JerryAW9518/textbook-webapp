@@ -1,0 +1,130 @@
+[
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "念", "首", "詠", "鵝", "詩",
+          "歲", "作"
+        ],
+        "zhuyin": [
+          ["ㄋㄧㄢˋ"], ["ㄕㄡˇ"], ["ㄩㄥˇ"], ["ㄜˊ"], ["ㄕ"],
+          ["ㄙㄨㄟˋ"], ["ㄗㄨㄛˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "隻", "脖", "掌", "撥", "倒", "肚"
+        ],
+        "zhuyin": [
+          ["ㄓ"], ["ㄅㄛˊ"], ["ㄓㄤˇ"], ["ㄅㄛ"], ["ㄉㄠˋ"], ["ㄉㄨˋ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "浮", "項", "指", "波", "曲",
+          "伸", "翻", "身", "體"
+        ],
+        "zhuyin": [
+          ["ㄈㄨˊ"], ["ㄒㄧㄤˋ"], ["ㄓˇ"], ["ㄅㄛ"], ["ㄑㄩ"],
+          ["ㄕㄣ"], ["ㄈㄢ"], ["ㄕㄣ"], ["ㄊㄧˇ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 小魚"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、找一找",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "作", "介", "伸", "今"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "掌", "撥", "拍", "拿"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "倒", "住"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "抱", "把"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、意思一樣的句子請打✓",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 駱賓王作這首詩時只有七歲呵!"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 表弟只有五歲，就知道幫忙做家事了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、閱讀小偵探。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      }
+    ]
+  }
+]

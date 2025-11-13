@@ -1,0 +1,128 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "唾", "沫", "衛"
+        ],
+        "zhuyin": [
+           ["ㄊㄨㄛˋ"], ["ㄇㄛˋ"], ["ㄨㄟˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "隊", "忠", "灣", "島"
+        ],
+        "zhuyin": [
+          ["ㄉㄨㄟˋ"], ["ㄓㄨㄥ"], ["ㄨㄢ"], ["ㄉㄠˇ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "寒", "椰", "糖", "甜"
+        ],
+        "zhuyin": [
+          ["ㄏㄢˊ"], ["ㄧㄝˊ"], ["ㄊㄤˊ"], ["ㄊㄧㄢˊ"]
+        ]
+      },
+      {
+        "title": "我會辨字練習",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "話", "活", "甜"
+        ],
+        "zhuyin": [
+          ["ㄏㄨㄚˋ"], ["ㄏㄨㄛˊ"], ["ㄊㄧㄢˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、理解句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 姐姐像安靜的貓咪一樣的安靜。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 爸爸像高大的樹一樣的高大。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、造句練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "在森林裡，猴子們經常成群結隊地在樹上玩耍和覓食。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "作者可能形容台灣像童話一樣美麗，是因為台灣擁有多樣的自然風景和文化景觀，使其類似於童話故事中的奇幻世界。這種形容可能來自於作者對台灣獨特之處的賞識，包括壯麗的山脈、綠意盎然的田野、美麗的海岸線以及豐富多樣的傳統和歷史文化。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、讀一讀詩歌，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 飛跑著的烏雲", "✓ 飛滿了塵土的天空"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "也洗淨了悶熱的飛滿了塵土的", "那就是掛在明亮的雨後的天空中的紅、橙、黃、綠、青、藍、紫的七彩的虹。"
+        ]
+      }
+    ]
+  }
+]

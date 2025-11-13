@@ -1,0 +1,171 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "彰", "築", "倚", "遛", "繫",
+          "豔", "醬", "辣", "購", "贈",
+          "托", "貨" 
+        ],
+        "zhuyin": [
+          ["ㄓㄤ"], ["ㄓㄨˊ"], ["ㄧˇ"], ["ㄌㄧㄡˋ"], ["ㄐㄧˋ"],
+          ["ㄧㄢˋ"], ["ㄐㄧㄤˋ"], ["ㄌㄚˋ"], ["ㄍㄡˋ"], ["ㄗㄥˋ"],
+          ["ㄊㄨㄛ"], ["ㄏㄨㄛˋ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 下午二點", "✓ 上午十一點"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、語詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "東張西望"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "引人入勝"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "無所不在"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "千篇一律"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "井然有序"
+        ]
+      },
+      {
+        "title": "6",
+        "category": "vocabulary",
+        "answers": [
+          "相得益彰"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、字詞疊疊樂",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "逛逛", "林林總總", "黃澄澄", "紅通通", "整整齊齊", "熱騰騰"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "這部電影的特效固然十分震撼，但是劇情有些過於單調。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 這件工作...", "✓ 種類繁多的泡麵..."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "在旅行時，我會逛當地的夜市，因為可以品嘗特色小吃，還能感受當地的熱鬧氛圍。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 翻閱和查找相關書籍", "✓ 詢問市場的菜販果農"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 觀看城鎮"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "對作者而言，無論是遊走於世界各地的市場，還是本地的菜市場，都有著一樣的吸引力——它們充滿了生活氣息、各式各樣的商品和熱鬧的人群，能讓他體驗到當地的文化與日常，並與人們的生活密切連結。"
+        ]
+      }
+    ]
+  }
+]

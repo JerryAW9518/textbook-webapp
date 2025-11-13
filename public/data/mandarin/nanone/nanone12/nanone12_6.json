@@ -1,0 +1,99 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "孩", "回", "頭", "發", "現",
+          "怎", "躲"
+        ],
+        "zhuyin": [
+          ["ㄏㄞˊ"], ["ㄏㄨㄟˊ"], ["ㄊㄡˊ"], ["ㄈㄚ"], ["ㄒㄧㄢˋ"],
+          ["ㄗㄣˇ"], ["ㄉㄨㄛˇ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "想", "讓", "縮"
+          
+        ],
+        "zhuyin": [
+          ["ㄒㄧㄤˇ"], ["ㄖㄤˋ"], ["ㄙㄨㄛ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "就", "知", "道", "鄰", "居"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄡˋ"], ["ㄓ"], ["ㄉㄠˋ"], ["ㄌㄧㄣˊ"], ["ㄐㄩ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、選出適當的語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["什麼"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["怎麼"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["為什麼"]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["什麼"]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["響起", "馬上去接聽電話"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["音樂一播放，哥哥就跳起舞來。"]
+      }
+    ]
+  },
+  {
+    "title": "四、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["3"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["1"]
+      }
+    ]
+  }
+]

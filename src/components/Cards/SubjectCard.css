@@ -1,0 +1,141 @@
+.subject-card {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: var(--radius-xl);
+  padding: var(--spacing-2xl);
+  box-shadow: var(--shadow-md);
+  cursor: pointer;
+  transition: all var(--transition-normal) cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+  min-height: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-lg);
+  border: 2px solid transparent;
+}
+
+/* 背景漸層效果 */
+.subject-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg,
+    var(--card-color) 0%,
+    transparent 100%
+  );
+  opacity: 0.1;
+  transition: opacity var(--transition-normal) ease;
+}
+
+.subject-card:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
+  border-color: var(--card-color);
+}
+
+.subject-card:hover::before {
+  opacity: 0.15;
+}
+
+.subject-card:active {
+  transform: translateY(-6px) scale(1);
+}
+
+/* 圖標 */
+.card-icon {
+  font-size: 4rem;
+  line-height: 1;
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.1));
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+/* 標題 */
+.card-title {
+  font-size: 2rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  text-align: center;
+  margin: 0;
+}
+
+/* 箭頭 */
+.card-arrow {
+  position: absolute;
+  bottom: var(--spacing-lg);
+  right: var(--spacing-lg);
+  width: 40px;
+  height: 40px;
+  background: var(--card-color);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  opacity: 0.8;
+  transition: all var(--transition-normal) ease;
+}
+
+.subject-card:hover .card-arrow {
+  opacity: 1;
+  transform: translateX(4px);
+}
+
+.card-arrow svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* 平板優化 */
+@media (min-width: 768px) {
+  .subject-card {
+    min-height: 320px;
+  }
+
+  .card-icon {
+    font-size: 5rem;
+  }
+
+  .card-title {
+    font-size: 2.25rem;
+  }
+}
+
+/* 大螢幕優化 */
+@media (min-width: 1024px) {
+  .subject-card {
+    min-height: 360px;
+  }
+
+  .card-icon {
+    font-size: 6rem;
+  }
+
+  .card-title {
+    font-size: 2.5rem;
+  }
+}
+
+/* 觸控友善 */
+@media (hover: none) {
+  .subject-card:hover {
+    transform: none;
+  }
+
+  .subject-card:active {
+    transform: scale(0.98);
+  }
+}

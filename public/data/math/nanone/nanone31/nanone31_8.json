@@ -1,0 +1,1114 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {1} {4}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {2} {4}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {4} {8}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {2} {6}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {4} {10}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {2} {9}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {3} {9}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {4} {9}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "7" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {6} {8}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {4} {10}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "7" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {5} {9}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {3} {10}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {9} {10}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {8} {12}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {4} {12}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "6" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "8-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {1} {6}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "3" ],
+                  	[ "\\frac {3} {6}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1\n(3)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "5", "5" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {1} {4}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "2" ],
+                  	[ "\\frac {2} {4}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(3)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "4", "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "3" ],
+                  	[ "\\frac {3} {10}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3\n(3)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "10", "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "6" ],
+                  	[ "6" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {2} {7}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(3)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "7" ],
+                  	[ "1" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {3} {10}", "\\frac {5} {10}", "\\frac {6} {10}" ],
+                  	[ "\\frac {10} {10}", "\\frac {8} {10}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {1} {11}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                    [ "5"],
+                  	[ "\\frac {5} {11}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1\n(3)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {8} {11}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {1} {8}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "6"],
+                  	[ "\\frac {6} {8}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(3)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "8", "1" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2\n(4)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {1} {9}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "2" ],
+                  	[ "\\frac {2} {9}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3\n(3)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "6" ], 
+                  	[ "\\frac {6} {9}"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3\n(4)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "7", "7" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3\n(5)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "9" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合篇",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "11", "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {6} {11}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {5} {12}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {4} {7}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4\n(3)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "7" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5\n(1)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {3} {8}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5\n(2)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "8", "5" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5\n(3)",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "8" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "tex": [
+                  	[ "\\frac {4} {4}", "\\frac {6} {6}", "\\frac {10} {10}", "\\frac {8} {8}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

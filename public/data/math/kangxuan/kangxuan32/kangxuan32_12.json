@@ -1,0 +1,834 @@
+[
+  {
+    "title": "",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6.7" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "9", "1" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2.4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "15", "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "227" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "135" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "7",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "186", "93" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "8",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "190", "190" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "9",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "10",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "43" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "11",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "13.3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "12",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8", "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "13",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1", "0.1" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "圓心" ],
+                    [ "半徑" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄆ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "39", "0" ]
+                  ]
+                }
+              },
+              {
+              
+                "category": "division",
+                "border" : false,
+                "extras": {
+            				"dividend" : 312,
+            				"divisor" : 8
+            			}
+            	},
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "驗算" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 39,
+            			"multiplicand" : 8 
+            		}
+            	}    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "134", "1" ]
+                  ]
+                }
+              },
+              {
+              
+                "category": "division",
+                "border" : false,
+                "extras": {
+            				"dividend" : 403,
+            				"divisor" : 3
+            			}
+            	},
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "驗算" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 134,
+            			"multiplicand" : 3 
+            		}
+            	}    
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "ㄆ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "甲", "乙", "丙", "丁", "合計"
+                    ],
+                    [
+                      "", "", "12", "", ""
+                    ],
+                    [
+                      "14", "12", "", "", ""
+                    ],
+                    [
+                      "", "", "27", "", "111"
+                    ]
+                    
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "丙" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "丙", "甲", "丁", "乙" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "甲", "丙" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "111" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "42.3" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	    "line" : [ "47", "4.7"]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "32.1" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	    "line" : [ "20.3", "11.8"]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "12.9 + 6.2 = 19.1" ],
+                    [ "答 : 19.1公升" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	    "line" : [ "12.9", "6.2"]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1.4 - 0.5 = 0.9" ],
+                    [ "答 : 0.9公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	    "line" : [ "1.4", "0.5"]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1時27分 + 2時15分" ],
+                    [ "= 3時42分" ],
+                    [ "答 : 3小時42分鐘" ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "+",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 1,
+                      "minute": 27,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 2,
+                      "minute": 15,
+                      "second": 0
+                    }
+                  ],
+                  "number": 2,
+                  "fields": {
+                    "day": false,
+                    "hour": true,
+                    "minute": true,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "11時40分 - 2時25分" ],
+                    [ "= 9時15分" ],
+                    [ "答 : 上午9時15分" ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "-",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 11,
+                      "minute": 40,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 2,
+                      "minute": 25,
+                      "second": 0
+                    }
+                  ],
+                  "number": 2,
+                  "fields": {
+                    "day": false,
+                    "hour": true,
+                    "minute": true,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "9",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "276 ÷ 6 = 46" ],
+                    [ "答 : 46盒" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "border" : false,
+                "extras": {
+            				"dividend" : 276,
+            				"divisor" : 6
+            			}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "72 ÷ 6 = 12" ],
+                    [ "答 : 12元" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "border" : false,
+                "extras": {
+            				"dividend" : 72,
+            				"divisor" : 6
+            			}
+            	}
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "126 ÷ 9 = 14" ],
+                    [ "答 : 14天" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "border" : false,
+                "extras": {
+            				"dividend" : 126,
+            				"divisor" : 9
+            			}
+            	}
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "12 x 8 = 96" ],
+                    [ "答 : 96個" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "border" : false,
+                "extras": {
+            				"dividend" : 12,
+            				"divisor" : 8
+            			}
+            	}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "title": "5-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "16隻" ],
+                    [ "20隻" ],
+                    [ "17隻" ],
+                    [ "12隻" ],
+                    [ "13隻" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "25片" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "28片" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "27片" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "30片" ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "showValue" : true,
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "19",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "18",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "showValue" : true,
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "23",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "24",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "showValue" : true,
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "18",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "16",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "showValue" : true,
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "28",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "30",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "三",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "27", "26", "24" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "18", "17", "15" ]
+                  ]
+                }
+              }
+              
+            ]
+          }
+        ]
+      },
+      {
+      
+        "title": "四",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      
+      }
+    ]
+  },
+  {
+    "title": "5-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "30顆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "24隻" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "26隻" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "圈法(略)"
+                    ],
+                    [
+                      "26隻"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "三",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ"
+                    ],
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ"
+                    ],
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ"
+                    ],
+                    [
+                      "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ"
+                    ],
+                    [
+                      "Ｏ", "Ｏ", "", "", ""
+                    ]
+                  ]
+                }
+              },    {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "22個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1 (1)",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "12個" ],
+                    [ "11個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1 (2)",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "16個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "13" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1 (1)",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "19" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1 (2)",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "28", "27" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "三",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "", "", "", "", "", "", "", "", "", "○", "", "", "", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "○○○○○○○○○○○" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+  
+    "title": "5-5",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                	"showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "15個",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "16個",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "24個",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "23個",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

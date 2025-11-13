@@ -1,0 +1,131 @@
+[
+  {
+    "title": "一、把字寫下來",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "動",
+          "涼",
+          "朵",
+          "紅"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、正確的圈起來",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "我", "招", "拍"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "在", "堆", "地"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "妹", "妹", "會", "穿", "衣",
+          "服", "涼", "像", "帶", "粉",
+          "紅", "色", "給", "滿", "朵", 
+          "鳥", "地", "拍", "照", "動", 
+          "真"
+        ],
+        "zhuyin": [
+          ["ㄇㄟˋ"], ["˙ㄇㄟ"], ["ㄏㄨㄟˋ"], ["ㄔㄨㄢ"], ["ㄧ"],
+          ["ㄈㄨˊ"], ["ㄌㄧㄤˊ"], ["ㄒㄧㄤˋ"], ["ㄉㄞˋ"], ["ㄈㄣˇ"],
+          ["ㄏㄨㄥˊ"], ["ㄙㄜˋ"], ["ㄍㄟˇ"], ["ㄇㄢˇ"], ["ㄉㄨㄛˇ"],
+          ["ㄋㄧㄠˇ"], ["ㄉㄧˋ"], ["ㄆㄞ"], ["ㄓㄠˋ"], ["ㄉㄨㄥˋ"],
+          ["ㄓㄣ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "飛", "飛"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "游", "游"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "跑", "跑"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、先看圖連一連",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", ""
+          	],
+          	[
+              "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 0 ]
+            ]
+          ]
+        }
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "五彩繽紛的橋梁"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "片", "彎彎的金條"
+        ]
+      }
+    ]
+  }
+]

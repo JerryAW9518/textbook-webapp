@@ -1,0 +1,168 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "扮", "兵", "達", "製", "搭",
+          "配", "效", "勢", "拳", "驗",
+          "則"
+        ],
+        "zhuyin": [
+          ["ㄅㄢˋ"], ["ㄅㄧㄥ"], ["ㄉㄚˊ"], ["ㄓˋ"], ["ㄉㄚ"],
+          ["ㄆㄟˋ"], ["ㄒㄧㄠˋ"], ["ㄕˋ"], ["ㄑㄩㄢˊ"], ["ㄧㄢˋ"],
+          ["ㄗㄜˊ"]
+        ]
+      },
+      {
+        "title": "動動腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 表演大受歡迎",
+          "✓ 表演時融入跆拳道"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文完成表格",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "時間",
+        "category": "vocabulary",
+        "answers": [
+          "二月五日星期日"
+        ]
+      },
+      {
+        "title": "地點",
+        "category": "vocabulary",
+        "answers": [
+          "老街"
+        ]
+      },
+      {
+        "title": "演出方式",
+        "category": "vocabulary",
+        "answers": [
+          "戲臺上的演員是戲偶，操偶師透過手指操弄和對白，讓戲偶表演。"
+        ]
+      },
+      {
+        "title": "我觀察到",
+        "category": "vocabulary",
+        "answers": [
+          "打量", "七彩的燈光", "打鬥聲"
+        ]
+      },
+      {
+        "title": "歌仔戲",
+        "category": "vocabulary",
+        "answers": [
+          "歌仔戲"
+        ]
+      },
+      {
+        "title": "演出方式",
+        "category": "vocabulary",
+        "answers": [
+          "所有角色都由真人扮演"
+        ]
+      },
+      {
+        "title": "我觀察到",
+        "category": "vocabulary",
+        "answers": [
+          "歌唱", "動作", "表情", "鼓樂聲"
+        ]
+      },
+      {
+        "title": "心得感想",
+        "category": "vocabulary",
+        "answers": [
+          "不斷的練習", "臺上一分鐘，臺下十年功"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "一會兒飛到我面前，一會兒飛到我耳朵旁，最後終於飛到別的地方去了。"
+        ]
+      },
+      {
+        "title": "句",
+        "category": "vocabulary",
+        "answers": [
+          "天空的白雲，一會兒變小羊，一會兒變小狗，真有趣。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、名言有意思",
+    "subtitle": "",
+    "question": [
+            {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 2 ],
+              [ 1 ],
+              [ 0 ]
+            ]
+          ]
+        }
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "內行看門道，外行看熱鬧。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "讀萬卷書，行萬里路。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

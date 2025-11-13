@@ -1,0 +1,130 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "鄉", "霧", "城",
+          "茶", "烏", "龍", "茶",
+          "摘", "晒", "分", "酵",
+          "乾", "燥",
+          "烘", "焙", "程", "分", "講"
+        ],
+        "zhuyin": [
+          ["ㄒㄧㄤ"], ["ㄨˋ"], ["ㄔㄥˊ"],
+          ["ㄔㄚˊ"], ["ㄨ"], ["ㄌㄨㄥˊ"], ["ㄔㄚˊ"],
+          ["ㄓㄞ"], ["ㄕㄞˋ"], ["ㄈㄣˋ"], ["ㄒㄧㄠˋ"],
+          ["ㄍㄢ"], ["ㄗㄠˋ"],
+          ["ㄏㄨㄥ"], ["ㄅㄟˋ"], ["ㄔㄥˊ"], ["ㄈㄣ"], ["ㄐㄧㄤˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、連一連",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", ""
+          	],
+          	[
+              "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1, 2 ],
+              [ 0, 3 ]
+            ]
+          ]
+        }
+      },
+      {
+        "title": "話語引導",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 媽媽對我說..."
+        ]
+      },
+      {
+        "title": "舉例說明",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 我們遇到...", "➝ 校園裡..."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "公園的角落", "觀察生物的理想場所"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "圖書館", "學校附近", "適合學生們尋找資料的地方。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文完成表格",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "背景介紹",
+        "category": "vocabulary",
+        "answers": [
+          "嬸嬸", "茶香"
+        ]
+      },
+      {
+        "title": "種茶條件",
+        "category": "vocabulary",
+        "answers": [
+          "氣候溫和", "雨量足夠", "早晚溫差大"
+        ]
+      },
+      {
+        "title": "製茶過程",
+        "category": "vocabulary",
+        "answers": [
+          "發酵", "高溫", "球形"
+        ]
+      },
+      {
+        "title": "細細品味茶香",
+        "category": "vocabulary",
+        "answers": [
+          "讚嘆"
+        ]
+      },
+      {
+        "title": "感想",
+        "category": "vocabulary",
+        "answers": [
+          "茶香"
+        ]
+      }
+    ]
+  }
+]

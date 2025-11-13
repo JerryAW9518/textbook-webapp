@@ -1,0 +1,118 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "豚", "鮮", "叼", "嘗",
+          "餵"
+        ],
+        "zhuyin": [
+          ["ㄊㄨㄣˊ"], ["ㄒㄧㄢ"], ["ㄉㄧㄠ"], ["ㄔㄤˊ"], 
+          ["ㄨㄟˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "沉", "虎", "纏", "拼"
+        ],
+        "zhuyin": [
+          ["ㄔㄣˊ"], ["ㄏㄨˇ"], ["ㄔㄢˊ"], ["ㄆㄧㄣ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "間", "鑽", "間", "鑽"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄢ"], ["ㄗㄨㄢˋ"], ["ㄐㄧㄢˋ"], ["ㄗㄨㄢ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、連一連",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"4", "3", "2", "1"
+          	],
+          	[
+            	"", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 0 ],
+          		[ 1 ],
+          		[ 0 ],
+          		[ 1 ]
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "三、讀一讀童詩，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "星星", "月亮"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、閱讀小偵探 讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 休閒娛樂", "✓ 海洋知識"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

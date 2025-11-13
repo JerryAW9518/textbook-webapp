@@ -1,0 +1,904 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "認識一到五",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "連連看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "2",
+                      "3",
+                      "5",
+                      "1",
+                      "4"
+                    ],
+                    [
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [0],
+                      [2],
+                      [1],
+                      [4],
+                      [3]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "先畫Ｏ，再寫數字",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ",
+                      "Ｏ"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "2",
+                      "2"
+                    ],
+                    [
+                      "2",
+                      "2"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "3",
+                      "3"
+                    ],
+                    [
+                      "3",
+                      "3"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "5",
+                      "5"
+                    ],
+                    [
+                      "5",
+                      "5"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "從1寫到5",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "1",
+                      "2",
+                      "3",
+                      "4",
+                      "5"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "認識 6~10",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "填一填，再連連看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "6",
+                      "9"
+                    ],
+                    [
+                      "",
+                      ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [1],
+                      [0]
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "10",
+                      "8",
+                      "7"
+                    ],
+                    [
+                      "",
+                      "",
+                      ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [2],
+                      [0],
+                      [1]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "先畫Ｏ，再寫數字",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ"
+                    ],
+                    [
+                      "Ｏ",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "6",
+                      "6"
+                    ],
+                    [
+                      "6",
+                      "6"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ"
+                    ],
+                    [
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "",
+                      ""
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "8",
+                      "8"
+                    ],
+                    [
+                      "8",
+                      "8"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ"
+                    ],
+                    [
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ",
+                      "Ｏ"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "10",
+                      "10"
+                    ],
+                    [
+                      "10",
+                      "10"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "從6寫到10",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "6",
+                      "7",
+                      "8",
+                      "9",
+                      "10"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "認識0",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "3個",
+                      "2個"
+                    ],
+                    [
+                      "1個",
+                      "0個"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "6顆",
+                      "2顆",
+                      "0顆"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動4",
+    "subtitle": "表示數量",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "texts": [
+                    [ "略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 8,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/basketball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/basketball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/basketball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/basketball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/basketball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/basketball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/basketball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/basketball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/basketball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/basketball.png"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 3,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/volleyball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/volleyball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/volleyball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/volleyball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/volleyball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/volleyball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/volleyball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/volleyball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/volleyball.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/volleyball.png"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 5,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/soccer.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/soccer.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/soccer.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/soccer.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/soccer.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/soccer.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/soccer.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/soccer.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/soccer.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/soccer.png"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 7,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/tennis.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/tennis.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/tennis.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/tennis.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/tennis.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/tennis.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/tennis.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/tennis.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/tennis.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/tennis.png"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "ＯＯＯＯＯ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "ＯＯＯＯＯＯ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "image",
+                        "value": "Option 2",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "畫○或寫數字",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ" ],
+                    [ "Ｏ", "Ｏ", "Ｏ", "", "" ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8朵" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ" ],
+                    [ "", "", "", "", "" ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5罐" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ" ],
+                    [ "Ｏ", "Ｏ", "", "", "" ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7根" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "Ｏ", "Ｏ", "Ｏ", "", "" ],
+                    [ "", "", "", "", "" ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ" ],
+                    [ "Ｏ", "Ｏ", "Ｏ", "Ｏ", "Ｏ" ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

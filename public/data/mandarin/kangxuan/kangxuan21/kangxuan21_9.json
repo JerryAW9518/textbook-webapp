@@ -1,0 +1,184 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "幾", "曹", "沖", "秤", "操", 
+          "腿", "柱", "粗", "搖", "搖", 
+          "少", "砍", "竟", "然", "部", 
+          "沉", "紀", "首", "牽", "沿", 
+          "象"
+        ],
+        "zhuyin": [
+          ["ㄐㄧˇ"], ["ㄘㄠˊ"], ["ㄔㄨㄥ"], ["ㄔㄥˋ"], ["ㄘㄠ"], 
+          ["ㄊㄨㄟˇ"], ["ㄓㄨˋ"], ["ㄘㄨ"], ["ㄧㄠˊ"], ["ㄧㄠˊ"],
+          ["ㄕㄠˇ"], ["ㄎㄢˇ"], ["ㄐㄧㄥˋ"], ["ㄖㄢˊ"], ["ㄅㄨˋ"],
+          ["ㄔㄣˊ"], ["ㄐㄧˋ"], ["ㄕㄡˇ"], ["ㄑㄧㄢ"], ["ㄧㄢˊ"],
+          ["ㄒㄧㄤˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、連成詞語，再填入適當的句子",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"陪", "部"
+          	],
+          	[
+            	"分", "首", "伴"
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 2 ],
+          		[ 0,1 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "陪伴"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "部首"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "部分"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、照樣寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "讀一讀"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "桌上", "課本"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "畫一畫", "天空", "彩虹"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖接寫句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "能夠搬起一個大書櫃!"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "是用寶特瓶做成的!"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、填寫適當的序號與正確的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "①", "④", "②", "③"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "首先", "接著", "然後", "最後"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "第一個盲人",
+        "category": "vocabulary",
+        "answers": [
+          "水管"
+        ]
+      },
+      {
+        "title": "第二個盲人",
+        "category": "vocabulary",
+        "answers": [
+          "尾巴"
+        ]
+      },
+      {
+        "title": "第三個盲人",
+        "category": "vocabulary",
+        "answers": [
+          "肚子"
+        ]
+      },
+      {
+        "title": "第四個盲人",
+        "category": "vocabulary",
+        "answers": [
+          "腿", "柱子"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

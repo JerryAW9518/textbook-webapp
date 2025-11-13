@@ -1,0 +1,782 @@
+[
+  {
+    "title": "8-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "(12 + 80) - 65 = 27" ],
+                    [ "答：27公斤" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "1000 - (280 + 350) = 370" ],
+                    [ "答：370元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", ""
+                    ],
+                    [
+                      "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          },
+          {
+            "title": "左邊",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "1000 - (250 + 180) = 570" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "右邊",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "(1000 - 250) - 180 = 570" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 62 - 12 = 50" ],
+                    [ "再算 50 + 34 = 84" ],
+                    [ "合併 (62 - 12) + 34 = 84" ],
+                    [ "答：84盆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                 "border" : false,
+                   "decoration": "none",
+                  "texts": [
+                    [ "先算 45 + 32 = 77" ],
+                    [ "再算 77 - 12 = 65" ],
+                    [ "合併 (45 + 32) - 12 = 65" ],
+                    [ "答：65本" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "8-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 400 × 3 = 1200" ],
+                    [ "再算 1200 + 150 = 1350" ],
+                    [ "合併 (400 × 3) + 150 = 1350" ],
+                    [ "答：1350元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 3 + 2 = 5" ],
+                    [ "再算 5 × 8 = 40" ],
+                    [ "合併 (3 + 2) × 8 = 40" ],
+                    [ "答：40個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 4 × 5 = 20" ],
+                    [ "再算 20 + 6 = 26" ],
+                    [ "合併 (4 × 5) + 6 = 26" ],
+                    [ "答：26個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 5 × 3 = 15" ],
+                    [ "再算 2 + 15 = 17" ],
+                    [ "合併 2 + (5 × 3) = 17" ],
+                    [ "答：17個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 3 + 4 = 7" ],
+                    [ "再算 7 × 3 = 21" ],
+                    [ "合併(3 + 4) × 3 = 21" ],
+                    [ "答：21個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 4 + 5 = 9" ],
+                    [ "再算 9 × 4 = 36" ],
+                    [ "合併(4 + 5) × 4 = 36" ],
+                    [ "答：36個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 1130 ÷ 2 = 565" ],
+                    [ "再算 3000 - 565 = 2435" ],
+                    [ "合併 3000 - (1130 ÷ 2)\n= 2435" ],
+                    [ "答：2435公克" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 681 ÷ 3 = 227" ],
+                    [ "再算 3000 - 227 = 2773" ],
+                    [ "合併 3000 - (681 ÷ 3)\n= 2773" ],
+                    [ "答：2773公克" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 681 × 2 = 1362" ],
+                    [ "再算 1362 - 1130 = 232" ],
+                    [ "合併 (681 × 2) - 1130 = 232" ],
+                    [ "答：232公克" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 800 - 50 = 750" ],
+                    [ "再算 750 ÷ 5 = 150" ],
+                    [ "合併 (800 - 50) ÷ 5\n= 150" ],
+                    [ "答：150毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 150 + 57 = 207" ],
+                    [ "再算 207 ÷ 9 = 23" ],
+                    [ "合併 (150 + 57) ÷ 9\n= 23" ],
+                    [ "答：23朵" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 96 ÷ 8 = 12" ],
+                    [ "再算 12 + 5 = 17" ],
+                    [ "合併 (96 ÷ 8) + 5 = 17" ],
+                    [ "答：17張" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "8-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 15 × 3 = 45" ],
+                    [ "再算 45 × 6 = 270" ],
+                    [ "合併 (15 × 3) × 6\n= 270" ],
+                    [ "答：270元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 12 × 25 = 300" ],
+                    [ "再算 300 × 8 = 2400" ],
+                    [ "合併 (12 × 25) × 8\n= 2400" ],
+                    [ "答：2400元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 15 × 6 = 90" ],
+                    [ "再算 90 ÷ 9 = 10" ],
+                    [ "合併 (15 × 6) ÷ 9\n= 10" ],
+                    [ "答：10公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 9 × 10 = 90" ],
+                    [ "再算 90 ÷ 6 = 15" ],
+                    [ "合併 (9 × 10) ÷ 6\n= 15" ],
+                    [ "答：15公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 180 ÷ 5 = 36" ],
+                    [ "再算 36 × 4 = 144" ],
+                    [ "合併 (180 ÷ 5) × 4 = 144" ],
+                    [ "答：144公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 40 ÷ 8 = 5" ],
+                    [ "再算 5 × 2 = 10" ],
+                    [ "合併 (40 ÷ 8) × 2 = 10" ],
+                    [ "答：10顆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 36 × 2 = 72" ],
+                    [ "再算 72 ÷ 3 = 24" ],
+                    [ "合併 (36 × 2) ÷ 3 = 24" ],
+                    [ "答：24隻" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "135" ],
+                    [ "合併 (36 ÷ 4) × 15 = 135" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8" ],
+                    [ "合併 96 ÷ (3 × 4) = 8" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 144 ÷ 4 = 36" ],
+                    [ "再算 36 ÷ 3 = 12" ],
+                    [ "合併 (144 ÷ 4) ÷ 3 = 12" ],
+                    [ "答：12個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 32 ÷ 4 = 8" ],
+                    [ "再算 56 ÷ 8 = 7" ],
+                    [ "合併 56 ÷ (32 ÷ 4) = 7" ],
+                    [ "答：7顆" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "17" ],
+                    [ "合併 (136 ÷ 4) ÷ 2 = 17" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "12" ],
+                    [ "合併 108 ÷ (72 ÷ 8) = 12" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "統整園地",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 15 × 3 = 45" ],
+                    [ "再算 45 + 164 = 209" ],
+                    [ "合併 (15 × 3) + 164 = 209" ],
+                    [ "答：209元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 8 + 22 = 30" ],
+                    [ "再算 30 × 4 = 120" ],
+                    [ "合併 (8 + 22) × 4 = 120" ],
+                    [ "答：120元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 95 - 5 = 90" ],
+                    [ "再算 90 × 3 = 270" ],
+                    [ "合併 (95 - 5) × 3 = 270" ],
+                    [ "答：270元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 164 × 3 = 492" ],
+                    [ "再算 500 - 492 = 8" ],
+                    [ "合併 500 - (164 × 3) = 8" ],
+                    [ "答：8元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 164 × 2 = 328" ],
+                    [ "再算 328 ÷ 8 = 41" ],
+                    [ "合併 (164 × 2) ÷ 8 = 41" ],
+                    [ "答：41個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "先算 95 × 2 = 190" ],
+                    [ "再算 190 - 164 = 26" ],
+                    [ "合併 (95 × 2) - 164 = 26" ],
+                    [ "答：26元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

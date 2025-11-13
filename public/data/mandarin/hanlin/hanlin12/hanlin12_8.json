@@ -1,0 +1,133 @@
+[
+  {
+    "title": "一、寫注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "思"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "桌"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "等"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出相同，再寫進框框",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "兩", "雨"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "忽", "忍"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "書", "畫"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "見", "忍", "住", "忽", "然",
+          "啊", "樣", "吧", "對", "等",
+          "教", "室", "桌", "用", "意",
+          "思", "忘", "兩"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄢˋ"], ["ㄖㄣˇ"], ["ㄓㄨˋ"], ["ㄏㄨ"], ["ㄖㄢˊ"],
+          ["ㄚ"], ["ㄧㄤˋ"], ["˙ㄅㄚ"], ["ㄉㄨㄟˋ"], ["ㄉㄥˇ"],
+          ["ㄐㄧㄠˋ"], ["ㄕˋ"], ["ㄓㄨㄛ"], ["ㄩㄥˋ"], ["ㄧˋ"],
+          ["˙ㄙ"], ["ㄨㄤˋ"], ["ㄌㄧㄤˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 對不起"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "妹妹忍不住哭了起來"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "看電視的時候忽然停電了，我緊張得不敢動彈。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、念一念，再回答問題",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,552 @@
+.answer-display-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* 文字裝飾 */
+.overline-text {
+  text-decoration: overline;
+  text-decoration-thickness: 2px;
+  padding: 0 4px;
+}
+
+.underline-text {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  padding: 0 4px;
+}
+
+/* 數學答案特定樣式 */
+.math-answer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.text-group {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.text-group span {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--morandi-charcoal);
+}
+
+.math-section {
+  margin: 16px 0;
+  padding: 12px;
+  background: var(--morandi-cream);
+  border-radius: 8px;
+}
+
+.math-section .section-subtitle {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--morandi-sage);
+  margin: 0 0 12px 0;
+}
+
+.section-note {
+  font-size: 14px;
+  color: var(--morandi-grey);
+  margin: 4px 0 12px 0;
+}
+
+.debug-json {
+  background: #f5f5f5;
+  padding: 12px;
+  border-radius: 4px;
+  font-size: 12px;
+  overflow-x: auto;
+}
+
+.loading,
+.error,
+.no-data {
+  text-align: center;
+  padding: 60px 20px;
+  font-size: 18px;
+  color: var(--morandi-grey);
+}
+
+.error {
+  color: var(--morandi-terracotta);
+}
+
+/* 課次標題 */
+.lesson-header {
+  margin-bottom: 32px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid var(--morandi-beige);
+}
+
+.lesson-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--morandi-charcoal);
+  margin: 0;
+}
+
+/* 大題區塊 */
+.sections-list {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.answer-section {
+  background: white;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.section-header {
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--morandi-beige);
+}
+
+.section-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--morandi-sage);
+  margin: 0 0 8px 0;
+}
+
+.section-subtitle {
+  font-size: 14px;
+  color: var(--morandi-grey);
+  margin: 0;
+}
+
+/* 小題 */
+.section-content {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.question-item {
+  display: flex;
+  gap: 12px;
+  padding: 12px;
+  background: var(--morandi-cream);
+  border-radius: 8px;
+  align-items: flex-start;
+}
+
+.question-number {
+  font-weight: 600;
+  color: var(--morandi-sage);
+  flex-shrink: 0;
+  min-width: 32px;
+}
+
+.answer-content {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+/* 詞彙題 */
+.answer-word {
+  padding: 6px 16px;
+  background: white;
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--morandi-charcoal);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* 詞彙注音題 */
+.zhuyin-item .answer-content {
+  flex-direction: row;
+  gap: 16px;
+}
+
+.zhuyin-pair {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 12px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.zhuyin {
+  font-size: 14px;
+  color: var(--morandi-grey);
+}
+
+.word {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--morandi-charcoal);
+}
+
+/* 配對題 */
+.matching-item {
+  flex-direction: column;
+}
+
+.matching-layers {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+}
+
+.matching-layer {
+  display: flex;
+  gap: 12px;
+  justify-content: flex-start;
+}
+
+.matching-cell {
+  padding: 12px 20px;
+  background: white;
+  border: 2px solid var(--morandi-sage);
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--morandi-charcoal);
+  min-width: 60px;
+  text-align: center;
+}
+
+.connections-hint {
+  margin-top: 12px;
+  padding: 8px;
+  background: var(--morandi-beige);
+  border-radius: 6px;
+  color: var(--morandi-grey);
+  font-size: 13px;
+}
+
+/* 方程式題 */
+.equation-content {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.answer-text {
+  font-size: 16px;
+  color: var(--morandi-charcoal);
+  font-family: 'Courier New', monospace;
+}
+
+/* 文字題 */
+.text-item {
+  flex-direction: column;
+}
+
+.text-content {
+  flex-direction: column;
+  gap: 12px;
+}
+
+.answer-paragraph {
+  margin: 0;
+  padding: 12px;
+  background: white;
+  border-left: 3px solid var(--morandi-sage);
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--morandi-charcoal);
+}
+
+/* 表格題 */
+.table-item {
+  flex-direction: column;
+}
+
+.answer-table {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid var(--morandi-beige);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.table-row {
+  display: flex;
+}
+
+.table-row:not(:last-child) {
+  border-bottom: 1px solid var(--morandi-beige);
+}
+
+.table-cell {
+  flex: 1;
+  padding: 12px 16px;
+  background: white;
+  font-size: 15px;
+  color: var(--morandi-charcoal);
+  text-align: center;
+}
+
+.table-cell:not(:last-child) {
+  border-right: 1px solid var(--morandi-beige);
+}
+
+.table-row:first-child .table-cell {
+  background: var(--morandi-cream);
+  font-weight: 600;
+  color: var(--morandi-sage);
+}
+
+/* Checkbox 樣式 */
+.checkbox-answer {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.checkbox-group {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.checkbox-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.checkbox {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border: 2px solid var(--morandi-sage);
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  color: var(--morandi-sage);
+}
+
+.checkbox.checked {
+  background: var(--morandi-sage);
+  color: white;
+}
+
+.checkbox-label {
+  font-size: 16px;
+  color: var(--morandi-charcoal);
+}
+
+/* Equation 樣式 */
+.equation-answer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.equation-item {
+  padding: 8px 16px;
+  background: white;
+  border-radius: 8px;
+  font-family: 'Courier New', monospace;
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--morandi-charcoal);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* TeX/LaTeX 數學表達式樣式 */
+.tex-answer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.tex-group {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.tex-item {
+  padding: 8px 16px;
+  background: white;
+  border-radius: 8px;
+  font-family: 'Times New Roman', serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--morandi-charcoal);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  line-height: 1.6;
+}
+
+/* Operation 樣式 */
+.operation-answer {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.operation-hint {
+  padding: 12px;
+  background: var(--morandi-beige);
+  border-radius: 8px;
+  color: var(--morandi-grey);
+  font-size: 14px;
+  font-style: italic;
+}
+
+.operation-items {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.operation-item {
+  padding: 8px 12px;
+  background: white;
+  border-radius: 6px;
+  font-family: 'Courier New', monospace;
+  font-size: 16px;
+}
+
+/* Measurement 樣式 */
+.measurement-answer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.measurement-text {
+  padding: 6px 12px;
+  background: white;
+  border-radius: 6px;
+  font-size: 16px;
+  color: var(--morandi-charcoal);
+}
+
+.measurement-item {
+  padding: 8px 12px;
+  background: white;
+  border-radius: 6px;
+  font-size: 16px;
+  color: var(--morandi-charcoal);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Image 樣式 */
+.image-answer {
+  padding: 20px;
+  background: var(--morandi-cream);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.image-hint {
+  color: var(--morandi-grey);
+  font-size: 14px;
+  font-style: italic;
+}
+
+/* Unknown type 樣式 */
+.unknown-type-hint {
+  padding: 8px 12px;
+  background: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 6px;
+  color: #856404;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+/* 平板優化 */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .answer-display-container {
+    padding: 24px;
+  }
+
+  .lesson-title {
+    font-size: 32px;
+  }
+
+  .answer-section {
+    padding: 28px;
+  }
+
+  .section-title {
+    font-size: 22px;
+  }
+
+  .answer-word {
+    font-size: 20px;
+    padding: 8px 18px;
+  }
+
+  .word {
+    font-size: 22px;
+  }
+}
+
+/* 手機 */
+@media (max-width: 767px) {
+  .answer-display-container {
+    padding: 16px;
+  }
+
+  .lesson-title {
+    font-size: 24px;
+  }
+
+  .answer-section {
+    padding: 20px;
+  }
+
+  .section-title {
+    font-size: 18px;
+  }
+
+  .question-item {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .answer-word {
+    font-size: 16px;
+  }
+
+  .zhuyin-item .answer-content {
+    flex-wrap: wrap;
+  }
+
+  .matching-layer {
+    flex-wrap: wrap;
+  }
+
+  .matching-cell {
+    min-width: 50px;
+    font-size: 14px;
+    padding: 10px 16px;
+  }
+
+  .table-cell {
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+}

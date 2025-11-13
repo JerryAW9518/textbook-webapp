@@ -1,0 +1,139 @@
+[
+  {
+    "title": "一、看圖寫國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "在", "地", "印"
+        ],
+        "zhuyin": [
+          ["ㄗㄞˋ"], ["ㄉㄧˋ"], ["ㄧㄣˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "張", "出", "朵", "花"
+        ],
+        "zhuyin": [
+          ["ㄓㄤ"], ["ㄔㄨ"], ["ㄉㄨㄛˇ"], ["ㄏㄨㄚ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "開", "車", "子", "招"
+        ],
+        "zhuyin": [
+          ["ㄎㄞ"], ["ㄔㄜ"], ["˙ㄗ"], ["ㄓㄠ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 腳印"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、加一加，看它會變成什麼字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "地"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "花"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "笑"
+        ]
+      }
+    ]
+  },  {
+    "title": "三、先看圖，再圈出正確的答案。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "在"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "一朵朵"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title": "四、完成句子。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "洗洗手", "洗洗手"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "唱唱歌", "大樹上", "唱唱歌"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文選出正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      }
+    ]
+  }
+]

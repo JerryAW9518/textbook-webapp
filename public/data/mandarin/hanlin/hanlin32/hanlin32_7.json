@@ -1,0 +1,106 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "產", "醃", "漬", "承",
+          "腸", "益", "健", "康", "厲",
+          "罐", "裝", "適",
+          "貪", "騙", "疑", "惑"
+        ],
+        "zhuyin": [
+          ["ㄔㄢˇ"], ["ㄧㄢ"], ["ㄗˋ"], ["ㄔㄥˊ"],
+          ["ㄔㄤˊ"], ["ㄧˋ"], ["ㄐㄧㄢˋ"], ["ㄎㄤ"], ["ㄌㄧˋ"],
+          ["ㄍㄨㄢˋ"], ["ㄓㄨㄤ"], ["ㄕˋ"],
+          ["ㄊㄢ"], ["ㄆㄧㄢˋ"], ["ㄧˊ"], ["ㄏㄨㄛˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、選詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "心血來潮"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "心裡有數"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "心滿意足"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "心平氣和"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "心甘情願"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "知道要犧牲自己的時間"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "看見他下課與同學相處", "知道他原來很活潑"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 延長食用期限", "✓ 冬季蔬菜不足"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "經過發酵會產生好菌，適量食用，有益身體健康"
+        ]
+      }
+    ]
+  }
+]

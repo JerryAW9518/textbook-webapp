@@ -1,0 +1,191 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "迭", "侷", "崗", "蔽", "域",
+          "滯", "旺", "燃", "謂", "衷",
+          "挫", "釐", "掘", "鑰", "驅"
+        ],
+        "zhuyin": [
+          ["ㄉㄧㄝˊ"], ["ㄐㄩˊ"], ["ㄍㄤˇ"], ["ㄅㄧˋ"], ["ㄩˋ"],
+          ["ㄓˋ"], ["ㄨㄤˋ"], ["ㄖㄢˊ"], ["ㄨㄟˋ"], ["ㄓㄨㄥ"],
+          ["ㄘㄨㄛˋ"], ["ㄌㄧˊ"], ["ㄐㄩㄝˊ"], ["ㄧㄠˋ"], ["ㄑㄩ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 難分難捨", "", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、字形辨別",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "馬➝驅", "身➝軀", "山➝嶇", "", ""
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "驅", "嶇", "", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "辶➝迭", "車➝軼", "足➝跌", "", ""
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "迭", "軼", "", "", ""
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "山➝崗", "刂➝剛", "糸➝綱", "", ""
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "綱", "崗", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、語詞練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ", "", "", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ", "", "", "", ""
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ", "", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "哪怕他已經快遲到了，他也堅持停下來幫忙報警，確保受傷的路人能得到幫助。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "阿杰站在泳池邊，看到其他選手都準備就緒，心中躍躍欲試，迫不及待地想要跳入水中展示自己的實力。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、依據課文內容，完成整理段落重點。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "開場",
+        "category": "vocabulary",
+        "answers": [
+          "學習動力", "", "", "", ""
+        ]
+      },
+      {
+        "title": "學習的目的",
+        "category": "vocabulary",
+        "answers": [
+          "技能", "知識", "自學", "", ""
+        ]
+      },
+      {
+        "title": "秉持(好奇心)",
+        "category": "vocabulary",
+        "answers": [
+          "終身學習者", "走馬看花", "", "", ""
+        ]
+      },
+      {
+        "title": "學習的樂趣",
+        "category": "vocabulary",
+        "answers": [
+          "研究得夠深", "非常有趣", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 胖虎...", "✓ 小琳...", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "七、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②", "", "", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "(僅供參考) 在學習上，我有時會遇到時間不足的限制，尤其是當有多項作業或考試同時來臨時。為了解決這個問題，我會將學習內容劃分為小塊，設立每日的學習目標，並使用番茄鐘來提高效率，確保每一項任務都能按時完成。", "", "", "", ""
+        ]
+      }
+    ]
+  }
+]

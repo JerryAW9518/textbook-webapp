@@ -1,0 +1,158 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "鐘", "無", "總"
+        ],
+        "zhuyin": [
+          ["ㄓㄨㄥ"], ["ㄨˊ"], ["ㄗㄨㄥˇ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "鬼", "響", "準", "盡", "鬧", "暢"
+        ],
+        "zhuyin": [
+          ["ㄍㄨㄟˇ"], ["ㄒㄧㄤˇ"], ["ㄓㄨㄣˇ"], ["ㄐㄧㄣˋ"], ["ㄋㄠˋ"], ["ㄔㄤˋ"]
+        ]
+      },
+      {
+        "title": "動動腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 滴滴"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文內容連連看，並完成表格",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 3,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"其他同學"
+          	],
+          	[
+            	"遊戲場", "操場", "教室"
+          	],
+          	[
+          	  "跑步", "跳房子", "溜滑梯", "看書", "聊天"
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 0,1,2 ]
+        		],
+        		[
+          		[ 2 ],
+          		[ 0,1 ],
+          		[ 3,4 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "地點",
+        "category": "vocabulary",
+        "answers": [
+          "操場"
+        ]
+      },
+      {
+        "title": "事件",
+        "category": "vocabulary",
+        "answers": [
+          "踢足球"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、將合適的語詞填入句子中，再圈出意思相反的語詞。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "熱鬧", "冷清"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "飛奔", "慢步"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "暢快", "煩悶"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、加長句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "痛苦的表情", "媽媽炒菜時被油燙到，就露出痛苦的表情。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "下雨了，有人穿雨衣，也有人撐雨傘，大家都怕被淋濕。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、聆聽練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 校長"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 要向他人問好、道謝", "✓ 要多喝水", "✓ 下課記得上廁所"
+        ]
+      }
+    ]
+  }
+]

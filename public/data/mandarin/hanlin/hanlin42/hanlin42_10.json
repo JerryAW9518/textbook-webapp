@@ -1,0 +1,166 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "菩", "薩", "聖", "芭"
+        ],
+        "zhuyin": [
+          ["ㄆㄨˊ"], ["ㄙㄚˋ"], ["ㄕㄥˋ"], ["ㄅㄚ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "丹", "搧", "熄"
+        ],
+        "zhuyin": [
+          ["ㄉㄢ"], ["ㄕㄢ"], ["ㄒㄧˊ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "擔", "關", "擔", "椅", "乃",
+          "獨", "訣", "焰"
+        ],
+        "zhuyin": [
+          ["ㄉㄢ"], ["ㄍㄨㄢ"], ["ㄉㄢˋ"], ["ㄧˇ"], ["ㄋㄞˇ"], 
+          ["ㄉㄨˊ"], ["ㄐㄩㄝˊ"], ["ㄧㄢˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "全", "聽", "聖"
+        ],
+        "zhuyin": [
+          ["ㄑㄩㄢˊ"], ["ㄊㄧㄥ"], ["ㄕㄥˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、換句話說",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "如何是好"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "借芭蕉扇一用"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "有何用"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "借我使使"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "乃"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "會發生危險"
+        ]
+      }, 
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "進入圖書館要保持安靜，不然會影響其他人閱讀。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "芭蕉洞", "鐵扇公主", "三"
+        ]
+      },
+      {
+        "title": "第二幕 人物互動",
+        "category": "vocabulary",
+        "answers": [
+          "孫悟空害他不能跟兒子紅孩兒相見", "將孫悟空搧到千里之外"
+        ]
+      },
+      {
+        "title": "第二幕 結果",
+        "category": "vocabulary",
+        "answers": [
+          "沒借到扇子"
+        ]
+      },
+      {
+        "title": "第三幕 人物互動",
+        "category": "vocabulary",
+        "answers": [
+          "一隻小蟲", "鐵扇公主的肚子裡"
+        ]
+      },
+      {
+        "title": "第三幕 結果",
+        "category": "vocabulary",
+        "answers": [
+          "借到假的扇子"
+        ]
+      },
+      {
+        "title": "3第四幕 人物互動",
+        "category": "vocabulary",
+        "answers": [
+          "變成牛魔王", "扇子", "口訣"
+        ]
+      }
+    ]
+  }
+]

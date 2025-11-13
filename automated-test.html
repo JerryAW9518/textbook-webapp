@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>國小學習小幫手 - 自動化測試</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Noto Sans TC', -apple-system, sans-serif;
+      background: linear-gradient(135deg, #F5F1E8 0%, #E8E4DC 100%);
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      text-align: center;
+      color: #5A5A52;
+      margin-bottom: 30px;
+      font-size: 32px;
+    }
+
+    .test-controls {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
+
+    .test-controls button {
+      background: #9CAF88;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-right: 10px;
+      margin-bottom: 10px;
+    }
+
+    .test-controls button:hover {
+      background: #8A9B7A;
+    }
+
+    .test-controls button:disabled {
+      background: #ccc;
+      cursor: not-allowed;
+    }
+
+    .progress {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
+
+    .progress-bar {
+      width: 100%;
+      height: 30px;
+      background: #E8E4DC;
+      border-radius: 15px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #9CAF88 0%, #A4B8C4 100%);
+      transition: width 0.3s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: 600;
+    }
+
+    .results {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    .test-item {
+      padding: 12px;
+      margin-bottom: 8px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .test-item.pending {
+      background: #f5f5f5;
+      color: #999;
+    }
+
+    .test-item.running {
+      background: #FFF9E6;
+      color: #856404;
+      animation: pulse 1s infinite;
+    }
+
+    .test-item.passed {
+      background: #E8F5E9;
+      color: #2E7D32;
+    }
+
+    .test-item.failed {
+      background: #FFEBEE;
+      color: #C62828;
+    }
+
+    .test-icon {
+      font-size: 20px;
+      width: 24px;
+      text-align: center;
+    }
+
+    .test-name {
+      flex: 1;
+      font-weight: 500;
+    }
+
+    .test-time {
+      font-size: 12px;
+      color: #999;
+    }
+
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    .summary-card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+
+    .summary-value {
+      font-size: 36px;
+      font-weight: 700;
+      margin: 10px 0;
+    }
+
+    .summary-label {
+      color: #999;
+      font-size: 14px;
+    }
+
+    .summary-card.total .summary-value { color: #5A5A52; }
+    .summary-card.passed .summary-value { color: #2E7D32; }
+    .summary-card.failed .summary-value { color: #C62828; }
+    .summary-card.rate .summary-value { color: #9CAF88; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.7; }
+    }
+
+    .log {
+      background: #f5f5f5;
+      padding: 12px;
+      border-radius: 8px;
+      margin-top: 20px;
+      max-height: 300px;
+      overflow-y: auto;
+      font-family: 'Courier New', monospace;
+      font-size: 12px;
+    }
+
+    .log-entry {
+      padding: 4px 0;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .log-entry:last-child {
+      border-bottom: none;
+    }
+
+    .log-entry.error {
+      color: #C62828;
+    }
+
+    .log-entry.success {
+      color: #2E7D32;
+    }
+
+    .log-entry.info {
+      color: #1976D2;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🧪 國小學習小幫手 - 自動化測試套件</h1>
+
+    <div class="test-controls">
+      <button id="startBtn">開始測試</button>
+      <button id="stopBtn" disabled>停止測試</button>
+      <button id="clearBtn">清除結果</button>
+      <button id="exportBtn">匯出報告</button>
+    </div>
+
+    <div class="progress">
+      <h3 style="margin-bottom: 12px;">測試進度</h3>
+      <div class="progress-bar">
+        <div class="progress-fill" id="progressBar">0%</div>
+      </div>
+    </div>
+
+    <div class="summary">
+      <div class="summary-card total">
+        <div class="summary-label">總測試數</div>
+        <div class="summary-value" id="totalTests">0</div>
+      </div>
+      <div class="summary-card passed">
+        <div class="summary-label">通過</div>
+        <div class="summary-value" id="passedTests">0</div>
+      </div>
+      <div class="summary-card failed">
+        <div class="summary-label">失敗</div>
+        <div class="summary-value" id="failedTests">0</div>
+      </div>
+      <div class="summary-card rate">
+        <div class="summary-label">通過率</div>
+        <div class="summary-value" id="passRate">0%</div>
+      </div>
+    </div>
+
+    <div class="results">
+      <h3 style="margin-bottom: 16px;">測試結果</h3>
+      <div id="testResults"></div>
+    </div>
+
+    <div class="log" id="logContainer">
+      <strong>測試日誌:</strong>
+      <div id="logContent"></div>
+    </div>
+  </div>
+
+  <script>
+    // 測試定義
+    const tests = [
+      {
+        name: '檢查開發服務器運行中',
+        test: async () => {
+          const response = await fetch('http://localhost:3000');
+          return response.ok;
+        }
+      },
+      {
+        name: '載入國文-翰林映射文件',
+        test: async () => {
+          const response = await fetch('/data/mandarin/hanlin.json');
+          const data = await response.json();
+          return typeof data === 'object' && data !== null;
+        }
+      },
+      {
+        name: '載入數學-康軒映射文件',
+        test: async () => {
+          const response = await fetch('/data/math/kangxuan.json');
+          const data = await response.json();
+          return typeof data === 'object' && data !== null;
+        }
+      },
+      {
+        name: '測試國文答案文件 (翰林11-1)',
+        test: async () => {
+          const response = await fetch('/data/mandarin/hanlin/hanlin11/hanlin11_1.json');
+          const data = await response.json();
+          return Array.isArray(data) && data.length > 0;
+        }
+      },
+      {
+        name: '測試數學答案文件 (康軒12-1)',
+        test: async () => {
+          const response = await fetch('/data/math/kangxuan/kangxuan12/kangxuan12_1.json');
+          const data = await response.json();
+          return Array.isArray(data) && data.length > 0;
+        }
+      },
+      {
+        name: '驗證 vocabulary 題型結構',
+        test: async () => {
+          const response = await fetch('/data/mandarin/hanlin/hanlin11/hanlin11_1.json');
+          const data = await response.json();
+          const hasVocab = data.some(section =>
+            section.question && section.question.some(q => q.category === 'vocabulary')
+          );
+          return hasVocab;
+        }
+      },
+      {
+        name: '驗證 vocabularyZhuyin 題型結構',
+        test: async () => {
+          const response = await fetch('/data/mandarin/hanlin/hanlin12/hanlin12_1.json');
+          const data = await response.json();
+          const hasZhuyin = data.some(section =>
+            section.question && section.question.some(q =>
+              q.category === 'vocabularyZhuyin' && q.zhuyin
+            )
+          );
+          return hasZhuyin;
+        }
+      },
+      {
+        name: '驗證 equation 題型結構',
+        test: async () => {
+          const response = await fetch('/data/math/hanlin/hanlin11/hanlin11_6.json');
+          const data = await response.json();
+          let hasEquation = false;
+          data.forEach(section => {
+            if (section.section) {
+              section.section.forEach(subsection => {
+                if (subsection.question) {
+                  subsection.question.forEach(q => {
+                    if (q.answers) {
+                      q.answers.forEach(a => {
+                        if (a.category === 'equation') hasEquation = true;
+                      });
+                    }
+                  });
+                }
+              });
+            }
+          });
+          return hasEquation;
+        }
+      },
+      {
+        name: '驗證 tex (LaTeX) 題型結構',
+        test: async () => {
+          const response = await fetch('/data/math/hanlin/hanlin41/hanlin41_4.json');
+          const data = await response.json();
+          let hasTex = false;
+          data.forEach(section => {
+            if (section.section) {
+              section.section.forEach(subsection => {
+                if (subsection.question) {
+                  subsection.question.forEach(q => {
+                    if (q.answers) {
+                      q.answers.forEach(a => {
+                        if (a.category === 'tex') hasTex = true;
+                      });
+                    }
+                  });
+                }
+              });
+            }
+          });
+          return hasTex;
+        }
+      },
+      {
+        name: '驗證 checkbox 題型結構',
+        test: async () => {
+          const response = await fetch('/data/math/hanlin/hanlin12/hanlin12_2.json');
+          const data = await response.json();
+          let hasCheckbox = false;
+          data.forEach(section => {
+            if (section.section) {
+              section.section.forEach(subsection => {
+                if (subsection.question) {
+                  subsection.question.forEach(q => {
+                    if (q.answers) {
+                      q.answers.forEach(a => {
+                        if (a.category === 'checkbox') hasCheckbox = true;
+                      });
+                    }
+                  });
+                }
+              });
+            }
+          });
+          return hasCheckbox;
+        }
+      },
+      {
+        name: '測試修復的文件 (hanlin12_4.json)',
+        test: async () => {
+          const response = await fetch('/data/mandarin/hanlin/hanlin12/hanlin12_4.json');
+          const data = await response.json();
+          return Array.isArray(data);
+        }
+      },
+      {
+        name: '隨機測試 10 個國文文件',
+        test: async () => {
+          const testFiles = [
+            '/data/mandarin/nanone/nanone21/nanone21_1.json',
+            '/data/mandarin/kangxuan/kangxuan31/kangxuan31_2.json',
+            '/data/mandarin/hanlin/hanlin42/hanlin42_3.json',
+            '/data/mandarin/nanone/nanone52/nanone52_5.json',
+            '/data/mandarin/kangxuan/kangxuan61/kangxuan61_7.json',
+          ];
+
+          for (const file of testFiles) {
+            const response = await fetch(file);
+            if (!response.ok) return false;
+            const data = await response.json();
+            if (!Array.isArray(data)) return false;
+          }
+          return true;
+        }
+      },
+      {
+        name: '隨機測試 10 個數學文件',
+        test: async () => {
+          const testFiles = [
+            '/data/math/hanlin/hanlin21/hanlin21_1.json',
+            '/data/math/kangxuan/kangxuan32/kangxuan32_3.json',
+            '/data/math/nanone/nanone41/nanone41_5.json',
+            '/data/math/hanlin/hanlin52/hanlin52_7.json',
+            '/data/math/kangxuan/kangxuan62/kangxuan62_9.json',
+          ];
+
+          for (const file of testFiles) {
+            const response = await fetch(file);
+            if (!response.ok) return false;
+            const data = await response.json();
+            if (!Array.isArray(data)) return false;
+          }
+          return true;
+        }
+      }
+    ];
+
+    // 測試狀態
+    let testResults = [];
+    let isRunning = false;
+
+    // UI 元素
+    const startBtn = document.getElementById('startBtn');
+    const stopBtn = document.getElementById('stopBtn');
+    const clearBtn = document.getElementById('clearBtn');
+    const exportBtn = document.getElementById('exportBtn');
+    const progressBar = document.getElementById('progressBar');
+    const testResultsEl = document.getElementById('testResults');
+    const logContent = document.getElementById('logContent');
+
+    // 日誌函數
+    function log(message, type = 'info') {
+      const entry = document.createElement('div');
+      entry.className = `log-entry ${type}`;
+      entry.textContent = `[${new Date().toLocaleTimeString()}] ${message}`;
+      logContent.appendChild(entry);
+      logContent.parentElement.scrollTop = logContent.parentElement.scrollHeight;
+    }
+
+    // 更新統計
+    function updateStats() {
+      const total = testResults.length;
+      const passed = testResults.filter(r => r.status === 'passed').length;
+      const failed = testResults.filter(r => r.status === 'failed').length;
+      const rate = total > 0 ? Math.round((passed / total) * 100) : 0;
+
+      document.getElementById('totalTests').textContent = total;
+      document.getElementById('passedTests').textContent = passed;
+      document.getElementById('failedTests').textContent = failed;
+      document.getElementById('passRate').textContent = rate + '%';
+    }
+
+    // 更新進度條
+    function updateProgress() {
+      const total = tests.length;
+      const completed = testResults.filter(r => r.status !== 'running').length;
+      const percent = Math.round((completed / total) * 100);
+      progressBar.style.width = percent + '%';
+      progressBar.textContent = percent + '%';
+    }
+
+    // 渲染測試結果
+    function renderResults() {
+      testResultsEl.innerHTML = testResults.map((result, index) => `
+        <div class="test-item ${result.status}">
+          <span class="test-icon">
+            ${result.status === 'passed' ? '✅' :
+              result.status === 'failed' ? '❌' :
+              result.status === 'running' ? '⏳' : '⏸️'}
+          </span>
+          <span class="test-name">${result.name}</span>
+          ${result.time ? `<span class="test-time">${result.time}ms</span>` : ''}
+        </div>
+      `).join('');
+    }
+
+    // 執行單個測試
+    async function runTest(test, index) {
+      const startTime = Date.now();
+      testResults[index].status = 'running';
+      renderResults();
+      log(`開始測試: ${test.name}`, 'info');
+
+      try {
+        const result = await test.test();
+        const time = Date.now() - startTime;
+
+        testResults[index].status = result ? 'passed' : 'failed';
+        testResults[index].time = time;
+
+        if (result) {
+          log(`✅ 通過: ${test.name} (${time}ms)`, 'success');
+        } else {
+          log(`❌ 失敗: ${test.name} (${time}ms)`, 'error');
+        }
+      } catch (error) {
+        const time = Date.now() - startTime;
+        testResults[index].status = 'failed';
+        testResults[index].time = time;
+        testResults[index].error = error.message;
+        log(`❌ 錯誤: ${test.name} - ${error.message}`, 'error');
+      }
+
+      renderResults();
+      updateStats();
+      updateProgress();
+    }
+
+    // 開始測試
+    async function startTests() {
+      if (isRunning) return;
+
+      isRunning = true;
+      startBtn.disabled = true;
+      stopBtn.disabled = false;
+
+      // 初始化結果
+      testResults = tests.map(t => ({
+        name: t.name,
+        status: 'pending',
+        time: null
+      }));
+
+      renderResults();
+      log('🚀 開始執行測試套件...', 'info');
+
+      // 依序執行測試
+      for (let i = 0; i < tests.length; i++) {
+        if (!isRunning) break;
+        await runTest(tests[i], i);
+        await new Promise(resolve => setTimeout(resolve, 100)); // 短暫延遲
+      }
+
+      isRunning = false;
+      startBtn.disabled = false;
+      stopBtn.disabled = true;
+
+      const passed = testResults.filter(r => r.status === 'passed').length;
+      const total = testResults.length;
+      log(`✨ 測試完成！通過 ${passed}/${total} (${Math.round(passed/total*100)}%)`, 'success');
+    }
+
+    // 停止測試
+    function stopTests() {
+      isRunning = false;
+      stopBtn.disabled = true;
+      startBtn.disabled = false;
+      log('⏹️ 測試已停止', 'info');
+    }
+
+    // 清除結果
+    function clearResults() {
+      testResults = [];
+      logContent.innerHTML = '';
+      testResultsEl.innerHTML = '<p style="color: #999; text-align: center; padding: 20px;">尚未開始測試</p>';
+      updateStats();
+      updateProgress();
+      log('🗑️ 結果已清除', 'info');
+    }
+
+    // 匯出報告
+    function exportReport() {
+      const report = {
+        timestamp: new Date().toISOString(),
+        summary: {
+          total: testResults.length,
+          passed: testResults.filter(r => r.status === 'passed').length,
+          failed: testResults.filter(r => r.status === 'failed').length,
+          passRate: Math.round((testResults.filter(r => r.status === 'passed').length / testResults.length) * 100)
+        },
+        results: testResults
+      };
+
+      const blob = new Blob([JSON.stringify(report, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `test-report-${new Date().toISOString().split('T')[0]}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+
+      log('📥 報告已匯出', 'success');
+    }
+
+    // 事件監聽
+    startBtn.addEventListener('click', startTests);
+    stopBtn.addEventListener('click', stopTests);
+    clearBtn.addEventListener('click', clearResults);
+    exportBtn.addEventListener('click', exportReport);
+
+    // 初始化
+    clearResults();
+    log('✅ 測試套件已就緒', 'success');
+  </script>
+</body>
+</html>

@@ -1,0 +1,1598 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1021" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "768", "253"],
+            	  "result" : "1021"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1132" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "659", "473"],
+            	  "result" : "1132"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1321" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "495", "826"],
+            	  "result" : "1321"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1296" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "387", "909"],
+            	  "result" : "1296"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "289 + 805 = 1094" ],
+                    [ "答:1094元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "289", "805"],
+            	  "result" : "1094"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "628 + 476 = 1104" ],
+                    [ "答:1104個" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "628", "476"],
+            	  "result" : "1104"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7063" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "954", "6109"],
+            	  "result" : "7063"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2103" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "315", "1788"],
+            	  "result" : "2103"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3004" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "697", "2307"],
+            	  "result" : "3004"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2039" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "1359", "680"],
+            	  "result" : "2039"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6132" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "5349", "783"],
+            	  "result" : "6132"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4791" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "3965", "826"],
+            	  "result" : "4791"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1148 + 468 = 1616" ],
+                    [ "答:1616公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "1148", "468"],
+            	  "result" : "1616"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1458 + 774 = 2232" ],
+                    [ "答:2232公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "1458", "774"],
+            	  "result" : "2232"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "819 + 1639 = 2458" ],
+                    [ "答:2458公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "819", "1637"],
+            	  "result" : "2458"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6056" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "2687", "3369"],
+            	  "result" : "6056"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5733" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "5686", "47"],
+            	  "result" : "5733"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2030" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "72", "1958"],
+            	  "result" : "2030"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4001" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "8", "3993"],
+            	  "result" : "4001"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1696 + 2384 = 4080" ],
+                    [ "答:4080元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "1696", "2384"],
+            	  "result" : "4080"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "95 + 1985 = 2080" ],
+                    [ "答:2080元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "95", "1985"],
+            	  "result" : "2080"
+                }
+              
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "659" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "725", "66"],
+            	  "result" : "659"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "35" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "124", "89"],
+            	  "result" : "35"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "288" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "615", "327"],
+            	  "result" : "288"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "56" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "310", "254"],
+            	  "result" : "56"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "520-79=441" ],
+                    [ "答:441元" ]
+                    
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "520", "79"],
+            	  "result" : "441"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "754 - 368 = 386" ],
+                    [ "答:386個人" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "754", "368"],
+            	  "result" : "386"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "169" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "407", "238"],
+            	  "result" : "169"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "385" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "600", "215"],
+            	  "result" : "385"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "207" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "702", "495"],
+            	  "result" : "207"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "83" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "500", "417"],
+            	  "result" : "83"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "508 - 139 = 369" ],
+                    [ "答:369元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "508", "139"],
+            	  "result" : "369"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "800 - 375 = 425" ],
+                    [ "答:425公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "800", "375"],
+            	  "result" : "425"
+                }
+              
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "923" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "2386", "1463"],
+            	  "result" : "923"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2064" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "4533", "2469"],
+            	  "result" : "2064"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1509" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "3151", "1642"],
+            	  "result" : "1509"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "527" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "2415", "1888"],
+            	  "result" : "527"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2562 - 2376 = 186" ],
+                    [ "答:186瓶" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "2562", "2376"],
+            	  "result" : "186"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5417 - 3255 - 2162" ],
+                    [ "答:2162個人" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "5417", "3255"],
+            	  "result" : "2162"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "29" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "2012", "1983"],
+            	  "result" : "29"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4131" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "5499", "1269"],
+            	  "result" : "4131"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2100 - 1267 = 833" ],
+                    [ "答:833人" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "2100", "1267"],
+            	  "result" : "833"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5000 - 3672 = 1328" ],
+                    [ "答:1328元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "5000", "3672"],
+            	  "result" : "1328"
+                }
+              
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "1400元",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "800元",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "3000元",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "2000元",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合練習",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1911" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "378", "1533"],
+            	  "result" : "1911"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7000" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "4664", "2336"],
+            	  "result" : "7000"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5435" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "6000", "565"],
+            	  "result" : "5435"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5746" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "7510", "1764"],
+            	  "result" : "5746"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1201" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "1500", "299"],
+            	  "result" : "1201"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2801" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "1999", "802"],
+            	  "result" : "2801"
+                }
+              
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "1200",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "1300",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "1400",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "400",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "500",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "600",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "6000",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "7000",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "8000",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "5000",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "6000",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "7000",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1000 - 538 = 462" ],
+                    [ "答:462顆" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "1000", "538"],
+            	  "result" : "462"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2317 + 1648 = 3965" ],
+                    [ "答:3965元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "2317", "1648"],
+            	  "result" : "3965"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "375 + 1748 = 2123" ],
+                    [ "答:2123公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "375", "1748"],
+            	  "result" : "2123"
+                }
+              
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2123 - 1897 = 226" ],
+                    [ "答:226公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "2123", "1897"],
+            	  "result" : "226"
+                }
+              
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "title": "5-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "25 - 3 = 22" ],
+                    [ "22 ÷ 2 = 11" ],
+                    [ "11 + 3 = 14" ],
+                    [ "答 : 男生 11 人，女生 14 人" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "60 ÷ 2 = 30" ],
+                    [ "30 - 4 = 26" ],
+                    [ "26 ÷ 2 = 13" ],
+                    [ "13 + 4 = 17" ],
+                    [ "答 : 長 17 公分，寬 13 公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "61 - 47 = 14" ],
+                    [ "14 ÷ 2 = 7" ],
+                    [ "答 : 7 顆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "17 × 2 = 34" ],
+                    [ "120 - 34 = 86" ],
+                    [ "答 : 86 元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "6 - 1 = 5" ],
+                    [ "25 ÷ 5 = 5" ],
+                    [ "5 + 25 = 30" ],
+                    [ "答 : 舅舅 30 歲，佳禎 5 歲" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "38 - 8 = 30" ],
+                    [ "4 - 1 = 3" ],
+                    [ "30 ÷ 3 = 10" ],
+                    [ "10 - 8 = 2" ],
+                    [ "答 : 2 年" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "73 - 9 = 64" ],
+                    [ "5 - 1 = 4" ],
+                    [ "64 ÷ 4 = 16" ],
+                    [ "16 - 9 = 7" ],
+                    [ "答 : 7 年後" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "39 - 7 = 32" ],
+                    [ "60 - 32 = 28" ],
+                    [ "28 ÷ 2 = 14" ],
+                    [ "14 - 7 = 7" ],
+                    [ "答 : 7 年後" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "9 × 30 = 270" ],
+                    [ "306 - 270 = 36" ],
+                    [ "36 ÷ (12 - 9) = 12" ],
+                    [ "30 - 12 = 18" ],
+                    [ "答 : 鉛筆 18 枝，原子筆 12 枝" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "600 × 7 = 4200" ],
+                    [ "4600 - 4200 = 400" ],
+                    [ "400 ÷ (700 - 600) = 4" ],
+                    [ "7 - 4 = 3" ],
+                    [ "答 : 烏龍茶買 4 斤，綠茶買 3 斤" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "10 × 65 = 650" ],
+                    [ "1930 - 650 = 1280" ],
+                    [ "1280 ÷ (50 - 10) = 32" ],
+                    [ "65 - 32 = 33" ],
+                    [ "答 : 10 元 33 枚，50 元 32 枚" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4 × 18 = 72" ],
+                    [ "88 - 72 = 16" ],
+                    [ "16 ÷ (6 - 4) = 8" ],
+                    [ "18 - 8 = 10" ],
+                    [ "答 : 8 輛六輪貨車，10 輛四輪汽車" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2 + 3 = 5" ],
+                    [ "答 : 5 種" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4 + 2 = 6" ],
+                    [ "答 : 6 種" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "6 + 4 = 10" ],
+                    [ "答 : 10 種" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4 × 5 = 20" ],
+                    [ "答 : 20 種" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2 × 3 = 6" ],
+                    [ "答 : 6 種" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "6 × 5 = 30" ],
+                    [ "答 : 30 種" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "十位可選5個數字" ], 
+                    [ "個位可選4個數字" ],
+                    [ "5 × 4 = 20" ],
+                    [ "答 : 20種" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "十位可選5個數字" ], 
+                    [ "個位可選3個數字" ],
+                    [ "5 × 3 = 15" ],
+                    [ "答 : 15種" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "蛋餅配飲料 : 5 × 4 = 20(種)" ],
+                    [ "套餐 : 3種" ],
+                    [ "共有 20＋ 3 = 23(種)" ],
+                    [ "答 : 23種" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合練習",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "86 - 40 = 46" ],
+                    [ "46 ÷ 2 = 23" ],
+                    [ "答 : 23 點" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "11 × 2 = 22" ],
+                    [ "84 - 22 = 62" ],
+                    [ "答 : 62 點" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2 + 4 = 6" ],
+                    [ "答 : 6 種" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4 × 2 = 8" ],
+                    [ "答 : 8 種" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "30 - 4 = 26" ],
+                    [ "1-\\frac{1}{2}=\\frac{1}{2}" ],
+                    [ "26 ÷\\frac{1}{2}=52" ],
+                    [ "52 - 30 = 22" ],
+                    [ "答 : 22 年後" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "34 - 7 = 27" ],
+                    [ "4 - 1 = 3" ],
+                    [ "27 ÷ 3 = 9" ],
+                    [ "9 - 7 = 2" ],
+                    [ "答 : 2 年後" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2 × 41 = 82" ],
+                    [ "100 - 82 = 18" ],
+                    [ "18 ÷ (3 - 2) = 18" ],
+                    [ "41 - 18 = 23" ],
+                    [ "答 : 選擇題有 23 題，填充題有 18 題" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "240 × 34 = 8160" ],
+                    [ "8480 - 8160 = 320" ],
+                    [ "320 ÷ 20 = 16" ],
+                    [ "34 - 16 = 18" ],
+                    [ "答 : 全票 16 張，優待票 18 張" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

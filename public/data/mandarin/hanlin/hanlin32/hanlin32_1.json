@@ -1,0 +1,102 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "父", "潔", "牆", "壁", "罰", "仍", "專", "練"
+        ],
+        "zhuyin": [
+          ["ㄈㄨˋ"], ["ㄐㄧㄝˊ"], ["ㄑㄧㄤˊ"], ["ㄅㄧˋ"], ["ㄈㄚˊ"], ["ㄖㄥˊ"], ["ㄓㄨㄢ"], ["ㄌㄧㄢˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "即", "拔", "為", "肯", "勁", "為", "膽", "牢"
+        ],
+        "zhuyin": [
+          ["ㄐㄧˊ"], ["ㄅㄚˊ"], ["ㄨㄟˊ"], ["ㄎㄣˇ"], ["ㄐㄧㄥˋ"], ["ㄨㄟˋ"], ["ㄉㄢˇ"], ["ㄌㄠˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、接入接近的語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "牢牢的",
+          "仍然",
+          "突然"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "穿著短袖"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "再累再忙", "早起準備全家的早餐"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、聆聽練習",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 0 ],
+              [ 2 ],
+              [ 1 ]
+            ]
+          ]
+        }
+      },       
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "充滿創造力和對藝術的熱愛",
+          "不斷精進自己的技藝，成為了書法界的傳奇人物。",
+          "(僅供參考)"
+        ]
+      }
+      
+    ]
+  }
+]

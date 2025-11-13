@@ -1,0 +1,115 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "鏡", "樓", "烤", "蔬", "柳", "丁"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄥˋ"], ["ㄌㄡˊ"], ["ㄎㄠˇ"], ["ㄕㄨ"], ["ㄌㄧㄡˇ"], ["ㄉㄧㄥ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "與", "與", "錄", "耕", "耘", "軌"
+        ],
+        "zhuyin": [
+          ["ㄩˇ"], ["ㄩˋ"], ["ㄌㄨˋ"], ["ㄍㄥ"], ["ㄩㄣˊ"], ["ㄍㄨㄟˇ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "鼓", "腮"
+        ],
+        "zhuyin": [
+          ["ㄍㄨˇ"], ["ㄙㄞ"]
+        ]
+      },
+      {
+        "title": "我會辨字練習",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "網", "剛", "鋼"
+        ],
+        "zhuyin": [
+          ["ㄨㄤˇ"], ["ㄍㄤ"], ["ㄍㄤ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、觀察圖片後將相關的語詞填入",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "啦啦隊"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "手舞足蹈的啦啦隊","高聲歡呼的觀眾"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、加入適當的語詞，再讀一讀句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "小兔子", "活潑的小兔子", "開心"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "老鷹", "老鷹俯衝捕捉獵物"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "他們都透過影像的媒介，讓人們能夠進一步認識和感受台灣的風土人情。不同之處沈芯菱運用攝影的方式來捕捉台灣的生活和情感，通過圖像來表達她對於人情景物的感受。而齊柏林則運用紀錄片的形式，通過影片的方式來展示台灣的自然風光和文化內涵。"
+        ]
+      }
+    ]
+  }
+]

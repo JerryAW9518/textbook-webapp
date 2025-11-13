@@ -1,0 +1,91 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+           "慶", "庭", "未", "華", "偶", 
+           "旗", "鯉", "紗", "巾", "披"
+        ],
+        "zhuyin": [
+          ["ㄑㄧㄥˋ"], ["ㄊㄧㄥˊ"], ["ㄨㄟˋ"],  ["ㄏㄨㄚˊ"], ["ㄡˇ"], 
+          ["ㄑㄧˊ"], ["ㄌㄧˇ"], ["ㄕㄚ"], ["ㄐㄧㄣ"], ["ㄆㄧ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+           "祥", "袖"
+        ],
+        "zhuyin": [
+          ["ㄒㄧㄤˊ"], ["ㄒㄧㄡˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、練習寫問句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "這是什麼聲音呢？", "你知道嗎？", "還有什麼功用呢？"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "這是什麼聲音呢？ 靜靜一聽，原來是小提琴的旋律，真是優雅又動聽。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、詳細描寫",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "綠色包包", "藍色高跟鞋", "身穿黃色洋裝", "頭戴遮陽帽"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 露西亞女神節...", "✓ 新加坡..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "瑞典"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "兒童節", "各國兒童節日期"
+        ]
+      }
+    ]
+  }
+]

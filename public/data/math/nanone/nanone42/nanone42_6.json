@@ -1,0 +1,1148 @@
+[
+  {
+    "title": "6-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "4", "4" ],
+                    [ "1.2" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2", "16" ],
+                    [ "1.6" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "4.8" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 0.8,
+            			"multiplicand" : 6
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "7.2" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 0.9,
+            			"multiplicand" : 8
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "13.5" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 2.7,
+            			"multiplicand" : 5
+            		}
+            	}       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "140" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 17.5,
+            			"multiplicand" : 8
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "82" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 20.5,
+            			"multiplicand" : 4
+            		}
+            	}       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.7 x 4 = 2.8" ],
+                    [ "答：2.8 公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 0.7,
+            			"multiplicand" : 4
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3.5 x 8 = 28" ],
+                    [ "答：28 元" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 3.5,
+            			"multiplicand" : 8
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "11.3 x 6 = 67.8" ],
+                    [ "答：67.8 公分" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 11.3,
+            			"multiplicand" : 6
+            		}
+            	}       
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "6-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8", "32" ],
+                    [ "0.32" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "300", "3" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.24" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 0.04,
+            			"multiplicand" : 6
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1.36" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 0.17,
+            			"multiplicand" : 8
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "9.66" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 1.38,
+            			"multiplicand" : 7
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "27.18" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 3.02,
+            			"multiplicand" : 9
+            		}
+            	}     
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6.8" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 1.36,
+            			"multiplicand" : 5
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "48.2" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 12.05,
+            			"multiplicand" : 4
+            		}
+            	}       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.45 x 7 = 3.15" ],
+                    [ "答：3.15 公升" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 0.45,
+            			"multiplicand" : 7 
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3.25 x 8 = 26" ],
+                    [ "答：26 公斤" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 3.25,
+            			"multiplicand" : 8
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "80.26 x 4 = 321.04" ],
+                    [ "答：321.04 公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 80.26,
+            			"multiplicand" : 4
+            		}
+            	}       
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "6-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3", "66" ],
+                    [ "6.6" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "67", "670" ],
+                    [ "6.7" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "156.4" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 4.6,
+            			"multiplicand" : 34
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "806.2" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 13.9,
+            			"multiplicand" : 58
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "372" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 24.8,
+            			"multiplicand" : 15
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "421.98" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 16.23,
+            			"multiplicand" : 26
+            		}
+            	}    
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2.54 x 12 = 30.48" ],
+                    [ "答：30.48 公分" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 2.54,
+            			"multiplicand" : 12
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2.06 x 31 = 63.86" ],
+                    [ "答：63.86 公斤" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 2.06,
+            			"multiplicand" : 31
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4.36 x 24 = 104.64" ],
+                    [ "答：104.64 公分" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 4.36,
+            			"multiplicand" : 24
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3.09 x 58 = 179.22" ],
+                    [ "答：179.22 公斤" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 3.09,
+            			"multiplicand" : 58
+            		}
+            	}     
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "6-4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "20.25 x 72 = 1458" ],
+                    [ "答：1458 公克" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1.35 x 2 = 2.7" ],
+                    [ "2.7 + 0.15 = 2.85" ],
+                    [ "答：2.85 公斤" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", ""
+                    ],
+                    [
+                      ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [  ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }     
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1.07 x 2 = 2.14" ],
+                    [ "2.14 - 0.3 = 1.84" ],
+                    [ "答：1.84 公尺" ]
+                  ]
+                }
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "62.4 + 1.8 = 64.2" ],
+                    [ "64.2 x 25 = 1605" ],
+                    [ "答：1605 元" ]
+                  ]
+                }
+              }  
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合篇",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "不變" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "703" ],
+                    [ "7030", "70.3" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 10.95,
+            			"multiplicand" : 29
+            		}
+            	}       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "multiply",
+                "border" : false,
+                "extras": {
+            	    "mode" : "zeeo",
+            	    "multiplier" : 109.5,
+            			"multiplicand" : 29
+            		}
+            	}       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3" ]
+                  ]
+                }
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8.5" ]
+                  ]
+                }
+              }       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.35 x 8 = 2.8" ],
+                    [ "2.8 x 6 = 16.8" ],
+                    [ "答：16.8 公斤" ]
+                  ]
+                }
+              }       
+            ]
+          },
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.35 x 8 = 2.8" ],
+                    [ "2.8 x 5 = 14" ],
+                    [ "16.8 - 14 = 2.8" ],
+                    [ "答：2.8公斤" ]
+                  ]
+                }
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.08 x 95 = 7.6" ],
+                    [ "答：7.6 元" ]
+                  ]
+                }
+              }       
+            ]
+          },
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.14 x 75 = 10.5" ],
+                    [ "答：10.5 元" ]
+                  ]
+                }
+              }       
+            ]
+          },
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "7.6 + 10.5 = 18.1" ],
+                    [ "答：18.1 元" ]
+                  ]
+                }
+              }       
+            ]
+          }
+        
+        ]
+      }
+    ]
+  }
+]

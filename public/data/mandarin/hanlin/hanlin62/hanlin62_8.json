@@ -1,0 +1,183 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "驟", "蜘", "蛛", "塌", "詫",
+          "拈", "稿", "湛", "豬", "啼",
+          "駕", "茁", "柢"
+        ],
+        "zhuyin": [
+          ["ㄗㄡˋ"], ["ㄓ"], ["ㄓㄨ"], ["ㄊㄚ"], ["ㄔㄚˋ"],
+          ["ㄋㄧㄢˊ"], ["ㄍㄠˇ"], ["ㄓㄢˋ"], ["ㄓㄨ"], ["ㄊㄧˊ"],
+          ["ㄐㄧㄚˋ"], ["ㄓㄨㄛˊ"], ["ㄉㄧˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、語詞應用",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "自願", "志願", "", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "步伐", "步驟", "", "", ""
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "武功", "武俠", "", "", ""
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "根深柢固", "追根究柢", "", "", ""
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "常識", "賞識", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "弟弟偷吃蛋糕想掩飾，結果嘴巴都是奶油，真是讓人啼笑皆非。", "", "", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "我對畫畫很熟悉，拿起畫筆就能駕輕就熟地完成一幅作品。", "", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 他忘記寫過什麼"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 千里馬，遇伯樂"
+        ]
+      },
+      {
+      	"title": "3",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+      	"title": "4",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "五、寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略", "", "", "", ""
+        ]
+      }
+    ]
+  }
+]

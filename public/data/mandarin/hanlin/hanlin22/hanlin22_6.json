@@ -1,0 +1,121 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "昨", "從", "足", "球", "臺", 
+          "禮", "貌", "祝", "整", "比",
+          "踢", "球", "讓", "捧", "腹", 
+          "廁", "所", "信", "告", "訴",
+          "搬", "夠"
+        ],
+        "zhuyin": [
+          ["ㄗㄨㄛˊ"], ["ㄘㄨㄥˊ"], ["ㄗㄨˊ"], ["ㄑㄧㄡˊ"], ["ㄊㄞˊ"],
+          ["ㄌㄧˇ"], ["ㄇㄠˋ"], ["ㄓㄨˋ"], ["ㄓㄥˇ"], ["ㄅㄧˇ"],
+          ["ㄊㄧ"], ["ㄑㄧㄡˊ"], ["ㄖㄤˋ"], ["ㄆㄥˇ"], ["ㄈㄨˋ"],
+          ["ㄘㄜˋ"], ["ㄙㄨㄛˇ"], ["ㄒㄧㄣˋ"], ["ㄍㄠˋ"], ["ㄙㄨˋ"],
+          ["ㄅㄢ"], ["ㄍㄡˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出不同，再寫出正確國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "日", "亻", "昨", "作"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "氵", "口", "渴", "喝"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "斤", "見", "新", "親"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、連一連",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", ""
+          	],
+          	[
+              "", "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1, 2, 4 ],
+              [ 0, 3 ]
+            ]
+          ]
+        }
+      }       
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "更靈活了"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "姐姐寫的字比以前更整齊了"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "謝謝", "沒問題", "對不起"
+        ]
+      }
+    ]
+  }
+]

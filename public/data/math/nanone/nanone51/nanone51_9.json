@@ -1,0 +1,1547 @@
+[
+  {
+    "title": "9-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": true,
+                  "texts": [
+                    [ "688", "11", "28" ],
+                    [ "29", "0" ],
+                    [ "19", "15"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": true,
+                  "texts": [
+                    [
+                      "29", "0"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": true,
+                  "texts": [
+                    [
+                      "19", "15"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [
+                      "( 6 )分( 42 )秒"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 2,
+                      "second": 14
+                    },
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 0,
+                      "second": 3
+                    }
+                  ],
+                  "multiplier": 3,
+                  "fields": {
+                    "day": false,
+                    "hour": false,
+                    "minute": true,
+                    "second": true
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  false,
+            	    		"minute" : true,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "( 32 )分( 20 )秒" ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 6,
+                      "second": 28
+                    },
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 0,
+                      "second": 5
+                    }
+                  ],
+                  "multiplier": 5,
+                  "fields": {
+                    "day": false,
+                    "hour": false,
+                    "minute": true,
+                    "second": true
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  false,
+            	    		"minute" : true,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "( 40 )分( 15 )秒" ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 5,
+                      "second": 45
+                    },
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 0,
+                      "second": 7
+                    }
+                  ],
+                  "multiplier": 7,
+                  "fields": {
+                    "day": false,
+                    "hour": false,
+                    "minute": true,
+                    "second": true
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  false,
+            	    		"minute" : true,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "( 43 )分( 18 )秒" ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 21,
+                      "second": 39
+                    },
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 0,
+                      "second": 2
+                    }
+                  ],
+                  "multiplier": 2,
+                  "fields": {
+                    "day": false,
+                    "hour": false,
+                    "minute": true,
+                    "second": true
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  false,
+            	    		"minute" : true,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "3分9秒  ×  6" ],
+                    [ "= 18分54秒" ],
+                    [ "答：18分鐘54秒鐘" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "2分17秒  ×  10" ],
+                    [ "= 22分50秒" ],
+                    [ "答：22分鐘50秒鐘" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [
+                      "( 16 )時( 36 )分"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 4,
+                      "minute": 9,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 4,
+                      "second": 0
+                    }
+                  ],
+                  "multiplier": 4,
+                  "fields": {
+                    "day": false,
+                    "hour": true,
+                    "minute": true,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  true,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [
+                      "( 22 )時( 8 )分"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 1,
+                      "minute": 23,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 16,
+                      "second": 0
+                    }
+                  ],
+                  "multiplier": 16,
+                  "fields": {
+                    "day": false,
+                    "hour": true,
+                    "minute": true,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  true,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [
+                      "( 17 )時( 0 )分"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 3,
+                      "minute": 24,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 5,
+                      "second": 0
+                    }
+                  ],
+                  "multiplier": 5,
+                  "fields": {
+                    "day": false,
+                    "hour": true,
+                    "minute": true,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  true,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [
+                      "( 23 )時( 24 )分"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 0,
+                      "hour": 7,
+                      "minute": 48,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 0,
+                      "minute": 3,
+                      "second": 0
+                    }
+                  ],
+                  "multiplier": 3,
+                  "fields": {
+                    "day": false,
+                    "hour": true,
+                    "minute": true,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" :  true,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "2時18分 ×  3" ],
+                    [ "= 6時54分" ],
+                    [ "答：6小時54分鐘" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "108 ÷ 12 = 9" ],
+                    [ "1時12分 ×  9" ],
+                    [ "= 10時48分" ],
+                    [ "答：10小時48分鐘" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [
+                      "( 24 )日( 16 )時"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 3,
+                      "hour": 2,
+                      "minute": 0,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 8,
+                      "minute": 0,
+                      "second": 0
+                    }
+                  ],
+                  "multiplier": 8,
+                  "fields": {
+                    "day": true,
+                    "hour": true,
+                    "minute": false,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : true,
+            	    		"hour" :  false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [
+                      "( 10 )日( 20 )時"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 2,
+                      "hour": 17,
+                      "minute": 0,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 4,
+                      "minute": 0,
+                      "second": 0
+                    }
+                  ],
+                  "multiplier": 4,
+                  "fields": {
+                    "day": true,
+                    "hour": true,
+                    "minute": false,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : true,
+            	    		"hour" :  false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [
+                      "( 19 )日( 0 )時"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 6,
+                      "hour": 8,
+                      "minute": 0,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 3,
+                      "minute": 0,
+                      "second": 0
+                    }
+                  ],
+                  "multiplier": 3,
+                  "fields": {
+                    "day": true,
+                    "hour": true,
+                    "minute": false,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : true,
+            	    		"hour" :  false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [
+                      "( 21 )日( 18 )時"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "time",
+                "extras": {
+                  "border" : false,
+                  "operator": "x",
+                  "line": [
+                    {
+                      "day": 10,
+                      "hour": 21,
+                      "minute": 0,
+                      "second": 0
+                    },
+                    {
+                      "day": 0,
+                      "hour": 2,
+                      "minute": 0,
+                      "second": 0
+                    }
+                  ],
+                  "multiplier": 2,
+                  "fields": {
+                    "day": true,
+                    "hour": true,
+                    "minute": false,
+                    "second": false
+                  },
+                  "hideField" : [
+            	    	{ 
+            	    		"day" : false,
+            	    		"hour" : false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	},
+            	    	{ 
+            	    		"day" : true,
+            	    		"hour" :  false,
+            	    		"minute" : false,
+            	    		"second" : false
+            	    	}
+            	    ]
+                }
+              }             
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "2日3時  ×  7" ],
+                    [ "= 14日21時" ],
+                    [ "答：14日21小時" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "3日14時  ×  7" ],
+                    [ "= 25日2時" ],
+                    [ "答：25日2小時" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "9-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(11)秒" ],
+                    [ "2分鐘23秒鐘= 143秒鐘" ],
+                    [ "143 ÷ 13 = 11" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(51)秒" ],
+                    [ "17分鐘51秒鐘= 1071秒鐘" ],
+                    [ "1071 ÷ 21 = 51" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(5)分(6)秒" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(1)分(24)秒" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "42分30秒 ÷ 6 = 7分5秒" ],
+                    [ "答：7分鐘5秒鐘" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "57分40秒 ÷ 4" ],
+                    [ " = 14分25秒" ],
+                    [ "答：14分鐘25秒鐘" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(24)分" ],
+                    [ "9小時12分鐘= 552分鐘" ],
+                    [ "552 ÷ 23 = 24" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(48)分" ],
+                    [ "12小時 = 720分鐘" ],
+                    [ "720 ÷ 15 = 48" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(2)時(5)分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(3)時(12)分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "2小時48分鐘= 168分鐘" ],
+                    [ "168 ÷ 6 = 28" ],
+                    [ "答：28分鐘" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "7時24分÷ 6" ],
+                    [ "= 1時14分" ],
+                    [ "答：1小時14分鐘" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(15)時" ],
+                    [ "5日 = 120小時" ],
+                    [ "120 ÷ 8 = 15" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(2)日(10)時" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "2日12小時= 60小時" ],
+                    [ "60 ÷ 12 = 5" ],
+                    [ "答：5 小時" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "7小時30分鐘= 450分鐘" ],
+                    [ "1小時15分鐘= 75分鐘" ],
+                    [ "450 ÷ 75 = 6" ],
+                    [ "答：6場" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "18 日 = 432 小時" ],
+                    [ "4日12小時= 108 小時" ],
+                    [ "432 ÷ 108 = 4" ],
+                    [ "答：4 個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "9-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "15時20分 - 8時30分" ],
+                    [ "= 6時50分" ],
+                    [ "6時50分 ÷ 5" ],
+                    [ "= 1時22分" ],
+                    [ "答：1小時22分鐘" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "8時50分 - 7時15分 = 1時35分" ],
+                    [ "1時35分 ×  4 = 6時20分" ],
+                    [ "答：6小時20分鐘" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "1時10分 × 3 = 3時30分" ],
+                    [ "15分 × 2 = 30分" ],
+                    [ "3時30分 + 30分 = 4時" ],
+                    [ "7時55分 + 4時 = 11時55分" ],
+                    [ "答：上午 11時55分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "5時6分 × 5 = 25時30分" ],
+                    [ "25時30分 ÷ 3 = 8時30分" ],
+                    [ "答：8小時30分鐘" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "15 × 6 = 90" ],
+                    [ "90 ÷ 10 = 9" ],
+                    [ "答：9天" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "8 × 4 = 32" ],
+                    [ "128÷32 = 4" ],
+                    [ "答：4 天" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合篇",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(16)時(25)分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(1)時(13)分(57)秒" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(4)分(3)秒" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "(2)日(23)時" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "cross"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "29 小時 = 1740分鐘" ],
+                    [ "2小時25分鐘 = 145分鐘" ],
+                    [ "1740÷145 = 12" ],
+                    [ "答：12 個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "45分 × 6 = 270分 = 4時30分" ],
+                    [ "15分 × 5 = 75分 = 1時15分" ],
+                    [ "4時30分 + 1時15分 = 5時45分" ],
+                    [ "10時20分 + 5時45分 = 16時5分" ],
+                    [ "答：16時5分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "10分22秒 × 3 = 31分6秒" ],
+                    [ "5分6秒 × 5 = 25分30秒" ],
+                    [ "31分6秒 + 25分30秒 = 56分36秒" ],
+                    [ "答：56分鐘36秒鐘" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border": false,
+                  "texts": [
+                    [ "18時 - 9時50分 = 8時10分" ],
+                    [ "8時10分 × 9 = 73時30分" ],
+                    [ "73 ÷ 24 = 3…1" ],
+                    [ "73小時30分鐘 = 3日1小時30分鐘" ],
+                    [ "答：3日1小時30分鐘" ]
+                    
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "steps": [
+    {
+      "step": 1,
+      "name": "首頁",
+      "status": "passed"
+    },
+    {
+      "step": 2,
+      "name": "出版社選擇",
+      "status": "passed"
+    },
+    {
+      "step": 3,
+      "name": "年級選擇",
+      "status": "passed"
+    },
+    {
+      "step": 4,
+      "name": "課次列表",
+      "status": "passed"
+    },
+    {
+      "step": 5,
+      "name": "答案顯示",
+      "status": "passed"
+    }
+  ],
+  "screenshots": [
+    "step1-home.png",
+    "step2-publishers.png",
+    "step3-grades.png",
+    "step4-lessons.png",
+    "step5-answers.png"
+  ],
+  "success": true,
+  "errors": [],
+  "foundQuestionTypes": [
+    "equation",
+    "checkbox",
+    "operation",
+    "measurement",
+    "tex",
+    "image"
+  ]
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "啟", "艘", "艇", "勤",
+          "宣", "寸", "厲", "蝸", "駱",
+          "駝", "健", "拭", "皺", "眉", "選"
+        ],
+        "zhuyin": [
+          ["ㄑㄧˇ"], ["ㄙㄠ"], ["ㄊㄧㄥˇ"], ["ㄑㄧㄣˊ"],
+          ["ㄒㄩㄢ"], ["ㄘㄨㄣˋ"], ["ㄌㄧˋ"], ["ㄍㄨㄚ"], ["ㄌㄨㄛˋ"],
+          ["ㄊㄨㄛˊ"], ["ㄐㄧㄢˋ"], ["ㄕˋ"], ["ㄓㄡˋ"], ["ㄇㄟˊ"], ["選"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據提示，完成詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "路"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "絡"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "客"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "(圈出厲害)"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "嚴重"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "跑步特別厲害 ➝ 高強", "心臟跑得很厲害 ➝ 猛烈、強烈"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "小鳥 ➝ 宣傳...", "小猴子 ➝ 張貼...", "動物大王 ➝ 下達命令"
+        ]
+      },
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 2 ],
+              [ 0 ]
+            ]
+          ]
+        }
+      },       
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "三月一日"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②", "✓ ④"
+        ]
+      },
+      {
+        "title": "6",
+        "category": "vocabulary",
+        "answers": [
+          "駱駝", "勇敢面對各種挑戰"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "作文練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

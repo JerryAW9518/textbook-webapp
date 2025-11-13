@@ -1,0 +1,139 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "曉", "菠"
+        ],
+        "zhuyin": [
+          ["ㄒㄧㄠˇ"], ["ㄅㄛ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "哀", "准"
+        ],
+        "zhuyin": [
+          ["ㄞ"], ["ㄓㄨㄣˇ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "振", "弱", "局", "支", 
+          "反", "勝", "壘", "輸", "賽"
+        ],
+        "zhuyin": [
+          ["ㄓㄣˋ"], ["ㄖㄨㄛˋ"], ["ㄐㄩˊ"], ["ㄓ"], 
+          ["ㄈㄢˇ"], ["ㄕㄥˋ"], ["ㄌㄟˇ"], ["ㄕㄨ"], ["ㄙㄞˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "期", "胡"
+        ],
+        "zhuyin": [
+          ["ㄑㄧˊ"], ["ㄏㄨˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出句子中運用擬人寫法的動詞，再完成句子",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "撐起"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "躲"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "守護"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "花兒綻放出燦爛的笑容"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓發生地震...", "✓被重物壓住..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "萬一小組討論時遇到意見不合，我會耐心溝通，聆聽大家的想法，並一起尋找最合適的解決方案。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 作者父親送了作者球棒"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 祖母➝小孩要做一個有用的人。作者➝想當上棒球小國手"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 他們要求我不能揮棒"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 尚未打出全壘打"
+        ]
+      }
+    ]
+  }
+]

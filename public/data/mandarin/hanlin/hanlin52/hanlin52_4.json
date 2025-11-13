@@ -1,0 +1,132 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "談", "尷", "尬", "怨", "藹",
+          "恢", "爽", "私", "奉", "慈",
+          "輝", "驕", "傲"
+        ],
+        "zhuyin": [
+          ["ㄊㄢˊ"], ["ㄍㄢ"], ["ㄍㄚˋ"], ["ㄩㄢˋ"], ["ㄞˇ"],
+          ["ㄏㄨㄟ"], ["ㄕㄨㄤˇ"], ["ㄙ"], ["ㄈㄥˋ"], ["ㄘˊ"],
+          ["ㄏㄨㄟ"], ["ㄐㄧㄠ"], ["ㄠˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、語詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["爽朗"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["手足無措"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["照料"]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["日復一日"]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": ["光輝"]
+      },
+      {
+        "title": "6",
+        "category": "vocabulary",
+        "answers": ["佩服"]
+      }
+    ]
+  },
+  {
+    "title": "三、心情連連看",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", "", ""
+          	],
+          	[
+              "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 3 ],
+              [ 0 ],
+              [ 2 ],
+              [ 1 ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "四、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "尷尬",
+        "category": "vocabulary",
+        "answers": [
+          "當我在朋友家裡不小心打破了花瓶，我感到非常尷尬。",
+          "當我走進錯誤的教室，全班同學都轉頭看著我，我感到非常尷尬。"
+        ]
+      },
+      {
+        "title": "佩服",
+        "category": "vocabulary",
+        "answers": [
+          "我佩服那些能夠在逆境中堅持不懈，克服困難，並實現夢想的人。",
+          "我佩服她的想像力，她總能夠創造出令人驚嘆的藝術作品。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["略"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["①"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["②"]
+      }
+    ]
+  }
+]

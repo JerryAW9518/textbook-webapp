@@ -1,0 +1,198 @@
+[
+  {
+    "title": "部首真有趣",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "花", "菜", "蘿", "蔔", "茄",
+          "苦", "蔥", "芽", "菜"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "唱", "著", "輕", "快", "歌",
+          "聞", "出", "香", "正", "身",
+          "園", "新", "芽", "沒", "聽", 
+          "呢"
+        ],
+        "zhuyin": [
+          ["ㄔㄤˋ"], ["˙ㄓㄜ"], ["ㄑㄧㄥ"], ["ㄎㄨㄞˋ"], ["ㄍㄜ"],
+          ["ㄨㄣˊ"], ["ㄔㄨ"], ["ㄒㄧㄤ"], ["ㄓㄥˋ"], ["ㄕㄣ"],
+          ["ㄩㄢˊ"], ["ㄒㄧㄣ"], ["ㄧㄚˊ"], ["ㄇㄟˊ"], ["ㄊㄧㄥ"], 
+          ["˙ㄋㄜ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+        	  [
+          	  {
+            	  "type": "text",
+              	"value": "",
+              	"checked": "unchecked"
+            	}
+          	],
+          	[
+          	  {
+            	  "type": "text",
+              	"value": "",
+              	"checked": "checked"
+            	}
+          	],
+          	[
+          	  {
+            	  "type": "text",
+              	"value": "",
+              	"checked": "unchecked"
+            	}
+          	]
+        	]
+        }
+      }              
+    ]
+  },
+  {
+    "title": "照樣寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "香香的"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "高高的"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "涼涼的"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "連一連，再完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 手"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 眼睛"
+        ]
+      },
+      {
+        "title": "",
+        "category": "matching",
+        "extras": {
+          "layerCount": 2,
+          "isVertical": true,
+            "layerWidgets": [
+              [
+                "", ""
+              ],
+              [
+                "", ""
+              ]
+            ],
+            "multiConnections": [
+              [
+                [ 1 ],
+                [ 0 ]
+              ]
+            ]
+        }
+      }, 
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "吃", "酸酸的"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填寫適當的標點符號",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "，", "？"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "，", "。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "，", "。"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "，", "？"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先聽故事，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "公雞躲在一邊，是因為牠覺得自己的聲音不夠好，怕叫不醒太陽，讓大家失望。但當牠鼓起勇氣一叫，太陽就醒了，證明了牠的獨特本領！"
+        ]
+      }
+    ]
+  }
+]

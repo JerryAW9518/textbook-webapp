@@ -1,0 +1,118 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "望", "漠", "柔", "非", "珍",
+          "珠"
+        ],
+        "zhuyin": [
+          ["ㄨㄤˋ"], ["ㄇㄛˋ"], ["ㄖㄡˊ"], ["ㄈㄟ"], ["ㄓㄣ"],
+          ["ㄓㄨ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "經", "暴", "雨", "式", "壯",
+          "觀", "希", "望", "入"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄥ"], ["ㄅㄠˋ"], ["ㄩˇ"], ["ㄕˋ"], ["ㄓㄨㄤˋ"],
+          ["ㄍㄨㄢ"], ["ㄒㄧ"], ["ㄨㄤˋ"], ["ㄖㄨˋ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "萍", "舞", "喜", "迎", "場",
+          "落", "湖", "雨"
+        ],
+        "zhuyin": [
+          ["ㄆㄧㄥˊ"], ["ㄨˇ"], ["ㄒㄧˇ"], ["ㄧㄥˊ"], ["ㄔㄤˇ"],
+          ["ㄌㄨㄛˋ"], ["ㄏㄨˊ"], ["ㄩˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、寫出正確注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "˙ㄓㄜ", "ㄓㄠ", "ㄓㄠˊ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄤ", "ㄉㄤˋ"
+        ]
+      },
+      {
+        "title": "著",
+        "category": "vocabulary",
+        "answers": [
+          "˙ㄓㄜ 哭著", "ㄓㄠ 著急"
+        ]
+      },
+      {
+        "title": "當",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄤˋ 上當", "ㄉㄤ 當時"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "青蛙一樣"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "在游泳池裡", "小魚一樣"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "4 水管", "3 自來水廠", "5 水槽", "6 下水道", "7 大海", "2 水庫"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "洗衣服", "洗菜"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,224 @@
+.select-page {
+  width: 100%;
+  animation: slideIn 0.4s ease;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* 頁面標題 */
+.page-header {
+  margin-bottom: var(--spacing-xl);
+  text-align: center;
+}
+
+.current-path {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+/* 選擇卡片網格 - 出版社 */
+.select-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--spacing-lg);
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.select-card {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-xl);
+  cursor: pointer;
+  transition: all var(--transition-normal) ease;
+  box-shadow: var(--shadow-sm);
+  border: 2px solid transparent;
+  position: relative;
+  min-height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.select-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--accent-color);
+  opacity: 0.05;
+  border-radius: inherit;
+  transition: opacity var(--transition-normal) ease;
+}
+
+.select-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--accent-color);
+}
+
+.select-card:hover::before {
+  opacity: 0.1;
+}
+
+.card-content {
+  flex: 1;
+}
+
+.select-title {
+  font-size: 2rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin: 0 0 var(--spacing-xs) 0;
+}
+
+.select-subtitle {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+.select-arrow {
+  width: 48px;
+  height: 48px;
+  background: var(--accent-color);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  opacity: 0.8;
+  transition: all var(--transition-normal) ease;
+}
+
+.select-card:hover .select-arrow {
+  opacity: 1;
+  transform: translateX(4px);
+}
+
+/* 年級選擇網格 */
+.grade-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--spacing-lg);
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.grade-card {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-xl);
+  box-shadow: var(--shadow-sm);
+  border: 2px solid transparent;
+  transition: all var(--transition-normal) ease;
+  position: relative;
+}
+
+.grade-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--accent-color);
+  opacity: 0.05;
+  border-radius: inherit;
+}
+
+.grade-card:hover {
+  border-color: var(--accent-color);
+  box-shadow: var(--shadow-md);
+}
+
+.grade-title {
+  font-size: 1.75rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin: 0 0 var(--spacing-md) 0;
+  text-align: center;
+}
+
+.semester-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-sm);
+}
+
+.semester-btn {
+  padding: var(--spacing-md) var(--spacing-lg);
+  background: var(--accent-color);
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  font-size: 1.1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition-fast) ease;
+  font-family: inherit;
+}
+
+.semester-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  filter: brightness(1.1);
+}
+
+.semester-btn:active {
+  transform: translateY(0);
+}
+
+/* 平板優化 */
+@media (min-width: 768px) {
+  .current-path {
+    font-size: 1.75rem;
+  }
+
+  .select-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .grade-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .select-title {
+    font-size: 2.25rem;
+  }
+
+  .grade-title {
+    font-size: 2rem;
+  }
+}
+
+/* 大螢幕優化 */
+@media (min-width: 1024px) {
+  .grade-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* 觸控優化 */
+@media (hover: none) {
+  .select-card:hover,
+  .grade-card:hover {
+    transform: none;
+  }
+
+  .select-card:active {
+    transform: scale(0.98);
+  }
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "燕", "窩", "奮", "塘", "處",
+          "景", "興", "鼠", "洞", "顏",
+          "蔚", "藍", "翠", "綠", "粉",
+          "桃", "蜜", "蜂"
+        ],
+        "zhuyin": [
+          ["ㄧㄢˋ"], ["ㄨㄛ"], ["ㄈㄣˋ"], ["ㄊㄤˊ"], ["ㄔㄨˋ"],
+          ["ㄐㄧㄥˇ"], ["ㄒㄧㄥˋ"], ["ㄕㄨˇ"], ["ㄉㄨㄥˋ"], ["ㄧㄢˊ"],
+          ["ㄨㄟˋ"], ["ㄌㄢˊ"], ["ㄘㄨㄟˋ"], ["ㄌㄩˋ"], ["ㄈㄣˇ"],
+          ["ㄊㄠˊ"], ["ㄇㄧˋ"], ["ㄈㄥ"], [""]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填寫正確的注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "興", "興", "興"
+        ],
+        "zhuyin": [
+          ["ㄒㄧㄥ"], ["ㄒㄧㄥˋ"], ["ㄒㄧㄥ"], [""], [""]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據提示，再作答",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "城", "堡", "地", "塘"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "池 電池", "河 河堤", "沙 風沙", "洞 地洞"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "相似的詞語連起來",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "快樂 ➝ 高興"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "難過 ➝ 傷心"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "生氣 ➝ 憤怒"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "想一想，再完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "地洞", "太陽"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "跑出", "狗屋", "銀白", "雪花"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先聽故事，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 雨聲"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 山上", "✓ 花朵", "✓ 草地"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "青蛙 ➝ 用聽的", "田鼠 ➝ 用看的", "蜜蜂 ➝ 用聞的"
+        ]
+      }
+    ]
+  }
+]

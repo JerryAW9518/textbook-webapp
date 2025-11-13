@@ -1,0 +1,142 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "車", "搭", "黑", "貓", "士",
+          "踏", "旅", "行"
+        ],
+        "zhuyin": [
+          ["ㄔㄜ"], ["ㄉㄚ"], ["ㄏㄟ"], ["ㄇㄠ"], ["ㄕˋ"],
+          ["ㄊㄚˋ"], ["ㄌㄩˇ"], ["ㄒㄧㄥˊ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "公", "園", "吹", "鬼", "針",
+          "昭", "妙", "探", "險", "世",
+          "界"
+        ],
+        "zhuyin": [
+          ["ㄍㄨㄥ"], ["ㄩㄢˊ"], ["ㄔㄨㄟ"], ["ㄍㄨㄟˇ"], ["ㄓㄣ"],
+          ["ㄓㄠ"], ["ㄇㄧㄠˋ"], ["ㄊㄢˋ"], ["ㄒㄧㄢˇ"], ["ㄕˋ"],
+          ["ㄐㄧㄝˋ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "傘", "尖", "刺"
+        ],
+        "zhuyin": [
+          ["ㄙㄢˇ"], ["ㄐㄧㄢ"], ["ㄘˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、組成國字，再填入句子中",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "園", "公園"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "遠", "遠足"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "界", "世界"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "如果", "就"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "沒有新冠肺炎", "我們", "不用整天戴著口罩上課了"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+      	"title": "3",
+        "category": "matching",
+        "extras": {
+        "layerCount": 3,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", ""
+          	],
+          	[
+              "", ""
+            ],
+          	[
+              "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 0 ]
+            ],
+            [
+            	[ 1, 2 ],
+              [ 0, 3 ],
+              [  ],
+              [  ]
+            ]
+          ]
+        }
+      }       
+    ]
+  }
+]

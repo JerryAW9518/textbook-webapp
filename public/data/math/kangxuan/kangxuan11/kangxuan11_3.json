@@ -1,0 +1,676 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "認識一到五",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "按照順序填填看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "1", "2", "3", "4", "5", "6" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "3", "4", "5", "6", "7", "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "5", "6", "7", "8", "9", "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "4", "5", "6", "7", "8", "9" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "認識 6~10",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "填一填，再連連看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "猴",
+                      "象",
+                      "羊",
+                      "狗",
+                      "獅"
+                    ],
+                    [
+                      "1",
+                      "2",
+                      "3",
+                      "4",
+                      "5"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [0],
+                      [2],
+                      [1],
+                      [4],
+                      [3]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "看圖回答問題",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "",
+                      "",
+                      "○"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "",
+                      "○",
+                      ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "第8個" ],
+                    [ "第1個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "看圖回答問題",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "第4個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "第3個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "",
+                      "○"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○",
+                      ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "認識0",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "●", "●", "●", "●", "○", "○", "○"
+                      
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", "○", "○", "●", "○", "○", "○"
+                      
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "", "", "", "○", "", "", ""
+                      
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", "○", "○", "○", "○", "", "", ""
+                      
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+      
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "第4個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "第9個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      
+      }
+    ]
+  },
+  {
+    "title": "活動4",
+    "subtitle": "比多少",
+    "section": [
+      {
+      
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "不夠"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "夠", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "夠", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "不夠"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      
+      },
+      
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5個" ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6把", "7瓶", "4盒" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "夠", ""
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    
+                    [
+                      "夠", ""
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "不夠"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+      
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", "○", "○", "○", "○", "○", "", "", "", ""
+                    ],
+                    [
+                      "○", "○", "○", "○", "", "", "", "", "", ""
+                    ]
+                  ]
+                }
+              },
+               {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "葡萄汁", "" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", "○", "○", "○", "○", "○", "○", "○", "", ""
+                    ],
+                    [
+                      "○", "○", "○", "○", "○", "○", "", "", "", ""
+                    ]
+                  ]
+                }
+              },
+               {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "", "草莓蛋糕" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○", "○", "○", "○", "○", "○", "○", "○", "○", ""
+                    ],
+                    [
+                      "○", "○", "○", "○", "○", "○", "○", "", "", ""
+                    ]
+                  ]
+                }
+              },
+               {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [ "國城", "" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      
+      
+      
+      {
+      
+        "title": "4",
+        "subtitle": "",
+        "question": [
+
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "circle"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      
+      },
+      {
+      
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

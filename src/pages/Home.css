@@ -1,0 +1,138 @@
+.home-page {
+  width: 100%;
+}
+
+/* 歡迎區域 */
+.welcome-section {
+  text-align: center;
+  margin-bottom: var(--spacing-2xl);
+}
+
+.page-title {
+  font-size: 3rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: var(--spacing-sm);
+  background: linear-gradient(135deg, var(--morandi-sage), var(--morandi-dusty-blue));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.page-subtitle {
+  font-size: 1.25rem;
+  color: var(--text-secondary);
+  margin-bottom: var(--spacing-lg);
+}
+
+.divider {
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(to right, var(--morandi-sage), var(--morandi-dusty-blue));
+  margin: var(--spacing-lg) auto;
+  border-radius: 2px;
+}
+
+/* 科目卡片網格 */
+.subject-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--spacing-xl);
+  margin-bottom: var(--spacing-2xl);
+}
+
+/* 功能說明區域 */
+.features-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--spacing-lg);
+  margin-top: var(--spacing-2xl);
+}
+
+.feature-item {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+  padding: var(--spacing-lg);
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(156, 175, 136, 0.1);
+  transition: all var(--transition-normal) ease;
+}
+
+.feature-item:hover {
+  background: rgba(255, 255, 255, 0.9);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
+}
+
+.feature-icon {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+.feature-content h3 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+}
+
+.feature-content p {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+/* 平板優化 */
+@media (min-width: 768px) {
+  .page-title {
+    font-size: 3.5rem;
+  }
+
+  .page-subtitle {
+    font-size: 1.5rem;
+  }
+
+  .subject-grid {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .features-section {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* 大螢幕優化 */
+@media (min-width: 1024px) {
+  .page-title {
+    font-size: 4rem;
+  }
+}
+
+/* 動畫 */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.welcome-section {
+  animation: fadeInUp 0.6s ease;
+}
+
+.subject-grid {
+  animation: fadeInUp 0.6s ease 0.2s backwards;
+}
+
+.features-section {
+  animation: fadeInUp 0.6s ease 0.4s backwards;
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "緊", "賽", "勝", "利", "乖",
+          "乖", "專", "指", "逗", "溫",
+          "業", "悅"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄣˇ"], ["ㄙㄞˋ"], ["ㄕㄥˋ"], ["ㄌㄧˋ"], ["ㄍㄨㄞ"],
+          ["ㄍㄨㄞ"], ["ㄓㄨㄢ"], ["ㄓˇ"], ["ㄉㄡˋ"], ["ㄨㄣ"],
+          ["ㄧㄝˋ"], ["ㄩㄝˋ"]
+        ]
+      },
+      {
+        "title": "動動腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 時間"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文內容回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②" 
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4", "2", "3", "1"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出正確的字音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "ㄌㄡˋ", "ㄌㄨˋ", "ㄌㄡˋ", "ㄓㄨㄢˇ", "ㄓㄨㄢˋ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "由於今天下雨，我們取消了戶外活動，改在室內玩遊戲。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、想像力大挑戰",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "1",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1"
+          	],
+          	[
+            	"", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 1 ],
+          		[ 2 ],
+          		[ 0 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "(1)小精靈在舞台上跳舞", "(2)溫柔的守護者照亮大地。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、說話練習 ",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

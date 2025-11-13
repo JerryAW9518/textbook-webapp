@@ -1,0 +1,160 @@
+[
+  {
+    "title": "一、猜一猜",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "棵"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "怕"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "卡"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "雷"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出相同，再造詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "田", "雷 ➝ 雷射", "當 ➝ 便當"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "白", "拍 ➝ 拍照", "怕 ➝ 害怕"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "土", "柔", 
+          "聽", "打", "雷", "害", "怕",
+          "發", "抖",
+          "勇", "敢", "咬", "羊", "吃",
+          "這", "長", "棵", "樹"
+        ],
+        "zhuyin": [
+          ["ㄊㄨˇ"], ["ㄖㄡˊ"],
+          ["ㄊㄧㄥ"], ["ㄉㄚˇ"], ["ㄌㄟˊ"], ["ㄏㄞˋ"], ["ㄆㄚˋ"],
+          ["ㄈㄚ"], ["ㄉㄡˇ"],
+          ["ㄩㄥˇ"], ["ㄍㄢˇ"], ["ㄧㄠˇ"], ["ㄧㄤˊ"], ["ㄔ"],
+          ["ㄓㄜˋ"], ["ㄓㄤˇ"], ["ㄎㄜ"], ["ㄕㄨˋ"]
+        ]
+      },
+      {
+      	"title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "四、圈出適當的語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "開心"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "高興"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "勇敢"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "會"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "玩具"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "有東西掉下來"
+        ]
+      }
+    ]
+  }
+]

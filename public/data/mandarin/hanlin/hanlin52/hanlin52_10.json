@@ -1,0 +1,184 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "輯", "瀑", "皙", "瘦", "黝", "邏"
+        ],
+        "zhuyin": [
+          ["ㄐㄧˊ"], ["ㄆㄨˋ"], ["ㄒㄧ"], ["ㄕㄡˋ"], ["ㄧㄡˇ"], ["ㄌㄨㄛˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、選詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["打量", "商量"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["熱情", "尷尬"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["白皙", "黝黑"]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["沒頭沒腦", "無影無蹤"]
+      }
+    ]
+  },
+  {
+    "title": "三、邏輯大考驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["✓ 福爾摩斯..."]
+      },
+      {
+      	"title": "2",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 2 ],
+              [ 0 ]
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "四、人物描寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "觀察對象",
+        "category": "vocabulary",
+        "answers": ["醫生"]
+      },
+      {
+        "title": "1性別",
+        "category": "vocabulary",
+        "answers": ["男性"]
+      },
+      {
+        "title": "2年齡",
+        "category": "vocabulary",
+        "answers": ["40歲"]
+      },
+      {
+        "title": "3身高",
+        "category": "vocabulary",
+        "answers": ["180公分"]
+      },
+      {
+        "title": "4體型",
+        "category": "vocabulary",
+        "answers": ["健壯"]
+      },
+      {
+        "title": "5服裝",
+        "category": "vocabulary",
+        "answers": ["白色醫生服，戴著一副眼鏡"]
+      },
+      {
+        "title": "6膚色",
+        "category": "vocabulary",
+        "answers": ["白皙而健康的膚色"]
+      },
+      {
+        "title": "7面部特徵",
+        "category": "vocabulary",
+        "answers": ["臉型較為細長，有著一雙專注而溫和的眼睛，鼻子挺直，嘴角總是帶著微笑"]
+      },
+      {
+        "title": "8說話方式",
+        "category": "vocabulary",
+        "answers": ["語調溫和而專業，以平和的語氣溝通，給人信心和安心的感覺"]
+      },
+      {
+        "title": "9動作姿態",
+        "category": "vocabulary",
+        "answers": ["站姿穩重，手勢自然而有節奏"]
+      },
+      {
+        "title": "10性格",
+        "category": "vocabulary",
+        "answers": ["慈祥而專業，充滿同情心和耐心"]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答下列問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["②"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["④"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["③"]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["③"]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": ["①"]
+      },
+      {
+        "title": "6",
+        "category": "vocabulary",
+        "answers": ["④"]
+      },
+      {
+        "title": "7",
+        "category": "vocabulary",
+        "answers": [
+          "不相信",
+          "福爾摩斯的推理能力雖然非常強大，但要知道一滴無色無味的水來自何方，可能是不太可能的。因為水本身沒有明顯的特徵或痕跡可以推斷其來源，而且水可以從多種來源取得。因此，即使是福爾摩斯，也需要更多的信息和線索才能做出準確的推斷。"
+        ]
+      }
+    ]
+  }
+]

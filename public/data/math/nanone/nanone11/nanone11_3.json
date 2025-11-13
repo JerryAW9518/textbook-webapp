@@ -1,0 +1,1088 @@
+[
+  {
+    "title": "3-1",
+    "subtitle": "分一分",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "ＯＯ", "ＯＯＯ" ],
+                    [ "2個", "3個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "ＯＯＯ", "ＯＯ" ],
+                    [ "3個", "2個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "ＯＯＯＯ", "Ｏ" ],
+                    [ "4個", "1個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "●●○○○○○" ],
+                    [ "2個", "5個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "●●●○○○○" ],
+                    [ "3個", "4個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "●●●●○○○" ],
+                    [ "4個", "3個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "●●●●●○○" ],
+                    [ "5個", "2個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "●●●●●●○" ],
+                    [ "6個", "1個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      
+      },
+      {
+      
+        "title": "三",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "○○○\n○○○"
+                    ],
+                    [
+                      "○○",
+                      "○○○○"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "○○○\n○○○"
+                    ],
+                    [
+                      "○○○",
+                      "○○○"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "○○○\n○○○"
+                    ],
+                    [
+                      "○○○○",
+                      "○○"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "四",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6" ]
+                  ]
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "8"
+                    ],
+                    [
+                      "2",
+                      "6"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                      
+                      
+                    ]
+                  ]
+                  
+                }
+              } 
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "○○○", "○○○○○" ],
+                    [ "3", "5" ]
+                  ]
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "8"
+                    ],
+                    [
+                      "3",
+                      "5"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              } 
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "○○○○", "○○○○" ],
+                    [ "4", "4" ]
+                  ]
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "8"
+                    ],
+                    [
+                      "4",
+                      "4"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                      
+                      
+                    ]
+                  ]
+                  
+                }
+              } 
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "○○○○○○○", "○" ],
+                    [ "7", "1" ]
+                  ]
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "8"
+                    ],
+                    [
+                      "7",
+                      "1"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              } 
+            ]
+          }
+        ]
+      
+      },
+      {
+      
+        "title": "五",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "7"
+                    ],
+                    [
+                      "1",
+                      "6"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              } 
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "5"
+                    ],
+                    [
+                      "2",
+                      "3"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              } 
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "10"
+                    ],
+                    [
+                      "7",
+                      "3"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              } 
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "4"
+                    ],
+                    [
+                      "3",
+                      "1"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              } 
+            ]
+          },
+          {
+          
+            "title": "5",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "6"
+                    ],
+                    [
+                      "3",
+                      "3"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              } 
+            ]
+          
+          }
+        ]
+      },
+      {
+        "title": "六",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "8"
+                    ],
+                    [
+                      "5",
+                      "3"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0, 1 ]
+                    ]
+                  ]
+                  
+                }
+              } 
+            ]
+          }
+        ]
+      
+      }
+    ]
+  },
+  {
+    "title": "3-2",
+    "subtitle": "合起來",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "6", "3"
+                    ],
+                    [
+                      "9"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "4", "4"
+                    ],
+                    [
+                      "8"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }              
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "2", "4"
+                    ],
+                    [
+                      "6"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "showBorder" : true,
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ","Ｏ","Ｏ","Ｏ","Ｏ"
+                    ],
+                    [
+                      "Ｏ","Ｏ","Ｏ","",""
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "5", "3"
+                    ],
+                    [
+                      "8"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "三",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5隻" ]
+                  ]
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "4", "1"
+                    ],
+                    [
+                      "5"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2隻", "7隻" ]
+                  ]
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "5", "2"
+                    ],
+                    [
+                      "7"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }
+              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3隻", "5隻" ]
+                  ]
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "2", "3"
+                    ],
+                    [
+                      "5"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }
+              
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3隻", "7隻" ]
+                  ]
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "3", "4"
+                    ],
+                    [
+                      "7"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }
+              
+            ]
+          }
+          
+        ]
+      },
+      {
+      
+        "title": "四",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", "", "", ""
+                    ],
+                    [
+                      "", "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 3 ],
+                      [ 0 ],
+                      [ 1 ],
+                      [ 2 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      
+      },
+      {
+        "title": "五",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 2 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      
+      
+      }
+    ]
+  },
+  {
+    "title": "3-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "一",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1", "9" ],
+                    [ "2", "8" ],
+                    [ "3", "7" ],
+                    [ "4", "6" ],
+                    [ "5", "5" ],
+                    [ "6", "4" ],
+                    [ "7", "3" ],
+                    [ "8", "2" ],
+                    [ "9", "1" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "二",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "Ｏ"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "三",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "9",
+                      "1",
+                      "5",
+                      "6",
+                      "8",
+                      "4",
+                      "2",
+                      "7",
+                      "3"
+                    ],
+                    [
+                      "4",
+                      "8",
+                      "1",
+                      "5",
+                      "9",
+                      "6",
+                      "7",
+                      "2",
+                      "3"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 2 ],
+                      [ 4 ],
+                      [ 3 ],
+                      [ 0 ],
+                      [ 7 ],
+                      [ 5 ],
+                      [ 1 ],
+                      [ 8 ],
+                      [ 6 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

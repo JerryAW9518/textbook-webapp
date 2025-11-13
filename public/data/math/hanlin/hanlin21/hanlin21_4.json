@@ -1,0 +1,724 @@
+[
+  {
+    "title": "4-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "14個" ],
+                    [ "5 + 9 = 14" ],
+                    [ "答:14個" ]
+                  ]
+                }
+              }  
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9個" ],
+                    [ "14 - 5 = 9" ],
+                    [ "答:9個" ]
+                  ]
+                }
+              }  
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5個" ],
+                    [ "14 - 9 = 5" ],
+                    [ "答:5個" ]
+                  ]
+                }
+              }  
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "21顆" ],
+                    [ "36 - 15 = 21" ],
+                    [ "答:21顆" ]
+                  ]
+                }
+              }  
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "36顆" ],
+                    [ "21 + 15 = 36" ],
+                    [ "答:36顆" ]
+                  ]
+                }
+              }  
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "15顆" ],
+                    [ "36 - 21 = 15" ],
+                    [ "答:15顆" ]
+                  ]
+                }
+              }  
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "77+9=86"
+                  ]
+                }
+              },
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "86-77=9"
+                  ]
+                }
+              },
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "9+77=86"
+                  ]
+                }
+              },
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "86-9=77"
+                  ]
+                }
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "55-28=27"
+                  ]
+                }
+              },
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "27+28=55"
+                  ]
+                }
+              },
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "55-27=28"
+                  ]
+                }
+              },
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "28+27=55"
+                  ]
+                }
+              }    
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "9+24=33"
+                  ]
+                }
+              },
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "33-9=24"
+                  ]
+                }
+              },
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "24+9=33"
+                  ]
+                }
+              },
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "33-24=9"
+                  ]
+                }
+              }    
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "4-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "80 - 45 = 35" ],
+                    [ "35" ],
+                    [ "答:35元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "80", "45"],
+            	  	"result" : "35"
+                }
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "18 + 14 = 32" ],
+                    [ "14" ],
+                    [ "答:14張" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "32", "18"],
+            	  	"result" : "14"
+                }
+              }    
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "52 + 38 = 90" ],
+                    [ "答:38顆" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "90", "52"],
+            	  	"result" : "38"
+                }
+              }    
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "27 + 29 = 56" ],
+                    [ "29" ],
+                    [ "答:29張" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "56", "27"],
+            	  	"result" : "29"
+                }
+              }    
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "36 + 48 = 84" ],
+                    [ "答:48枝" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "84", "36"],
+            	  	"result" : "48"
+                }
+              }    
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "42 + 31 = 73" ],
+                    [ "答:31張" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "73", "42"],
+            	  	"result" : "31"
+                }
+              }    
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "85 - 51 = 34" ],
+                    [ "51" ],
+                    [ "答:51元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "85", "34"],
+            	  	"result" : "51"
+                }
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "84 - 67 = 17" ],
+                    [ "答:67個" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "84", "17"],
+            	  	"result" : "67"
+                }
+              }    
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "60 - 40 = 20" ],
+                    [ "答:40個" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "60", "20"],
+            	  	"result" : "40"
+                }
+              }    
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "42", "18"],
+            	  	"result" : "24"
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "驗算" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  	"line" : [ "24", "18"],
+            	  	"result" : "42"
+                }
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  "line" : [ "50", "46"],
+            	  "result" : "4"
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "驗算" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  	"line" : [ "4", "46"],
+            	  	"result" : "50"
+                }
+              }    
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+             {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "95 - 67 = 28" ],
+                    [ "答:28元" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "95", "67"],
+            	  	"result" : "28"
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "驗算" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  	"line" : [ "28", "67"],
+            	  	"result" : "95"
+                }
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+             {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "62 - 49 = 13" ],
+                    [ "答:13枝" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "-",
+            	  	"line" : [ "62", "49"],
+            	  	"result" : "13"
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "驗算" ]
+                  ]
+                }
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  	"line" : [ "13", "49"],
+            	  	"result" : "62"
+                }
+              }    
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+  
+    "title": "動手動腦學數學",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7" ],
+                    [ "4" ],
+                    [ "6" ]
+                  ]
+                }
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4" ],
+                    [ "6" ],
+                    [ "7" ]
+                  ]
+                }
+              }    
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7" ],
+                    [ "8" ],
+                    [ "4" ]
+                  ]
+                }
+              }    
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7" ],
+                    [ "8" ],
+                    [ "4" ]
+                  ]
+                }
+              }    
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

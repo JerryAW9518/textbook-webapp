@@ -1,0 +1,131 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "跡", "坎", "坷", "塔", "限",
+          "碧", "北", "澎", "湃", "瞭",
+          "垠", "漾"
+        ],
+        "zhuyin": [
+          ["ㄐㄧ"], ["ㄎㄢˇ"], ["ㄎㄜˇ"], ["ㄊㄚˇ"], ["ㄒㄧㄢˋ"],
+          ["ㄅㄧˋ"], ["ㄅㄟˇ"], ["ㄆㄥ"], ["ㄆㄞˋ"], ["ㄌㄧㄠˋ"],
+          ["ㄧㄣˊ"], ["ㄧㄤˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、字音字形辨別",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["遼"]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["瞭", "遼"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["蕩", "盪"]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["盪", "蕩"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["垠", "限", "根"]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["限", "垠", "根"]
+      }
+    ]
+  },
+  {
+    "title": "三、多義詞練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["Ｏ"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["Ｏ"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["Ｘ"]
+      }
+    ]
+  },
+  {
+    "title": "四、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["✓ 遙遠廣闊沒有邊際"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["✓ 從高處往下看"]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["他站在山頂上，俯視著整個城市的美景。"]
+      }
+    ]
+  },
+  {
+    "title": "五、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["③"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["②"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "(僅供參考)\n從小草身上，我們可以學習韌性和適應能力。"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "(僅供參考)\n我想要化身為夢想家：只要信心存在，我就不停前行；只要決心堅定，我就追逐夢想。"
+        ]
+      }
+    ]
+  }
+]

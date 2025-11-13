@@ -1,0 +1,129 @@
+[
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "昆", "演", "保", "命", "技",
+          "敵", "攻", "擊", "周", "退"
+        ],
+        "zhuyin": [
+          ["ㄎㄨㄣ"], ["ㄧㄢˇ"], ["ㄅㄠˇ"], ["ㄇㄧㄥˋ"], ["ㄐㄧˋ"],
+          ["ㄉㄧˊ"], ["ㄍㄨㄥ"], ["ㄐㄧˊ"], ["ㄓㄡ"], ["ㄊㄨㄟˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文內容，完成下列表格。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "作假", "小灰蝶", "後翅", "眼睛"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "外形", "竹節蟲", "樹枝"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "一動也不動", "裝死"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "椿象", "放出難聞的氣體"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、字的變身妙招",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "蝶", "蛙"
+        ]
+      },
+      {
+        "title": "2(1)",
+        "category": "vocabulary",
+        "answers": [
+          "技", "枝"
+        ]
+      },
+      {
+        "title": "2(2)",
+        "category": "vocabulary",
+        "answers": [
+          "攻", "功"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、解說員的攻略。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "|", "︵", "︶", "，", "。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "湖畔的白天鵝靜靜地在水中漂浮，一動也不動，彷彿湖泊的守護者。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、聆聽練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "堅硬外殼"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "毒蛇"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "斷尾求生"
+        ]
+      }
+    ]
+  }
+]

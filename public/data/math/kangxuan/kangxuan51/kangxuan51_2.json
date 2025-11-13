@@ -1,0 +1,675 @@
+[
+  {
+    "title": "2-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "1堆", "2堆", "3堆", "", "", "6堆"
+                    ],
+                    [
+                      "", "", "9堆", "", "", ""
+                    ],
+                    [
+                      "", "", "", "", "", "18堆"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "3", "", "12", "16", "", "48"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "96÷16 ", "", "57÷19", "336÷24"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "2-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "1", "2", "", "4", "5", ""
+                    ],
+                     [
+                      "", "", "", "10", "", "20"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "1", "2", "", "", "", ""
+                    ],
+                     [
+                      "", "17", "", "", "", "34"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "39" ],
+                    [ "13" ],
+                    [ "1、3、13、39" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "28" ],
+                    [ "14" ],
+                    [ "7" ],
+                    [ "1、2、4、7、14、28" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "24" ],
+                    [ "12" ],
+                    [ "8" ],
+                    [ "6" ],
+                    [ "1、2、3、4、6、8、12、24" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1 x 33 = 33" ],
+                    [ "3 x 11 = 33 " ],
+                    [ "33的因數是 : 1、3、11、33" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1 x 25 = 25" ],
+                    [ "5 x 5 = 25 " ],
+                    [ "25的因數是 : 1、5、25" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1 x 40 = 40" ],
+                    [ "2 x 20 = 40 " ],
+                    [ "4 x 10 = 40 " ],
+                    [ "5 x 8 = 40 " ],
+                    [ "40的因數是 : 1、2、4、5、8、10、20、40" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1 x 19 = 19" ],
+                    [ "19的因數是 : 1、19" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1 x 21 = 21" ],
+                    [ "3 x 7 = 21 " ],
+                    [ "21的因數是 : 1、3、7、21" ],
+                    [ "答: 1人、3人、7人或21人" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1 x 52 = 52" ],
+                    [ "2 x 26 = 52 " ],
+                    [ "4 x 13 = 52 " ],
+                    [ "52的因數是 : 1、2、4、13、26、52" ],
+                    [ "比10人多，比30人少的值 : 13、26" ],
+                    [ "答 : 13人或26人" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "2-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "1cm", "2cm", "", "4cm", "8cm"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [                    
+                    [ "75的因數：1、3、5、15、25、75" ],
+                    [ "45的因數：1、3、5、9、15、45" ],
+                    [ "公因數：1、3、5、15" ],
+                    [ "最大公因數：15" ]]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [                    
+                    [ "9的因數：1、3、9" ],
+                    [ "18的因數：1、2、3、6、9、18" ],
+                    [ "公因數：1、3、9" ],
+                    [ "最大公因數：9" ]]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [                    
+                    [ "13的因數：1、13" ],
+                    [ "30的因數：1、2、3、5、6、10、15、30" ],
+                    [ "公因數：1" ],
+                    [ "最大公因數：1" ]]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [                    
+                    [ "42的因數：1、2、3、6、7、14、21、42" ],
+                    [ "35的因數：1、5、7、35" ],
+                    [ "公因數：1、7" ],
+                    [ "最大公因數：7" ]]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [                    
+                    [ "24的因數：1、2、3、4、6、8、12、24" ],
+                    [ "16的因數：1、2、4、8、16" ],
+                    [ "公因數：1、2、4、8" ],
+                    [ "答 : 1公分、2公分、4公分或8公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [                    
+                    [ "28的因數：1、2、4、7、14、28" ],
+                    [ "42的因數：1、2、3、6、7、14、21、42" ],
+                    [ "公因數：1、2、7、14" ],
+                    [ "答 : 1位、2位、7位或14位" ]]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [                    
+                    [ "32的因數：1、2、4、8、16、32" ],
+                    [ "56的因數：1、2、4、7、8、14、28、56" ],
+                    [ "最大公因數：8" ],
+                    [ "答：8組" ]]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合練習",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "3",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "6",
+                        "checked": "checked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "13",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "26",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "72 的因數： 1、2、3、4、6、8、9、 12、18、24、36、72" ],
+                    [ "符合學生人數在20人∼30人的因數是24 " ],
+                    [ "答： 24人" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "36 的因數： 1、2、3、4、6、9、 12、18、36" ],
+                    [ "48 的因數： 1、2、3、4、6、8、12、16、24、48" ],
+                    [ "36和48的公因數： 1、2、3、4、6、12" ], 
+                    [ "符合比5大且比10小的數是 6" ], 
+                    [ "答：6" ]
+                     
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "120 ÷ 4 = 30" ],
+                    [ "104 ÷ 4 = 26" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "120 ÷ 6 = 20" ],
+                    [ "104 ÷ 4 = 17 ⋯ 2" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "120 ÷ 8 = 15" ],
+                    [ "104 ÷ 8 = 13" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

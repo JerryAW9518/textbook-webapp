@@ -1,0 +1,169 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "伍", "笛", "奏", "熟", "悉", 
+          "旋", "律", "縈", "繞", "廊",
+          "階"
+        ],
+        "zhuyin": [
+          ["ㄨˇ"], ["ㄉㄧˊ"], ["ㄗㄡˋ"], ["ㄕㄡˊ"], ["ㄒㄧ"],
+          ["ㄒㄩㄢˊ"], ["ㄌㄩˋ"], ["ㄧㄥˊ"],["ㄖㄠˋ"],["ㄌㄤˊ"],
+          ["ㄐㄧㄝ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、字形練習",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "階"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄝ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "階", "諧"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "律", "津", "筆", "建"
+        ],
+        "zhuyin": [
+          ["ㄌㄩˋ"], ["ㄐㄧㄣ"], ["ㄅㄧˇ"], ["ㄐㄧㄢˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "律", "津", "筆"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+           "梢", "悄", "稍", "消"
+        ],
+        "zhuyin": [
+          ["ㄕㄠ"], ["ㄑㄧㄠˇ"], ["ㄕㄠ"], ["ㄒㄧㄠ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "稍", "消", "梢"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、詞義練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "花絮",
+        "category": "vocabulary",
+        "answers": [
+          "①", "②", "①"
+        ]
+      },
+      {
+        "title": "和諧",
+        "category": "vocabulary",
+        "answers": [
+          "②", "①", "①"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "這個家庭的成員總是和諧相處，彼此關心和尊重，讓家裡充滿了溫馨的氛圍。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ③", "✓ ④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③", "✓ ④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ②", "✓ ③"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "我曾與同學一起合作做一個科學實驗報告。我們需要收集數據、撰寫報告和設計展示海報。分工合作讓我們能更有效地完成任務，並學會團隊協作和溝通。感受到協作的重要，以及不同專長的結合能夠創造出更好的結果。"
+        ]
+      }
+    ]
+  }
+]

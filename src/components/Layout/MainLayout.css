@@ -1,0 +1,117 @@
+.main-layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(135deg,
+    var(--morandi-cream) 0%,
+    rgba(217, 207, 193, 0.3) 100%
+  );
+}
+
+/* 頂部導航 */
+.main-header {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  box-shadow: var(--shadow-sm);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--spacing-md) var(--spacing-lg);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--spacing-md);
+}
+
+.back-btn {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  background: none;
+  border: none;
+  color: var(--text-primary);
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--radius-sm);
+  transition: all var(--transition-fast) ease;
+}
+
+.back-btn:hover {
+  background: var(--morandi-beige);
+  transform: translateX(-4px);
+}
+
+.back-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+.header-title {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  flex: 1;
+  text-align: center;
+}
+
+.header-spacer {
+  width: 100px; /* 與返回按鈕同寬，保持標題居中 */
+}
+
+/* 主要內容區 */
+.main-content {
+  flex: 1;
+  padding: var(--spacing-2xl) var(--spacing-lg);
+}
+
+.content-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  animation: fadeIn var(--transition-normal) ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 底部資訊 */
+.main-footer {
+  background: rgba(255, 255, 255, 0.6);
+  padding: var(--spacing-lg);
+  text-align: center;
+  color: var(--text-light);
+  font-size: 0.9rem;
+  border-top: 1px solid rgba(156, 175, 136, 0.2);
+}
+
+/* 平板優化 */
+@media (min-width: 768px) {
+  .main-content {
+    padding: var(--spacing-2xl);
+  }
+
+  .header-title {
+    font-size: 1.75rem;
+  }
+}
+
+/* 大螢幕優化 */
+@media (min-width: 1024px) {
+  .header-title {
+    font-size: 2rem;
+  }
+}

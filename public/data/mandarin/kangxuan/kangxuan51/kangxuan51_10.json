@@ -1,0 +1,138 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "唐", "恬", "閒", "吟", 
+          "詠", "畢", "幽", "傍", "罷", 
+          "職", "掩", "扉", "暮",
+          "柴", "陋", "歸", "眠", "確"
+        ],
+        "zhuyin": [
+          ["ㄊㄤˊ"], ["ㄊㄧㄢˊ"], ["ㄒㄧㄢˊ"], ["ㄧㄣˊ"], 
+          ["ㄩㄥˇ"], ["ㄅㄧˋ"], ["ㄧㄡ"], ["ㄅㄤ"], ["ㄅㄚˋ"], 
+          ["ㄓˊ"], ["ㄧㄢˇ"], ["ㄈㄟ"], ["ㄇㄨˋ"],
+          ["ㄔㄞˊ"], ["ㄌㄡˋ"], ["ㄍㄨㄟ"], ["ㄇㄧㄢˊ"], ["ㄑㄩㄝˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先寫出正確的國字，再填入句子中",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "幕", "暮", "幕"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "職", "識", "職"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句型練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "雖然我們在大隊接力一開始就落後，卻靠著大家的努力合作，最後成功反敗為勝。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①", "④", "③", "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "第二張圖片描繪了夜晚，一個人躺在床上，看起來似乎睡不著。可以用詩句「幽人應未眠」來形容。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文內容，回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "(1)④", "(2)⑧", "(3)② ③ ⑤"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ③", "✓ ④", "✓ ⑤"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1324 @@
+[
+  {
+    "title": "5-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6", "9", "8", "7", "5" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9", "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "14", "14" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "23" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6", "2" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8", "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "11", "6" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4", "6" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "80" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "96" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "毫米" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "公尺", "公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "◯"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "◯"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "24" ],
+                    [ "4", "2" ],
+                    [ "34" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4公分2毫米 = 42毫米" ],
+                    [ "42 - 24 = 18" ],
+                    [ "答：18毫米" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4公分2毫米 = 42毫米" ],
+                    [ "42 - 34 = 8" ],
+                    [ "答：8毫米" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : false,
+            	    	"cm" : true,
+            	    	"mm" : true
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 0,
+            	    		"cm" : 5,
+            	    		"mm" : 3
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 0,
+            	    		"cm" : 2,
+            	    		"mm" : 6
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：7公分9毫米" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : false,
+            	    	"cm" : true,
+            	    	"mm" : true
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 0,
+            	    		"cm" : 15,
+            	    		"mm" : 7
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 0,
+            	    		"cm" : 8,
+            	    		"mm" : 4
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：7公分3毫米" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : false,
+            	    	"cm" : true,
+            	    	"mm" : true
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 0,
+            	    		"cm" : 72,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 0,
+            	    		"cm" : 43,
+            	    		"mm" : 8
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：28公分2毫米" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : false,
+            	    	"cm" : true,
+            	    	"mm" : true
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 0,
+            	    		"cm" : 45,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 0,
+            	    		"cm" : 37,
+            	    		"mm" : 5
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：82公分5毫米" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : true,
+            	    	"cm" : true,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 1,
+            	    		"cm" : 48,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 2,
+            	    		"cm" : 5,
+            	    		"mm" : 0
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：3公尺53公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : true,
+            	    	"cm" : true,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 2,
+            	    		"cm" : 68,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 2,
+            	    		"cm" : 5,
+            	    		"mm" : 0
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：63公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : true,
+            	    	"cm" : true,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 2,
+            	    		"cm" : 68,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 1,
+            	    		"cm" : 48,
+            	    		"mm" : 0
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：1公尺20公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : true,
+            	    	"cm" : true,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 1,
+            	    		"cm" : 48,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 1,
+            	    		"cm" : 48,
+            	    		"mm" : 0
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2公尺96公分 ＞ 2公尺68公分" ],
+                    [ "答：長" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "甲",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : true,
+            	    	"cm" : true,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 8,
+            	    		"cm" : 51,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 3,
+            	    		"cm" : 24,
+            	    		"mm" : 0
+            	    	}
+            	    ]
+            	}
+              }
+            ]
+          },
+          {
+            "title": "乙",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : true,
+            	    	"cm" : true,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 4,
+            	    		"cm" : 12,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 1,
+            	    		"cm" : 3,
+            	    		"mm" : 0
+            	    	}
+            	    ]
+            	}
+              }
+            ]
+          },
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：甲是5公尺27公分，乙是5公尺15公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : true,
+            	    	"cm" : true,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 15,
+            	    		"cm" : 80,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 6,
+            	    		"cm" : 8,
+            	    		"mm" : 0
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：9公尺72公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : true,
+            	    	"cm" : true,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 32,
+            	    		"cm" : 0,
+            	    		"mm" : 0
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" : 6,
+            	    		"cm" : 50,
+            	    		"mm" : 0
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：38公尺50公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6 + 5 = 11" ],
+                    [ "11" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "11 - 7 = 4" ],
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8 - 2 = 6" ],
+                    [ "6" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4", "6", "10", "11" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4", "8", "12" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6", "9", "12" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6", "7", "8", "9", "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "25", "30" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4", "7", "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5 + 4 = 9" ],
+                    [ "答:位置9" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "統整園地(五)",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "23" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "11" ],
+                    [ "7" ],
+                    [ "117" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7" ],
+                    [ "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "45" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9", "3" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2", "4", "8", "11" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10 - 6 = 4" ],
+                    [ "答: 4格" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : false,
+            	    	"cm" : true,
+            	    	"mm" : true
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" :  0,
+            	    		"cm" : 32,
+            	    		"mm" : 8
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" :  0,
+            	    		"cm" : 11,
+            	    		"mm" : 7
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：44公分5毫米" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "length",
+                "extras": {
+            	    "supportField" : {
+            	        "km" : false,
+            	    	"m" : true,
+            	    	"cm" : true,
+            	    	"mm" : false
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" :  8,
+            	    		"cm" : 52,
+            	    		"mm" : 8
+            	    	},
+            	    	{ 
+            	    		"km" : 0,
+            	    		"m" :  8,
+            	    		"cm" : 36,
+            	    		"mm" : 0
+            	    	}
+            	    ]
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答：16公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

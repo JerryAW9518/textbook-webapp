@@ -1,0 +1,132 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "艘", "舟", "佑", "順", "予"
+        ],
+        "zhuyin": [
+          ["ㄙㄠ"], ["ㄓㄡ"], ["ㄧㄡˋ"], ["ㄕㄨㄣˋ"], ["ㄩˇ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "列", "串", "賜", "共"
+        ],
+        "zhuyin": [
+          ["ㄌㄧㄝˋ"], ["ㄔㄨㄢˋ"], ["ㄙˋ"], ["ㄍㄨㄥˋ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "召", "戴", "盔", "激"
+        ],
+        "zhuyin": [
+          ["ㄓㄠˋ"], ["ㄉㄞˋ"], ["ㄎㄨㄟ"], ["ㄐㄧ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、字形辨別",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "耀 ㄧㄠˋ", "躍 ㄩㄝˋ", "耀"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "棒 ㄅㄤˋ", "捧 ㄆㄥˇ", "捧"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "踢 ㄊㄧ", "陽 ㄧㄤˊ", "場 ㄔㄤˇ", "賜 ㄙˋ", "湯 ㄊㄤ", "陽", "場", "賜", "踢"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、圈出錯誤的語詞，再用適當語詞代替",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "等待"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "剩餘"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "豐饒", "剩餘", "等待"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、詩歌仿寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "大家", "畢業旅行", "旅途平安無意外", "讓我們度過難忘時光"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "我們", "校外教學", "行程順暢無阻礙", "讓大家收穫滿滿"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 拼板舟...", "✓ 不貪求..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 可以...", "✓ 有節奏感...", "✓ 表示呼喚飛魚"
+        ]
+      }
+    ]
+  }
+]

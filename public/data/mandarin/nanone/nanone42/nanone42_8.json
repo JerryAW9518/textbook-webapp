@@ -1,0 +1,150 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "煤", "慰", "善", "疼", "必", 
+          "須", "養", "嬌"
+        ],
+        "zhuyin": [
+          ["ㄇㄟˊ"], ["ㄨㄟˋ"], ["ㄕㄢˋ"], ["ㄊㄥˊ"], ["ㄅㄧˋ"], 
+          ["ㄒㄩ"], ["ㄧㄤˇ"], ["ㄐㄧㄠ"]
+        ]
+      },
+      {
+      	"title": "動動腦",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "二、依課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 小煤球願意讓作者...", "✓ 小煤球會跑到作者..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "因為作者說話時眼神發亮，可以感受到他心中的期待。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "我不斷來回走動，嘴角抖動"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、將適當的語詞填入",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "只要", "只有", "輕輕摸著我的頭，之後便到廚房清洗碗盤了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、填入你我他",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "對話句",
+        "category": "vocabulary",
+        "answers": [
+          "你", "我"
+        ]
+      },
+      {
+        "title": "敘述句",
+        "category": "vocabulary",
+        "answers": [
+          "她", "她想搬去附近的三合院，那裡的環境舒適。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、聆聽練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 阿比", "✓ 巧巧"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "人類不應該為了自已的私心，就隨意捕捉動物，破壞環境。"
+        ]
+      }
+    ]
+  }
+]

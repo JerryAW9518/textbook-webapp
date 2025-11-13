@@ -1,0 +1,160 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "特", "其", "醜", "碗", "碰",
+          "破", "煩"
+        ],
+        "zhuyin": [
+          ["ㄊㄜˋ"], ["ㄑㄧˊ"], ["ㄔㄡˇ"], ["ㄨㄢˇ"], ["ㄆㄥˋ"],
+          ["ㄆㄛˋ"], ["ㄈㄢˊ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "獵", "縮", "羽", "蘆", "葦",
+          "雪", "餓", "孤", "單", "伴",
+          "悄", "悄", "淚", "遇", "鴨",
+          "塊"
+        ],
+        "zhuyin": [
+          ["ㄌㄧㄝˋ"], ["ㄙㄨㄛ"], ["ㄩˇ"], ["ㄌㄨˊ"], ["ㄨㄟˇ"],
+          ["ㄒㄩㄝˇ"], ["ㄜˋ"], ["ㄍㄨ"], ["ㄉㄢ"], ["ㄅㄢˋ"],
+          ["ㄑㄧㄠˇ"], ["ㄑㄧㄠˇ"], ["ㄌㄟˋ"], ["ㄩˋ"], ["ㄧㄚ"],
+          ["ㄎㄨㄞˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出國字的部首，再依部首分類連一連",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 3,
+        "isVertical": false,
+        "layerWidgets": [
+          	[
+            	"", "", "", "", ""
+          	],
+          	[
+              "", "", ""
+            ],
+            [
+            	"", "", "", "", ""
+          	]
+        	],
+        "multiConnections": [
+          	[
+            	[ 0 ],
+              [ 0 ],
+              [ 1 ],
+              [ 2 ],
+              [ 1 ]
+            ],
+            [
+            	[ 2 ],
+              [ 0, 1 ],
+              [ 3, 4 ]
+            ]
+          ]
+        }
+      }       
+      
+    ]
+  },
+  {
+    "title": "三、讀一讀，再填入適當語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "只是", "只好", "只要"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、連連看",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", "", ""
+          	],
+          	[
+              "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 3 ],
+              [ 2 ],
+              [ 0 ],
+              [ 1 ]
+            ]
+          ]
+        }
+      },       
+      {
+        "title": "造句",
+        "category": "vocabulary",
+        "answers": [
+          "聽到歌手宣布退休，歌迷就不捨的掉下眼淚。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "部", "枝", "削", "木", "膠",
+          "黏", "製", "另", "治"
+        ],
+        "zhuyin": [
+          ["ㄅㄨˋ"], ["ㄓ"], ["ㄒㄧㄠ"], ["ㄇㄨˋ"], ["ㄐㄧㄠ"],
+          ["ㄋㄧㄢˊ"], ["ㄓˋ"], ["ㄌㄧㄥˋ"], ["ㄓˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "解", "桿", "斷", "擦"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄝˇ"], ["ㄍㄢˇ"], ["ㄉㄨㄢˋ"], ["ㄘㄚ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "凹", "槽", "機", "器"
+        ],
+        "zhuyin": [
+          ["ㄠ"], ["ㄘㄠˊ"], ["ㄐㄧ"], ["ㄑㄧˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "雖然", "但是", "只要", "就", "不但", "還"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "媽媽只要有米飯和蔬菜，就可以做出營養豐富的午餐。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、聆聽練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "先", "再", "接著", "最後"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "①", "②", "④", "③"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 黏土", "✓ 石墨"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3 放進油鍋炸", "4 浸入蠟油中", "1 放進機器切", "2 烤得脆脆的"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 筆芯烘烤過後變得脆脆的", "✓ 筆芯必須放正擺入木頭中"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 筆芯的製作"
+        ]
+      }
+    ]
+  }
+]

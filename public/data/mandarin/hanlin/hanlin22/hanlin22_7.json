@@ -1,0 +1,128 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "凡", "女", "晨", "吵", "雜", 
+          "雞", "窩", "啄", "母", "雞",
+          "孵", "些", "離", "靜", "男", 
+          "孩", "求", "助"
+        ],
+        "zhuyin": [
+          ["ㄈㄢˊ"], ["ㄋㄩˇ"], ["ㄔㄣˊ"], ["ㄔㄠˇ"], ["ㄗㄚˊ"],
+          ["ㄐㄧ"], ["ㄨㄛ"], ["ㄓㄨㄛˇ"], ["ㄇㄨˇ"], ["ㄐㄧ"],
+          ["ㄈㄨ"], ["ㄒㄧㄝ"], ["ㄌㄧˊ"], ["ㄐㄧㄥˋ"], ["ㄋㄢˊ"],
+          ["ㄏㄞˊ"], ["ㄑㄧㄡˊ"], ["ㄓㄨˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "迪", "傳"
+        ],
+        "zhuyin": [
+          ["ㄉㄧˊ"], ["ㄔㄨㄢˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、找出是部首的字，並寫出相同國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "日", "早", "明"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "田", "男", "略"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "力", "勞", "劣"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、讀一讀，填入適當語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "老是"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "突然"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、選詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "沒想到", "竟然"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "誰也沒想到", "竟然"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

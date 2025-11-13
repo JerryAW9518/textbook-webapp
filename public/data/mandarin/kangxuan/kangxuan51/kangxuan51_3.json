@@ -1,0 +1,172 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "隱", "茂", "飢", "蔓", "虯",
+          "鬚", "勁", "扯", "韌", "挫",
+          "止", "聳", "藉", "銳", "折",
+          "豐"
+        ],
+        "zhuyin": [
+          ["ㄧㄣˇ"], ["ㄇㄠˋ"], ["ㄐㄧ"], ["ㄇㄢˋ"], ["ㄑㄧㄡˊ"],
+          ["ㄒㄩ"], ["ㄐㄧㄥˋ"], ["ㄔㄜˇ"], ["ㄖㄣˋ"], ["ㄘㄨㄛˋ"],
+          ["ㄓˇ"], ["ㄙㄨㄥˇ"], ["ㄐㄧㄝˋ"], ["ㄖㄨㄟˋ"], ["ㄓㄜˊ"],
+          ["ㄈㄥ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先寫注音，再填入正確的詞語。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "峭", "俏", "銷", "消", "削"
+        ],
+        "zhuyin": [
+          ["ㄑㄧㄠˋ"], ["ㄑㄧㄠˋ"], ["ㄒㄧㄠ"], ["ㄒㄧㄠ"], ["ㄒㄧㄠ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "峭壁", "推銷", "刀削麵", "俏皮", "消息"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、選出意思相近的詞語。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、完成句子。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "風", "輕盈的腳步"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文、回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+      
+        "title": "3",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1"
+          	],
+          	[
+            	"", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 1 ],
+          		[ 2 ],
+          		[ 0 ]
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "六、讀一讀、再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①流汗", "②挑戰", "③成功"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "②", "①", "③", "④"
+        ]
+      }
+    ]
+  }
+]

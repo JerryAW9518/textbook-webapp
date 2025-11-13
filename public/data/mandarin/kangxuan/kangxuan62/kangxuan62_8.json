@@ -1,0 +1,110 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "嶄", "汲", "輩", "瞻", "拓",
+          "諺", "垮", "鍥", "貫", "構",
+          "赴", "坪", "斤", "斤", "羹",
+          "庶", "遇"
+        ],
+        "zhuyin": [
+          ["ㄓㄢˇ"], ["ㄐㄧˊ"], ["ㄅㄟˋ"], ["ㄓㄢ"], ["ㄊㄨㄛˋ"],
+          ["ㄧㄢˋ"], ["ㄎㄨㄚˇ"], ["ㄑㄧㄝˋ"], ["ㄍㄨㄢˋ"], ["ㄍㄡˋ"],
+          ["ㄈㄨˋ"], ["ㄆㄧㄥˊ"], ["ㄐㄧㄣ"], ["ㄐㄧㄣ"], ["ㄍㄥ"],
+          ["ㄕㄨˋ"], ["ㄩˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、根據圖意，選出適當的詞語，再造句。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "鍥而不捨"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "科學家們鍥而不捨地研究這項技術，希望能夠找到解決問題的辦法。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、根據課文內容，回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ⑤", "✓ ⑥"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ③", "✓ ④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、先讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["②"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["✓ ①", "✓ ②", "✓ ③", "✓ ⑤", "✓ ⑥"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["④小結", "②講述理由", "③舉出例子", "①提出方法"]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["略"]
+      }
+    ]
+  },
+  {
+    "title": "五、作文練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

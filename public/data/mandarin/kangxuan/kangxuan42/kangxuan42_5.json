@@ -1,0 +1,170 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "版", "繪", "籍", "淺", 
+          "封", "查", "介", "玉",
+          "讚", "麥", "酵", "敏"
+        ],
+        "zhuyin": [
+          ["ㄅㄢˇ"], ["ㄏㄨㄟˋ"], ["ㄐㄧˊ"], ["ㄑㄧㄢˇ"],
+          ["ㄈㄥ"], ["ㄔㄚˊ"], ["ㄐㄧㄝˋ"], ["ㄩˋ"],
+          ["ㄗㄢˋ"], ["ㄇㄞˋ"], ["ㄒㄧㄠˋ"], ["ㄇㄧㄣˇ"]
+        ]  
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "2", "4", "3", "1"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先組成國字再寫注音，再填入正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "癢"
+        ],
+        "zhuyin": [
+          ["ㄧㄤˇ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "疼"
+        ],
+        "zhuyin": [
+          ["ㄊㄥˊ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "症"
+        ],
+        "zhuyin": [
+          ["ㄓㄥˋ"]
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "疹"
+        ],
+        "zhuyin": [
+          ["ㄓㄣˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "疼", "癢", "症", "疹"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "刪除錯誤詞語，再補上適當的動詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "宣言", "舉行"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "穿著", "欣賞"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "看見", "迎接"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "✓①", "✓③", "✓④"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+           "✓①", "✓②", "✓③"
+        ]
+      },
+      {
+        "title": "6",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "作文練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

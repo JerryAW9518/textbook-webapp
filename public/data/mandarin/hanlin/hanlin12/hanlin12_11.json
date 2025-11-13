@@ -1,0 +1,140 @@
+[
+  {
+    "title": "一、圈出相同再造詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "隹", "推 ➝ 推動", "進 ➝ 進行"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "昔", "借 ➝ 借用", "錯 ➝ 錯開"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "象", "像 ➝ 印像", "橡 ➝ 橡皮"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出錯誤，再寫出正確",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "長", "常"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "候", "後"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "顆", "棵"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "不", "步"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "需", "鉛", "橡", "皮", "擦",
+          "正", "確", "錯", "漂", "亮"
+        ],
+        "zhuyin": [
+          ["ㄒㄩ"], ["ㄑㄧㄢ"], ["ㄒㄧㄤˋ"], ["ㄆㄧˊ"], ["ㄘㄚ"],
+          ["ㄓㄥˋ"], ["ㄑㄩㄝˋ"], ["ㄘㄨㄛˋ"], ["ㄆㄧㄠˋ"], ["ㄌㄧㄤˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "學", "久", "常", "哭", "後",
+          "加", "油", "試", "進"
+        ],
+        "zhuyin": [
+          ["ㄒㄩㄝˊ"], ["ㄐㄧㄡˇ"], ["ㄔㄤˊ"], ["ㄎㄨ"], ["ㄏㄡˋ"],
+          ["ㄐㄧㄚ"], ["ㄧㄡˊ"], ["ㄕˋ"], ["ㄐㄧㄣˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "游"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "哭", "很難過"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "貓咪", "跳", "很高"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、依課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 一直寫錯字", "✓ 字寫得不好看"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 幫鉛筆擦掉寫錯的字"
+        ]
+      }
+    ]
+  }
+]

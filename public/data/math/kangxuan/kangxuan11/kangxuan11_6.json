@@ -1,0 +1,1194 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "數到20",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "連連看",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "12",
+                      "15",
+                      "13"
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 2 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+              },
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "20",
+                      "17",
+                      "19"
+                    ],
+                    [
+                      "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 0 ],
+                      [ 2 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10", "13", "14", "15"]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "16", "15", "13", "12" ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      
+      },
+      {
+      
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 10,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/jellyfish.png"
+                    }
+                  ]
+                }
+               
+              },
+              {
+              
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "13" ]
+                  ]
+                }
+              
+              }             
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 10,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/turtle.png"
+                    }
+                  ]
+                }
+              },
+              {
+              
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "16" ]
+                  ]
+                }
+              
+              }              
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 10,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/starfish.png"
+                    }
+                  ]
+                }
+              },
+              {
+              
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "18" ]
+                  ]
+                }
+              
+              }              
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 10,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    }
+                  ]
+                }
+              },
+              {
+              
+                "category": "circleMatching",
+                "extras": {
+                  "number": 10,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/icons/clownfish.png"
+                    }
+                  ]
+                }
+              },
+              {
+              
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "20" ]
+                  ]
+                }
+              
+              }          
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "數到30",
+    "section": [
+      {
+      
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "20", "21", "24", "26" ]
+                  ]
+                }
+              }              
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "29", "28", "25", "24" ]
+                  ]
+                }
+              }              
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "填填看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "19", "20", "21"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "25", "24", "23"]
+                  ]
+                }
+              }
+            ]
+          }
+          
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "填填看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "29" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "21" ]
+                  ]
+                }
+              }
+            ]
+          }
+          
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "填填看",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+          
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "表式數量",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 23,
+                  "isSingleImage" : true,
+                  "rowCount" : 6,
+                  "totalCount" : 24,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/leaf.png"
+                    }
+                  ]
+                }
+               
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "circleMatching",
+                "extras": {
+                  "number": 28,
+                  "isSingleImage" : true,
+                  "rowCount" : 6,
+                  "totalCount" : 30,
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/icons/rhinoceros_beetle.png"
+                    }
+                  ]
+                }
+               
+              }
+            ]
+          }
+        ]
+      },
+      {
+      
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○","○","○","○","○","○","○","○","○","○"
+                    ],
+                    [
+                      "○","○","○","○","○","○","○","○","○",""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○","○","○","○","○","○","○","○","○","○"
+                    ],
+                    [
+                      "○","○","○","○","○","○","○","○","○","○"
+                    ],
+                    [
+                      "○","○","○","○","○","○","○","","", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                
+                "extras": {
+                  "showBorder" : false,
+                  "row": [
+                    [
+                      "○","○","○","○","○","○","○","○","○"
+                    ],
+                    [
+                      "○","○","○","○","○","○","○","○","○"
+                    ],
+                    [
+                      "○","○","○","⍉","⍉","⍉","⍉","⍉","⍉"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                
+                "extras": {
+                  "showBorder" : false,
+                  "row": [
+                    [
+                      "△","△","△","△","△","△","△","△","△"
+                    ],
+                    [
+                      "△","△","△","△","△","△","△","△","△"
+                    ],
+                    [
+                      "△","▲","▲","▲","▲","▲","▲","",""
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      
+      }
+    ]
+  },
+  {
+    "title": "活動4",
+    "subtitle": "排在第幾個",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "25個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "○","",""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "21個" ],
+                    [ "20個" ],
+                    [ "22個" ]
+                    
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "16個" ],
+                    [ "15個" ],
+                    [ "9個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "20個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+  
+    "title": "活動5",
+    "subtitle": "比大小",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "16個", "18個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "19隻", "21隻" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "23個", "20個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+      
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "circle"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "items": [
+                    [
+                      {
+                        "type": "image",
+                        "value": "assets/images/butterfly.png",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "Option 2",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｏ", "Ｘ"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｘ", "Ｏ"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "Ｘ", "Ｏ"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+      
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "", "Ｏ"
+                    ],
+                    [
+                      "", "Ｏ"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      
+      }
+    ]
+  
+  }
+]

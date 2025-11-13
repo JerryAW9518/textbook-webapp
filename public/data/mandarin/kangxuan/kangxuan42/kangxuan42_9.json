@@ -1,0 +1,180 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "僅", "億", "載", "金", "城",
+          "引", "催", "仍", "嘗", "試",
+          "翁", "嚮", "號", "署", "測",
+          "阿", "姆", "斯", "壯", "津",
+          "津"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄣˇ"], ["ㄧˋ"], ["ㄗㄞˇ"], ["ㄐㄧㄣ"], ["ㄔㄥˊ"],
+          ["ㄧㄣˇ"], ["ㄘㄨㄟ"], ["ㄖㄥˊ"], ["ㄔㄤˊ"], ["ㄕˋ"],
+          ["ㄨㄥ"], ["ㄒㄧㄤˋ"], ["ㄏㄠˋ"], ["ㄕㄨˇ"], ["ㄘㄜˋ"],
+          ["ㄚ"], ["ㄇㄨˇ"], ["ㄙ"], ["ㄓㄨㄤˋ"], ["ㄐㄧㄣ"],
+          ["ㄐㄧㄣ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，填寫正確的注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "號", "號"
+        ],
+        "zhuyin": [
+          ["ㄏㄠˋ"], ["ㄏㄠˊ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "署", "署"
+        ],
+        "zhuyin": [
+          ["ㄕㄨˇ"], ["ㄕㄨˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，填寫正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "律", "建", "津", "津", "筆"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據圖意與提示，另造一個不同情境的句子。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "津津樂道"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "同學們對那場精彩的籃球比賽津津樂道，討論了一整天。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據上下文，寫出適當的問句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 快樂在那裡"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "你追求的快樂在哪裡呢？"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "聽一聽，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "二"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      }
+    ]
+  }
+]

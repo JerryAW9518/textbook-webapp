@@ -1,0 +1,132 @@
+[
+  {
+    "title": "部首真有趣",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "水", "滴", "海", "港", "澆", "水"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "院", "種", "種", "澆", "問", "公", "怎", 
+          "做", "放", "陽", "光", "需",
+          "伴", "它", "話", "才", "於"
+        ],
+        "zhuyin": [
+          ["ㄩㄢˋ"], ["ㄓㄨㄥˋ"], ["ㄓㄨㄥˇ"],["ㄐㄧㄠ"], ["ㄨㄣˋ"], ["ㄍㄨㄥ"], ["ㄗㄣˇ"],
+          ["ㄗㄨㄛˋ"], ["ㄈㄤˋ"], ["ㄧㄤˊ"], ["ㄍㄨㄤ"], ["ㄒㄩ"],
+          ["ㄅㄢˋ"], ["ㄊㄚ"], ["ㄏㄨㄚˋ"], ["ㄘㄞˊ"], ["ㄩˊ"]
+        ]
+      },
+      {
+      	"title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "根據情趣，連出正確的對話",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["\u279e 1"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["\u279e 3"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["\u279e 2"]
+      }
+    ]
+  },
+  {
+    "title": "根據情趣，連出正確的對話",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["略"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["3"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "一 大樹爺爺的生日...",
+          "二 生日那天...",
+          "三 大樹爺爺笑著說..."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先聽故事，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["\u2713 媽媽"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["\u2713 3"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["這一家人爬山時心情輕鬆愉快，享受大自然的美景。大家邊走邊聊，弟弟還在追蝴蝶玩，整個過程充滿了歡笑和快樂。到了山頂，全家一起吃點心，感到滿足和開心。"]
+      }
+    ]
+  }
+]

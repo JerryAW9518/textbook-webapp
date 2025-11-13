@@ -1,0 +1,1638 @@
+[
+  {
+    "title": "4-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1617" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 4851,
+            		"divisor" : 3
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "驗算 :" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 1617,
+            		"multiplicand" : 3 
+            	}
+              }        
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1000", "3" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 7003,
+            		"divisor" : 7
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "驗算 :" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 1000,
+            		"multiplicand" : 7 
+            	}
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "7000", "3"],
+            	  "result" : "7003"
+                }
+              }         
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7680 ÷ 6 = 1280" ],
+                    [ "答：1280箱" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 7680,
+            		"divisor" : 6
+            	}
+              }   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5094 ÷ 3 = 1698" ],
+                    [ "答：1698瓶" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 5094,
+            		"divisor" : 3
+            	}
+              }   
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "306" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 2754,
+            		"divisor" : 9
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "驗算 :" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 306,
+            		"multiplicand" : 9 
+            	}
+              }                    
+   
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "647" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 1941,
+            		"divisor" : 3
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "驗算 :" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 647,
+            		"multiplicand" : 3 
+            	}
+              }          
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "707", "8" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 6371,
+            		"divisor" : 9
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "驗算 :" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 707,
+            		"multiplicand" : 9 
+            	}
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "6363", "8"],
+            	  "result" : "6371"
+                }
+              }         
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "640", "3" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 3203,
+            		"divisor" : 5
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "驗算 :" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 640,
+            		"multiplicand" : 5 
+            	}
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "3200", "3"],
+            	  "result" : "3203"
+                }
+              }            
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2656 ÷ 8 = 332" ], 
+                    [ "答：332盒"]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 2656,
+            		"divisor" : 8
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4094 ÷ 6 = 682 ⋯ 2" ],
+                    [ "答：682袋，剩下2片" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 4094,
+            		"divisor" : 6
+            	}
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "4-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3" ],
+                    [ "3" ],
+                    [ "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2" ],
+                    [ "2" ],
+                    [ "2" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2", "10" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 90,
+            		"divisor" : 40
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3", "10" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 70,
+            		"divisor" : 20
+            	}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2", "8" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 48,
+            		"divisor" : 20
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2", "16" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 76,
+            		"divisor" : 30
+            	}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2", "19" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 99,
+            		"divisor" : 40
+            	}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "96 ÷ 10 = 9 ⋯ 6" ],
+                    [ "答：9袋，剩下6個"]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 96,
+            		"divisor" : 10
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "88 ÷ 30 = 2 ⋯ 28" ],
+                    [ "答：2個，剩下28元"]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 88,
+            		"divisor" : 30
+            	}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "40" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "50" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 51,
+            		"divisor" : 17
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 76,
+            		"divisor" : 19
+            	}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2", "16" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 92,
+            		"divisor" : 38
+            	}
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4", "10" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 78,
+            		"divisor" : 17
+            	}
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4", "16" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 88,
+            		"divisor" : 18
+            	}
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2", "21" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 99,
+            		"divisor" : 39
+            	}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "79 ÷ 18 = 4 ⋯ 7" ],
+                    [ "答：4個，剩下7公分"]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 79,
+            		"divisor" : 18
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "驗算 :" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 18,
+            		"multiplicand" : 4 
+            	}
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "72", "7"],
+            	  "result" : "79"
+                }
+              }         
+            ]
+          }
+        ]
+      },
+      {
+        "title": "9",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "30" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "10",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 92,
+            		"divisor" : 23
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 28,
+            		"divisor" : 14
+            	}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1", "21" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 52,
+            		"divisor" : 31
+            	}
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3", "18" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 84,
+            		"divisor" : 22
+            	}
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2", "25" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 89,
+            		"divisor" : 32
+            	}
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "4", "7" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 67,
+            		"divisor" : 15
+            	}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "11",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "81 ÷ 12 = 6 ⋯ 9" ],
+                    [ "答：6隊，剩下9個"]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 81,
+            		"divisor" : 12
+            	}
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "驗算 :" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "extras": {
+            	    "multiplier" : 12,
+            		"multiplicand" : 6
+            	}
+              },
+              {
+                "category": "regrouping",
+                "extras": {
+                  "operator" : "+",
+            	  "line" : [ "72", "9"],
+            	  "result" : "81"
+                }
+              }         
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "4-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "20" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 600,
+            		"divisor" : 30
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "43" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 903,
+            		"divisor" : 21
+            	}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "11" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 726,
+            		"divisor" : 66
+            	}
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "12", "4" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 244,
+            		"divisor" : 20
+            	}
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "32", "16" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 560,
+            		"divisor" : 17
+            	}
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "21", "2" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 968,
+            		"divisor" : 46
+            	}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 450,
+            		"divisor" : 50
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 320,
+            		"divisor" : 40
+            	}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "9" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 729,
+            		"divisor" : 81
+            	}
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6", "4" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 364,
+            		"divisor" : 60
+            	}
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "8", "22" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 326,
+            		"divisor" : 38
+            	}
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7", "2" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 464,
+            		"divisor" : 66
+            	}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "300 ÷ 64 = 4 ⋯ 44" ],
+                    [ "答：4顆，剩下44顆"]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 300,
+            		"divisor" : 64
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "164 ÷ 18 = 9 ⋯ 2" ],
+                    [ "答：9排，剩下2張"]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 164,
+            		"divisor" : 18
+            	}
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合篇",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "368", "6" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 3318,
+            		"divisor" : 9
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "3" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 69,
+            		"divisor" : 23
+            	}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "38" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 608,
+            		"divisor" : 16
+            	}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "1" ],
+                    [ "9", "7" ],
+                    [ "7" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5" ],
+                    [ "5" ],
+                    [ "1", "2" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "2" ],
+                    [ "3", "8" ],
+                    [ "3" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 170,
+            		"divisor" : 28
+            	}
+              }
+              
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7797 ÷ 3 = 2599" ],
+                    [ "答：2599元" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 7797,
+            		"divisor" : 3
+            	}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "96 ÷ 24 = 4" ],
+                    [ "答：4個" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 96,
+            		"divisor" : 24
+            	}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "275 ÷ 25 = 11" ],
+                    [ "答：11箱" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 275,
+            		"divisor" : 25
+            	}
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "531 ÷ 78 = 6 ⋯ 3" ],
+                    [ "答：6枝，剩下63元" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+            		"dividend" : 531,
+            		"divisor" : 78
+            	}
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

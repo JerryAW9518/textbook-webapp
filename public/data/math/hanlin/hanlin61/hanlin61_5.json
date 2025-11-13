@@ -1,0 +1,1153 @@
+[
+  {
+    "title": "5-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 9.6,
+                  "divisor": 6,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 56.7,
+                  "divisor": 27,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 12.96,
+                  "divisor": 18,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 81.28,
+                  "divisor": 32,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "5.4 ÷ 0.9 = 6 " ],
+                    [ "答:6罐" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "5.4 ÷ 0.3 = 18" ],
+                    [ "答:18罐" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 3,
+                  "divisor": 1.2,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 9,
+                  "divisor": 1.5,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 36,
+                  "divisor": 2.4,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 42,
+                  "divisor": 2.5,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4.32 ÷ 1.8 = 2.4" ],
+                    [ "答:2.4瓶" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.9 ÷ 1.8 = 0.5" ],
+                    [ "答:0.5瓶" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 10.2,
+                  "divisor": 8.5,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 4.2,
+                  "divisor": 1.2,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 2.28,
+                  "divisor": 7.6,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 2.48,
+                  "divisor": 0.4,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 7.56,
+                  "divisor": 0.28,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 48,
+                  "divisor": 0.24,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 4.25,
+                  "divisor": 1.25,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 3.6,
+                  "divisor": 2.25,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "43.75 ÷ 6.25 = 7" ],
+                    [ "答:7公分" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 43.75,
+                  "divisor": 6.25,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "72.8 ÷ 58.24 = 1.25" ],
+                    [ "答:1.25個" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 72.8,
+                  "divisor": 58.24,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "72 ÷ 0.75 = 96" ],
+                    [ "答:96瓶" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 72,
+                  "divisor": 0.75,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3.64 ÷ 2.08 = 1.75" ],
+                    [ "答:1.75包" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 3.64,
+                  "divisor": 2.08,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "99 ÷ 0.9 ＞ 99" ],
+                    [ "99 ÷ 1 = 99" ],
+                    [ "99 ÷ 1.1 ＜ 99" ],
+                    [ "答:C商店" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "5-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "border" : false,
+                  "dividend": 17.9,
+                  "divisor": 4.6,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          },
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3.9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3.89" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.9" ]
+                  ]
+                }
+              },
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 8.69,
+                  "divisor": 9.53,
+                  "isDecimal": true,
+                  "precision" : 2
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6.8 " ]
+                  ]
+                }
+              },
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 9.24,
+                  "divisor": 1.36,
+                  "isDecimal": true,
+                  "precision" : 2
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3.0" ]
+                  ]
+                }
+              },
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 6.45,
+                  "divisor": 2.18,
+                  "isDecimal": true,
+                  "precision" : 2
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                   [ "500 ÷ 31.2 = 16" ],
+                   [ "答:大約16.0分鐘" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 500,
+                  "divisor": 31.2,
+                  "isDecimal": true,
+                  "precision" : 2
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "195.5 ÷ 19.8 ≈ 9.9" ],
+                    [ "答:大約9.9公里" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "統整園地",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "20 ÷ 2.5 = 8 " ],
+                    [ "答:8段" ]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 20,
+                  "divisor": 2.5,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "480 ÷ 0.6 = 800" ],
+                    [ "840 ÷ 1.2 = 700" ],
+                    [ "答:綠茶"]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 480,
+                  "divisor": 0.6,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 840,
+                  "divisor": 1.2,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2.4 ÷ 0.16 = 15" ],
+                    [ "答:15個" ]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 2.4,
+                  "divisor": 0.16,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1 ÷ 2.2 = 0.45" ],
+                    [ "答:大約0.45圈" ]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 1,
+                  "divisor": 2.2,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "38.1 ÷ 2.54 = 15" ],
+                    [ "答:15英寸" ]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 38.1,
+                  "divisor": 2.54,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "96.5 ÷ 2.54 ≈ 38" ],
+                    [ "答:大約38英寸" ]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 96.5,
+                  "divisor": 2.5,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "50.8 ÷ 2.54 = 20" ],
+                    [ "答:20英寸 " ]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 50.8,
+                  "divisor": 2.54,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "64 ÷ 2.54 ≈ 25" ],
+                    [ "答:大約25英寸" ]
+                  ]
+                }
+              },
+              {
+               "category": "division",
+                "extras": {
+                  "dividend": 64,
+                  "divisor": 2.54,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

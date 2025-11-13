@@ -1,0 +1,137 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "眾", "潛", "究", "舉", "獨",
+          "厚", "領", "構", "肢", "易",
+          "壁", "趾", "蹼", "膜", "絕"
+        
+        ],
+        "zhuyin": [
+          ["ㄓㄨㄥˋ"], ["ㄑㄧㄢˊ"], ["ㄐㄧㄡˋ"], ["ㄐㄩˇ"], ["ㄉㄨˊ"],
+          ["ㄏㄡˋ"], ["ㄌㄧㄥˇ"], ["ㄍㄡˋ"], ["ㄓ"], ["ㄧˋ"],
+          ["ㄅㄧˋ"], ["ㄓˇ"], ["ㄆㄨˊ"], ["ㄇㄛˊ"], ["ㄐㄩㄝˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先讀一讀，再填入正確的國字。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "決", "絕"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "講", "構", "溝"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據提示，寫出完整的句子。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "就能減少海洋中塑膠垃圾的數量，保護環境。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "走路、吃飯，還是睡前，"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "才可以出門打球。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文內容填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "青蛙",
+        "category": "vocabulary",
+        "answers": [
+          "蛙蹼", "蛙鞋"
+        ]
+      },
+      {
+        "title": "壁虎",
+        "category": "vocabulary",
+        "answers": [
+          "細毛", "壁虎膠帶"
+        ]
+      },
+      {
+        "title": "人類",
+        "category": "vocabulary",
+        "answers": [
+          "仔細觀察", "用心探索"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ", "Ｏ", "Ｏ", "Ｘ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "作文練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]
