@@ -25,10 +25,10 @@ const GradeSelect = ({ subject, onSelect }) => {
   };
 
   return (
-    <div className="select-page">
+    <div className="select-page" style={{ '--accent-color': subjectColor }}>
       <div className="grade-grid">
         {grades.map((grade) => (
-          <div key={grade.id} className="grade-card" style={{ '--accent-color': subjectColor }}>
+          <div key={grade.id} className="grade-card">
             <h3 className="grade-title">{grade.name}</h3>
             <div className="semester-buttons">
               <button

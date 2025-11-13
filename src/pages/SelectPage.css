@@ -61,6 +61,7 @@
   opacity: 0.05;
   border-radius: inherit;
   transition: opacity var(--transition-normal) ease;
+  pointer-events: none;
 }
 
 .select-card:hover {
@@ -137,6 +138,7 @@
   background: var(--accent-color);
   opacity: 0.05;
   border-radius: inherit;
+  pointer-events: none;
 }
 
 .grade-card:hover {

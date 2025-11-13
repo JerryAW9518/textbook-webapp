@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>檢查點擊阻擋</title>
+</head>
+<body>
+    <h1>在瀏覽器 Console 中執行以下代碼來檢查點擊問題：</h1>
+    <pre>
+// 1. 檢查按鈕的 pointer-events
+const btn = document.querySelector('.semester-btn');
+console.log('Button pointer-events:', getComputedStyle(btn).pointerEvents);
+
+// 2. 檢查是否有元素覆蓋在按鈕上
+const rect = btn.getBoundingClientRect();
+const centerX = rect.left + rect.width / 2;
+const centerY = rect.top + rect.height / 2;
+const elementAtPoint = document.elementFromPoint(centerX, centerY);
+console.log('Element at button center:', elementAtPoint);
+console.log('Is it the button?', elementAtPoint === btn);
+
+// 3. 檢查按鈕的事件監聽器
+console.log('Button onclick:', btn.onclick);
+console.log('Has click listener:', btn.onclick !== null);
+
+// 4. 測試手動觸發點擊
+console.log('Testing manual click...');
+btn.click();
+    </pre>
+</body>
+</html>
