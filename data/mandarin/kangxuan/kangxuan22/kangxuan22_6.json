@@ -1,0 +1,163 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "抱", "棵", "教", "室", "並",
+          "猜", "猜", "立", "刻", "文",
+          "校", "哥", "哥", "借", "枝",
+          "鉛", "及", "騎", "踏", "車",
+          "終"
+        ],
+        "zhuyin": [
+          ["ㄅㄠˋ"], ["ㄎㄜ"], ["ㄐㄧㄠˋ"], ["ㄕˋ"], ["ㄅㄧㄥˋ"],
+          ["ㄘㄞ"], ["ㄘㄞ"], ["ㄌㄧˋ"], ["ㄎㄜˋ"], ["ㄨㄣˊ"],
+          ["ㄒㄧㄠˋ"], ["ㄍㄜ"], ["˙ㄍㄜ"], ["ㄐㄧㄝˋ"], ["ㄓ"],
+          ["ㄑㄧㄢ"], ["ㄐㄧˊ"], ["ㄑㄧˊ"], ["ㄊㄚˋ"], ["ㄔㄜ"],
+          ["ㄓㄨㄥ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出正確的注音或國字，再填入適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "教導", "教書"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄠˋ", "ㄉㄠˋ"], ["ㄐㄧㄠ", "ㄕㄨ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "教練"
+        ],
+        "zhuyin": [
+         ["ㄐㄧㄠˋ", "ㄌ一ㄢˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "棵", "顆", "一棵樹", "顆粒"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀句字，選出多餘的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出完整的句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "變得煥然一新"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "獲得金牌"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "姐姐努力練習比賽"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "經過一星期的努力，我終於完成組裝最愛的模型。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "(1) 猴子 ➝ 山羊", "(2) 兔子 ➝ 袋鼠", "(3) 熊 ➝ 松鼠"
+        ]
+      },
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 2 ],
+              [ 0 ],
+              [ 1 ]
+            ]
+          ]
+        }
+      },     
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  }
+]

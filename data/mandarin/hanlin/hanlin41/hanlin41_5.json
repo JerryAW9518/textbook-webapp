@@ -1,0 +1,103 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "輪", "掛", "皎", "曾", "徘",
+          "徊", "考", "科", "登", "尋",
+          "案"
+        ],
+        "zhuyin": [
+          ["ㄌㄨㄣˊ"], ["ㄍㄨㄚˋ"], ["ㄐㄧㄠˇ"], ["ㄘㄥˊ"], ["ㄆㄞˊ"],
+          ["ㄏㄨㄞˊ"], ["ㄎㄠˇ"], ["ㄎㄜ"], ["ㄉㄥ"], ["ㄒㄩㄣˊ"],
+          ["ㄢˋ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓目前還沒證實月球上有生命"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、選詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "風和日麗"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "鳥語花香"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "花紅柳綠"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "不只能讓身體更健康，而且能讓你更有活力。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "這片花園裡的花朵，像是五顏六色的彩虹，又像是小小的寶石。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、閱讀小偵探",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓李白覺得月亮看起來像盤子，...", "✓李白看過的月亮，..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓詩仙"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "文中提到詩友們給李白的美名是“天資聰穎又才華洋溢，字裡行間揮灑出無人可敵的想像力，飄逸著瀟灑浪漫的真性情，如同神仙的筆墨”。這些形容詞表達了李白被認為是才華橫溢、詩風獨特的詩人。"
+        ]
+      }
+    ]
+  }
+]

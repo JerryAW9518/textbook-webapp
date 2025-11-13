@@ -1,0 +1,220 @@
+[
+  {
+    "title": "一、相同圈出來，再寫進空格裡",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "寺"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "青"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "⻊"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出正確的注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄜˊ", "˙ㄉㄜ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄜˊ", "ㄉㄜˊ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄜˊ", "˙ㄉㄜ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "健", "康", "步", "時", "覺",
+          "得", "雙", "疼", "直", "蹲",
+          "矮", "受", "傷", "枴", "杖",
+          "溫", "情"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄢˋ"], ["ㄎㄤ"], ["ㄅㄨˋ"], ["ㄕˊ"], ["ㄐㄩㄝˊ"],
+          ["˙ㄉㄜ"], ["ㄕㄨㄤ"], ["ㄊㄥˊ"], ["ㄓˊ"], ["ㄉㄨㄣ"],
+          ["ㄞˇ"], ["ㄕㄡˋ"], ["ㄕㄤ"], ["ㄍㄨㄞˇ"], ["ㄓㄤˋ"],
+          ["ㄨㄣ"], ["ㄑㄧㄥˊ"]
+        ]
+      },
+      {
+      	"title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      } 
+      
+    ]
+  },
+  {
+    "title": "四、先連出適當的語詞，再填入空格裡",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "1",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", ""
+          	],
+          	[
+              "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 0 ],
+              [ 1 ]
+            ]
+          ]
+        }
+      },   
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "一步", "一步一步"
+        ]
+      },
+      {
+      	"title": "2",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", ""
+          	],
+          	[
+              "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 0 ]
+            ]
+          ]
+        }
+      },   
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "一朵一朵", "一朵"
+        ]
+      },
+      {
+      	"title": "1",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", ""
+          	],
+          	[
+              "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 0 ],
+              [ 1 ]
+            ]
+          ]
+        }
+      },   
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "一張", "一張一張"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、看圖完成句子",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "筆直"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "營火的火光", "溫暖"
+        ]
+      }
+    ]
+  }
+]

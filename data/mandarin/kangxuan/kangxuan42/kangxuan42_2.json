@@ -1,0 +1,150 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "四", "川", "缺", "窮", "繼", "租",
+          "達","缽", "緣", "既", "研",  "備",
+          "慮", "慚", "愧", "絆"
+        ],
+        "zhuyin": [
+          ["ㄙˋ"], ["ㄔㄨㄢ"], ["ㄑㄩㄝ"], ["ㄑㄩㄥˊ"], ["ㄐㄧˋ"], ["ㄗㄨ"],
+          ["ㄉㄚˊ"], ["ㄅㄛ"], ["ㄩㄢˊ"], ["ㄐㄧˋ"], ["ㄧㄢˊ"], ["ㄅㄟˋ"],
+          ["ㄌㄩˋ"], ["ㄘㄢˊ"], ["ㄎㄨㄟˋ"], ["ㄅㄢˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "想一想，提出理由支持你的看法。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "哥哥", "哥哥有目標，懷抱著一定有水的信念，只要努力挖掘，一定能成功挖出井水。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先完成字，再填入正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "拌"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "伴"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "絆"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "伴", "拌", "絆"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖，再依據提示，完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "吃一口自己做的披薩，我覺得既健康又美味"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "這條山路既長又曲折，我們費了九牛二虎之力才抵達山頂。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據提示，填入內容",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "背景",
+        "category": "vocabulary",
+        "answers": [
+          "窮和尚", "富和尚"
+        ]
+      },
+      {
+        "title": "起因",
+        "category": "vocabulary",
+        "answers": [
+          "邀請富和尚前往南海求取經書"
+        ]
+      },
+      {
+        "title": "經過",
+        "category": "vocabulary",
+        "answers": [
+          "路途遠，準備不夠，無法成行", "水瓶", "缽"
+        ]
+      },
+      {
+        "title": "結果",
+        "category": "vocabulary",
+        "answers": [
+          "既感動又慚愧"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  }
+]

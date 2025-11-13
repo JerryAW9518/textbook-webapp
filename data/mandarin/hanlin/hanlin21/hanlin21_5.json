@@ -1,0 +1,145 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "海", "邊", "夕", "沙", "灘",
+          "腳", "ㄚ", "留", "腳", "印",
+          "麗", "注", "愛", "螃", "蟹", 
+          "挖", "橫", "退"
+        ],
+        "zhuyin": [
+          ["ㄏㄞˇ"], ["ㄅㄧㄢ"], ["ㄒㄧˋ"], ["ㄕㄚ"], ["ㄊㄢ"],
+          ["ㄐㄧㄠˇ"], ["ㄧㄚ"], ["ㄌㄧㄡˊ"], ["ㄐㄧㄠˇ"], ["ㄧㄣˋ"], 
+          ["ㄌㄧˋ"], ["ㄓㄨˋ"], ["ㄞˋ"], ["ㄆㄤˊ"], ["ㄒㄧㄝˋ"],
+          ["ㄨㄚ"], ["ㄏㄥˊ"], ["ㄊㄨㄟˋ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 沙灘上一排排腳印"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、連一連，再造一個語詞",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 3,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"4", "3", "2", "1"
+          	],
+          	[
+            	"", "", "", ""
+          	],
+          	[
+            	"泡沫", "遠方", "注重", "附近"
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 0 ],
+          		[ 2 ],
+          		[ 1 ],
+          		[ 3 ]
+        		],
+        		[
+          		[ 0 ],
+          		[ 1 ],
+          		[ 2 ],
+          		[ 3 ]
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "三、觀察圖片，並完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "飛來飛去"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "跑來跑去"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "蜜蜂和蝴蝶在空中飛舞"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "同學們一起朗讀課文"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "海邊"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 傍晚"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

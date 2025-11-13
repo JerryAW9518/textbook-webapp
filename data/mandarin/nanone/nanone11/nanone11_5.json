@@ -1,0 +1,133 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "沒", "河", "流", "住", "這",
+          "裡", "們", "什", "麼"
+        ],
+        "zhuyin": [
+          ["ㄇㄟˊ"], ["ㄏㄜˊ"], ["ㄌㄧㄡˊ"], ["ㄓㄨˋ"], ["ㄓㄜˋ"],
+          ["ㄌㄧˇ"], ["˙ㄇㄣ"], ["ㄕㄣˊ"], ["˙ㄇㄜ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "外", "有", "星", "球", "哪",
+          "個", "是"
+        ],
+        "zhuyin": [
+          ["ㄨㄞˋ"], ["ㄧㄡˇ"], ["ㄒㄧㄥ"], ["ㄑㄧㄡˊ"], ["ㄋㄚˇ"],
+          ["˙ㄍㄜ"], ["ㄕˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、將字組合成詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "我們"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "沒有"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "地上"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "什麼"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填入適當的代號",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖照樣造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "鮮奶"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "奶奶", "小狗"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、聽一聽故事，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      }
+    ]
+  }
+]

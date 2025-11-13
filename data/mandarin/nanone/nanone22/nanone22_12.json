@@ -1,0 +1,160 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "晨", "床", "鋪", "搬", "由",
+          "鮮", "交", "冰", "而", "且",
+          "顆", "汁"
+        ],
+        "zhuyin": [
+          ["ㄔㄣˊ"], ["ㄔㄨㄤˊ"], ["ㄆㄨˋ"], ["ㄅㄢ"], ["ㄧㄡˊ"],
+          ["ㄒㄧㄢ"], ["ㄐㄧㄠ"], ["ㄅㄧㄥ"], ["ㄦˊ"], ["ㄑㄧㄝˇ"],
+          ["ㄎㄜ"], ["ㄓ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "3 吃梨子", "2 用冰涼的山泉水清洗梨子", "1 從床鋪上爬起來"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、連一連，拼出正確的字，並造詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "金 ➝ 昔", "錯 ➝ 錯失"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "魚 ➝ 羊", "鮮 ➝ 新鮮"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "車 ➝ 侖", "輪 ➝ 輪流"
+        ]
+      },
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", "", ""
+          	],
+          	[
+              "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 3 ],
+              [ 0 ],
+              [ 1 ],
+              [ 2 ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "三、依據課文，填入正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "背景",
+        "category": "vocabulary",
+        "answers": [
+          "我的房間", "變一變"
+        ]
+      },
+      {
+        "title": "想像",
+        "category": "vocabulary",
+        "answers": [
+          "輪子", "冰屋", "果園"
+        ]
+      },
+      {
+        "title": "感想",
+        "category": "vocabulary",
+        "answers": [
+          "家人"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、錯誤的圈起來，並改成正確的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "只是", "可是"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "果然", "如果"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "一顆顆", "一棵棵"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "這座公園設施很好玩，而且種了很多花。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、小小設計師",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

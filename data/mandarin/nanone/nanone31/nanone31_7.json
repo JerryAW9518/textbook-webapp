@@ -1,0 +1,167 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "斑", "藏", "梳", "夾", "皺",
+          "皺", "藝", "摺", "術", "凡",
+          "創"
+        ],
+        "zhuyin": [
+          ["ㄅㄢ"], ["ㄘㄤˊ"], ["ㄕㄨ"], ["ㄐㄧㄚˊ"], ["ㄓㄡˋ"],
+          ["ㄓㄡˋ"], ["ㄧˋ"], ["ㄓㄜˊ"], ["ㄕㄨˋ"], ["ㄈㄢˊ"],
+          ["ㄔㄨㄤˋ"]
+        ]
+      },
+      {
+        "title": "動動腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓摺紙"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文內容完成表格。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "一段落大意",
+        "category": "vocabulary",
+        "answers": [
+          "斑點", "皺紋"
+        ]
+      },
+      {
+        "title": "二段落標題",
+        "category": "vocabulary",
+        "answers": [
+          "斑點"
+        ]
+      },
+      {
+        "title": "二段落大意",
+        "category": "vocabulary",
+        "answers": [
+          "斑點", "星星", "星座", "凡事努力『座』"
+        ]
+      },
+      {
+        "title": "三段落大意",
+        "category": "vocabulary",
+        "answers": [
+          "皺紋", "群山", "藏寶路線", "大藝術家"
+        ]
+      },
+      {
+        "title": "四段落大意",
+        "category": "vocabulary",
+        "answers": [
+          "活力", "創意"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填入適當的語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "剪出"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "凡事"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "創意"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、聯想練習",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "1",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1"
+          	],
+          	[
+            	"丙", "乙", "甲"
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 2 ],
+          		[ 0 ],
+          		[ 1 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "在夕陽映照下，老爺爺的皺紋像群山的起伏，顯得深刻而有故事。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、縮短句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "作畫的表姐，就像一位大畫家。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "研究昆蟲的哥哥，就像一位昆蟲專家。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

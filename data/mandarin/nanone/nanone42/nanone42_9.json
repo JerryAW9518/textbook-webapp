@@ -1,0 +1,136 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "喚", "幻", "填", "登", "澈", 
+          "湛", "夢", "踏", "喘", "隔"
+        ],
+        "zhuyin": [
+          ["ㄏㄨㄢˋ"], ["ㄏㄨㄢˋ"], ["ㄊㄧㄢˊ"], ["ㄉㄥ"], ["ㄔㄜˋ"],
+          ["ㄓㄢˋ"], ["ㄇㄥˋ"], ["ㄊㄚˋ"], ["ㄔㄨㄢˇ"], ["ㄍㄜˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 離開島嶼", "✓ 臺灣本島之外..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "減少使用一次性的消耗品"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填入正確的時間確",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "隔天", "最後一天"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、填入正確的語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "冠軍獎牌"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "白雪"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "落日"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "能讓山林恢復原本的樣子。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "要是大家都能減少垃圾量，就能讓環境變得更美好。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、說話練習",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "七、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 都有傳遞愛護...", "✓ 結尾都有..."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "閒", "東", "西", "扇", "門",
+          "立", "刻", "仔", "竟", "妖", 
+          "怪", "擠", "主", "播", "力", 
+          "報"
+          
+          
+        ],
+        "zhuyin": [
+          
+          ["ㄒㄧㄢˊ"], ["ㄉㄨㄥ"], ["ㄒㄧ"],["ㄕㄢˋ"], ["ㄇㄣˊ"],
+          ["ㄌㄧˋ"], ["ㄎㄜˋ"], ["ㄗˇ"], ["ㄐㄧㄥˋ"],  ["ㄧㄠ"],
+          ["ㄍㄨㄞˋ"], ["ㄐㄧˇ"], ["ㄓㄨˇ"],["ㄅㄛˋ"], ["ㄌㄧˋ"], 
+          ["ㄅㄠˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "耳", "慌", "巴", "底", "闖", "馬"
+        ],
+        "zhuyin": [
+          ["ㄦˇ"], ["ㄏㄨㄤ"], ["ㄅㄚ"], ["ㄉㄧˇ"], ["ㄔㄨㄤˇ"], ["ㄇㄚˇ"] 
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 他覺得自己闖了禍"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、寫出正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "立", "力"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "課", "刻"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "趕", "敢"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "往前衝"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "螞蟻一看到食物，立刻把它抬回家。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "馬", "闖"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "耳朵", "聞"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "太陽", "間"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 月亮沒事做，心裡很慌張"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 問"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

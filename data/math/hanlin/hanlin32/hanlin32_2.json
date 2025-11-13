@@ -1,0 +1,1442 @@
+[
+  {
+    "title": "2-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3" ],
+                    [ "10" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "30" ],
+                    [ "100" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "300" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "700" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "20" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "400" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "100mL" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "600mL" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1000mL" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "2-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "公升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "公升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "毫升" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "8" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3", "2" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2", "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "5", "1" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "4" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "2-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2", "500" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2", "700" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1000", "1" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "7000" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "9" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6020" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "4005" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3", "80" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "7",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1", "6" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "<" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "=" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ ">" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "2-4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2000", "2" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2", "700" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "7840" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3公升540毫升 = 3540毫升" ],
+                    [ "3540 - 2450 = 1090" ],
+                    [ "答：1090毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2450毫升 = 2公升450毫升" ],
+                    [ "2公升450毫升 + 1公升380毫升" ],
+                    [ "= 3公升830毫升" ],
+                    [ "答 : 3公升830毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "500 x 4 = 2000" ],
+                    [ "答：2000毫升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2450 - 2000 = 450" ],
+                    [ "答：450毫升" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 7,
+            	    		"ml" : 60
+            	    	},
+            	    	{ 
+            	    		"l" : 2,
+            	    		"ml" : 340
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 5,
+            	    		"ml" : 360
+            	    	},
+            	    	{ 
+            	    		"l" : 3,
+            	    		"ml" : 90
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 4,
+            	    		"ml" : 510
+            	    	},
+            	    	{ 
+            	    		"l" : 5,
+            	    		"ml" : 375
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 9,
+            	    		"ml" : 620
+            	    	},
+            	    	{ 
+            	    		"l" : 4,
+            	    		"ml" : 290
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 7,
+            	    		"ml" : 800
+            	    	},
+            	    	{ 
+            	    		"l" : 7,
+            	    		"ml" : 55
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 6,
+            	    		"ml" : 730
+            	    	},
+            	    	{ 
+            	    		"l" : 3,
+            	    		"ml" : 280
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2500毫升 = 2公升500毫升" ],
+                    [ "2公升500毫升>2公升50毫升" ],
+                    [ "答：小青，450毫升"]
+                  ]
+                }
+              },
+              {
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 2,
+            	    		"ml" : 500
+            	    	},
+            	    	{ 
+            	    		"l" : 2,
+            	    		"ml" : 50
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "答：8公升855毫升" ]
+                  ]
+                }
+              },
+              {
+							  "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 3,
+            	    		"ml" : 480
+            	    	},
+            	    	{ 
+            	    		"l" : 5,
+            	    		"ml" : 375
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }    
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1公升400毫升 = 1400毫升" ],
+                    [ "答：1400毫升" ]
+                  ]
+                }
+              },
+              {
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 1,
+            	    		"ml" : 700
+            	    	},
+            	    	{ 
+            	    		"l" : 0,
+            	    		"ml" : 300
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }    
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "統整園地",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2", "450" ],
+                    [ "3090" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2450毫升 = 2公升450毫升" ],
+                    [ "答：1公升90毫升" ]
+                  ]
+                }
+              },
+              {
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 2,
+            	    		"ml" : 450
+            	    	},
+            	    	{ 
+            	    		"l" : 1,
+            	    		"ml" : 360
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }  
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3公升90毫升 = 3090毫升" ],
+                    [ "3090 - 1095 = 2005"],
+                    [ "答：2005毫升"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "答：可樂準備的最多，牛奶準備的最少" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "甲",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1" ],
+                    [ "300" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "乙",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2" ],
+                    [ "0" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "丙",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1" ],
+                    [ "700" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "乙", "丙", "甲" ],
+                    [ "乙", "甲" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "-",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 1,
+            	    		"ml" : 700
+            	    	},
+            	    	{ 
+            	    		"l" : 1,
+            	    		"ml" : 300
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }  
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "capacity",
+                "extras": {
+            	    "supportField" : {
+            	      "l" : true,
+            	    	"ml" : true
+            	    },
+            	    "operator" : "+",
+            	    "line" : [
+            	    	{ 
+            	    		"l" : 2,
+            	    		"ml" : 0
+            	    	},
+            	    	{ 
+            	    		"l" : 1,
+            	    		"ml" : 700
+            	    	}
+            	    ],
+            	    "hideField" : [
+            	    	{ 
+            	    		"l" : true,
+            	    		"ml" : false
+            	    	},
+            	    	{ 
+            	    		"l" : false,
+            	    		"ml" :  false
+            	    	}
+            	    ]
+            		}
+              }  
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "烏", "滴", "落", "屋", "街",
+          "枴", "杖", "撐", "嘻", "嘻",
+          "哈", "哈", "字", "謎", "答",
+          "案"
+        ],
+        "zhuyin": [
+          ["ㄨ"], ["ㄉㄧ"], ["ㄌㄨㄛˋ"], ["ㄨ"], ["ㄐㄧㄝ"],
+          ["ㄍㄨㄞˇ"], ["ㄓㄤˋ"], ["ㄔㄥ"], ["ㄒㄧ"], ["ㄒㄧ"],
+          ["ㄏㄚ"], ["ㄏㄚ"], ["ㄗˋ"], ["ㄇㄧˊ"], ["ㄉㄚˊ"],
+          ["ㄢˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 雨傘"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先寫出部首，再造詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "日", "灰暗", "傍晚"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "言", "語言", "課業"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出正確的字音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄚˊ", "ㄉㄚ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "答", "答", "答", "答"
+        ],
+        "zhuyin": [
+          ["ㄉㄚˊ"], ["ㄉㄚˊ"], ["ㄉㄚ"], ["ㄉㄚ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、照樣造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "教室裡", "走進", "學生"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "她雖然表面上嘻嘻哈哈，內心卻很孤獨。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "答"
+        ]
+      }
+    ]
+  }
+]

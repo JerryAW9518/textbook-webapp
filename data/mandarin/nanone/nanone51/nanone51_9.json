@@ -1,0 +1,192 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "夠", "局", "購", "股", "挖",
+          "款", "藉", "協", "諸", "鄰"
+        ],
+        "zhuyin": [
+          ["ㄍㄡˋ"], ["ㄐㄩˊ"], ["ㄍㄡˋ"], ["ㄍㄨˇ"], ["ㄨㄚ"],
+          ["ㄎㄨㄢˇ"], ["ㄐㄧㄝˋ"], ["ㄒㄧㄝˊ"], ["ㄓㄨ"], ["ㄌㄧㄣˊ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ 英國廚師分享瑪莎的貼文", "Ｏ 瑪莎推動午餐改革運動", "✓ 臺灣的營養午餐比較好吃", "Ｏ 瑪莎成立網站募款幫助貧困孩童"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文內容完成表格",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "論點",
+        "category": "vocabulary",
+        "answers": [
+          "願意跨出第一步，這世界也能被你照亮"
+        ]
+      },
+      {
+        "title": "論據一",
+        "category": "vocabulary",
+        "answers": [
+          "請願", "語言不通的障礙", "全國首座移工友善車站"
+        ]
+      },
+      {
+        "title": "論據二",
+        "category": "vocabulary",
+        "answers": [
+          "開挖全新的水井", "有乾淨的水喝", "捐款響應"
+        ]
+      },
+      {
+        "title": "結論",
+        "category": "vocabulary",
+        "answers": [
+          "觀察及感受", "付諸實行的勇氣"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、形近字辨別",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "購",
+        "category": "vocabulary",
+        "answers": [
+          "ㄍㄡˋ"
+        ]
+      },
+      {
+        "title": "構",
+        "category": "vocabulary",
+        "answers": [
+          "ㄍㄡˋ"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "構", "購"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、詞語辨別",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、句型練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "手機不但可以通訊，還可以拍照，是旅行時的好幫手。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "電腦不僅可以編寫文章，更可以處理大量數據，為工作提高效率。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "二者意思是一樣的。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、說話練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "七、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "1",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1"
+          	],
+          	[
+            	"", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 2 ],
+          		[ 0 ],
+          		[ 1 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

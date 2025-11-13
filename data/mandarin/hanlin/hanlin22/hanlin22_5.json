@@ -1,0 +1,146 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "雖", "負", "責", "工", "察", "現"
+        ],
+        "zhuyin": [
+          ["ㄙㄨㄟ"], ["ㄈㄨˋ"], ["ㄗㄜˊ"], ["ㄍㄨㄥ"], ["ㄔㄚˊ"], ["ㄒㄧㄢˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "合", "換", "方", "法", "改", "亂", "於", "漸", "漸", "總", "露", "親", "切", "微", "資", "源", "收", "利"
+        ],
+        "zhuyin": [
+          ["ㄏㄜˊ"], ["ㄏㄨㄢˋ"], ["ㄈㄤ"], ["ㄈㄚˇ"], ["ㄍㄞˇ"], ["ㄌㄨㄢˋ"], ["ㄩˊ"], ["ㄐㄧㄢˋ"], ["ㄐㄧㄢˋ"], ["ㄗㄨㄥˇ"], ["ㄌㄡˋ"], ["ㄑㄧㄣ"], ["ㄑㄧㄝˋ"], ["ㄨㄟˊ"], ["ㄗ"], ["ㄩㄢˊ"], ["ㄕㄡ"], ["ㄌㄧˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈一圈",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "貝"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "方"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "刀"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "刂"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "攵"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、換句話說",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "越來越", "漸漸"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "越來越多", "漸漸變多"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 2 ],
+              [ 1 ],
+              [ 0 ]
+            ]
+          ]
+        }
+      },
+      
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "於是跟著一起哼唱"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題 (答案由上至下)",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "表達方式",
+        "category": "vocabulary",
+        "answers": [
+          "同學", "幫忙同學", "✓ 有改變"
+        ]
+      },
+      {
+        "title": "產生結果",
+        "category": "vocabulary",
+        "answers": [
+          "越來越少", "變好", "說說笑笑", "✓ 變好"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+           "陀", "螺", "般", "鷹", "煩", 
+           "耳", "躍", "遨", "溜", "泳", "轉", 
+           "緩", "滑", "串", "串", "姿"
+        ],
+        "zhuyin": [
+           ["ㄊㄨㄛˊ"], ["ㄌㄨㄛˊ"], ["ㄅㄢ"], ["ㄧㄥ"], ["ㄈㄢˊ"], 
+           ["ㄦˇ"], ["ㄩㄝˋ"], ["ㄠˊ"], ["ㄌㄧㄡ"], ["ㄩㄥˇ"], ["ㄓㄨㄢˇ"], 
+           ["ㄏㄨㄢˇ"], ["ㄏㄨㄚˊ"], ["ㄔㄨㄢˋ"], ["ㄔㄨㄢˋ"], ["ㄗ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、寫出國字，再填入句子中。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "聽", "聆", "聞", "聲"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "聽", "聞", "聆","聲"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "姿", "姓"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+           "姓", "姿"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、選出正確意思",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "鯊魚", "眼前", "緩緩", "游過"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文、回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、聽一聽、再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②", "③", "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "③", "①", "②"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "農", "夫", "爺", "爺", "努", "稻"
+        ],
+        "zhuyin": [
+          ["ㄋㄨㄥˊ"], ["ㄈㄨ"], ["ㄧㄝˊ"], ["˙ㄧㄝ"], ["ㄋㄨˇ"], ["ㄉㄠˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "飽", "喝", "蚯", "蚓", "泥", "搞", "楚", "淹"
+        ],
+        "zhuyin": [
+          ["ㄅㄠˇ"], ["ㄏㄜ"], ["ㄑㄧㄡ"], ["ㄧㄣˇ"], ["ㄋㄧˊ"], ["ㄍㄠˇ"], ["ㄔㄨˇ"], ["ㄧㄢ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "塘", "蝌", "蚪", "扭", "尾"
+        ],
+        "zhuyin": [
+          ["ㄊㄤˊ"], ["ㄎㄜ"], ["ㄉㄡˇ"], ["ㄋㄧㄡˇ"], ["ㄨㄟˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、寫出正確注音，再選入語詞填入",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄚ", "ㄉㄚˊ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄚˊ", "ㄉㄚ", "ㄉㄚ"
+        ]
+      },
+      {
+        "title": "答",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄚ 答應、滴答", "ㄉㄚˊ 回答、作答"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、選詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "多", "少"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "快", "慢"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "冷", "熱"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題 (答案為表格右到左)",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "誰",
+        "category": "vocabulary",
+        "answers": [
+          "小草", "小河"
+        ]
+      },
+      {
+        "title": "雨下得多還是少",
+        "category": "vocabulary",
+        "answers": [
+          "不多也不少", "太少"
+        ]
+      },
+      {
+        "title": "理由",
+        "category": "vocabulary",
+        "answers": [
+          "① 口渴、喝飽", "② 高興、洗澡"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "淹水"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "小蝌蚪", "池塘"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、說一說，寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "爸爸 ➝ 剛剛好"
+        ]
+      },
+      {
+        "title": "理由",
+        "category": "vocabulary",
+        "answers": [
+          "運動員 ➝ 飯量太少會吃不飽。",
+          "小朋友 ➝ 飯量太多會吃不完。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "環", "境", "臭", "甚", "至",
+          "雜", "叢", "髒", "懶",
+          "調", "潔", "暢", "言", "梳", "格"
+        ],
+        "zhuyin": [
+          ["ㄏㄨㄢˊ"], ["ㄐㄧㄥˋ"], ["ㄔㄡˋ"], ["ㄕㄣˋ"], ["ㄓˋ"],
+          ["ㄗㄚˊ"], ["ㄘㄨㄥˊ"], ["ㄗㄤ"], ["ㄌㄢˇ"],
+          ["ㄊㄧㄠˊ"], ["ㄐㄧㄝˊ"], ["ㄔㄤˋ"], ["ㄧㄢˊ"],  ["ㄕㄨ"], ["ㄍㄜˊ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先寫出注音，再填入適當的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "竟 ➝ ㄐㄧㄥˋ",
+          "鏡 ➝ ㄐㄧㄥˋ",
+          "境 ➝ ㄐㄧㄥˋ"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "鏡", "境", "竟"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "調查 ➝ ㄉㄧㄠˋ ㄔㄚˊ",
+          "調換 ➝ ㄉㄧㄠˋ ㄏㄨㄢˋ",
+          "調解 ➝ ㄊㄧㄠˊ ㄐㄧㄝˋ"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "調解", "調查"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填入適當的詞，連接句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "卻"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "和"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "因此"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "甚至"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，圈出適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "舒暢"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "欣賞"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "迎接"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "格格不入"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "觀察圖片，完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "形狀像彎彎的月亮", "散發出香甜的奶油味"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+			{
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3", "1", "2", "5", "4"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①從物、環境...", "✓ ②從部分到整體...", "✓ ④由外在環境..."
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①要察覺...", "✓ ③從小事..."
+        ]
+      }
+    ]
+  }
+]

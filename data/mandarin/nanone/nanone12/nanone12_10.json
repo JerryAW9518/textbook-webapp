@@ -1,0 +1,96 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "蛙", "睡", "世", "界", "連",
+          "井", "除", "幾", "隻", "拍",
+          "唉", "肚", "裝", "東", "西"
+        ],
+        "zhuyin": [
+          ["ㄨㄚ"], ["ㄕㄨㄟˋ"], ["ㄕˋ"], ["ㄐㄧㄝˋ"], ["ㄌㄧㄢˊ"],
+          ["ㄐㄧㄥˇ"], ["ㄔㄨˊ"], ["ㄐㄧˇ"], ["ㄓ"], ["ㄆㄞ"],
+          ["ㄞ"], ["ㄉㄨˋ"], ["ㄓㄨㄤ"], ["ㄉㄨㄥ"], ["˙ㄒㄧ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 蟲和水"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、選出適當的語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "只是"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "只有"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "只會"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填入適當的標點符號",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["。", "，", "！", "？"]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "小女孩在放風箏，", "其他人都在跑步。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["2"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["3"]
+      }
+    ]
+  }
+]

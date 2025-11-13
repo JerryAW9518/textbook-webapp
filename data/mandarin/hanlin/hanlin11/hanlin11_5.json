@@ -1,0 +1,152 @@
+[
+  {
+    "title": "一、連連看，再完成語詞",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 3,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"4", "3", "2", "1"
+          	],
+          	[
+            	"", "", "", ""
+          	],
+          	[
+            	"目", "日", "水", "木"
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 3 ],
+          		[ 2 ],
+          		[ 1 ],
+          		[ 0 ]
+        		],
+        		[
+          		[ 0 ],
+          		[ 3 ],
+          		[ 1 ],
+          		[ 2 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "日➝ 生日"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "水 ➝ 河水"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "木 ➝ 樹木"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、把相同的地方圈出來，再寫一寫。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "氵", "氵", "氵", "氵"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "大", "大", "大", "大"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、 寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "爬", "看", "彩", "滑", "梯", 
+          "下", "池", "想", "沒", "泡", 
+          "泡", "上", "好", "棉", "花",
+          "糖"
+        ],
+        "zhuyin": [
+          ["ㄆㄚˊ"], ["ㄎㄢˋ"], ["ㄘㄞˇ"], ["ㄏㄨㄚˊ"], ["ㄊㄧ"], 
+          ["ㄒㄧㄚˋ"], ["ㄔˊ"], ["ㄒㄧㄤˇ"], ["ㄇㄟˊ"], ["ㄆㄠˋ"], 
+          ["ㄆㄠˋ"], ["ㄕㄤˋ"], ["ㄏㄠˇ"], ["ㄇㄧㄢˊ"], ["ㄏㄨㄚ"],
+          ["ㄊㄤˊ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓棉花糖"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、把適當的語詞填在框框裡",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "走一走", "走一走"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "看一看", "看一看"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、用有沒有問問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "有沒有", "人"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "草地上", "有沒有", "朵"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "昏", "第", "滑", "迷", "圈",
+          "滾", "覺", "渴", "精"
+        ],
+        "zhuyin": [
+          ["ㄏㄨㄣ"], ["ㄉㄧˋ"], ["ㄏㄨㄚˊ"], ["ㄇㄧˊ"], ["ㄑㄩㄢ"],
+          ["ㄍㄨㄣˇ"], ["ㄐㄩㄝˊ"], ["ㄎㄜˇ"], ["ㄐㄧㄥ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "甩", "滴", "乾", "流", "浪"
+        ],
+        "zhuyin": [
+          ["ㄕㄨㄞˇ"], ["ㄉㄧ"], ["ㄍㄢ"], ["ㄌㄧㄡˊ"], ["ㄌㄤˋ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "救", "丟", "掉", "枯", "死",
+          "植"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄡˋ"], ["ㄉㄧㄡ"], ["ㄉㄧㄠˋ"], ["ㄎㄨ"], ["ㄙˇ"],
+          ["ㄓˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "學", "覺"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "精", "睛"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "直", "植"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "暴風雨"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "妹妹被打雷聲嚇哭了"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、換句話說",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "把", "被"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "被陽光晒得暖烘烘"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      }
+    ]
+  }
+]

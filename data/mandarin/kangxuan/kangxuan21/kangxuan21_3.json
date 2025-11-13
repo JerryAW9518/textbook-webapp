@@ -1,0 +1,132 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "叔", "叔", "牆", "巷", "貓", "模", 
+          "樣", "蝴", "蝶", "忙", "娶", "娘", 
+          "黃", "美", "麗", "捧", "屋", "越", 
+          "越", "打", "扮", "筆"
+        ],
+        "zhuyin": [
+          ["ㄕㄨˊ"], ["˙ㄕㄨ"], ["ㄑㄧㄤˊ"], ["ㄒㄧㄤˋ"], ["ㄇㄠ"], ["ㄇㄛˊ"], 
+          ["ㄧㄤˋ"], ["ㄏㄨˊ"], ["ㄉㄧㄝˊ"], ["ㄇㄤˊ"], ["ㄑㄩˇ"], ["ㄋㄧㄤˊ"], 
+          ["ㄏㄨㄤˊ"], ["ㄇㄟˇ"], ["ㄌㄧˋ"], ["ㄆㄥˇ"], ["ㄨ"], ["ㄩㄝˋ"], 
+          ["ㄩㄝˋ"], ["ㄉㄚˇ"], ["ㄅㄢˋ"], ["ㄅㄧˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓相機", "✓筆"
+        ]
+      }  
+    ]
+  },
+  {
+    "title": "二、拼出正確國字，再寫詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "屋", "到"
+        ]
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "屋頂"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "報到"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、選出適當的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②", "①"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①", "②"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "打掃"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "寫作業"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "正在", "畫圖"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、正確的畫Ｏ， 錯誤的畫Ｘ",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ", "Ｏ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ", "Ｘ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ", "Ｏ"
+        ]
+      }
+    ]
+  }
+]

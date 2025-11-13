@@ -1,0 +1,129 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "婦", "泛", "頁", "篇", "宣",
+          "媒", "誤", "謠", "謹", "澄",
+          "配"
+        ],
+        "zhuyin": [
+          ["ㄈㄨˋ"], ["ㄈㄢˋ"], ["ㄧㄝˋ"], ["ㄆㄧㄢ"], ["ㄒㄩㄢ"],
+          ["ㄇㄟˊ"], ["ㄨˋ"], ["ㄧㄠˊ"], ["ㄐㄧㄣˇ"], ["ㄔㄥˊ"],
+          ["ㄆㄟˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、字形練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "玉",
+        "category": "vocabulary",
+        "answers": ["珊", "珊瑚"]
+      },
+      {
+        "title": "女",
+        "category": "vocabulary",
+        "answers": ["姍", "姍姍來遲"]
+      },
+      {
+        "title": "足",
+        "category": "vocabulary",
+        "answers": ["跚", "蹣跚"]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["刪", "姍", "姍", "珊", "跚"]
+      },
+      {
+        "title": "言",
+        "category": "vocabulary",
+        "answers": ["謠", "謠言"]
+      },
+      {
+        "title": "手",
+        "category": "vocabulary",
+        "answers": ["搖", "搖晃"]
+      },
+      {
+        "title": "辵",
+        "category": "vocabulary",
+        "answers": ["遙", "遙遠"]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["搖", "謠", "遙"]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["膠帶", "為紙箱封口"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "每種交通工具都有自己的特點。比如：汽車可以快速移動，自行車可以節省能源。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、表達方式比一比",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "我選擇了用文字條列說明的方式，因為這樣可以直接明確地列出每個選項的優缺點和理由，讓讀者可以快速、清晰地理解內容，並且更容易進行比較和選擇。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、依據課文內容回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["➝ 3", "嚴肅的議題"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["➝ 1", "謹慎解讀"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["➝ 2", "發布圖像資訊的媒體"]
+      },
+      {
+        "title": "依據課文內容完成表格",
+        "category": "vocabulary",
+        "answers": [
+          "哏圖", "懶人包興起的(原因)", "資訊變有趣的(好處)", "不把重點當(全部)",
+          "因為(訊息繁多)...", "...(受到更多關注)", "...(錯誤解讀)"
+        ]
+      }
+    ]
+  }
+]

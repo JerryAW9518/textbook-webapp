@@ -1,0 +1,166 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "瘦", "嫦", "娥", "浮", "皎",
+          "映", "搗", "吳", "剛", "舊", 
+          "孤", "霜", "盞", "勾", "淚",
+          "否"
+        ],
+        "zhuyin": [
+          ["ㄕㄡˋ"], ["ㄔㄤˊ"], ["ㄜˊ"], ["ㄈㄨˊ"], ["ㄐㄧㄠˇ"],
+          ["ㄧㄥˋ"], ["ㄉㄠˇ"], ["ㄨˊ"], ["ㄍㄤ"], ["ㄐㄧㄡˋ"], 
+          ["ㄍㄨ"], ["ㄕㄨㄤ"], ["ㄓㄢˇ"], ["ㄍㄡ"], ["ㄌㄟˋ"], 
+          ["ㄈㄡˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先拼一拼，完成詞語，再填入句子裡",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "濃霧", "露營", "冰霜", "烏雲", "冰雪", "雷聲"
+        ]
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "烏雲", "雷聲", "露營"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "濃霧", "冰霜", "冰雪"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖，根據提示填寫詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "五顏六色", "輕輕展翅"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "澄淨透明", "緩緩流動"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②", "✓ ③", "✓ ④"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖 完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一座小橋"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "飛舞的螢火蟲就像一顆顆小燈泡，真閃耀。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "聽一聽，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      }
+    ]
+  }
+]

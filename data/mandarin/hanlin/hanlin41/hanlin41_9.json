@@ -1,0 +1,142 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "懶", "散", "弓", "箭"
+        ],
+        "zhuyin": [
+          ["ㄌㄢˇ"], ["ㄙㄢˇ"], ["ㄍㄨㄥ"], ["ㄐㄧㄢˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "祈", "民"
+        ],
+        "zhuyin": [
+          ["ㄑㄧˊ"], ["ㄇㄧㄣˊ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "善", "博", "欺"
+        ],
+        "zhuyin": [
+          ["ㄕㄢˋ"], ["ㄅㄛˊ"], ["ㄑㄧ"]
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "散", "惡", "惡", "爭"
+        ],
+        "zhuyin": [
+          ["ㄙㄢˋ"], ["ㄜˋ"], ["ㄨˋ"], ["ㄓㄥ"]
+        ]
+      },
+      {
+        "title": "我會辨字練習",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "總", "腦", "窗", "惱"
+        ],
+        "zhuyin": [
+          ["ㄗㄨㄥˇ"], ["ㄋㄠˇ"], ["ㄔㄨㄤ"], ["ㄋㄠˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、選出適當的回應",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 弟弟..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 廷廷..."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、造句練習",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1"
+          	],
+          	[
+            	"", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 1 ],
+          		[ 2 ],
+          		[ 0 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "當災難來臨時，社區居民不分彼此地團結在一起，共同提供幫助和支持。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "庾亮是一位仁慈、無私、關心他人的人，大家敬佩他因為他不怕不幸的傳說，堅持保留馬匹，不願害其他人。他展現出高尚的品格和道德價值觀。"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "島", "元", "艘", "尾", "巴",
+          "掀", "波", "浪", "孩", "醒",
+          "錢", "貪", "皇", "帝", "派",
+          "銀", "准", "良", "村", "抓"
+        ],
+        "zhuyin": [
+          ["ㄉㄠˇ"], ["ㄩㄢˊ"], ["ㄙㄠ"], ["ㄨㄟˇ"], ["˙ㄅㄚ"],
+          ["ㄒㄧㄢ"], ["ㄅㄛ"], ["ㄌㄤˋ"], ["ㄏㄞˊ"], ["ㄒㄧㄥˇ"],
+          ["ㄑㄧㄢˊ"], ["ㄊㄢ"], ["ㄏㄨㄤˊ"], ["ㄉㄧˋ"], ["ㄆㄞˋ"],
+          ["ㄧㄣˊ"], ["ㄓㄨㄣˇ"], ["ㄌㄧㄤˊ"], ["ㄘㄨㄣ"], ["ㄓㄨㄚ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再圈出正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "島", "鳥", "島"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "銀", "跟", "銀", "跟"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再畫上專名號",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "日月潭"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "俄羅斯"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "楊喚"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "媽媽會擔心"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "我要趕快出門"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "我要趕緊訂個蛋糕，不然就無法幫她慶生了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據提示，填寫課文內容",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "開始",
+        "category": "vocabulary",
+        "answers": [
+          "神筆"
+        ]
+      },
+      {
+        "title": "經過",
+        "category": "vocabulary",
+        "answers": [
+          "為人畫畫", "貪心的皇帝", "畫出金山銀山", "大海", "搖錢樹", "被強風吹走了"
+        ]
+      },
+      {
+        "title": "結果",
+        "category": "vocabulary",
+        "answers": [
+          "幫大家畫畫"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖想一想，再作答",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "二間教室", "黑板旁邊", "一個櫃子", "櫃子裡有許多本不同種類的書。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  }
+]

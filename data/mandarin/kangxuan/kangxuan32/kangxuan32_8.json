@@ -1,0 +1,117 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "野", "柳", "岬", "質", "岩", "列",
+          "雕", "塑", "菇", "豆", "腐",
+          "趴", "仙", "潤", "龜",
+          "燭", "鬼", "濺"
+        ],
+        "zhuyin": [
+          ["ㄧㄝˇ"], ["ㄌㄧㄡˇ"], ["ㄐㄧㄚˇ"], ["ㄓˊ"], ["ㄧㄢˊ"], ["ㄌㄧㄝˋ"],
+          ["ㄉㄧㄠ"], ["ㄙㄨˋ"], ["ㄍㄨ"], ["ㄉㄡˋ"], ["ㄈㄨˇ"],
+          ["ㄆㄚ"], ["ㄒㄧㄢ"], ["ㄖㄨㄣˋ"], ["ㄍㄨㄟ"],
+          ["ㄓㄨˊ"], ["ㄍㄨㄟˇ"], ["ㄐㄧㄢˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先讀一讀，再填入正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "烈", "柳", "列", "仰", "柳"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再圈出適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "散落"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "特別"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "鬼斧神工"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "練習描述",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "有的像站的直挺挺的軍人，有的像有著濃密頭髮的人，還有的像跨年施放的煙火，有著各種不同的景色。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "野柳岬", "燭臺石", "仙女鞋", "女王頭"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1", "3", "4", "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "作文練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

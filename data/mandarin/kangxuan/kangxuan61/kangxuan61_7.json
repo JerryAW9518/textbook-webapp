@@ -1,0 +1,215 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "恰", "恣", "仰", "弄", "批",
+          "謹", "乏", "緬", "甸", "襬",
+          "絨", "踝", "皆"
+        ],
+        "zhuyin": [
+          ["ㄑㄧㄚˋ"], ["ㄗˋ"], ["ㄧㄤˇ"], ["ㄋㄨㄥˋ"], ["ㄆㄧ"],
+          ["ㄐㄧㄣˇ"], ["ㄈㄚˊ"], ["ㄇㄧㄢˇ"], ["ㄉㄧㄢˋ"], ["ㄅㄞˇ"],
+          ["ㄖㄨㄥˊ"], ["ㄏㄨㄞˊ"], ["ㄐㄧㄝ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先寫注音，再填入正確的國字。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "踝", "課", "棵"
+        ],
+        "zhuyin": [
+          ["ㄏㄨㄞˊ"], ["ㄎㄜˋ"], ["ㄎㄜ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "課", "棵", "踝"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "徑", "勁", "經"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄥˋ"], ["ㄐㄧㄥˋ"], ["ㄐㄧㄥ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "徑", "經", "勁"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "謹", "僅", "勤"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄣˇ"], ["ㄐㄧㄣˇ"], ["ㄑㄧㄣˊ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "謹", "勤", "僅"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、根據提示，填寫答案。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "(1)",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "(2)",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "(3)",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "(4)",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "捏一把冷汗"
+        ]
+      },
+      {
+        "title": "造句",
+        "category": "vocabulary",
+        "answers": [
+          "當我聽到即將進行的測驗難度，心裡不禁捏了一把冷汗。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文，完成內容。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "背景",
+        "category": "vocabulary",
+        "answers": [
+          "拖鞋", "緬甸"
+        ]
+      },
+      {
+        "title": "起因",
+        "category": "vocabulary",
+        "answers": [
+          "不合腳"
+        ]
+      },
+      {
+        "title": "經過",
+        "category": "vocabulary",
+        "answers": [
+          "舊經驗", "智慧", "埃及"
+        ]
+      },
+      {
+        "title": "結果",
+        "category": "vocabulary",
+        "answers": [
+          "常識"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據情境與句型，寫出完整的句子。 ",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "要是每天都能像我一樣練習書法，就一定能寫得非常漂亮，得到書法大獎。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "學生們為了大隊接力，放學後都留下來練習，即使不是選手，也會一起留下來為隊友加油。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、先聆聽作者如何蒐集材料，完成這篇文章，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ②", "✓ ⑤"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②", "✓ ③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "假如遇到好奇的事物，我會查書或網路找資料、問問專家或大人、自己做實驗試試、參加討論，聽聽別人的意見。"
+        ]
+      }
+    ]
+  }
+]

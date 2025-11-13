@@ -1,0 +1,130 @@
+[
+  {
+    "title": "一、看圖填入正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "亻", "他"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "氵", "池"
+        ] 
+      }
+    ]
+  },
+  {
+    "title": "二、跟著有也的字走",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 也 ➝ 他 ➝ 地 ➝ 池"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "谷", "叫", "哈", "哈", "笑", 
+          "人", "到", "回", "音", "嗎"
+        ],
+        "zhuyin": [
+          ["ㄍㄨˇ"], ["ㄐㄧㄠˋ"], ["ㄏㄚ"], ["ㄏㄚ"], ["ㄒㄧㄠˋ"], 
+          ["ㄖㄣˊ"], ["ㄉㄠˋ"], ["ㄏㄨㄟˊ"], ["ㄧㄣ"], ["˙ㄇㄚ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "3 ㄅ", "1 ㄆ", "2 ㄇ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、請把問題與正確的回答連起來",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1"
+          	],
+          	[
+            	"", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 2 ],
+          		[ 1 ],
+          		[ 0 ]
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "五、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "也"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "也", "去洗車"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "在喝水", "也", "在喝水"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、讀一讀",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

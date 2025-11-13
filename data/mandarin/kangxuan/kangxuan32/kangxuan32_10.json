@@ -1,0 +1,142 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "婦", "拖", "值", "藻", "破",
+          "盆", "濤", "暴", "聊", "求",
+          "寬", "漁", "夫", "僕", "報",
+          "恩", "轟", "隆"
+        ],
+        "zhuyin": [
+          ["ㄈㄨˋ"], ["ㄊㄨㄛ"], ["ㄓˊ"], ["ㄗㄠˇ"], ["ㄆㄛˋ"],
+          ["ㄆㄣˊ"], ["ㄊㄠˊ"], ["ㄅㄠˋ"], ["ㄌㄧㄠˊ"], ["ㄑㄧㄡˊ"],
+          ["ㄎㄨㄢ"], ["ㄩˊ"], ["ㄈㄨ"], ["ㄆㄨˊ"], ["ㄅㄠˋ"],
+          ["ㄣ"], ["ㄏㄨㄥ"], ["ㄌㄨㄥˊ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②", "✓ ④"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "連一連，再填入正確的答案",
+    "subtitle": "",
+    "question": [
+			{
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", "", ""
+          	],
+          	[
+              "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 2 ],
+              [ 1 ],
+              [ 0 ],
+              [ 3 ]
+            ]
+          ]
+        }
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "花盆"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "聽一聽，寫出適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 第一種", "難過"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 第二種", "驚嚇"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 第二種", "生氣"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖填入適當的動作，完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "拿出一本精彩的故事書", "然後安靜地閱讀"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "取出毛巾，擦拭汗水，然後換上乾淨的衣服。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3", "1", "2"
+        ]
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2", "4", "3", "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②", "3", "4"
+        ]
+      }
+    ]
+  }
+]

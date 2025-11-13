@@ -1,0 +1,147 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "牽", "步", "段", "亭", "毛",
+          "份", "聞", "味", "忍", "耳",
+          "籃", "浪"
+        ],
+        "zhuyin": [
+          ["ㄑㄧㄢ"], ["ㄅㄨˋ"], ["ㄉㄨㄢˋ"], ["ㄊㄧㄥˊ"], ["ㄇㄠˊ"],
+          ["ㄈㄣˋ"], ["ㄨㄣˊ"], ["ㄨㄟˋ"], ["ㄖㄣˇ"], ["ㄦˇ"],
+          ["ㄌㄢˊ"], ["ㄌㄤˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、找一找，寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "味道"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "監", "竹籃", "藍天"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "青", "眼睛", "靜止", "清楚"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、依據課文，填入正確答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "背景",
+        "category": "vocabulary",
+        "answers": [
+          "看不見"
+        ]
+      },
+      {
+        "title": "經過",
+        "category": "vocabulary",
+        "answers": [
+          "(1) 火車", "(2) 空氣、海的聲音"
+        ]
+      },
+      {
+        "title": "結果",
+        "category": "vocabulary",
+        "answers": [
+          "喜歡這份禮物"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、連一連",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "叫賣聲 ➝ 聽覺"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "烏溜溜 ➝ 視覺"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "熱熱的 ➝ 觸覺"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "淡淡的香味 ➝ 嗅覺"
+        ]
+      },
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", "", ""
+          	],
+          	[
+              "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 3 ],
+              [ 0 ],
+              [ 2 ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "五、感官描寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "刺激的球賽", "香香的炸雞味", "又酸又甜", "夜市真是好吃又好玩。"
+        ]
+      }
+    ]
+  }
+]

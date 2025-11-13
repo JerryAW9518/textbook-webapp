@@ -1,0 +1,162 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "短", "永", "碌", "樂", "待",
+          "彈", "彈", "牠", "奔", "傷",
+          "寸", "斑", "悲"
+        ],
+        "zhuyin": [
+          ["ㄉㄨㄢˇ"], ["ㄩㄥˇ"], ["ㄌㄨˋ"], ["ㄩㄝˋ"], ["ㄉㄞˋ"],
+          ["ㄉㄢˋ"], ["ㄉㄢˋ"], ["ㄊㄚ"], ["ㄅㄣ"], ["ㄕㄤ"],
+          ["ㄘㄨㄣˋ"], ["ㄅㄢ"], ["ㄅㄟ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、相反的語詞連起來，再填入適當的語詞",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"慢", "快樂", "白天", "縮短"
+          	],
+          	[
+            	"悲傷", "黑夜", "伸長", "快"
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 3 ],
+          		[ 0 ],
+          		[ 1 ],
+          		[ 2 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "慢", "快"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "伸長", "縮短"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "白天", "黑夜"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "悲傷", "快樂"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填入適當的語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "到底"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "還是"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "一定"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、加上適當的描寫，使句子更豐富",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "天空的", "羊群", "一下子", "棉花糖"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "急", "百", "蟲", "圖", "館",
+          "森", "動", "物", "王", "座",
+          "橋", "午", "此", "原", "從",
+          "停", "全"
+        ],
+        "zhuyin": [
+          ["ㄐㄧˊ"], ["ㄅㄞˇ"], ["ㄔㄨㄥˊ"], ["ㄊㄨˊ"], ["ㄍㄨㄢˇ"],
+          ["ㄙㄣ"], ["ㄉㄨㄥˋ"], ["ㄨˋ"], ["ㄨㄤˊ"], ["ㄗㄨㄛˋ"],
+          ["ㄑㄧㄠˊ"], ["ㄨˇ"], ["ㄘˇ"], ["ㄩㄢˊ"], ["ㄘㄨㄥˊ"],
+          ["ㄊㄧㄥˊ"], ["ㄑㄩㄢˊ"]
+        ]
+      },
+      {
+        "title": "動動腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 家長"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文選出正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、圈一圈，填一填",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "相像", "好像"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "從前", "從此"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "本來", "原來"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "天氣如何", "必須出門上班"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "什麼運動", "是冠軍"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "不管哪一種水果，弟弟都喜歡吃"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : false,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "文章中說長頸鹿像「瞭望塔」的原因是因為牠的身高可達五公尺，長脖子和大眼睛讓牠能夠看到很遠的地方。這使得長頸鹿可以提早發現捕食者，如獅子靠近時，迅速逃跑。"
+        ]
+      }
+    ]
+  }
+]

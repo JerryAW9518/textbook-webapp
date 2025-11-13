@@ -1,0 +1,167 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "歡", "越", "臣", "領", "國",
+          "王", "發", "改", "讓", "驚",
+          "喜", "只", "方", "法", "件",
+          "袖", "設", "計", "分", "享", 
+          "點", "穿" 
+        ],
+        "zhuyin": [
+          ["ㄏㄨㄢ"], ["ㄩㄝˋ"], ["ㄔㄣˊ"], ["ㄌㄧㄥˇ"], ["ㄍㄨㄛˊ"],
+          ["ㄨㄤˊ"], ["ㄈㄚ"], ["ㄍㄞˇ"], ["ㄖㄤˋ"], ["ㄐㄧㄥ"],
+          ["ㄒㄧˇ"], ["ㄓˇ"], ["ㄈㄤ"], ["ㄈㄚˇ"], ["ㄐㄧㄢˋ"],
+          ["ㄒㄧㄡˋ"], ["ㄕㄜˋ"], ["ㄐㄧˋ"], ["ㄈㄣ"], ["ㄒㄧㄤˇ"],
+          ["ㄉㄧㄢˇ"], ["ㄔㄨㄢ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : false,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "二、圈出正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "記", "計"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "計", "記"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "游", "遊"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "國", "園"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "緊張"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "看", "緊張"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "高興"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "越打越高興"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "看到媽媽"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "弟弟只要到醫院打針，就會大哭。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      }
+    ]
+  }
+]

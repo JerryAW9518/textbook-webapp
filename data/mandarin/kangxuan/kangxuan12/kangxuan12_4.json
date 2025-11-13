@@ -1,0 +1,170 @@
+[
+  {
+    "title": "部首真有趣",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "家"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "室"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "宮"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "客"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "寓"
+        ]
+      },
+      {
+        "title": "6",
+        "category": "vocabulary",
+        "answers": [
+          "宴"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "爸", "爸", "船", "像", "港", 
+          "口", "回", "家",
+          "把", "鞋", "脫", "靠", "見", 
+          "享", "受", "家", "溫", "暖"
+        ],
+        "zhuyin": [
+          ["ㄅㄚˋ"], ["˙ㄅㄚ"], ["ㄔㄨㄢˊ"], ["ㄒㄧㄤˋ"], ["ㄍㄤˇ"],
+          ["ㄎㄡˇ"], ["ㄏㄨㄟˊ"], ["ㄐㄧㄚ"],
+          ["ㄅㄚˇ"], ["ㄒㄧㄝˊ"], ["ㄊㄨㄛ"], ["ㄎㄠˋ"], ["ㄐㄧㄢˋ"],
+          ["ㄒㄧㄤˇ"], ["ㄕㄡˋ"], ["ㄐㄧㄚ"], ["ㄨㄣ"], ["ㄋㄨㄢˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填入適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "方方正正"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "冰冰涼涼"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "高高低低"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填入適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "好甜的棉花糖"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "溫暖的太陽"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "爸爸 ➝ 彩虹", "媽媽 ➝ 雲", "小孩 ➝ 風"
+        ]
+      },
+      {
+                "title": "",
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", "", ""
+                    ],
+                    [
+                      "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 1 ],
+                      [ 2 ],
+                      [ 0 ]
+                    ]
+                  ]
+                  
+                }
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

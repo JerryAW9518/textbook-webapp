@@ -1,0 +1,127 @@
+[
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "表", "異", "口", "謎", "百",
+          "數", "減", "對", "答", "嘟",
+          "嘴", "搖", "題", "突", "讀",
+          "哥", "趕", "認", "識"
+        ],
+        "zhuyin": [
+          ["ㄅㄧㄠˇ"], ["ㄧˋ"], ["ㄎㄡˇ"], ["ㄇㄧˊ"], ["ㄅㄞˇ"],
+          ["ㄕㄨˋ"], ["ㄐㄧㄢˇ"], ["ㄉㄨㄟˋ"], ["ㄉㄚˊ"], ["ㄉㄨ"],
+          ["ㄗㄨㄟˇ"], ["ㄧㄠˊ"], ["ㄊㄧˊ"], ["ㄊㄨˊ"], ["ㄉㄨˊ"],
+          ["ㄍㄜ"], ["ㄍㄢˇ"], ["ㄖㄣˋ"], ["ㄕˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、看圖填入正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "言", "證", "語"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "⺮", "筒", "節"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "糸", "紅", "線"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "氵", "減", "清"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、換個語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "異口同聲"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "不約而同"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、 完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "有些同學在說話。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "商店裡沒有他的尺寸。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "他的鬧鐘壞了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "王", "三"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①早", "②土", "③ 十在口中", "③ 田"
+        ]
+      }
+    ]
+  }
+  
+  
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "title": "2-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "底面積" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "64" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "300" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "10 × 10 × 10" ],
+                    [ "= 100" ],
+                    [ "答：1000 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "12 × 7 × 20" ],
+                    [ " = 1680" ],
+                    [ "答：1680 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2.6 × 1.5 ÷ 2 × 4" ],
+                    [ " = 7.8" ],
+                    [ "答：7.8 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(3 + 8) × 6 ÷ 2 × 4" ],
+                    [ " = 132" ],
+                    [ "答：132 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "25 × 15 × 35" ],
+                    [ " = 13125" ],
+                    [ "答：13125 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4 × 4 × 3.14 × 12" ],
+                    [ " = 602.88" ],
+                    [ "答：約 602.88 立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "4 ÷ 2 = 2" ],
+                    [ "2 × 2 × 3.14 × 12 × 6" ],
+                    [ " = 37.68" ],
+                    [ "答：約 37.68 立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "12 × 5 × 9 = 540" ],
+                    [ "25 × 18 = 450" ],
+                    [ "540 - 450 = 90" ],
+                    [ "答：90 立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(13 + 18) × 5 ÷ 2 × 3" ],
+                    [ " = 232.5" ],
+                    [ "232.5 × 6 = 1395" ],
+                    [ "答：1395 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "81 = 9 × 9" ],
+                    [ "9 × 9 × 9 = 729" ],
+                    [ "答：729 立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "8 × 6 = 48" ],
+                    [ "768 ÷ 48 = 16" ],
+                    [ "答：16 公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "2-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "15 × 4 ÷ 2 = 30" ],
+                    [ "(5 + 15) × 6 ÷ 2=60" ],
+                    [ "(30 + 60) × 20 = 1800" ],
+                    [ "答：1800 立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "16 × 12 ÷ 2 = 96" ],
+                    [ "16 × 10 = 160" ],
+                    [ "(96 + 160) × 30 = 7680" ],
+                    [ "答：7680 立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "40 ÷ 2 = 20" ],
+                    [ "20 × 20 × 3.14 × 30 = 37680" ],
+                    [ "80 × 50 × 10 = 40000" ],
+                    [ "37680 + 40000 = 77680" ],
+                    [ "答：約 77680 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "20 ÷ 2 = 10" ],
+                    [ "10 × 10 × 3.14 × 20 = 6280" ],
+                    [ "30 × 30 × 3.14 × 40 = 113040" ],
+                    [ "6280 + 113040 = 119320" ],
+                    [ "答：約 119320 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3 × 3 × 3 - 1 × 1 × 1" ],
+                    [ " = 26" ],
+                    [ "答：26 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "10 × 6 = 60" ],
+                    [ "8 ÷ 2 = 4" ],
+                    [ "4 × 4 × 3.14 × \\frac{1}{2}" ],
+                    [ "= 25.12" ],
+                    [ "(60 - 25.12) × 20" ],
+                    [ " =  697.6" ],
+                    [ "答：約 697.6 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "30 × 15 = 450" ],
+                    [ "12 × 9 ÷ 2 = 54" ],
+                    [ "(450 - 54) × 20 = 7920" ],
+                    [ "答：7920 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "10 ÷ 2 = 5" ],
+                    [ "5 × 5 × 3.14 × 10 = 785" ],
+                    [ "8 ÷ 2 = 4" ],
+                    [ "4 × 4 × 3.14 × 8 = 401.92" ],
+                    [ "785 - 401.92 = 383.08" ],
+                    [ "答：約 383.08 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "2-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "6 × 8 ÷ 2 × 2 = 48" ],
+                    [ "(8 + 10 + 6) × 12 = 288" ],
+                    [ "48 + 288 = 336" ],
+                    [ "答：336 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "8 × 4 × 2 = 64" ],
+                    [ "(8 + 5 + 8 + 5) × 10 = 260" ],
+                    [ "64 + 260 = 324" ],
+                    [ "答：324 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "5 × 5 × 3.14 × 2 = 157" ],
+                    [ "5 × 2 × 3.14 × 10 = 314" ],
+                    [ "157 + 314 = 471" ],
+                    [ "答：約 471 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合篇",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3 × 2 = 6" ],
+                    [ "(5 + 2 + 5) × 4 = 48" ],
+                    [ "(6 + 48) × 10 = 540" ],
+                    [ "答：540 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "15 + 10 + 10 = 35" ],
+                    [ "(20 + 35) × 20 ÷ 2 = 550" ],
+                    [ "10 × 8 ÷ 2 = 40" ],
+                    [ "(550 - 40) × 20 = 10200" ],
+                    [ "答：10200 立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "20 × 20 = 400" ],
+                    [ "20 - 10 = 10" ],
+                    [ "10×10×3.14×\\frac{1}{4}" ],
+                    [ "= 78.5" ],
+                    [ "(400 - 78.5)× 20" ],
+                    [ "= 6430" ],
+                    [ "答：約 6430 立方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "16 × 15 × 12 = 2880" ],
+                    [ "16 × 12 ÷ 2 × 6 = 576" ],
+                    [ "2880 + 576 = 3456" ],
+                    [ "答：3456 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "16 × 16 = 256" ],
+                    [ "10 ÷ 2 = 5" ],
+                    [ "5 × 5 × 3.14 = 78.5" ],
+                    [ "(256 - 78.5) × 4 = 710" ],
+                    [ "答：約 710 立方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "3 × 3 × 3.14 × \\frac{120}{360}" ],
+                    [ "= 9.42" ],
+                    [ "56.52 ÷ 9.42 = 6" ],
+                    [ "答：約 6 公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "甲" ],
+                    [ "12 ÷ 2 = 6" ],
+                    [ "6 × 6 × 3.14 × 2 = 226.08" ],
+                    [ "12 × 3.14 × 10 = 376.8" ],
+                    [ "226.08 + 376.8 = 602.88" ],
+                    [ "乙" ],
+                    [ "8 ÷ 2 = 4" ],
+                    [ "4 × 4 × 3.14 × 2 = 100.48" ],
+                    [ "8 × 3.14 × 16 = 401.92" ],
+                    [ "100.48 + 401.92 = 502.4" ],
+                    [ "602.88 > 502.4" ],
+                    [ "602.88 - 502.4 = 100.48" ],
+                    [ "答：甲圓柱，約 100.48 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "title": "填入適當的詞語。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "想", "念"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "快"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "情", "忙"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "班", "床", "都", "奶", "酒",
+          "弟", "弟", "喜", "歡", "跟",
+          "她", "拿", "卡", "片", "給",
+          "寫", "您"
+        ],
+        "zhuyin": [
+          ["ㄅㄢ"], ["ㄔㄨㄤˊ"], ["ㄉㄡ"], ["ㄋㄞˇ"], ["ㄐㄧㄡˇ"],
+          ["ㄉㄧˋ"], ["˙ㄉㄧ"], ["ㄒㄧˇ"], ["ㄏㄨㄢ"], ["ㄍㄣ"],
+          ["ㄊㄚ"], ["ㄋㄚˊ"], ["ㄎㄚˇ"], ["ㄆㄧㄢˋ"], ["ㄍㄟˇ"],
+          ["ㄒㄧㄝˇ"], ["ㄋㄧㄣˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "運動"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "姐姐", "房間裡", "寫作業"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填寫適當的標點符號",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "：", "﹁", "？", "﹂", "：",
+          "﹁", "。", "﹂"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫一張卡片給家人",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "媽媽", "辛苦的照顧我", "陪伴我讀書與寫功課", "平平安安", "身體健康",
+          "小安", "三", "十一"
+        ]
+      }
+    ]
+  }
+]

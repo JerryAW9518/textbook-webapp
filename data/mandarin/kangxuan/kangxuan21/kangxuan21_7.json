@@ -1,0 +1,154 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "胖", "衣", "裳", "慌", "聰", 
+          "明", "臣", "簡", "單", "哪", 
+          "針", "東", "西", "街", "直", 
+          "滿", "眼", "棒", "思", "敢"
+        ],
+        "zhuyin": [
+          ["ㄆㄤˋ"], ["ㄧ"], ["˙ㄕㄤ"], ["ㄏㄨㄤ"], ["ㄘㄨㄥ"], 
+          ["ㄇㄧㄥˊ"], ["ㄔㄣˊ"], ["ㄐㄧㄢˇ"], ["ㄉㄢ"], ["˙ㄋㄚ"], 
+          ["ㄓㄣ"], ["ㄉㄨㄥ"], ["˙ㄒㄧ"], ["ㄐㄧㄝ"], ["ㄓˊ"],
+          ["ㄇㄢˇ"], ["ㄧㄢˇ"], ["ㄅㄤˋ"], ["ㄙ"], ["ㄍㄢˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : false,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "①",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "②",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "③",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "二、圈出衣部的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "裝", "製", "補", "衫", "衣"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "看不到"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "下雨了", "弟弟", "不撐傘"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據提示，完成內容",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "做新衣"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "聰明", "看得見"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "真漂亮", "沒穿衣"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、說一說",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、先聽故事，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3", "1", "4", "5", "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "貧", "窘", "飢", "貸", "濟",
+          "兼", "職", "傾", "績", "畢",
+          "斤", "斤", "歧", "捍", "凌",
+          "輔", "刊", "妨", "抑" 
+        ],
+        "zhuyin": [
+          ["ㄆㄧㄣˊ"], ["ㄐㄩㄥˇ"], ["ㄐㄧ"], ["ㄉㄞˋ"], ["ㄐㄧˋ"],
+          ["ㄐㄧㄢ"], ["ㄓˊ"], ["ㄑㄧㄥ"], ["ㄐㄧ"], ["ㄅㄧˋ"],
+          ["ㄐㄧㄣ"], ["ㄐㄧㄣ"], ["ㄑㄧˊ"], ["ㄏㄢˋ"], ["ㄌㄧㄥˊ"],
+          ["ㄈㄨˇ"], ["ㄎㄢ"], ["ㄈㄤˊ"], ["ㄧˋ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 體諒父母的辛勞", "✓ 維持優異成績", "✓ 拒絕歧視挺身而出", "✓ 維護同學權益", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、語詞辨別",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "權力", "權利", "", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "發生", "發聲", "", "", ""
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "例行", "力行", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②", "", "", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④", "", "", "", ""
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③", "", "", "", ""
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "(僅供參考) 課文中的照片、插圖和語詞放大鏡可以幫助讀者更直觀地理解內容，視覺上的輔助能加深印象，也能幫助理解較難的詞語或概念，使學習過程更生動、容易。", "", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "④", "", "", "", ""
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "大型海報：可以用來展示畢業典禮的日期、地點及流程，讓所有人都能清楚了解活動安排。"
+        ]
+      },
+      {	
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "廣告摺頁：可以發放給畢業生和家長，詳細介紹典禮的每個環節、參與人物以及注意事項，幫助大家提前做好準備。"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "電腦簡報：在典禮當天使用，可以展示畢業生的照片、影片回顧和致詞內容，增加典禮的動感和視覺效果。"
+        ]
+      }
+    ]
+  }
+]

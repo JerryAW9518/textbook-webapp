@@ -1,0 +1,138 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "縫", "隙", "椒", "卵", "鰓",
+          "爬", "陸", "肺", "膚", "黏",
+          "液", "保", "持", "敵", "伐",
+          "球", "灣", "冰"
+        ],
+        "zhuyin": [
+          ["ㄈㄥˋ"], ["ㄒㄧˋ"], ["ㄐㄧㄠ"], ["ㄌㄨㄢˇ"], ["ㄙㄞ"],
+          ["ㄆㄚˊ"], ["ㄌㄨˋ"], ["ㄈㄟˋ"], ["ㄈㄨ"], ["ㄋㄧㄢˊ"],
+          ["ㄧㄝˋ"], ["ㄅㄠˇ"], ["ㄔˊ"], ["ㄉㄧˊ"], ["ㄈㄚ"],
+          ["ㄑㄧㄡˊ"], ["ㄨㄢ"], ["ㄅㄧㄥ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再圈出正確的答案。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "特", "ㄈㄥˊ", "持", "ㄈㄥˋ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，根據語氣填入正確的字。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "吧", "嗎", "呀", "吧"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填入順序，再合併成一個句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "1", "2"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "我們學習時不但要理解書本上的知識，還要注重在生活上的實踐。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據圖示，完成內容填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "年代",
+        "category": "vocabulary",
+        "answers": [
+          "冰河時期"
+        ]
+      },
+      {
+        "title": "特徵",
+        "category": "vocabulary",
+        "answers": [
+          "兩生類", "鰓", "肺"
+        ]
+      },
+      {
+        "title": "外型",
+        "category": "vocabulary",
+        "answers": [
+          "斑點", "後肢"
+        ]
+      },
+      {
+        "title": "習性",
+        "category": "vocabulary",
+        "answers": [
+          "晚上", "產卵"
+        ]
+      },
+      {
+        "title": "危機",
+        "category": "vocabulary",
+        "answers": [
+          "地球暖化"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ② 耳朵...", "✓ ③ 額頭..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  }
+]

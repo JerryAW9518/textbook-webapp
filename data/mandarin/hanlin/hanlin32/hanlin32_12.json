@@ -1,0 +1,106 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "聊", "夏", "錶", "跌", "央",
+          "幻", "鼠", "牌", "后",
+          "鶴", "槌", "刺", "蝟", "令",
+          "兵", "賽", "夢"
+        ],
+        "zhuyin": [
+          ["ㄌㄧㄠˊ"], ["ㄒㄧㄚˋ"], ["ㄅㄧㄠˇ"], ["ㄉㄧㄝˊ"], ["ㄧㄤ"],
+          ["ㄏㄨㄢˋ"], ["ㄕㄨˇ"], ["ㄆㄞˊ"], ["ㄏㄡˋ"],
+          ["ㄏㄜˋ"], ["ㄔㄨㄟˊ"], ["ㄘˋ"], ["ㄨㄟˋ"], ["ㄌㄧㄥˋ"],
+          ["ㄅㄧㄥ"], ["ㄙㄞˋ"], ["ㄇㄥˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出押韻的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "來", "開", "來", "來"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "ㄞ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "貓", "到"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "ㄠ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "說謊"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "變蓬鬆了"
+        ]
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一顆美麗的微笑永遠溫暖人心。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 多多鳥", "✓ 眼淚池塘", "✓ 老鼠說故事"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 詩歌"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "域", "逐", "蜿", "蜒", "岔",
+          "契", "嚮", "沮", "餒", "豫",
+          "憾"
+        ],
+        "zhuyin": [
+          ["ㄩˋ"], ["ㄓㄨˊ"], ["ㄨㄢ"], ["ㄧㄢˊ"], ["ㄔㄚˋ"],
+          ["ㄑㄧˋ"], ["ㄒㄧㄤˋ"], ["ㄐㄩˇ"], ["ㄋㄟˇ"], ["ㄩˋ"],
+          ["ㄏㄢˋ"]
+        ]
+      },
+      {
+      	"title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "二、依課文內容完成表格",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "總論",
+        "category": "vocabulary",
+        "answers": [
+          "人生路上的遠方目標"
+        ]
+      },
+      {
+        "title": "第二段 分論點",
+        "category": "vocabulary",
+        "answers": [
+          "夢想"
+        ]
+      },
+      {
+        "title": "論據",
+        "category": "vocabulary",
+        "answers": [
+          "齊柏林", "透過空拍記錄臺灣"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "超馬"
+        ]
+      },
+      {
+        "title": "第三段 分論點",
+        "category": "vocabulary",
+        "answers": [
+          "楷模"
+        ]
+      },
+      {
+        "title": "論據",
+        "category": "vocabulary",
+        "answers": [
+          "麥可‧喬丹", "兩千次投籃練習"
+        ]
+      },
+      {
+        "title": "第四段 分論點",
+        "category": "vocabulary",
+        "answers": [
+          "達不了預設的夢想，換個方向，或許會看見未曾預料的美景。"
+        ]
+      },
+      {
+        "title": "論據 人物",
+        "category": "vocabulary",
+        "answers": [
+          "華特‧迪士尼"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "平面畫家", "動畫製作"
+        ]
+      },
+      {
+        "title": "結論",
+        "category": "vocabulary",
+        "answers": [
+          "夢想會在遠方激勵我們"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填入語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "突破"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "投注", "心力"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "掌握", "方向"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "追尋", "理想"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、依情境填入適當的人物和名言佳句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "舉重選手郭婞淳", "老天爺要你多成功，就給你多少挫折。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "教育組織創辦人劉安婷", "人，是為了更大的使命而活。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "草間彌生和華特‧迪士尼都面臨過初期的困境，但他們堅持創作，最終取得成功。草間彌生以獨特風格突破困境，華特‧迪士尼則不斷創新，建立了迪士尼帝國。他們的故事啟示我們：堅持信念，勇於創新，最終能實現夢想。"
+        ]
+      }
+    ]
+  }
+]

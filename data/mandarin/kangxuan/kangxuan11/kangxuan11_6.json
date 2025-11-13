@@ -1,0 +1,138 @@
+[
+  {
+    "title": "識字有方法",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "森", "林", "樹", "木"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "桌", "朵"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "桃", "李"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "從", "紅", "白", "花", "朵"
+        ],
+        "zhuyin": [
+          ["ㄘㄨㄥˊ"], ["ㄏㄨㄥˊ"], ["ㄅㄞˊ"], ["ㄏㄨㄚ"], ["ㄉㄨㄛˇ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "向", "說", "走", "路"
+        ],
+        "zhuyin": [
+          ["ㄒㄧㄤˋ"], ["ㄕㄨㄛ"], ["ㄗㄡˇ"], ["ㄌㄨˋ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "頭", "那", "頭"
+        ],
+        "zhuyin": [
+          ["ㄊㄡˊ"], ["ㄋㄚˋ"], ["ㄊㄡˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、圈出正確的注音和詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "ㄓㄤˇ ㄉㄚˋ", "在這裡", "ㄏㄨㄥˊ ㄏㄨㄚ", "ㄔㄤˊ ㄔㄤˊ ˙ㄉㄜ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、想一想，再作答",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "藍藍的", "高高的", "紅紅的"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "一塊又一塊", "一杯又一杯", "一個又一個"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、合併成一個句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "爸爸", "媽媽"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "唱歌", "也喜歡跳舞"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      }
+    ]
+  }
+]

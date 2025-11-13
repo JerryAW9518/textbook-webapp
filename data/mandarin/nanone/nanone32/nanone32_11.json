@@ -1,0 +1,187 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "孤", "沉", "零", "枯", "柴",
+          "腐", "築", "巢"
+        ],
+        "zhuyin": [
+          ["ㄍㄨ"], ["ㄔㄣˊ"], ["ㄌㄧㄥˊ"], ["ㄎㄨ"], ["ㄔㄞˊ"],
+          ["ㄈㄨˇ"], ["ㄓㄨˊ"], ["ㄔㄠˊ"]
+        ]
+      },
+      {
+      	"title": "動動腦",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "二、用表格整理課文",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "名稱",
+        "category": "vocabulary",
+        "answers": [
+          "立木", "腐木"
+        ]
+      },
+      {
+        "title": "特徵",
+        "category": "vocabulary",
+        "answers": [
+          "躺在地上", "倒下許久", "長時間半埋"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、形近字練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "枯", "姑", "故", "菇"
+        ],
+        "zhuyin": [
+          ["ㄎㄨ"], ["ㄍㄨ"], ["ㄍㄨˋ"], ["ㄍㄨ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "姑", "故", "菇", "枯"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、我會照樣寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "花瓣 ➝ 昆蟲 ➝ 雨傘", "鍵盤 ➝ 手指 ➝ 舞台"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "能夠流暢地演奏鋼琴", "經常在比賽中獲獎"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "哥哥不僅成績名列前茅，而且多才多藝。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、聆聽練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "枯木類型",
+        "category": "vocabulary",
+        "answers": [
+          "立木", "倒木"
+        ]
+      },
+      {
+        "title": "住客",
+        "category": "vocabulary",
+        "answers": [
+          "五色鳥", "獨角仙幼蟲"
+        ]
+      },
+      {
+        "title": "飯店特色",
+        "category": "vocabulary",
+        "answers": [
+          "內、外"
+        ]
+      },
+      {
+        "title": "受喜愛的原因",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 擁有保護作用", "✓ 土壤富含營養"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "七、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      }
+    ]
+  }
+]

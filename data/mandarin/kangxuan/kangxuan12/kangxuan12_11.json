@@ -1,0 +1,119 @@
+[
+  {
+    "title": "部首真有趣",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "課", "講", "話", "認", "請",
+          "記", "說"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "知", "道", "學", "今", "張",
+          "祝", "福", "記", "時", "謝",
+          "謝", "第", "次", "收", "生",
+          "日", "嗎"
+        ],
+        "zhuyin": [
+          ["ㄓ"], ["ㄉㄠˋ"], ["ㄒㄩㄝˊ"], ["ㄐㄧㄣ"], ["ㄓㄤ"],
+          ["ㄓㄨˋ"], ["ㄈㄨˊ"], ["ㄐㄧˋ"], ["ㄕˊ"], ["ㄒㄧㄝˋ"],
+          ["˙ㄒㄧㄝ"], ["ㄉㄧˋ"], ["ㄘˋ"], ["ㄕㄡ"], ["ㄕㄥ"],
+          ["ㄖˋ"], ["˙ㄇㄚ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填寫適當的時間",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "上學"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "午休"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "很害怕"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "學游泳", "好緊張"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "這是我第一次騎自行車，我好開心!"
+        ]
+      }
+    ]
+  }
+]

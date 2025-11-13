@@ -1,0 +1,172 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "築", "巢", "翔", "晨", "鮮",
+          "豔", "苗", "徐", "徐", "嫩",
+          "杜", "鵑", "燦", "爛", "耀",
+          "虔", "誠", "願"
+        ],
+        "zhuyin": [
+          ["ㄓㄨˊ"], ["ㄔㄠˊ"], ["ㄒㄧㄤˊ"], ["ㄔㄣˊ"], ["ㄒㄧㄢ"],
+          ["ㄧㄢˋ"], ["ㄇㄧㄠˊ"], ["ㄒㄩˊ"], ["ㄒㄩˊ"], ["ㄋㄣˋ"],
+          ["ㄉㄨˋ"], ["ㄐㄩㄢ"], ["ㄘㄢˋ"], ["ㄌㄢˋ"], ["ㄧㄠˋ"],
+          ["ㄑㄧㄢˊ"], ["ㄔㄥˊ"], ["ㄩㄢˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "2", "3", "1"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先讀一讀，再圈出正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "耀", "社", "杜", "躍"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "照樣寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "神祕", "魔法盒"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "孔雀", "展現", "華麗", "羽毛"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "可以替換的畫○，不可以畫྾",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "O"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "X"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "X"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "O"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "讓她上樓梯時更輕鬆一些。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "值日生用心擦拭黑板，讓它恢復了乾淨如新的狀態。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ① 小樹苗", "✓ ② 老樹", "✓ ③ 小鳥", "✓ ④ 杜鵑花", "✓ ⑥ 作者"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ②", "✓ ④"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      }
+    ]
+  }
+]

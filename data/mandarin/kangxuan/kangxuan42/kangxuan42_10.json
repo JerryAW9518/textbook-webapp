@@ -1,0 +1,150 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "旱", "際", "災", "瞧", "廣", 
+          "灘", "苔", "禁", "丈", "耗",
+          "忽", "滾", "遺", "憾", "豪"
+        ],
+        "zhuyin": [
+          ["ㄏㄢˋ"], ["ㄐㄧˋ"], ["ㄗㄞ"], ["ㄑㄧㄠˊ"], ["ㄍㄨㄤˇ"],
+           ["ㄊㄢ"], ["ㄊㄞˊ"], ["ㄐㄧㄣ"], ["ㄓㄤˋ"], ["ㄏㄠˋ"],
+          ["ㄏㄨ"], ["ㄍㄨㄣˇ"], ["ㄧˊ"], ["ㄏㄢˋ"], ["ㄏㄠˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "圈出部件，再寫部首和造詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "目部 ➝ 瞧見", "木部 ➝ 樵夫", "石部 ➝ 礁石"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "艸部 ➝ 海苔", "手部 ➝ 抬頭", "風部 ➝ 防颱"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再填入詞語正確的解釋。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "深淺的程度"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "對事物的理解、體悟的程度"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據情境，寫出完整的句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "大家加油，就算跑最後，也堅持跑到終點，這是運動家的精神。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "如果我吃完飯都有確實刷牙，沒蛀牙，現在就可以可以吃東西了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文內容填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "背景",
+        "category": "vocabulary",
+        "answers": [
+          "一口大井"
+        ]
+      },
+      {
+        "title": "起因",
+        "category": "vocabulary",
+        "answers": [
+          "海龜"
+        ]
+      },
+      {
+        "title": "經過",
+        "category": "vocabulary",
+        "answers": [
+          "卡在井口", "東海", "大海有多大"
+        ]
+      },
+      {
+        "title": "結果",
+        "category": "vocabulary",
+        "answers": [
+          "自己和海龜一起來到海邊"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "不會", "不知狼內心真正的想法，為了保護自己，避免危險，不可以答應。"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "形", "題", "圖", "館", "講",
+          "約", "參", "志", "迎", "交",
+          "數", "索", "奧", "讀", "些",
+          "甲", "士", "庫", "令"
+        ],
+        "zhuyin": [
+          ["ㄒㄧㄥˊ"], ["ㄊㄧˊ"], ["ㄊㄨˊ"], ["ㄍㄨㄢˇ"], ["ㄐㄧㄤˇ"],
+          ["ㄩㄝ"], ["ㄘㄢ"], ["ㄓˋ"], ["ㄧㄥˊ"], ["ㄐㄧㄠ"],
+          ["ㄕㄨˋ"], ["ㄙㄨㄛˇ"], ["ㄠˋ"], ["ㄉㄨˊ"], ["ㄒㄧㄝ"],
+          ["ㄐㄧㄚˇ"], ["ㄕˋ"], ["ㄎㄨˋ"], ["ㄌㄧㄥˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "圈出食部的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "食", "餅", "飯", "餐", "飽", "館"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "找出書名，畫上書名號",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "你躲到哪裡去"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "長髮姑娘"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "伊索寓言", "西遊記"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先觀察圖片，再完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "十分堅固", "造型美觀"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "不但能幫助消化，而且能讓身體更健康。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填寫適當的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "2", "4", "3", "1"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "圖書館", "甲蟲卡", "大寶庫"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "日記練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ (2)"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "九", "九", "日", "晴", "我和爸爸一起逛夜市", "有賣烤玉米、棉花糖等好吃的食物，還有玩具、鞋子....各樣的商品", "逛夜市真好玩。"
+        ]
+      }
+    ]
+  }
+]

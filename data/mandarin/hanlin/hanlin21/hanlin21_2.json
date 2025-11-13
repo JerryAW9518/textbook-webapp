@@ -1,0 +1,155 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "最", "辦", "舞", "消", "始",
+          "緊", "習", "因", "為", "熟",
+          "新", "知", "道", "怎", "轉",
+          "卻", "老", "師", "掛", "希",
+          "望", "失" 
+        ],
+        "zhuyin": [
+          ["ㄗㄨㄟˋ"], ["ㄅㄢˋ"], ["ㄨˇ"], ["ㄒㄧㄠ"], ["ㄕˇ"],
+          ["ㄐㄧㄣˇ"], ["ㄒㄧˊ"], ["ㄧㄣ"], ["ㄨㄟˋ"], ["ㄕㄡˊ"],
+          ["ㄒㄧㄣ"], ["ㄓ"], ["ㄉㄠˋ"], ["ㄗㄣˇ"], ["ㄓㄨㄢˇ"],
+          ["ㄑㄩㄝˋ"], ["ㄌㄠˇ"], ["ㄕ"], ["ㄍㄨㄚˋ"], ["ㄒㄧ"],
+          ["ㄨㄤˋ"], ["ㄕ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "ㄅ 2", "ㄆ 1", "ㄇ 3"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、請將正確的字填入",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "到", "道", "到"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "音", "因"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "候", "後"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "傷心"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "開心"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "憤怒", "叫了出來"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、圈一圈，寫一寫。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "不覺得累"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "不會飛"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "食量很大"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "花了很久才完成"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 緊張到開心"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 卡片"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 轉學生"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

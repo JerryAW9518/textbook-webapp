@@ -1,0 +1,177 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "女", "非", "怕", "關", "澡", "喵", "喵", "平", "應", "蓋", "副", "柔", "摸", "揉", "毛", "茸", "茸", "肚", "膠", "黏"
+        ],
+        "zhuyin": [
+          ["ㄋㄩˇ"], ["ㄈㄟ"], ["ㄆㄚˋ"], ["ㄍㄨㄢ"], ["ㄗㄠˇ"], ["ㄇㄧㄠ"], ["ㄇㄧㄠ"], ["ㄆㄧㄥˊ"], ["ㄧㄥˋ"], ["ㄍㄞˋ"], ["ㄈㄨˋ"], ["ㄖㄡˊ"], ["ㄇㄛ"], ["ㄖㄡˊ"], ["ㄇㄠˊ"], ["ㄖㄨㄥˊ"], ["ㄖㄨㄥˊ"], ["ㄉㄨˋ"], ["ㄐㄧㄠ"], ["ㄋㄧㄢˊ"]
+        ]
+      },
+     
+      {
+        "title": "",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : false,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "二、圈出適合的造詞，再寫出意思",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "雪白", "明亮", "雪白明亮"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、可以的畫Ｏ，不可以的畫Ｘ",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、圈出正確的詞語，再造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "四腳朝天", "在激烈的比賽中，他失去平衡後，結果四腳朝天摔倒在地。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "七嘴八舌", "在會議上，大家都對這個提案表達自己的意見，導致場面一片七嘴八舌，十分熱烈。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "延", "帳", "牽", "督", "營",
+          "吶", "幔", "恍", "率", "佳",
+          "酬"
+        ],
+        "zhuyin": [
+          ["ㄧㄢˊ"], ["ㄓㄤˋ"], ["ㄑㄧㄢ"], ["ㄉㄨ"], ["ㄧㄥˊ"],
+          ["ㄋㄚˋ"], ["ㄇㄢˋ"], ["ㄏㄨㄤˇ"], ["ㄕㄨㄞˋ"], ["ㄐㄧㄚ"],
+          ["ㄔㄡˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、語詞練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["Ｘ"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["Ｏ"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["Ｘ"]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["Ｏ"]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": ["Ｘ"]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["困難重重", "絕不放棄"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["可能需要向主辦方提供其他身份證明以補救"]
+      }
+    ]
+  },
+  {
+    "title": "四、根據圖片內容，在四格圖中填入正確代號",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["ㄈ", "大江之上...."]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["ㄆ", "對了..."]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["ㄅ", "箭全都造好了..."]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["ㄇ", "先生真是神機妙算..."]
+      }
+    ]
+  },
+  {
+    "title": "五、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["②"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["④"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["③"]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["①"]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": ["可以推論諸葛亮具有氣象觀察能力，或者至少對天氣變化有著敏銳的洞察力。"]
+      }
+    ]
+  }
+]

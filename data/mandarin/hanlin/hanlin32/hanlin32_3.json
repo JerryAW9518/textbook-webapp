@@ -1,0 +1,127 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "演", "琴", "臂", "姿"
+        ],
+        "zhuyin": [
+          ["ㄧㄢˇ"], ["ㄑㄧㄣˊ"], ["ㄅㄧˋ"], ["ㄗ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "病", "引", "克", "截", "肢", 
+          "雙", "戰", "疼", "痛", "腕", 
+          "骨", "敲", "膝", "跪", "環"
+        ],
+        "zhuyin": [
+          ["ㄅㄧㄥˋ"], ["ㄧㄣˇ"], ["ㄎㄜˋ"], ["ㄐㄧㄝˊ"], ["ㄓ"], ["ㄕㄨㄤ"], ["ㄓㄢˋ"], ["ㄊㄥˊ"], ["ㄊㄨㄥˋ"],
+          ["ㄨㄢˋ"], ["ㄍㄨˇ"], ["ㄑㄧㄠ"], ["ㄒㄧ"], ["ㄍㄨㄟˋ"], ["ㄏㄨㄢˊ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 輕輕", "✓ 不幸", "✓ 努力"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、據據情境，填入適當語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "難過", "哇哇大哭"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "興奮", "又叫又跳"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "機器人"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "拿著筆畫圖"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "用拖把在地上寫字"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "外貌特點"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "事例"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "感覺"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、寫作練習",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

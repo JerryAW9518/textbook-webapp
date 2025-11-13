@@ -1,0 +1,184 @@
+[
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "洲", "評", "飾", "銳", "格",
+          "陸", "銷", "售", "德", "膩", "洋", "詞"
+        ],
+        "zhuyin": [
+          ["ㄓㄡ"], ["ㄆㄧㄥˊ"], ["ㄕˋ"], ["ㄖㄨㄟˋ"], ["ㄍㄜˊ"],
+          ["ㄌㄨˋ"], ["ㄒㄧㄠ"], ["ㄕㄡˋ"], ["ㄉㄜˊ"], ["ㄋㄧˋ"], ["ㄧㄤˊ"], ["ㄘˊ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ③"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、語詞應用",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "念念有詞"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "石破天驚"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "奇特之處"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "靈光乍現"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "廣受歡迎"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、依照情境完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "得到好成績", "下定決心，日夜苦讀，不放過任何學習機會。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "跌了一跤", "最終她成功地贏了對手。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "如果農民在適當的季節種植水稻，就可以期待豐收的稻米。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、填寫課文結構與大意",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "論點",
+        "category": "vocabulary",
+        "answers": [
+          "敏銳的觀察", "用心的思考"
+        ]
+      },
+      {
+        "title": "論據一",
+        "category": "vocabulary",
+        "answers": [
+          "第2~3段", "「大陸漂移說」"
+        ]
+      },
+      {
+        "title": "論據二",
+        "category": "vocabulary",
+        "answers": [
+          "第4~5段", "女兒和同伴玩的遊戲"
+        ]
+      },
+      {
+        "title": "結論",
+        "category": "vocabulary",
+        "answers": [
+          "偉大的發現和創新"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "牠的手太短了，想攀岩時，無法往上爬。"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "「到了游泳比賽時，牠立刻發揮長處，用有力的尾巴快速前進，輕鬆奪冠。」"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一個人只要有強烈的自我期許，對想做的事充滿熱情，就「永遠不會太晚」。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

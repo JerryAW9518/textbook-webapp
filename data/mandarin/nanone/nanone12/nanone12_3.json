@@ -1,0 +1,117 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "坡", "布", "置", "場", "林",
+          "間", "風", "河", "入", "音",
+          "樂", "會"
+        ],
+        "zhuyin": [
+          ["ㄆㄛ"], ["ㄅㄨˋ"], ["ㄓˋ"], ["ㄔㄤˇ"], ["ㄌㄧㄣˊ"],
+          ["ㄐㄧㄢ"], ["ㄈㄥ"], ["ㄏㄜˊ"], ["ㄖㄨˋ"], ["ㄧㄣ"],
+          ["ㄩㄝˋ"], ["ㄏㄨㄟˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["✓ 小鳥"]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出正確的字音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["ㄩㄝˋ"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["ㄌㄜˋ"]
+      }
+    ]
+  },
+  {
+    "title": "三、填入正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["人"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["入"]
+      }
+    ]
+  },
+  {
+    "title": "四、寫出可能會聽見的聲音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["ㄏㄨㄥ ㄌㄨㄥˊ ㄏㄨㄥ ㄌㄨㄥˊ"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["ㄍㄨㄚ ㄍㄨㄚ ㄍㄨㄚ"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["ㄉㄧㄥ ㄉㄧㄥ ㄉㄧㄥ"]
+      }
+    ]
+  },
+  {
+    "title": "五、回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["②"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["✓ 山"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["略 (口述)"]
+      }
+    ]
+  },
+  {
+    "title": "六、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["運動", "運動"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["唱歌", "唱歌"]
+      }
+    ]
+  }
+]

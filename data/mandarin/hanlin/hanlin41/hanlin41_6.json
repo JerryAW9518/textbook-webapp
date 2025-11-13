@@ -1,0 +1,111 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "館", "揭", "萬", "坑", "隕",
+          "撞", "擊", "射", "距", "均",
+          "萬", "里", "騎"
+        ],
+        "zhuyin": [
+          ["ㄍㄨㄢˇ"], ["ㄐㄧㄝ"], ["ㄨㄢˋ"], ["ㄎㄥ"], ["ㄩㄣˇ"],
+          ["ㄓㄨㄤˋ"], ["ㄐㄧˊ"], ["ㄕㄜˋ"], ["ㄐㄩˋ"], ["ㄐㄩㄣ"],
+          ["ㄨㄢˋ"], ["ㄌㄧˇ"], ["ㄑㄧˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、讀一讀題目，再填入正確的國字。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "館", "營", "管"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "距", "拒", "巨"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "就算", "也", "全力以赴，享受比賽的過程。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "即使前面的路很艱難，就算遇到再多困難，我也要堅持到底。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、閱讀小偵探：讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "人物",
+        "category": "vocabulary",
+        "answers": [
+          "林宜萱"
+        ]
+      },
+      {
+        "title": "地點",
+        "category": "vocabulary",
+        "answers": [
+          "松山文創園區"
+        ]
+      },
+      {
+        "title": "事件",
+        "category": "vocabulary",
+        "answers": [
+          "第四屆環境關懷設計競賽"
+        ]
+      },
+      {
+        "title": "物品",
+        "category": "vocabulary",
+        "answers": [
+          "TWIST旋轉折杯"
+        ]
+      },
+			{
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "新聞中的圖片和說明，可以讓讀者直接看見實際的情況，幫助更清楚地理解內容，同時也能傳遞情感氛圍，讓報導更生動、更容易記住。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+      
+    ]
+  }
+]

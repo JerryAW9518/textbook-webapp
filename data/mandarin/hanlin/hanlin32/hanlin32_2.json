@@ -1,0 +1,124 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "奮", "擋", "祕", "訣", "藏", "缸"
+        ],
+        "zhuyin": [
+          ["ㄈㄣˋ"], ["ㄉㄤˇ"], ["ㄇㄧˋ"], ["ㄐㄩㄝˊ"], ["ㄘㄤˊ"], ["ㄍㄤ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "模", "範", "管",  "埋", "苦", "豎", "示", "差"
+        ],
+        "zhuyin": [
+          ["ㄇㄛˊ"], ["ㄈㄢˋ"], ["ㄍㄨㄢˇ"],  ["ㄇㄞˊ"], ["ㄎㄨˇ"], ["ㄕㄨˋ"], ["ㄕˋ"], ["ㄔㄚ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、選詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "special": "noNumber",
+        "answers": [
+          "光說不練", "苦練", "埋頭再練", "早也練，晚也練"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、標點符號用法正確的打✓",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          ""
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "：", "﹁", "﹃", "﹄", "﹂"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 大書法家"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "王羲之拔王獻之的筆"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "因為王獻之寫字時很專注手中有勁，筆握得牢。"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 王獻之字寫得很好，..."
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "持續反覆的不斷練習。"
+        ]
+      },
+      {
+        "title": "6",
+        "category": "vocabulary",
+        "answers": [
+          "早也練，晚也練。"
+        ]
+      }
+    ]
+  }
+]

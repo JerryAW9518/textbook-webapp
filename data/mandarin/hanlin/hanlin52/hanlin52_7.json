@@ -1,0 +1,109 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "陰", "椏", "徘", "徊", "畝",
+          "渠", "悟", "莫", "縷", "遺",
+          "憾", "鑑", "竭"
+        ],
+        "zhuyin": [
+          ["ㄧㄣ"], ["ㄧㄚ"], ["ㄆㄞˊ"], ["ㄏㄨㄞˊ"], ["ㄇㄨˇ"],
+          ["ㄑㄩˊ"], ["ㄨˋ"], ["ㄇㄛˋ"], ["ㄌㄩˇ"], ["ㄧˊ"],
+          ["ㄏㄢˋ"], ["ㄐㄧㄢˋ"], ["ㄐㄧㄝˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、填入適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": ["縷", "樓", "屢"],
+        "zhuyin": [
+          ["ㄌㄩˇ"], ["ㄌㄡˊ"], ["ㄌㄩˇ"]
+        ]
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["屢"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["樓"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["縷"]
+      }
+    ]
+  },
+  {
+    "title": "三、依據課文內容回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["③"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["②"]
+      },
+      {
+        "title": "(2)",
+        "category": "vocabulary",
+        "answers": [
+          "源頭活水", "不斷學習，接受新事物，就能保持思想的活躍與進步。"
+        ]
+      },
+      {
+        "title": "(3)",
+        "category": "vocabulary",
+        "answers": [
+          "有人擅長整理資料，有人很會口語表達", 
+          "每個人都有不同的優點，不用跟別人比較。"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["略"]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["④"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["①"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["略"]
+      }
+    ]
+  }
+]

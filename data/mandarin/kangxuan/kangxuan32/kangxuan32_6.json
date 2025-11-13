@@ -1,0 +1,143 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "影", "省", "優", "券", "碼", "技", 
+          "周", "產", "類", "目", "慶", "票", 
+          "結", "包", "描", "資", "例", "程"
+        ],
+        "zhuyin": [
+          ["ㄧㄥˇ"], ["ㄕㄥˇ"], ["ㄧㄡ"], ["ㄑㄩㄢˋ"], ["ㄇㄚˇ"], ["ㄐㄧˋ"],
+          ["ㄓㄡ"], ["ㄔㄢˇ"], ["ㄌㄟˋ"], ["ㄇㄨˋ"], ["ㄑㄧㄥˋ"], ["ㄆㄧㄠˋ"],
+          ["ㄐㄧㄝˊ"], ["ㄅㄠ"], ["ㄇㄧㄠˊ"], ["ㄗ"], ["ㄌㄧˋ"], ["ㄔㄥˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再填入正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "技", "枝"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "描", "苗"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "卷", "券"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填入適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "七嘴八舌"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "五顏六色"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "一清二楚"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "千奇百怪"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先圈出錯誤的詞語，再根據提示寫出正確的句子。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "雖然", "如果我是神奇密碼，我會帶領大家暢遊網路世界。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "應該", "沒想到她小小年紀，竟然會自己上網查資料，寫出研究計畫。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "作文練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

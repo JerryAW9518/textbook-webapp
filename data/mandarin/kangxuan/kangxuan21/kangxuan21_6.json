@@ -1,0 +1,159 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "月", "節", "客", "進", "埔", "鎮", 
+          "因", "此", "排", "遠", "買", 
+          "柿", "餅", "親", "甜", "愛", 
+          "意", "如", "色", "乾", "柿"
+        ],
+        "zhuyin": [
+          ["ㄩㄝˋ"], ["ㄐㄧㄝˊ"], ["ㄎㄜˋ"], ["ㄐㄧㄣˋ"], ["ㄆㄨˇ"], ["ㄓㄣˋ"],
+          ["ㄧㄣ"], ["ㄘˇ"],["ㄆㄞˊ"], ["ㄩㄢˇ"], ["ㄇㄞˇ"], 
+          ["ㄕˋ"], ["ㄅㄧㄥˇ"], ["ㄑㄧㄣ"], ["ㄊㄧㄢˊ"], ["ㄞˋ"],
+          ["ㄧˋ"], ["ㄖㄨˊ"], ["ㄙㄜˋ"], ["ㄍㄢ"], ["ㄕˋ"]
+        ]
+      },
+      {
+        "title": "根據文章內容，打✓",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : false,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "二、讀一讀，再圈出正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "進", "近", "近", "進"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、連一連",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1", "例"
+          	],
+          	[
+            	"", "", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 1 ],
+          		[ 0 ],
+          		[ 3 ],
+          		[ 2 ]
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "四、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "常常陪我一起運動"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "讀書"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "假日時，哥哥除了會彈琴，也喜歡打羽球。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      }
+    ]
+  }
+]

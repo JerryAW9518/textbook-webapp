@@ -1,0 +1,182 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "夜", "煙", "火", "春", "雖",
+          "臺", "灣", "卻", "相", "冬",
+          "季", "冷", "雪", "貨", "飯",
+          "梨", "期", "待", "相", "綻",
+          "反" 
+        ],
+        "zhuyin": [
+          ["ㄧㄝˋ"], ["ㄧㄢ"], ["ㄏㄨㄛˇ"], ["ㄔㄨㄣ"], ["ㄙㄨㄟ"],
+          ["ㄊㄞˊ"], ["ㄨㄢ"], ["ㄑㄩㄝˋ"], ["ㄒㄧㄤ"], ["ㄉㄨㄥ"],
+          ["ㄐㄧˋ"], ["ㄌㄥˇ"], ["ㄒㄩㄝˇ"], ["ㄏㄨㄛˋ"], ["ㄈㄢˋ"],
+          ["ㄌㄧˊ"], ["ㄑㄧˊ"], ["ㄉㄞˋ"], ["ㄒㄧㄤˋ"], ["ㄓㄢˋ"], 
+          ["ㄈㄢˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+        	"✓ ③"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、寫出謎底",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+        	"春"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+        	"相"
+        ]
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+        	"反"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、再選出正確使用……的句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : false,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "title": "2",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : false,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "title": "3",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : false,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "四、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "故事內容很好看"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "身體還是很健康"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "杯子雖然被妹妹打破了，但媽媽並沒有責怪她。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、寫一封信給朋友",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、填寫正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

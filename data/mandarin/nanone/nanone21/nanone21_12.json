@@ -1,0 +1,121 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "本", "筆", "調", "盤", "料",
+          "野", "圖", "飛", "蜜", "蜂",
+          "蝴", "蝶", "活", "模", "迷"
+        ],
+        "zhuyin": [
+          ["ㄅㄣˇ"], ["ㄅㄧˇ"], ["ㄊㄧㄠˊ"], ["ㄆㄢˊ"], ["ㄌㄧㄠˋ"],
+          ["ㄧㄝˇ"], ["ㄊㄨˊ"], ["ㄈㄟ"], ["ㄇㄧˋ"], ["ㄈㄥ"],
+          ["ㄏㄨˊ"], ["ㄉㄧㄝˊ"], ["ㄏㄨㄛˊ"], ["ㄇㄛˊ"], ["ㄇㄧˊ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 顏料", "✓ 調色盤", "✓ 畫筆", "✓ 本子"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、填一填",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "蝴", "湖"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "逛", "迷"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、連一連",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"5", "4", "3", "2", "1"
+          	],
+          	[
+            	"", "", "", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 1 ],
+          		[ 0 ],
+          		[ 4 ],
+          		[ 2 ],
+          		[ 3 ]
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "四、我是小詩人",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "珊瑚的花園", "海星的光芒", "悠揚的海浪聲", "海鷗歌唱"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 走路彎來彎去"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 小火車"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "小火車「回過頭來」是因為它在彎彎曲曲的山路上行駛，軌道讓它看起來像是在轉彎時回頭看自己。"
+        ]
+      }
+    ]
+  }
+]

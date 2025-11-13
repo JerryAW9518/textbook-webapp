@@ -1,0 +1,176 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "special": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "遇", "焦", "擦", "邁", "痕",
+          "拖", "疲", "倦", "賠", "償",
+          "謹", "慎"
+        ],
+        "zhuyin": [
+          ["ㄩˋ"], ["ㄐㄧㄠ"], ["ㄘㄚ"], ["ㄇㄞˋ"], ["ㄏㄣˊ"], 
+          ["ㄊㄨㄛ"], ["ㄆㄧˊ"], ["ㄐㄩㄢˋ"], ["ㄆㄟˊ"], ["ㄔㄤˊ"],
+          ["ㄐㄧㄣˇ"], ["ㄕㄣˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文內容回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 父親已經高齡...", "✓ 在擦撞他人汽車後...", "✓ 到家之後..."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、選詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"4", "3", "2", "1"
+          	],
+          	[
+            	"", "", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 0 ],
+          		[ 2 ],
+          		[ 3 ],
+          		[ 1 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "開朗", "年輕", "年邁", "謹慎", "粗心", "焦急"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、句型練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "為了生活，即使遇到不公平的對待，她也繼續咬牙努力工作。"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "哥哥受傷了，即使到醫院縫針時，也沒有叫痛。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、說話練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

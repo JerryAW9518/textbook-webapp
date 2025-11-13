@@ -1,0 +1,279 @@
+[
+  {
+    "title": "",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "= 10\\frac{6}{7} + \\frac{15}{7} × \\frac{14}{5}" ],
+                    [ "= 10\\frac{6}{7} + 6" ],
+                    [ "= 16\\frac{6}{7}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "= 153.5 - 3.5 + 25.45" ],
+                    [ "= 150 + 25.45" ],
+                    [ "= 175.45" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "= \\frac{21}{5}  ÷  \\frac{3}{4}" ],
+                    [ "= \\frac{21}{5} × \\frac{4}{3}" ],
+                    [ "= \\frac{28}{5}" ],
+                    [ "= 5\\frac{3}{5}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "= (0.63 + 0.37) ×  2\\frac{3}{4}" ],
+                    [ "= 1 × 2\\frac{3}{4}" ],
+                    [ "= 2\\frac{3}{4}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "畫法 略" ]
+                  ]
+                }
+              }
+            ]
+          }
+          
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "5.6 × 2\\frac{1}{2} + 6.4 × 2\\frac{1}{2}" ],
+                    [ "= (5.6 + 6.4) × 2\\frac{1}{2}" ],
+                    [ "= 12 × \\frac{5}{2}" ],
+                    [ "= 30" ],
+                    [ "答 : 30 公里" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "50 公尺 = 5000 公分" ],
+                    [ "10 : 5000 = 1 : 500" ],
+                    [ "40 公尺 = 4000 公分" ],
+                    [ "4000 ÷ 500 = 8" ],
+                    [ "答 : 1 : 500，寬 8 公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "500 × 500 = 250000" ],
+                    [ "答 : 250000 倍" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2000 × (1 + 40％)" ],
+                    [ "= 2000 × 1.4" ],
+                    [ "= 2800" ],
+                    [ "答 : 2800 元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "3500 ÷ (1 + 40％)" ],
+                    [ "= 3500 ÷ 1.4" ],
+                    [ "= 2500" ],
+                    [ "答 : 2500 元" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "成本" ],
+                    [ "4200 ÷ (1 + 40％)" ],
+                    [ "= 4200 ÷ 1.4" ],
+                    [ "= 3000" ],
+                    [ "" ],
+                    [ "4200 - 3000 = 1200" ],
+                    [ "答 : 1200 元" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "C" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "B" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "B" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

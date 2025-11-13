@@ -1,0 +1,149 @@
+[
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "苔", "黃", "蛋", "細", "蔬", 
+          "胖", "蘿", "蔔", "哪", "淡",
+          "淡", "飄", "名"
+        ],
+        "zhuyin": [
+          ["ㄊㄞˊ"], ["ㄏㄨㄤˊ"], ["ㄉㄢˋ"], ["ㄒㄧˋ"], ["ㄕㄨ"], 
+          ["ㄆㄤˋ"], ["ㄌㄨㄛˊ"], ["˙ㄅㄛ"],  ["˙ㄋㄚ"], ["ㄉㄢˋ"],
+          ["ㄉㄢˋ"], ["ㄆㄧㄠ"], ["ㄇㄧㄥˊ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "蒸", "粒", "粒", "黏", "浴",
+          "沖", "澡", "涼", "熱", "通", "通"
+        ],
+        "zhuyin": [
+          ["ㄓㄥ"], ["ㄌㄧˋ"], ["ㄌㄧˋ"], ["ㄋㄧㄢˊ"], ["ㄩˋ"],
+          ["ㄔㄨㄥ"], ["ㄗㄠˇ"], ["ㄌㄧㄤˊ"], ["ㄖㄜˋ"], ["ㄊㄨㄥ"], ["ㄊㄨㄥ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先組成國字，並在句子中填入正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "京 + 氵 = 涼", "中 + 氵 = 沖"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "涼", "沖"
+        ]
+       },
+       {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "北 + 月 = 背", "半 + 月 = 胖"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "背", "胖"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "台 + 艹 = 苔", "疏 + 艹 = 蔬"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "蔬", "苔"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、 完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "淡淡的香氣"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "棉花糖", "我吃了一顆軟軟的棉花糖，感到非常快樂。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、閱讀小偵探",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "壽司"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 海苔", "✓ 小黃瓜", "✓ 米飯", "✓ 蛋皮", "✓ 紅蘿蔔"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 米粒變成飯"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "這是一個家庭一起參與的特別時刻，讓大家感到親密和團結。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、讀一讀短文，並在運用「想像」的句子旁邊畫線",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "味道像少了甜味的蜂蜜", "蛋黃看起來像陽光，蛋白看起來像白雲"
+        ]
+      }
+    ]
+  }
+]

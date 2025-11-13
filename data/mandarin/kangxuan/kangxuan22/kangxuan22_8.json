@@ -1,0 +1,131 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "羊", "經", "顧", "怪", "傳",
+          "鴕", "狗", "嚇", "睛", "仔",
+          "細", "雞", "議", "鴨", "忍",
+          "住", "錯", "能", "信", "消"
+        ],
+        "zhuyin": [
+          ["ㄧㄤˊ"], ["ㄐㄧㄥ"], ["ㄍㄨˋ"], ["ㄍㄨㄞˋ"], ["ㄔㄨㄢˊ"],
+          ["ㄊㄨㄛˊ"], ["ㄍㄡˇ"], ["ㄒㄧㄚˋ"], ["ㄐㄧㄥ"], ["ㄗˇ"],
+          ["ㄒㄧˋ"], ["ㄐㄧ"], ["ㄧˋ"], ["ㄧㄚ"], ["ㄖㄣˇ"],
+          ["ㄓㄨˋ"], ["ㄘㄨㄛˋ"], ["ㄋㄥˊ"], ["ㄒㄧㄣˋ"], ["ㄒㄧㄠ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，圈出正確的國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "ㄓㄨㄢˋ", "ㄔㄨㄢˊ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "鴉", "鴨"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "住", "往"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，組成正確的句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "4", "3", "2", "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3", "2", "1", "4"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，推測動物個性",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 膽小"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 熱情"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "風箏", "可以飛到高高的天上了"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      }
+    ]
+  }
+]

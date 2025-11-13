@@ -1,0 +1,111 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "暮", "霞", "映", "泰", "勉",
+          "和", "廣", "都", "市", "茫", 
+          "茫", "躍"
+        ],
+        "zhuyin": [
+          ["ㄇㄨˋ"], ["ㄒㄧㄚˊ"], ["ㄧㄥˋ"], ["ㄊㄞˋ"], ["ㄇㄧㄢˇ"],
+          ["ㄏㄢˋ"], ["ㄍㄨㄤˇ"], ["ㄉㄨ"], ["ㄕˋ"], ["ㄇㄤˊ"],
+          ["ㄇㄤˊ"], ["ㄩㄝˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "耀", "銀", "都", "染", "金", 
+          "媚", "祥", "和", "蘚", "松", 
+          "緣"
+        ],
+        "zhuyin": [
+          ["ㄧㄠˋ"], ["ㄧㄣˊ"], ["ㄉㄡ"], ["ㄖㄢˇ"], ["ㄐㄧㄣ"], 
+          ["ㄇㄟˋ"], ["ㄒㄧㄤˊ"], ["ㄏㄜˊ"], ["ㄒㄧㄢˇ"], ["ㄙㄨㄥ"], 
+          ["ㄩㄢˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出不適當語詞，並填入正確的",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "歡迎", "歡躍"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "廣布", "廣大"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "迷茫", "茫茫"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "柔軟", "柔媚"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、詩歌仿寫",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "小小", "茂盛", "溪流", "點亮", "閃爍", "調皮"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "紅", "黃", "藍"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "因秋天會染紅了雲霞、把大地變成豐收景像的黃與把天空變成無限寬廣的藍"
+        ]
+      }
+    ]
+  }
+]

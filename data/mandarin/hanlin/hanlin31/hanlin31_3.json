@@ -1,0 +1,135 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "鐘", "匆", "匆", "因", "此",
+          "文", "具", "本", "準", "備",
+          "餘", "況"
+        ],
+        "zhuyin": [
+          ["ㄓㄨㄥ"], ["ㄘㄨㄥ"], ["ㄘㄨㄥ"], ["ㄧㄣ"], ["ㄘˇ"],
+          ["ㄨㄣˊ"], ["ㄐㄩˋ"], ["ㄅㄣˇ"], ["ㄓㄨㄣˇ"], ["ㄅㄟˋ"],
+          ["ㄩˊ"], ["ㄎㄨㄤˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "角", "覺", "得", "票", "睡",
+          "板"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄠˇ"], ["ㄐㄩㄝˊ"], ["ㄉㄜˊ"], ["ㄆㄧㄠˋ"], ["ㄕㄨㄟˋ"],
+          ["ㄅㄢˇ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 書包", "✓ 校園", "✓ 櫻花", "✓ 水彩"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、選詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "壯壯",
+        "category": "vocabulary",
+        "answers": [
+          "總是"
+        ]
+      },
+      {
+        "title": "小安",
+        "category": "vocabulary",
+        "answers": [
+          "常常"
+        ]
+      },
+      {
+        "title": "美美",
+        "category": "vocabulary",
+        "answers": [
+          "有時"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、連一連",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"5", "4", "3", "2", "1"
+          	],
+          	[
+            	"", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 0 ],
+          		[ 0 ],
+          		[ 1 ],
+          		[ 1 ],
+          		[ 0 ]
+          		
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 買米", "✓ 掃落葉", "✓ 打獵", "✓ 拿水喝", "✓ 找朋友借錢"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      }
+    ]
+  }
+]

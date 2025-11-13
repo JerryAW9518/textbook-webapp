@@ -1,0 +1,166 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "連", "軟", "軟", "紗", "陷",
+          "涼", "垂", "舒", "覺", "股",
+          "味", "撐", "簷", "披", "踩",
+          "溝", "摺", "順"
+        ],
+        "zhuyin": [
+          ["ㄌㄧㄢˊ"], ["ㄖㄨㄢˇ"], ["ㄖㄨㄢˇ"], ["ㄕㄚ"], ["ㄒㄧㄢˋ"],
+          ["ㄌㄧㄤˊ"], ["ㄔㄨㄟˊ"], ["ㄕㄨ"], ["ㄐㄩㄝˊ"], ["ㄍㄨˇ"],
+          ["ㄨㄟˋ"], ["ㄔㄥ"], ["ㄧㄢˊ"], ["ㄆㄧ"], ["ㄘㄞˇ"],
+          ["ㄍㄡ"], ["ㄓㄜˊ"], ["ㄕㄨㄣˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先組成國字再寫注音，並在句子裡填入適當的詞語。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "采",
+        "category": "vocabulary",
+        "answers": [
+          "踩"
+        ]
+      },
+      {
+        "title": "易",
+        "category": "vocabulary",
+        "answers": [
+          "踢"
+        ]
+      },
+      {
+        "title": "包",
+        "category": "vocabulary",
+        "answers": [
+          "跑"
+        ]
+      },
+      {
+        "title": "兆",
+        "category": "vocabulary",
+        "answers": [
+          "跳"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "跑步", "跳舞", "踩踏", "踢球"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "選擇適合詞語，加入短句裡，將句子寫得更完整",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "弟弟在商店裡看到各式各樣的玩具，感到非常開心。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "公園裡五顏六色的花朵，使公園變得好美麗。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "事件一",
+        "category": "vocabulary",
+        "answers": [
+          "窗口", "雨景"
+        ]
+      },
+      {
+        "title": "事件二",
+        "category": "vocabulary",
+        "answers": [
+          "屋簷下"
+        ]
+      },
+      {
+        "title": "事件三",
+        "category": "vocabulary",
+        "answers": [
+          "外面"
+        ]
+      },
+      {
+        "title": "事件四",
+        "category": "vocabulary",
+        "answers": [
+          "在雨中探險"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先觀察情境圖，再填入適當的感官或觀察描寫。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "耳朵"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "香噴噴"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "手", "毛絨絨的觸感，摸起來真是令人舒服。"
+        ]
+      }
+    ]
+  }
+]

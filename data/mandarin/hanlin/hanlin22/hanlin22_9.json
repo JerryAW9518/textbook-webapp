@@ -1,0 +1,125 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "魔", "棒", "神", "調", "幾",
+          "消", "將", "藍", "紙", "橙",
+          "盤", "配", "顏", "虹", "呵",
+          "難"
+        ],
+        "zhuyin": [
+          ["ㄇㄛˊ"], ["ㄅㄤˋ"], ["ㄕㄣˊ"], ["ㄊㄧㄠˊ"], ["ㄐㄧˇ"],
+          ["ㄒㄧㄠ"], ["ㄐㄧㄤ"], ["ㄌㄢˊ"], ["ㄓˇ"], ["ㄔㄥˊ"],
+          ["ㄆㄢˊ"], ["ㄆㄟˋ"], ["ㄧㄢˊ"], ["ㄏㄨㄥˊ"], ["ㄛ"],
+          ["ㄋㄢˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈出正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "己", "已"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "轉", "傳"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "橙", "燈"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、相同打Ｏ，不同打Ｘ",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "新買了一件衣服"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "為了參加自行車比賽", "每天反覆練習"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      }
+    ]
+  }
+]

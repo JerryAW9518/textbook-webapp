@@ -1,0 +1,125 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "季", "燦", "喚", "苗", "呷",
+          "甲", "巡", "禾",
+          "穗"
+        ],
+        "zhuyin": [
+          ["ㄐㄧˋ"], ["ㄘㄢˋ"], ["ㄏㄨㄢˋ"], ["ㄇㄧㄠˊ"], ["ㄒㄧㄚˊ"],
+          ["ㄐㄧㄚˇ"], ["ㄒㄩㄣˊ"], ["ㄏㄜˊ"],
+          ["ㄙㄨㄟˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先寫注音，再填入正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "甲 ㄐㄧㄚˇ", "申 ㄕㄣ", "申", "甲"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "田 ㄊㄧㄢˊ", "由 ㄧㄡˊ", "田", "由"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "喚 ㄏㄨㄢˋ", "換 ㄏㄨㄢˋ", "喚", "換"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、讀一讀再完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "飛過去", "看", "看", "找", "找"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "盪過來", "盪過去", "搖", "搖", "晃", "晃"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "作者經由文字 苗➝禾➝稻➝穗 描寫稻米的生長過程與鴨子這過程中所擔負的任務。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、請按文意順序排列句子",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "弟弟第一次上電扶梯", "這裡的樓梯好乖呵!", "動都不動，太懶了"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "帶我走的樓梯"
+        ]
+      }
+    ]
+  }
+]
+	

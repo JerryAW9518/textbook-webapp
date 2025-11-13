@@ -1,0 +1,111 @@
+[
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "蒲", "颱", "狂", "掃",  "籃",
+          "螞", "蟻", "砂", "梳", "脆", 
+          "擇"
+        ],
+        "zhuyin": [
+          ["ㄆㄨˊ"], ["ㄊㄞˊ"], ["ㄎㄨㄤˊ"], ["ㄙㄠˇ"], ["ㄌㄢˊ"],
+          ["ㄇㄚˇ"], ["ㄧˇ"], ["ㄕㄚ"], ["ㄕㄨ"], ["ㄘㄨㄟˋ"], 
+          ["ㄗㄜˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "別再玩了，該休息一下了。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "滴滴答答"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "屋頂對著大雨說: 「請不要再這麼猛烈地落下，我有點吃不消了！」"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③", "✓ ④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ③", "✓ ④"
+        ]
+      },
+      {
+        "title": "6",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ②", "✓ ④", "✓ ⑤"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "title": "看圖連一連",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	 "2", "1", "例"
+          	],
+          	[
+            	"", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 0 ],
+          		[ 2 ],
+          		[ 1 ]
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "圈出正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "走"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "在"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "左"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "起", "在"
+        ],
+        "zhuyin": [
+          ["ㄑㄧˇ"], ["ㄗㄞˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "我", "和", "你", "左"
+        ],
+        "zhuyin": [
+          ["ㄨㄛˇ"], ["ㄏㄢˋ"], ["ㄋㄧˇ"], ["ㄗㄨㄛˇ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "走", "右"
+        ],
+        "zhuyin": [
+          ["ㄗㄡˇ"], ["ㄧㄡˋ"]
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "向", "前"
+        ],
+        "zhuyin": [
+          ["ㄒㄧㄤˋ"], ["ㄑㄧㄢˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、先看圖，把「左、右、前」填入內，再念一念。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "左", "右", "前"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、看圖寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "哥哥", "弟弟", "玩拼圖"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "奶奶", "妹妹", "看書"
+        ]
+      }
+    ]
+  }
+]

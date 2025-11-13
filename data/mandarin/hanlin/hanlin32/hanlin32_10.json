@@ -1,0 +1,181 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "員", "揮", "瞪", "呆"
+        ],
+        "zhuyin": [
+          ["ㄩㄢˊ"], ["ㄏㄨㄟ"], ["ㄉㄥˋ"], ["ㄉㄞ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "幅", "圖", "鯨", "瞧", "蛇"
+        ],
+        "zhuyin": [
+          ["ㄈㄨˊ"], ["ㄊㄨˊ"], ["ㄐㄧㄥ"], ["ㄑㄧㄠˊ"], ["ㄕㄜˊ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "寵", "胃", "拇", "既"
+        ],
+        "zhuyin": [
+          ["ㄔㄨㄥˇ"], ["ㄨㄟˋ"], ["ㄇㄨˇ"], ["ㄐㄧˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、從課文找出適當的動作敘述",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "目瞪口呆"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "豎起大拇指"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "抓了抓頭"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "瞧了又瞧"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、連一連",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", ""
+          	],
+          	[
+              "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1,2 ],
+              [ 0,3 ]
+            ]
+          ]
+        }
+      }       
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "不會寫", "請老師再教一次。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "感覺熱", "把電風扇打開"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "既然下雨了，我們就留在家看電視吧！"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、讀一讀，填入適當的",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "早上",
+        "category": "vocabulary",
+        "answers": [
+          "一個圓麵包"
+        ]
+      },
+      {
+        "title": "中午",
+        "category": "vocabulary",
+        "answers": [
+          "一塊餅乾"
+        ]
+      },
+      {
+        "title": "晚上",
+        "category": "vocabulary",
+        "answers": [
+          "一塊三明治", "味道可口", "像座山", "很開心"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、根據聆聽內容回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 飛行員：你猜我畫的是什麼？..."
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 飛行員"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "飛行員畫了一幅看起來像帽子的圖給小王子看，並且期待著他的反應。飛行員帶著半信半疑的神情注視著小王子。"
+        ]
+      }
+    ]
+  }
+]

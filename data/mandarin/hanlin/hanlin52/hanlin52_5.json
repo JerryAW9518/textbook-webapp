@@ -1,0 +1,153 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "幼", "灌", "肉", "裕", "囑",
+          "咐", "慎", "末", "阻", "礙"
+        ],
+        "zhuyin": [
+          ["ㄧㄡˋ"], ["ㄍㄨㄢˋ"], ["ㄖㄡˋ"], ["ㄩˋ"], ["ㄓㄨˇ"],
+          ["ㄈㄨˋ"], ["ㄕㄣˋ"], ["ㄇㄛˋ"], ["ㄗㄨˇ"], ["ㄞˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、字形練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "憂",
+        "category": "vocabulary",
+        "answers": ["ㄧㄡ", "擔憂"]
+      },
+      {
+        "title": "富",
+        "category": "vocabulary",
+        "answers": ["ㄈㄨˋ", "富翁"]
+      },
+      {
+        "title": "福",
+        "category": "vocabulary",
+        "answers": ["ㄈㄨˊ", "福氣"]
+      },
+      {
+        "title": "鄰",
+        "category": "vocabulary",
+        "answers": ["ㄌㄧㄣˊ", "鄰居"]
+      },
+      {
+        "title": "憐",
+        "category": "vocabulary",
+        "answers": ["ㄌㄧㄢˊ", "可憐"]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["優", "憂", "鄰", "富", "福", "憐"]
+      }
+    ]
+  },
+  {
+    "title": "三、圈出誤用的語詞，並填入課文中適當的語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["指責", "囑咐"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["供奉", "奉獻"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["優秀", "優勢"]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["可惜", "可憐"]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": ["重要", "慎重"]
+      },
+      {
+        "title": "6",
+        "category": "vocabulary",
+        "answers": ["險阻", "攔阻"]
+      }
+    ]
+  },
+  {
+    "title": "四、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "只要你有足夠的信心和毅力，都可以克服任何困難。",
+          "只要你擁有堅定的信念，都可以戰勝生活中的種種挑戰。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "在漆黑的夜晚，月光照耀著大地，於是我想像著自己飛翔在星空中，自由自在地舞動著翅膀。",
+          "在大雨中迷失了方向，於是我想像自己是一隻勇敢的探險家，尋找著回家的路。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["✓ 希望他能體會自己是幸運的"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["✓ 成長在富裕的環境"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["作者認為只要覺得自己很幸福，就可以加入去非洲服務的工作。"]
+      },
+      {
+        "title": "主角",
+        "category": "vocabulary",
+        "answers": ["連加恩"]
+      },
+      {
+        "title": "表達愛的對象",
+        "category": "vocabulary",
+        "answers": ["臺灣的重殘兒童", "連加恩的兒子"]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "滿修女和連加恩都以積極的態度、善良的品德和無私的精神幫助他人。他們深受尊敬和愛戴，成為激勵他人的榜樣。"
+        ]
+      }
+    ]
+  }
+]

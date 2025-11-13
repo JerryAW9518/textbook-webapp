@@ -1,0 +1,149 @@
+[
+  {
+    "title": "一、連一連",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 3,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 1 ],
+              [ 2 ],
+              [ 0 ]
+            ],
+            [
+            	[ 0 ],
+              [ 1 ],
+              [ 2 ]
+            ]
+          ]
+        }
+      }      
+    ]
+  },
+  {
+    "title": "二、圈出句子中有心的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "愛", "慢慢"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "快", "忍"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "心", "忘"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "樂", "唱", "歌", "魚", "苗",
+          "稻", "街", "雨", "河", "愛",
+          "輕", "快", "朋", "友", "招",
+          "手", "興", "過"
+        ],
+        "zhuyin": [
+          ["ㄌㄜˋ"], ["ㄔㄤˋ"], ["ㄍㄜ"], ["ㄩˊ"], ["ㄇㄧㄠˊ"],
+          ["ㄉㄠˋ"], ["ㄐㄧㄝ"], ["ㄩˇ"], ["ㄏㄜˊ"], ["ㄞˋ"],
+          ["ㄑㄧㄥ"], ["ㄎㄨㄞˋ"], ["ㄆㄥˊ"], ["ㄧㄡˇ"], ["ㄓㄠ"], 
+          ["ㄕㄡˇ"], ["ㄒㄧㄥˋ"], ["ㄍㄨㄛˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 流水聲"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、照樣寫短語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "樹上"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "魚群"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "天空", "雲朵"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、寫出適當的聲音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "ㄨㄤ  ㄨㄤ  ㄨㄤ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "ㄅㄚ  ㄅㄚ  ㄅㄚ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "ㄉㄧㄥ  ㄉㄧㄥ  ㄉㄧㄥ"
+        ]
+      }
+    ]
+  }
+]

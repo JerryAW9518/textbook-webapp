@@ -1,0 +1,100 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "趟", "途", "選", "緩", "透",
+          "捉", "劃", "似", "眺", "秀",
+          "舒"
+        ],
+        "zhuyin": [
+          ["ㄊㄤˋ"], ["ㄊㄨˊ"], ["ㄒㄩㄢˇ"], ["ㄏㄨㄢˇ"], ["ㄊㄡˋ"],
+          ["ㄓㄨㄛ"], ["ㄏㄨㄚˊ"], ["ㄙˋ"], ["ㄊㄧㄠˋ"], ["ㄒㄧㄡˋ"],
+          ["ㄕㄨ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "野", "柔", "霧"
+        ],
+        "zhuyin": [
+          ["ㄧㄝˇ"], ["ㄖㄡˊ"], ["ㄨˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、語詞練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "遊山玩水", "青山綠水", "跋山涉水", "山明水秀"
+        ],
+        "note": "➝ 描述美景四字語詞"
+      }
+    ]
+  },
+  {
+    "title": "三、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "旅行", "能讓分散各地的家人團圓", "能分享生活經驗", "增進彼此間的感情"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "自備環保餐具不僅能減少一次性垃圾，也能節省資源，更能培養愛護環境的好習慣。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "地圖可以幫助閱讀者更好地理解文章提到的地點和情境，提供視覺輔助，使文章內容更生動具體。"
+        ]
+      }
+    ]
+  }
+]

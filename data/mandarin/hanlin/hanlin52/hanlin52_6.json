@@ -1,0 +1,147 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "蓆", "愉", "鬼", "猛", "嗅",
+          "瀰", "暫", "耍", "索", "煞",
+          "肅", "聯", "絡", "簿", "否"
+        ],
+        "zhuyin": [
+          ["ㄒㄧˊ"], ["ㄩˊ"], ["ㄍㄨㄟˇ"], ["ㄇㄥˇ"], ["ㄒㄧㄡˋ"],
+          ["ㄇㄧˊ"], ["ㄓㄢˋ"], ["ㄕㄨㄚˇ"], ["ㄙㄨㄛˇ"], ["ㄕㄚˋ"],
+          ["ㄙㄨˋ"], ["ㄌㄧㄢˊ"], ["ㄌㄨㄛˋ"], ["ㄅㄨˋ"], ["ㄈㄡˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、填入正確的讀音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": ["覺", "覺"],
+        "zhuyin": [["ㄐㄩㄝˊ"], ["ㄐㄩㄝˊ"]]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["Ｏ"]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": ["悶", "悶"],
+        "zhuyin": [["ㄇㄣˋ"], ["ㄇㄣ"]]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["Ｘ"]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": ["否", "否"],
+        "zhuyin": [["ㄆㄧˇ"], ["ㄈㄡˇ"]]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["Ｘ"]
+      },
+      {
+        "title": "4",
+        "category": "vocabularyZhuyin",
+        "answers": ["煞", "煞"],
+        "zhuyin": [["ㄕㄚˋ"], ["ㄕㄚˋ"]]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["Ｏ"]
+      }
+    ]
+  },
+  {
+    "title": "三、選詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["連"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": ["於是"]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": ["只要", "都"]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": ["不僅", "更"]
+      }
+    ]
+  },
+  {
+    "title": "四、標點符號練習",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["：", "、", "、", "；", "；", "；", "；", "；"]
+      }
+    ]
+  },
+  {
+    "title": "五、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": ["✓ 能和父親一起聊天", "✓ 童年時期哥哥說故事給她聽"]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "作者認為「草蓆上的茶葉香，屋子裡的鳳梨香，都是幸福的味道」，因為它們勾起了家庭中美好的回憶和幸福的情感。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "幸福的味道需要嗅覺靈敏的鼻子才能感受到，因為在課文中，家庭的美好時光通常伴隨著特殊的香味，如茶葉香和鳳梨香，這些需要敏銳的嗅覺才能真正體會到。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": ["略"]
+      }
+    ]
+  }
+]

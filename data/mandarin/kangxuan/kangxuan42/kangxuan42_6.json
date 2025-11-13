@@ -1,0 +1,158 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "彎", "狹", "窄", "芬", "芳",
+          "喻", "曉", "磚", "井", "葫",
+          "蘆", "拌", "繁", "昂", "插"
+        ],
+        "zhuyin": [
+          ["ㄨㄢ"], ["ㄒㄧㄚˊ"], ["ㄓㄞˇ"], ["ㄈㄣ"], ["ㄈㄤ"],
+          ["ㄩˋ"], ["ㄒㄧㄠˇ"], ["ㄓㄨㄢ"], ["ㄐㄧㄥˇ"], ["ㄏㄨˊ"],
+          ["˙ㄌㄨ"], ["ㄅㄢˋ"], ["ㄈㄢˊ"], ["ㄤˊ"], ["ㄔㄚ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ④"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據線索，推測詞義。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ①", "✓ ③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②", "✓ ④"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "參考例句，再完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②", "①", "擁有豐富的營養", "也很美味"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "規律的作息不但能養成良好習慣，也能讓自己的思律更清楚。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "依據提示，介紹食物，再說一說",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "介紹",
+        "category": "vocabulary",
+        "answers": [
+          "珍珠奶茶"
+        ]
+      },
+      {
+        "title": "原因",
+        "category": "vocabulary",
+        "answers": [
+          "珍珠奶茶是臺灣特有的飲料。"
+        ]
+      },
+      {
+        "title": "特點",
+        "category": "vocabulary",
+        "answers": [
+          "材料簡單，有珍珠、牛奶和紅茶", "珍珠顏色有黑有白，也可以加入不同的配料如愛玉、蒟蒻、椰果。",
+          "口感Q彈，香氣十足。"
+        ]
+      },
+      {
+        "title": "感受",
+        "category": "vocabulary",
+        "answers": [
+          "喝完後常意猶未盡，想一杯接一杯喝"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓①", "✓③", "✓④"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓①", "✓②", "✓③"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓①", "✓②", "✓④"
+        ]
+      }
+    ]
+  }
+]

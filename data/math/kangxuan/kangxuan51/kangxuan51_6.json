@@ -1,0 +1,687 @@
+[
+  {
+    "title": "6-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "=\\frac{14}{21} + \\frac{15}{21}" ],
+                    [ "=\\frac{29}{21}" ],
+                    [ "=1\\frac{8}{21}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "=\\frac{1}{3} + \\frac{16}{15}" ],
+                    [ "=\\frac{5}{15} +\\frac{16}{15}" ],
+                    [ "=\\frac{21}{15}" ],
+                    [ "=1\\frac{6}{15}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "=\\frac{9}{14} + \\frac{2}{7}" ],
+                    [ "=\\frac{9}{14} + \\frac{4}{14}" ],
+                    [ "=\\frac{13}{14}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{3}{4} + \\frac{2}{5}" ],
+                    [ "=\\frac{15}{20} + \\frac{8}{20}" ],
+                    [ "=\\frac{23}{20}"],
+                    [ "=1\\frac{3}{20}"],
+                    [ "答 : 1\\frac{3}{20}個"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{3}{20} + \\frac{9}{15}" ],
+                    [ "=\\frac{3}{20} + \\frac{3}{5}" ],
+                    [ "=\\frac{3}{20} + \\frac{12}{20}"],
+                    [ "=\\frac{15}{20}"],
+                    [ "答 : \\frac{15}{20}公升"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "1\\frac{2}{9} + \\frac{13}{6}" ],
+                    [ "=1\\frac{2}{9} + 2\\frac{1}{6}" ],
+                    [ "=1\\frac{4}{18} + 2\\frac{3}{18}"],
+                    [ "=3\\frac{7}{18}"],
+                    [ "答 : 3\\frac{7}{18}公里"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "2\\frac{5}{8} + 1\\frac{3}{12}" ],
+                    [ "=2\\frac{5}{8} + 1\\frac{1}{4}" ],
+                    [ "=2\\frac{5}{8} + 1\\frac{2}{8}"],
+                    [ "=3\\frac{7}{8}"],
+                    [ "答 : 3\\frac{7}{8}公里"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{11}{8} + 1\\frac{5}{6}" ],
+                    [ "=1\\frac{3}{8} + 1\\frac{5}{6}" ],
+                    [ "=1\\frac{9}{24} + 1\\frac{20}{24}"],
+                    [ "=2\\frac{29}{24}"],
+                    [ "答 : 3\\frac{5}{24}公尺"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "1\\frac{3}{10} + 1\\frac{6}{16}" ],
+                    [ "=1\\frac{3}{10} + 1\\frac{3}{8}" ],
+                    [ "=1\\frac{12}{40} + 1\\frac{15}{40}"],
+                    [ "=2\\frac{27}{40}"],
+                    [ "答 : 2\\frac{27}{40}公斤"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "6-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "=\\frac{5}{6}-\\frac{2}{3}" ],
+                    [ "=\\frac{5}{6}-\\frac{4}{6}" ],
+                    [ "=\\frac{1}{6}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "=\\frac{21}{20}-\\frac{3}{5}" ],
+                    [ "=\\frac{21}{20}-\\frac{12}{20}" ],
+                    [ "=\\frac{9}{20}"] 
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "=\\frac{13}{11}-\\frac{12}{11}" ],
+                    [ "=\\frac{1}{11}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{9}{10}-\\frac{3}{15}" ],
+                    [ "=\\frac{9}{10}-\\frac{1}{5}" ],
+                    [ "=\\frac{9}{10}-\\frac{2}{10}" ],
+                    [ "=\\frac{7}{10}" ],
+                    [ "答:\\frac{7}{10}公斤" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{12}{8}-\\frac{14}{20}" ],
+                    [ "=\\frac{3}{2}-\\frac{7}{10}" ],
+                    [ "=\\frac{15}{10}-\\frac{7}{10}" ],
+                    [ "=\\frac{8}{10}" ],
+                    [ "答:\\frac{8}{10}公升" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "6\\frac{1}{2}-\\frac{28}{5}" ],
+                    [ "=6\\frac{1}{2}-5\\frac{3}{5}" ],
+                    [ "=6\\frac{5}{10}-5\\frac{6}{10}" ],
+                    [ "=5\\frac{15}{10}-5\\frac{6}{10}" ],
+                    [ "=\\frac{9}{10}" ],
+                    [ "答:\\frac{9}{10}公升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "7\\frac{3}{8}-4\\frac{9}{10}" ],
+                    [ "=7\\frac{15}{40}-4\\frac{36}{40}" ],
+                    [ "=6\\frac{55}{40}-4\\frac{36}{40}" ],
+                    [ "=2\\frac{19}{40}" ],
+                    [ "答:2\\frac{19}{40}公升" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{19}{16}-1\\frac{1}{20}" ],
+                    [ "=1\\frac{3}{16}-1\\frac{1}{20}" ],
+                    [ "=1\\frac{15}{80}-1\\frac{4}{80}" ],
+                    [ "=\\frac{11}{80}" ],
+                    [ "答:\\frac{11}{80}公里" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "5\\frac{1}{4}-3\\frac{7}{10}" ],
+                    [ "=5\\frac{5}{20}-3\\frac{14}{20}" ],
+                    [ "=4\\frac{25}{20}-3\\frac{14}{20}" ],
+                    [ "=1\\frac{11}{20}" ],
+                    [ "答:1\\frac{11}{20}公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "6-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "1\\frac{4}{10}+1\\frac{7}{25}" ],
+                    [ "=1\\frac{2}{5}+1\\frac{7}{25}" ],
+                    [ "=1\\frac{10}{25}+1\\frac{7}{25}"],
+                    [ "=2\\frac{17}{25}" ],
+                    [ "答:2\\frac{17}{25}公升" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "4\\frac{3}{10}+\\frac{10}{4}" ],
+                    [ "=4\\frac{3}{10}+\\frac{5}{2}" ],
+                    [ "=4\\frac{3}{10}+2\\frac{1}{2}" ],
+                    [ "=4\\frac{3}{10}+2\\frac{5}{10}" ],
+                    [ "=6\\frac{8}{10} " ],
+                    [ "答:6\\frac{8}{10}公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "3\\frac{16}{20}-\\frac{15}{30}" ],
+                    [ "=3\\frac{4}{5}-\\frac{1}{2}" ],
+                    [ "=3\\frac{8}{10}-\\frac{5}{10}" ],
+                    [ "=3\\frac{3}{10}" ],
+                    [ "答:3\\frac{3}{10}公斤" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "14 ÷ 9 = \\frac{14}{9} = 1\\frac{5}{9}" ],
+                    [ "7 ÷ 15 = \\frac{7}{15}" ],
+                    [ "答:白米:1\\frac{5}{9}公斤" ],
+                    [ "糯米:\\frac{7}{15}公斤" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "1\\frac{5}{9}-\\frac{7}{15}" ],
+                    [ "=1\\frac{25}{45}-\\frac{21}{45}" ],
+                    [ "=1\\frac{4}{45}" ],
+                    [ "答:1\\frac{4}{45}公斤" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{6}{5}+\\frac{1}{5}" ],
+                    [ "=\\frac{7}{5}" ],
+                    [ "\\frac{9}{10} + \\frac{7}{5}" ],
+                    [ "=\\frac{9}{10}+\\frac{14}{10}" ],
+                    [ "=\\frac{23}{10}" ],
+                    [ "=2\\frac{3}{10}" ],
+                    [ "答:2\\frac{3}{10}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{6}{5}+\\frac{3}{10}" ],
+                    [ "=\\frac{12}{10}+\\frac{3}{10}" ],
+                    [ "=\\frac{15}{10}" ],
+                    [ "=1\\frac{5}{10}" ],
+                    [ "2\\frac{3}{10}-1\\frac{5}{10}" ],
+                    [ "=1\\frac{13}{10}-1\\frac{5}{10}" ],
+                    [ "=\\frac{8}{10}" ]
+                    
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合練習",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{11}{18} + \\frac{3}{18} = \\frac{14}{18}" ],
+                    [ "\\frac{14}{18} + 1\\frac{2}{9}" ],
+                    [ "=\\frac{14}{18} + 1\\frac{4}{18}" ],
+                    [ "=1\\frac{18}{18}" ],
+                    [ "= 2"]
+                    
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{11}{18} + \\frac{1}{18} = \\frac{12}{18}" ],
+                    [ "2 - \\frac{12}{18}" ],
+                    [ "= 1\\frac{18}{18}- \\frac{12}{18}" ],
+                    [ "= 1\\frac{6}{18}" ],
+                    [ "答:1\\frac{6}{18}"]
+                    
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "1\\frac{2}{9} + \\frac{1}{18}" ],
+                    [ "=1\\frac{4}{18}+\\frac{1}{18}" ],
+                    [ "=1\\frac{5}{18}" ],
+                    [ "2-1\\frac{5}{18}" ],
+                    [ "=1\\frac{18}{18}-1\\frac{5}{18}" ],
+                    [ "=\\frac{13}{18}" ],
+                    [ "答:\\frac{13}{18}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "豆豆",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "3\\frac{3}{8}+1\\frac{9}{10}" ],
+                    [ "=3\\frac{15}{40}+1\\frac{36}{40}" ],
+                    [ "=4\\frac{51}{40}" ],
+                    [ "=5\\frac{11}{40}" ],
+                    [ "答:5\\frac{11}{40}公升"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "9\\frac{3}{8} - \\frac{27}{12}" ],
+                    [ "=9\\frac{3}{8}-\\frac{9}{4}" ],
+                    [ "=9\\frac{3}{8}-2\\frac{1}{4}"],
+                    [ "=9\\frac{3}{8}-2\\frac{2}{8}"],
+                    [ "=7\\frac{1}{8}" ],
+                    [ "答:7\\frac{1}{8}平方公尺"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "tex": [
+                    [ "\\frac{20}{8}-\\frac{3}{20}" ],
+                    [ "=\\frac{5}{2}-\\frac{3}{20}" ],
+                    [ "=\\frac{50}{20}-\\frac{3}{20}" ],
+                    [ "=\\frac{47}{20}" ],
+                    [ "=2\\frac{7}{20}" ],
+                    [ "答:2\\frac{7}{20}公斤"]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "合計"
+                    ],
+                    [
+                      "2340"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "1070 + 580 + 640 + 50 = 2340" ],
+                    [ "北部" ],
+                    [ "1070 ÷ 2340 = 0.457" ],
+                    [ "≈ 0.46  = 46％" ],
+                    [ "中部" ],
+                    [ "580 ÷ 2340 = 0.247" ],
+                    [ "≈ 0.25 = 25％" ],
+                    [ "南部" ],
+                    [ "640 ÷ 2340 = 0.273" ],
+                    [ "≈ 0.27 = 27％" ],
+                    [ "東部" ],
+                    [ "50 ÷ 2340 = 0.021" ],
+                    [ "≈ 0.02 = 2％" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "圓形圖 略" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "87 × 3 = 261" ],
+                    [ "92 × 2 = 184" ],
+                    [ "(261＋184) ÷ 5 = 89" ],
+                    [ "答 : 89 分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(1)" ],
+                    [ "55 + 5 = 60" ],
+                    [ "60 × 4 = 240" ],
+                    [ "答 : 240 公里" ],
+                    [ "" ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "(2)" ],
+                    [ "55 - 5 = 50" ],
+                    [ "240 ÷ 50 = 4.8" ],
+                    [ "答 : 4.8小時" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

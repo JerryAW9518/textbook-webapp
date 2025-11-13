@@ -1,0 +1,181 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "咬", "餅", "遊", "戲", "剩",
+          "塊", "做", "芝", "麻", "整",
+          "拾", "洗", "澡"
+        ],
+        "zhuyin": [
+          ["ㄧㄠˇ"], ["ㄅㄧㄥˇ"], ["ㄧㄡˊ"], ["ㄒㄧˋ"], ["ㄕㄥˋ"],
+          ["ㄎㄨㄞˋ"], ["ㄗㄨㄛˋ"], ["ㄓ"], ["ㄇㄚˊ"], ["ㄓㄥˇ"],
+          ["ㄕˊ"], ["ㄒㄧˇ"], ["ㄗㄠˇ"]
+        ]
+      },
+      {
+        "title": "動動腦",
+        "category": "vocabulary",
+        "answers": [
+          "和妹妹玩遊戲 ②", "開冰箱拿蛋糕 ③", "咬一口餅乾 ①"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文選出正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 芝麻餅"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 主角做功課用掉一天中的一部分時間"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "checkbox",
+        "extras": {
+          "showValue" : true,
+          "items": [
+            [
+              {
+                "type": "text",
+                "value": "晾衣服",
+                "checked": "cross"
+              },
+              {
+                "type": "text",
+                "value": "上學",
+                "checked": "checked"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "看電視",
+                "checked": "cross"
+              },
+              {
+                "type": "text",
+                "value": "騎車",
+                "checked": "cross"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "value": "整理書包",
+                "checked": "checked"
+              },
+              {
+                "type": "text",
+                "value": "洗澡",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "三、填一填",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "飽"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "跑"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "泡"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "抱"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 魚骨頭"
+        ]
+      },
+      {
+        "title": "造句",
+        "category": "vocabulary",
+        "answers": [
+          "客廳都打掃完了，只剩垃圾還沒倒。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、聽一聽故事，再看圖回答問題。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "小狐狸"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "小狐狸和小兔子並沒有完全按照時間表完成各項活動。雖然他們遵守了時間表上的部分安排，比如起床、吃早餐和幫媽媽送麵包給熊爺爺，但當時間表被風吹走後，小狐狸並沒有追趕時間表，也未按照時間表繼續進行活動。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、練習查字典。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "② ① ④ ③"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "失", "敗", "持", "實", "驗",
+          "費", "已", "料", "終", "功",
+          "製", "造", "宜", "壞", "電",
+          "燈", "買"
+        ],
+        "zhuyin": [
+          ["ㄕ"], ["ㄅㄞˋ"], ["ㄔˊ"], ["ㄕˊ"], ["ㄧㄢˋ"],
+          ["ㄈㄟˋ"], ["ㄧˇ"], ["ㄌㄧㄠˋ"], ["ㄓㄨㄥ"], ["ㄍㄨㄥ"],
+          ["ㄓˋ"], ["ㄗㄠˋ"], ["ㄧˊ"], ["ㄏㄨㄞˋ"], ["ㄉㄧㄢˋ"],
+          ["ㄉㄥ"], ["ㄇㄞˇ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "賣", "貴", "約"
+        ],
+        "zhuyin": [
+          ["ㄇㄞˋ"], ["ㄍㄨㄟˋ"], ["ㄩㄝ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "歲", "燒", "絲"
+        ],
+        "zhuyin": [
+          ["ㄙㄨㄟˋ"], ["ㄕㄠ"], ["ㄙ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、寫出正確讀音，再填入語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "倒", "倒", "便", "便"
+        ],
+        "zhuyin": [
+          ["ㄉㄠˇ"], ["ㄉㄠˋ"], ["ㄆㄧㄢˊ"], ["ㄅㄧㄢˋ"]
+        ]
+      },
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "便當", "倒閉"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "便宜", "倒車"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "例",
+        "category": "vocabulary",
+        "answers": [
+          "反覆的實驗"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "糖加太多", "奶油不夠", "一次又一次調整配方", "烤出美味的餅乾"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "有一次，他拿著竹扇搧風，突然想到可以用竹條當材料，便立刻動手試試看，意外發現竹絲更適合做燈絲，於是從世界各地找來六千多種材料。經過不斷的試驗，終於讓電燈可以用到四十天以上。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "著", "空", "中", "彩", "虹",
+          "鳥", "媽", "媽", "問", "看",
+          "顏", "色"
+        ],
+        "zhuyin": [
+          ["˙ㄓㄜ"], ["ㄎㄨㄥ"], ["ㄓㄨㄥ"], ["ㄘㄞˇ"], ["ㄏㄨㄥˊ"],
+          ["ㄋㄧㄠˇ"], ["ㄇㄚ"], ["˙ㄇㄚ"], ["ㄨㄣˋ"], ["ㄎㄢˋ"],
+          ["ㄧㄢˊ"], ["ㄙㄜˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 橋"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、寫出正確的字音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "問", "開", "們"
+        ],
+        "zhuyin": [
+          ["ㄨㄣˋ"], ["ㄎㄞ"], ["˙ㄇㄣ"]
+        ]
+      },
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "問"
+        ],
+        "zhuyin": [
+          ["ㄨㄣˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "們"
+        ],
+        "zhuyin": [
+          ["˙ㄇㄣ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "開"
+        ],
+        "zhuyin": [
+          ["ㄎㄞ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖照樣寫短語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "地上", "螞蟻"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "海裡", "鯨魚"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "牆上", "貓咪"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、連連看，看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "雨傘 ➝ 藍色"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "青蛙 ➝ 綠色"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "蘋果 ➝ 紅色"
+        ]
+      },
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 2 ],
+              [ 0 ],
+              [ 1 ]
+            ]
+          ]
+        }
+      }    
+    ]
+  },
+  {
+    "title": "五、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "天氣變溫暖，花朵開了。"
+        ]
+      }
+    ]
+  }
+]

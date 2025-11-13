@@ -1,0 +1,149 @@
+[
+  {
+    "title": "一、圈起來",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "北", "月"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "合", "手"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "宀", "豕"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、寫出正確的注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "ㄓㄠ", "˙ㄓㄜ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "ㄏㄨㄢˊ", "ㄏㄞˊ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "˙ㄓㄜ", "ㄏㄞˊ", "ㄏㄨㄢˊ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "每", "跟", "借", "把", "筆",
+          "拿", "剛", "很", "今", "整", 
+          "都", "她", "背", "書", "包",
+          "自", "己", "家"
+            
+        ],
+        "zhuyin": [
+          ["ㄇㄟˇ"], ["ㄍㄣ"], ["ㄐㄧㄝˋ"], ["ㄅㄚˇ"], ["ㄅㄧˇ"], 
+          ["ㄋㄚˊ"], ["ㄍㄤ"], ["ㄏㄣˇ"],  ["ㄐㄧㄣ"], ["ㄓㄥˇ"],
+          ["ㄉㄡ"], ["ㄊㄚ"], ["ㄅㄟ"], ["ㄕㄨ"], ["ㄅㄠ"],
+          ["ㄗˋ"], ["ㄐㄧˇ"], ["ㄐㄧㄚ"]
+        ]
+      },
+      {
+      	"title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      } 
+      
+    ]
+  },
+  {
+    "title": "四、意思相同的畫Ｏ，不同的畫Ｘ",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "Ｏ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "Ｘ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "不想玩球", "不想畫畫"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "要收衣服", "要收鞋子"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "參", "婚", "禮", "互", "敬",
+          "酒", "福", "郎"
+        ],
+        "zhuyin": [
+          ["ㄘㄢ"], ["ㄏㄨㄣ"], ["ㄌㄧˇ"], ["ㄏㄨˋ"], ["ㄐㄧㄥˋ"],
+          ["ㄐㄧㄡˇ"], ["ㄈㄨˊ"], ["ㄌㄤˊ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "結", "束", "舞", "代", "俗",
+          "習"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄝˊ"], ["ㄕㄨˋ"], ["ㄨˇ"], ["ㄉㄞˋ"], ["ㄙㄨˊ"],
+          ["ㄒㄧˊ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "服", "飾", "惜", "藏"
+        ],
+        "zhuyin": [
+          ["ㄈㄨˊ"], ["ㄕˋ"], ["ㄒㄧˊ"], ["ㄘㄤˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、替換語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一一"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "習俗"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "珍惜"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "結束"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1"
+          	],
+          	[
+            	"", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 1 ],
+          		[ 2 ],
+          		[ 0 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "他走上舞台接受了獎項。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      }
+    ]
+  }
+]

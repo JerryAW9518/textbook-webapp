@@ -1,0 +1,161 @@
+[
+  {
+    "title": "部首真有趣",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "粽"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "米", "粉", "粥"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "糖", "糕"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "夢", "自", "己",
+          "變", "成", "漂", "亮", "黑",
+          "鵝", "躺", "棉", "糖",
+          "作", "變",
+          "得", "更"
+        ],
+        "zhuyin": [
+          ["ㄇㄥˋ"], ["ㄗˋ"], ["ㄐㄧˇ"],
+          ["ㄅㄧㄢˋ"], ["ㄔㄥˊ"], ["ㄆㄧㄠˋ"], ["ㄌㄧㄤˋ"], ["ㄏㄟ"],
+          ["ㄜˊ"], ["ㄊㄤˇ"], ["ㄇㄧㄢˊ"], ["ㄊㄤˊ"],
+          ["ㄗㄨㄛˋ"], ["ㄅㄧㄢˋ"],
+          ["˙ㄉㄜ"], ["ㄍㄥˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先填寫正確的國字，再把字圈起來。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "炸", "炸"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "作", "作"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "怎", "怎"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "昨", "昨"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "圈出正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "白", "黑"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "長", "短"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "輕輕", "重重"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "媽媽", "窗戶", "打開了"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "哥哥把飯菜吃光了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      }
+    ]
+  }
+]

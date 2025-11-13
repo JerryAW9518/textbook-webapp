@@ -1,0 +1,152 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "充", "滿", "難", "烏", "雲",
+          "密", "布", "傾", "盆", "颳",
+          "冷", "閃", "電", "候", "躲",
+          "放", "晴", "現", "麗", "虹" 
+        ],
+        "zhuyin": [
+          ["ㄔㄨㄥ"], ["ㄇㄢˇ"], ["ㄋㄢˊ"], ["ㄨ"], ["ㄩㄣˊ"],
+          ["ㄇㄧˋ"], ["ㄅㄨˋ"], ["ㄑㄧㄥ"], ["ㄆㄣˊ"], ["ㄍㄨㄚ"],
+          ["ㄌㄥˇ"], ["ㄕㄢˇ"], ["ㄉㄧㄢˋ"], ["ㄏㄡˋ"], ["ㄉㄨㄛˇ"],
+          ["ㄈㄤˋ"], ["ㄑㄧㄥˊ"], ["ㄒㄧㄢˋ"], ["ㄌㄧˋ"], ["ㄏㄨㄥˊ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 害怕"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、組成國字後，接著造一個語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "冷", "冷水"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "放", "放心"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "現", "現金"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填入適當的心情語詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "生氣"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "高興"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "傷心"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "唱歌", "跳舞"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "一會兒變出手帕", "一會兒變出花朵"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、用指定的語詞造句",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "1",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 3,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1", "例"
+          	],
+          	[
+            	"", "", "", ""
+          	],
+          	[
+            	"", "", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 0 ],
+          		[ 3 ],
+          		[ 1 ],
+          		[ 2 ]
+        		],
+        		[
+          		[ 1 ],
+          		[ 3 ],
+          		[ 0 ],
+          		[ 2 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 開心"
+        ]
+      }
+    ]
+  }
+]

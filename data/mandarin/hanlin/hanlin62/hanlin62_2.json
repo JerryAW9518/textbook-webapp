@@ -1,0 +1,157 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "頤", "初", "嘶", "啞", "嗓",
+          "嚥", "疆", "驢", "盜", "港",
+          "驢", "馱", "衰", "諺"
+        ],
+        "zhuyin": [
+          ["ㄧˊ"], ["ㄔㄨ"], ["ㄙ"], ["ㄧㄚˇ"], ["ㄙㄤˇ"],
+          ["ㄧㄢˋ"], ["ㄐㄧㄤ"], ["ㄌㄩˊ"], ["ㄉㄠˋ"], ["ㄍㄤˇ"],
+          ["ㄌㄩˊ"], ["ㄊㄨㄛˊ"], ["ㄕㄨㄞ"], ["ㄧㄢˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 愛護動物，人人有責。", "", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、字詞練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "(1) ②", "(2) ②", "(3) ①", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "(1) ②", "(2) ①", "(3) ①", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、句子改正",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "採集", "默默無聞"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "他蒐集的眾多珍貴書籍中，有許多是家喻戶曉的世界名著。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "衰落", "忘記"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "雖然祖母的身體逐漸衰老，卻仍惦記著每一個出門在外的子孫。"
+        ]
+      },
+       {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "郊外", "小孩"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "古代鎮守邊疆的士兵，除了要對抗外敵，也要防止當地強盜作亂。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③", "", "", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "甲", "甲", "乙", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略", "", "", "", ""
+        ]
+      }
+    ]
+  }
+]

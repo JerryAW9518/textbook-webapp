@@ -1,0 +1,139 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "除", "鞭", "炮", "煙", "幸"
+        ],
+        "zhuyin": [
+          ["ㄔㄨˊ"], ["ㄅㄧㄢ"], ["ㄆㄠˋ"], ["ㄧㄢ"], ["ㄒㄧㄥˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "廠", "附", "擾", "聯", "檢",
+          "查", "壞", "關", "傅", "修",
+          "零"
+        ],
+        "zhuyin": [
+          ["ㄔㄤˇ"], ["ㄈㄨˋ"], ["ㄖㄠˇ"], ["ㄌㄧㄢˊ"], ["ㄐㄧㄢˇ"],
+          ["ㄔㄚˊ"], ["ㄏㄨㄞˋ"], ["ㄍㄨㄢ"], ["ㄈㄨˋ"], ["ㄒㄧㄡ"],
+          ["ㄌㄧㄥˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、選出適當的說法",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 對不起，可以借過一下嗎?"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 不好意思，能請你借我一枝鉛筆嗎?"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 打擾你們一下，請先聽我說。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填上正確的標點符號",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          ";"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "﹁", "﹂", "...", "..."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、句型練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "這本書除了內容有趣，還有很多名言佳句在裡面。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "事件",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 車子突然壞了"
+        ]
+      },
+      {
+        "title": "時間",
+        "category": "vocabulary",
+        "answers": [
+          "除夕"
+        ]
+      },
+      {
+        "title": "經過",
+        "category": "vocabulary",
+        "answers": [
+          "修車廠", "檢查車子", "吃年夜飯"
+        ]
+      },
+      {
+        "title": "結果",
+        "category": "vocabulary",
+        "answers": [
+          "一路平安"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫作練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

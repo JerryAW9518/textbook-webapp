@@ -1,0 +1,119 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "粉", "團", "至", "變", "黃",
+          "期", "南", "湯", "妹", "妹", "米",
+          "今", "真"
+        ],
+        "zhuyin": [
+          ["ㄈㄣˇ"], ["ㄊㄨㄢˊ"], ["ㄓˋ"], ["ㄅㄧㄢˋ"], ["ㄏㄨㄤˊ"],
+          ["ㄑㄧˊ"], ["ㄋㄢˊ"], ["ㄊㄤ"], ["ㄇㄟˋ"], ["˙ㄇㄟ"], ["ㄇㄧˇ"],
+          ["ㄐㄧㄣ"], ["ㄓㄣ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、依課文選出正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、連一連，填一填",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1"
+          	],
+          	[
+            	"", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 2 ],
+          		[ 0 ],
+          		[ 1 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "農場", "湯圓", "太陽"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "哥哥沒有去學校，因為他感冒了。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "姐姐今天出門時戴著口罩，因為她感冒了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、我會寫日記",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

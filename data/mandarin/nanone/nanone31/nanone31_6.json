@@ -1,0 +1,180 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "灰", "雙", "杯", "溼", "溼",
+          "流", "剪", "幕", "撞", "慌",
+          "透"
+        ],
+        "zhuyin": [
+          ["ㄏㄨㄟ"], ["ㄕㄨㄤ"], ["ㄅㄟ"], ["ㄕ"], ["ㄕ"],
+          ["ㄌㄧㄡˊ"], ["ㄐㄧㄢˇ"], ["ㄇㄨˋ"], ["ㄓㄨㄤˋ"], ["ㄏㄨㄤ"],
+          ["ㄊㄡㄓ"]
+        ]
+      },
+      {
+        "title": "動動腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 疑惑"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、排一排。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3", "5", "1", "6", "4", "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、情境聯想",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "說話",
+        "category": "vocabulary",
+        "answers": [
+          "怎麼辦", "沒問題"
+        ]
+      },
+      {
+        "title": "情境",
+        "category": "vocabulary",
+        "answers": [
+          "我早上賴床起不來，結果遲到了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、造句",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "只要你努力學習，就一定能取得好成績。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、角色扮演",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "1",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"3", "2", "1"
+          	],
+          	[
+            	"丙", "乙", "甲"
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 2],
+          		[ 1 ],
+          		[ 0 ]
+        		]
+        	]
+      	}
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "(1) ✓ 小黃", "(2)扮演小黃時，我會輕聲對別人說話，並多給一些提醒，做個溫柔體貼的人。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、聆聽練習 ",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "對話1",
+        "category": "vocabulary",
+        "answers": [
+          "興奮"
+        ]
+      },
+      {
+        "title": "對話2",
+        "category": "vocabulary",
+        "answers": [
+          "生氣"
+        ]
+      },
+      {
+        "title": "對話3",
+        "category": "vocabulary",
+        "answers": [
+          "難過"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "七、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "三年一班"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "全校師生"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "當我們「童」在一起"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "三天"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "我期待這一齣戲演出王子、熊和猴子的冒險故事，因為從海報中可以看出他們會一起面對挑戰，這樣的冒險過程一定充滿了驚險和趣味。希望他們能攜手合作，克服困難，完成各種任務。"
+        ]
+      }
+    ]
+  }
+]

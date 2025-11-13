@@ -1,0 +1,154 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "睡", "常", "揚", "角", "散",
+          "芒", "悄", "悄", "透", "窗",
+          "照", "晶", "星", "星", "掛",
+          "暗", "當", "閃", "微", "臂", 
+          "永", "避"
+        ],
+        "zhuyin": [
+          ["ㄕㄨㄟˋ"], ["ㄔㄤˊ"], ["ㄧㄤˊ"], ["ㄐㄧㄠˇ"], ["ㄙㄢˋ"],
+          ["ㄇㄤˊ"], ["ㄑㄧㄠˇ"], ["ㄑㄧㄠˇ"], ["ㄊㄡˋ"], ["ㄔㄨㄤ"],
+          ["ㄓㄠˋ"], ["ㄐㄧㄥ"], ["ㄒㄧㄥ"], ["˙ㄒㄧㄥ"], ["ㄍㄨㄚˋ"],
+          ["ㄢˋ"], ["ㄉㄤ"], ["ㄕㄢˇ"], ["ㄨㄟˊ"], ["ㄅㄧˋ"],
+          ["ㄩㄥˇ"], ["ㄅㄧˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "找出部首組成正確國字，再造詞",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "日", "暗", "昏暗"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "目", "睡", "昏睡"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "日", "星", "明星"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填寫適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "胖嘟嘟", "綠油油", "香噴噴", "熱呼呼"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出完整的句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "我會到門口迎接她"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "當我肚子餓的時候，媽媽會幫我準備點心。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先聽故事，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

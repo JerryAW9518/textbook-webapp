@@ -1,0 +1,664 @@
+[
+  {
+    "title": "6-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "Ｘ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "Ｏ" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{4}{12}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{2}{6}" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "\\frac{2}{3}" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "6-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "60÷360=\\frac{60}{360}=\\frac{1}{6}" ],
+                    [ "30×2×3.14×\\frac{1}{6}=31.4" ],
+                    [ "31.4+30+30=91.4" ],
+                    [ "答："],
+                    [ "弧長約 31.4 公分" ],
+                    [ "周長約 91.4 公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "6×2×3.14=37.68" ],
+                    [ "37.68+6+6=49.68" ],
+                    [ "答：約 49.68 公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "10 ×10 ×3.14×\\frac{1}{4}" ],
+                    [ "=78.5" ],
+                    [ "答：" ],
+                    [ "約 78.5 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "8÷2=4" ],
+                    [ "135÷360=\\frac{135}{360}=\\frac{3}{8}" ],
+                    [ "4×4×3.14×\\frac{3}{8}=18.84" ],
+                    [ "答：" ],
+                    [ "約 18.84 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "360°-120°=240°" ],
+                    [ "240÷360=\\frac{240}{360}=\\frac{2}{3}" ],
+                    [ "9×9×3.14×\\frac{2}{3}=169.56" ],
+                    [ "答：" ],
+                    [ "約 169.56 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "360°-60°=300°" ],
+                    [ "300÷360=\\frac{300}{360}=\\frac{5}{6}" ],
+                    [ "12×12×3.14×\\frac{5}{6}=376.8" ],
+                    [ "答：" ],
+                    [ "約 376.8 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "20×3.14×\\frac{1}{4}=15.7" ],
+                    [ "20÷2=10" ],
+                    [ "15.7+10+10=35.7" ],
+                    [ "答：" ],
+                    [ "弧長約 15.7 公分" ],
+                    [ "周長約 35.7 公分 " ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "300÷360=\\frac{300}{360}=\\frac{5}{6}" ],
+                    [ "6×6×3.14×\\frac{5}{6}=94.2" ],
+                    [ "答：" ],
+                    [ "約 94.2 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "6-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "6×6×3.14×\\frac{3}{4}" ],
+                    [ "=84.78" ],
+                    [ "答：" ],
+                    [ "約 84.78 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "16×16×3.14×\\frac{3}{4}" ],
+                    [ "=602.88" ],
+                    [ "16-12=4" ],
+                    [ "4×4×3.14×\\frac{1}{4}" ],
+                    [ "=12.56" ],
+                    [ "602.88+12.56=615.44" ],
+                    [ "答：" ],
+                    [ "約 615.44 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "360°-60°=300°" ],
+                    [ "300÷360=\\frac{300}{360}" ],
+                    [ "=\\frac{5}{6}" ],
+                    [ "12×12×3.14×\\frac{5}{6}" ],
+                    [ "=376.8" ],
+                    [ "答：" ],
+                    [ "約 376.8 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "10÷2=5" ],
+                    [ "5×5×3.14×2=157" ],
+                    [ "答：約 157 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "10+10=20" ],
+                    [ "20×10=200" ],
+                    [ "答：" ],
+                    [ "200 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "10÷2=5" ],
+                    [ "5+2=7" ],
+                    [ "7×7×3.14=153.86" ],
+                    [ "5×5×3.14=78.5" ],
+                    [ "40×2×2=160" ],
+                    [ "153.86-78.5+160" ],
+                    [ "=235.36" ],
+                    [ "答：" ],
+                    [ "約 235.36 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "(180°-90° )÷2=45°" ],
+                    [ "45÷360=\\frac{45}{360}" ],
+                    [ "=\\frac{1}{8}" ],
+                    [ "8×8×3.14×\\frac{1}{8}" ],
+                    [ "=25.12" ],
+                    [ "答：" ],
+                    [ "約 25.12 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "4+2=6" ],
+                    [ "6×6×3.14×\\frac{1}{2}" ],
+                    [ "=56.52" ],
+                    [ "4-2=2" ],
+                    [ "2×2×3.14×\\frac{1}{2}" ],
+                    [ "=6.28" ],
+                    [ "56.52-6.28=50.24" ],
+                    [ "答：" ],
+                    [ "約 50.24 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "40÷2=20" ],
+                    [ "20×20=400" ],
+                    [ "20×20×3.14×\\frac{1}{4}" ],
+                    [ "=314" ],
+                    [ "400-314=86" ],
+                    [ "400-86×2=228" ],
+                    [ "228×4=912" ],
+                    [ "答：" ],
+                    [ "約 912 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合篇",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "8×3.14×\\frac{1}{2}=12.56" ],
+                    [ "12×3.14×\\frac{1}{2}=18.84" ],
+                    [ "(8+12)×3.14×\\frac{1}{2}=31.4" ],
+                    [ "12.56+18.84+31.4=62.8" ],
+                    [ "答：" ],
+                    [ "約 62.8 公尺" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "6×2×3.14×\\frac{3}{4}=28.26" ],
+                    [ "10×2×3.14×\\frac{1}{4}=15.7" ],
+                    [ "10-6=4" ],
+                    [ "28.26+15.7+4×2=51.96" ],
+                    [ "答：" ],
+                    [ "約 51.96 公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "20×20×3.14×\\frac{1}{2}" ],
+                    [ "=628" ],
+                    [ "答：" ],
+                    [ "約 628 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "8×8=64" ],
+                    [ "8×8×3.14×\\frac{1}{4}" ],
+                    [ "=50.24" ],
+                    [ "4×4×3.14×\\frac{1}{4}" ],
+                    [ "=12.56" ],
+                    [ "64-50.24+12.56" ],
+                    [ "=26.32" ],
+                    [ "答：" ],
+                    [ "約 26.32 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "60°×3=180°" ],
+                    [ "180÷360=\\frac{180}{360}=\\frac{1}{2}" ],
+                    [ "9×9×3.14×\\frac{1}{2}" ],
+                    [ "=127.17" ],
+                    [ "答：" ],
+                    [ "約 127.17 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "214.2-94.2=120" ],
+                    [ "120÷2=60" ],
+                    [ "60×60×3.14×\\frac{1}{4}" ],
+                    [ "=2826" ],
+                    [ "答：" ],
+                    [ "約 2826 平方公分" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "tex",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "tex": [
+                    [ "62.8÷3.14÷2=10" ],
+                    [ "10×10×3.14×\\frac{1}{8}" ],
+                    [ "=39.25" ],
+                    [ "答：" ],
+                    [ "約 39.25 平方公尺" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

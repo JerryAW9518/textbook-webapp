@@ -1,0 +1,143 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "攜", "荒", "跡", "遷",
+          "惡", "致", "均", "盤", "移", "鍵",
+          "眨", "搭", "配", "輸"
+        ],
+        "zhuyin": [
+          ["ㄒㄧ"], ["ㄏㄨㄤ"], ["ㄐㄧ"], ["ㄑㄧㄢ"],
+          ["ㄜˋ"], ["ㄓˋ"], ["ㄐㄩㄣ"], ["ㄆㄢˊ"], ["ㄧˊ"], ["ㄐㄧㄢˋ"],
+          ["ㄓㄚˇ"], ["ㄉㄚ"], ["ㄆㄟˋ"], ["ㄕㄨ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再填入正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "毽", "健", "鍵"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "慌", "謊", "荒"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "找出相近的詞語，再填入",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "模樣", "變遷"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "攜手", "足跡", "處境"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出相同形式的句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "吹吹海風", "聽聽浪聲"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "爸爸", "牽著手", "媽媽", "靠近我"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②", "✓ ③", "✓ ④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略 (口述)"
+        ]
+      }
+    ]
+  }
+]

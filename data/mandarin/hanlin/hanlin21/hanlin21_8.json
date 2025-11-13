@@ -1,0 +1,129 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "圓", "形", "白", "米", "紙", 
+          "變", "軟", "接", "米", "線",
+          "蝦", "菜", "各", "種", "材", 
+          "搶", "舉", "介", "紹", "聽",
+          "更"
+        ],
+        "zhuyin": [
+          ["ㄩㄢˊ"], ["ㄒㄧㄥˊ"], ["ㄅㄞˊ"], ["ㄇㄧˇ"], ["ㄓˇ"],
+          ["ㄅㄧㄢˋ"], ["ㄖㄨㄢˇ"], ["ㄐㄧㄝ"], ["ㄇㄧˇ"], ["ㄒㄧㄢˋ"],
+          ["ㄕˊ"], ["ㄈㄣ"], ["ㄒㄧㄤˇ"], 
+          ["ㄒㄧㄚ"], ["ㄘㄞˋ"], ["ㄍㄜˋ"], ["ㄓㄨㄥˇ"], ["ㄘㄞˊ"], 
+          ["ㄑㄧㄤˇ"], ["ㄐㄩˇ"], ["ㄐㄧㄝˋ"], ["ㄕㄠˋ"], ["ㄊㄧㄥ"], 
+          ["ㄍㄥˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、填寫正確的國字，再把有木的字圈起來。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+        	"棉", "朵", "棉"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+        	"棵", "棵", "樹"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "橡", "橡", "樹", "果"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、換個語詞，接寫出意思相同的句子。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一會兒就回來"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "馬上就在箱子裡找到棒球手套。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "有了", "更"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "插圖", "故事書", "生動有趣"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "筷子", "吃飯", "方便"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 米紙", "✓ 蝦子", "✓ 青菜", "✓ 米線"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "ㄆ", "ㄅ", "ㄇ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+  
+]

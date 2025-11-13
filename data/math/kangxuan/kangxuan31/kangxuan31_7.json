@@ -1,0 +1,1228 @@
+[
+  {
+    "title": "活動1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "5x3=15",
+                    "15÷5=3"
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答: 3堆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "equation",
+                "extras": {
+                  "isParse" : true,
+                  "items": [
+                    "5x4=20",
+                    "20÷4=5"
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "答: 5個" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "42 ÷ 7 = 6" ],
+                    [ "答:6個" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "36 ÷ 4 = 9" ],
+                    [ "答:9公分" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "18 ÷ 3 = 6" ],
+                    [ "答:6盤" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "40 ÷ 5 = 8" ],
+                    [ "答:8瓶" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動2",
+    "subtitle": "",
+    "section": [
+      {
+      
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", "", "", ""
+                    ],
+                    [
+                      "", "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 2 ],
+                      [ 0 ],
+                      [ 3 ],
+                      [ 1 ]
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "◯◯◯◯", "◯◯◯◯", "◯◯◯◯", "◯"
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "13 ÷ 4 = 3...1" ],
+                    [ "答:3個，剩1朵" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": true,
+                  "layerWidgets": [
+                    [
+                      "", "", "", "", "", "", "", "", "", ""
+                    ],
+                    [
+                      "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 1 ],
+                      [ 2 ],
+                      [ 0 ],
+                      [ 1 ],
+                      [ 2 ],
+                      [ 0 ],
+                      [ 1 ],
+                      [ 2 ],
+                      [  ]
+                    ]
+                  ]
+                }
+              },
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "10 ÷ 3 = 3...1" ],
+                    [ "答:3個，剩1個" ]
+                  ]
+                }
+              }
+              
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "5", "2" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 27,
+            		"divisor" : 5
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7", "6" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 62,
+            		"divisor" : 8
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "6", "4" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 46,
+            		"divisor" : 7
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7", "3" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 31,
+            		"divisor" : 4
+            	}
+              }       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "55 ÷ 6 = 9...1" ],
+                    [ "答:9袋，剩1個" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 55,
+            		"divisor" : 6
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "21 ÷ 3 = 7...0" ],
+                    [ "答:7袋，剩0顆" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 21,
+            		"divisor" : 3
+            	}
+              }       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "正確",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "錯誤",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 41,
+            		"divisor" : 5
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "正確",
+                        "checked": "unchecked"
+                      }
+                    ],
+                    [
+                      {
+                        "type": "text",
+                        "value": "錯誤",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 58,
+            		"divisor" : 7
+            	}
+              }       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7", "2" ],
+                    [ "7", "3" ],
+                    [ "7", "4" ],
+                    [ "7", "5" ],
+                    [ "7", "6" ],
+                    [ "7", "7" ],
+                    [ "8", "0" ]
+                  ]
+                }
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7", "3" ],
+                    [ "7", "2" ],
+                    [ "7", "1" ],
+                    [ "7", "0" ],
+                    [ "6", "5" ],
+                    [ "6", "4" ],
+                    [ "6", "3" ]
+                  ]
+                }
+              }       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "子儀",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "宥全",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "政宇",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "嘉榕",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "映澄",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "承恩",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }       
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "0個", "1個", "2個" ]
+                  ]
+                }
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "0顆", "1顆", "2顆", "4顆", "5顆" ]
+                  ]
+                }
+              }       
+            ]
+          }
+        ]
+      }
+      
+    ]
+  },
+  {
+    "title": "活動4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "triangle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "triangle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "5",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "6",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "triangle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "7",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "8",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "circle"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "9",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : false,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動5",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "33 ÷ 9 = 3⋯6" ],
+                    [ "答:3排" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 33,
+            		"divisor" : 9
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "39 ÷ 6 = 6⋯3" ],
+                    [ "答:6顆" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras":  {
+            		"dividend" : 39,
+            		"divisor" : 6
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "58 ÷ 7 = 8⋯2" ],
+                    [ "8 + 1 = 9" ],
+                    [ "答:9次" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 58,
+            		"divisor" : 7
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "25 ÷ 8 = 3⋯1" ],
+                    [ "3 + 1 = 4" ],
+                    [ "答:4個" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 25,
+            		"divisor" : 3
+            	}
+              }       
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "活動6",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "奇數",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "偶數",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "奇數",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "偶數",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "奇數",
+                        "checked": "unchecked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "偶數",
+                        "checked": "checked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "checkbox",
+                "extras": {
+                  "showValue" : true,
+                  "items": [
+                    [
+                      {
+                        "type": "text",
+                        "value": "奇數",
+                        "checked": "checked"
+                      },
+                      {
+                        "type": "text",
+                        "value": "偶數",
+                        "checked": "unchecked"
+                      }
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "奇數",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "43、205、1117" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "偶數",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "68、950、2056" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "綜合練習",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "12 ÷ 3", "32 ÷ 4", "40 ÷ 8", "35 ÷ 5", "63 ÷ 7", "18 ÷ 9", "12 ÷ 2" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1\n①",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "7顆" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "1\n②",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "奇數", ""
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "②、③、⑤" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "53 ÷ 6 = 8⋯5" ],
+                    [ "答:8個，剩5個" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 53,
+            		"divisor" : 6
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "80 ÷ 9 = 8⋯8" ],
+                    [ "答:8段，剩8公分" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 80,
+            		"divisor" : 9
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "60 ÷ 8 = 7⋯4" ],
+                    [ "答:7個" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 60,
+            		"divisor" : 8
+            	}
+              }       
+            ]
+          },
+          {
+            "title": "4", 
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "texts": [
+                    [ "32 ÷ 5 = 6⋯2" ],
+                    [ "6 + 1 = 7" ],
+                    [ "答:7次" ]
+                  ]
+                }
+              },
+			  {
+                "category": "division",
+                "extras": {
+            		"dividend" : 32,
+            		"divisor" : 5
+            	}
+              }       
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

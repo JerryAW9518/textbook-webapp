@@ -1,0 +1,145 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "匠", "魯", "齒", "割", "鈍",
+          "鋒", "鋸", "斧", "宮",
+          "速", "祖", "尺", "善",
+          "察", "考", "便", "解", "惱"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄤˋ"], ["ㄌㄨˇ"], ["ㄔˇ"], ["ㄍㄜ"], ["ㄉㄨㄣˋ"],
+          ["ㄈㄥ"], ["ㄐㄩˋ"], ["ㄈㄨˇ"], ["ㄍㄨㄥ"],
+          ["ㄙㄨˋ"], ["ㄗㄨˇ"], ["ㄔˇ"], ["ㄕㄢˋ"],
+          ["ㄔㄚˊ"], ["ㄎㄠˇ"], ["ㄅㄧㄢˋ"], ["ㄐㄧㄝˇ"], ["ㄋㄠˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先讀一讀，再填入正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "祖", "祖", "阻"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，選出正確意思",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1", "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2", "1"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "先接寫句子，再完成另一個句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "就可以減少許多意外的發生。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "如果新冠肺炎疫情不擴大 ，就可以不用戴口罩上體育課了。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ② 想不到...", "✓ ③ 如果做出..."
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "4", "1", "3", "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ② 鉛筆的誕生", "✓ ④ 鉛筆進化史"
+        ]
+      }
+    ]
+  }
+]

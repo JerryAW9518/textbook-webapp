@@ -1,0 +1,101 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "郊", "活", "便", "當", "盒",
+          "味", "食", "筒", "客", "艾", 
+          "粄", "南", "捲", "樣", "香",
+          "奇"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄠ"], ["ㄏㄨㄛˊ"], ["ㄅㄧㄢˋ"], ["ㄉㄤ"],  ["ㄏㄜˊ"],
+          ["ㄨㄟˋ"], ["ㄕˊ"], ["ㄊㄨㄥˇ"], ["ㄎㄜˋ"], ["ㄞˋ"],
+          ["ㄅㄢˇ"], ["ㄋㄢˊ"], ["ㄐㄩㄢˇ"], ["ㄧㄤˋ"], ["ㄒㄧㄤ"],
+          ["ㄑㄧˊ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "清", "節", "祖", "保", "平", "安"
+        ],
+        "zhuyin": [
+          ["ㄑㄧㄥ"], ["ㄐㄧㄝˊ"], ["ㄗㄨˇ"], ["ㄅㄠˇ"], ["ㄆㄧㄥˊ"], ["ㄢ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先寫出正確的注音，再填入適當的語詞，完成短文。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "好",
+        "category": "vocabulary",
+        "answers": [
+          "ㄏㄠˇ", "ㄏㄠˋ"
+        ]
+      },
+      {
+        "title": "會",
+        "category": "vocabulary",
+        "answers": [
+          "ㄏㄨㄟˇ", "ㄏㄨㄟˋ"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "好朋友", "好奇", "不會", "一會兒"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、讀一讀，再完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "有", "有", "還有"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "不但", "還"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、讀一讀，再回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 肚子餓了有飯可以吃",  "✓ 吃完的竹筒能當柴燒"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

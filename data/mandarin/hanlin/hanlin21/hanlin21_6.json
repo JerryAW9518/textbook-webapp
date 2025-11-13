@@ -1,0 +1,107 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "屋", "晚", "奶", "奶", "飯",
+          "盡", "頭", "竹", "林", "散",
+          "溪", "旁", "月", "暗", "眼", "睛",
+          "顆", "顆", "叢", "聚", "成",
+          "那" 
+        ],
+        "zhuyin": [
+          ["ㄨ"], ["ㄨㄢˇ"],  ["ㄋㄞˇ"], ["˙ㄋㄞ"], ["ㄈㄢˋ"],
+          ["ㄐㄧㄣˋ"], ["ㄊㄡˊ"], ["ㄓㄨˊ"], ["ㄌㄧㄣˊ"], ["ㄙㄢˋ"],
+          ["ㄒㄧ"], ["ㄆㄤˊ"], ["ㄩㄝˋ"], ["ㄢˋ"], ["ㄧㄢˇ"], ["ㄐㄧㄥ"],  
+          ["ㄎㄜ"], ["ㄎㄜ"], ["ㄘㄨㄥˊ"], ["ㄐㄩˋ"], ["ㄔㄥˊ"],
+          ["ㄋㄚˋ"]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "ㄅ 3", "ㄆ 1", "ㄇ 2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、讀一讀，再將正確的字填入",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "眼", "跟", "很"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "晴", "晚", "暗"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "一下子玩耍", "一下子唱歌"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "一下子移餅乾", "一下子搬糖果"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、根據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "螢火蟲"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "走過屋後的竹林，再穿過竹林盡頭的小溪，沿過小溪兩旁長滿草的地方，最後找到了星星。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 中間圖"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "星星想跟妹妹做朋友，所以妹妹很得意。"
+        ]
+      }
+    ]
+  }
+]

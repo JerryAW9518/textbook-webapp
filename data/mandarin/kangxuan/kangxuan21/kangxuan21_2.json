@@ -1,0 +1,133 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "全", "餐", "蛋", "煎", "番", "茄", "切", "圓", "圓", "輪", "醬", "畫", "臉", "司", "夾", "方", "吐", "司", "中", "城", "堡", "接"
+        ],
+        "zhuyin": [
+          ["ㄑㄩㄢˊ"], ["ㄘㄢ"], ["ㄉㄢˋ"], ["ㄐㄧㄢ"], ["ㄈㄢ"], ["ㄑㄧㄝˊ"], ["ㄑㄧㄝ"], ["ㄩㄢˊ"], ["ㄩㄢˊ"], ["ㄌㄨㄣˊ"], ["ㄐㄧㄤˋ"], ["ㄏㄨㄚˋ"], ["ㄌㄧㄢˇ"], ["ㄙ"], ["ㄐㄧㄚˊ"], ["ㄈㄤ"], ["ㄊㄨˇ"], ["ㄙ"], ["ㄓㄨㄥ"], ["ㄔㄥˊ"], ["ㄅㄠˇ"], ["ㄐㄧㄝ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、連一連",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 花園"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 圓桌"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "➝ 圓形"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "花園", "圓桌", "圓形"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填寫標點符號",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "、", "。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "，", "、", "。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "、", "、", "、", "、", "、", "、", "！"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "很害怕"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "很開心"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "收到爸爸送的花", "很高興"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、想一想，再作答",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "小花"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "愛心"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "小船"
+        ]
+      }
+    ]
+  }
+]

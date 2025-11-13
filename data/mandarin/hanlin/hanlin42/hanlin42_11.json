@@ -1,0 +1,107 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "嚴", "肺", "炎", "危", "醫",
+          "租", "搬", "磚", "梯", "藤",
+          "賺", "薄", "咳", "瘦"
+        ],
+        "zhuyin": [
+          ["ㄧㄢˊ"], ["ㄈㄟˋ"], ["ㄧㄢˊ"], ["ㄨㄟˊ"], ["ㄧ"],
+          ["ㄗㄨ"], ["ㄅㄢ"], ["ㄓㄨㄢ"], ["ㄊㄧ"], ["ㄊㄥˊ"],
+          ["ㄓㄨㄢˋ"], ["ㄅㄛˊ"], ["ㄎㄜˊ"], ["ㄕㄡˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "傅", "傳", "磚"
+        ],
+        "zhuyin": [
+          ["ㄈㄨˋ"], ["ㄔㄨㄢˊ"], ["ㄓㄨㄢ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、先猜一猜，再找答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+           "傳染、受染"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "影響"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "流感季節應勤洗手，以免感染上病毒。"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "老師的熱情教學感染了全班同學，讓大家更喜歡學習。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、標點符號練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 愛麗絲夢遊仙境是路易斯•卡羅所著的奇幻小說",
+          "✓ 蘇軾，字子瞻，號東坡居士，宋 眉山(今四川省 眉山縣)人。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "·", "︵", "︶"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "不是。王子託燕子把寶石送給需要的人們。"
+        ]
+      }
+    ]
+  }
+]

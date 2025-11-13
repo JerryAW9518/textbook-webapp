@@ -1,0 +1,132 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "院", "乾", "淨", "弟", "超",
+          "哥", "假", "合", "正", "假",
+          "石", "盆", "破", "掉", "點"
+        ],
+        "zhuyin": [
+          ["ㄩㄢˋ"], ["ㄍㄢ"], ["ㄐㄧㄥˋ"], ["ㄉㄧˋ"], ["ㄔㄠ"],
+          ["ㄍㄜ"], ["ㄐㄧㄚˋ"], ["ㄏㄜˊ"], ["ㄓㄥˋ"], ["ㄐㄧㄚˇ"],
+          ["ㄕˊ"], ["ㄆㄣˊ"], ["ㄆㄛˋ"], ["ㄉㄧㄠˋ"], ["ㄉㄧㄢˇ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 花盆"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、寫出正確的字音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "ㄓㄨㄥˋ", "ㄔㄨㄥˊ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、填一填，完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "敢", "趕"
+        ],
+        "zhuyin": [
+          ["ㄍㄢˇ"], ["ㄍㄢˇ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、選出適當的詞語",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "正當", "正好"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "一點", "點子"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "合作", "合力"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、依據課文，填入正確的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "原因",
+        "category": "vocabulary",
+        "answers": [
+          "玩球", "花盆打破", "心情 ➝ 慌張、著急"
+        ]
+      },
+      {
+        "title": "經過",
+        "category": "vocabulary",
+        "answers": [
+          "心裡有一塊重重的石頭", "心情 ➝ 擔心"
+        ]
+      },
+      {
+        "title": "結果",
+        "category": "vocabulary",
+        "answers": [
+          "整理乾淨", "勇敢超人", "心情 ➝ 開心、鬆了一口氣"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、換句話說",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "所以", "因為"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "因為", "剛才下了一場雨，所以地面溼滑。"
+        ]
+      }
+    ]
+  }
+]

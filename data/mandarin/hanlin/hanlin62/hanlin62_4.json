@@ -1,0 +1,252 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "戎", "纍", "纍", "李", "戎",
+          "劉", "遣", "辭", "敘", "述",
+          "栩", "栩", "賅", "致", "晉"
+        ],
+        "zhuyin": [
+          ["ㄖㄨㄥˊ"], ["ㄌㄟˊ"], ["ㄌㄟˊ"], ["ㄌㄧˇ"], ["ㄖㄨㄥˊ"],
+          ["ㄌㄧㄡˊ"], ["ㄑㄧㄢˇ"], ["ㄘˊ"], ["ㄒㄩˋ"], ["ㄕㄨˋ"],
+          ["ㄒㄩˇ"], ["ㄒㄩˇ"], ["ㄍㄞ"], ["ㄓˋ"], ["ㄐㄧㄣˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ②", "✓ ④", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、閱讀古文的方法",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "1",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 0 ],
+              [ 2 ],
+              [ 1 ]
+            ]
+          ]
+        }
+      },
+      
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 根據上下文來推論 (僅供參考)", "", "", "", ""
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "我會選擇根據上下文來推論。因為上下文能提供詞語的語境，幫助理解字詞的意思，即使不完全明白每個字的意思，也能從整句話的含義推測出大致意思。這樣能更靈活地理解文章內容，有助於提升閱讀能力。", "", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、依據課文回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②", "", "", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①", "", "", "", ""
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③", "", "", "", ""
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "②", "", "", "", ""
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、圖文配對",
+    "subtitle": "",
+    "question": [
+      {
+      	"title": "1",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              }
+            ]
+          ]
+        }
+      } ,
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "道邊李樹多子折枝"
+        ]
+      },
+      {
+      	"title": "2",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "諸兒競走取之，唯戎不動。"
+        ]
+      },
+      {
+      	"title": "3",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "人問之，答曰：「樹在道邊多子，此必苦李。」"
+        ]
+      },
+      {
+      	"title": "4",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "取之，信然。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 外形構造", "✓ 運動狀態", "", "", ""
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "我比較喜歡謝道韞的形容，他將雪比作柳絮，生動地表現出雪花隨風飄動的輕盈與美感，讓人感受到雪的柔和與優雅。", "", "", "", ""
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "謝安聽了放聲大笑，是因為胡兒的比喻將雪比作鹽撒在空中，顯得有些生硬且不太貼切，而謝道韞的比喻則更生動、更符合雪花飄落的特徵，讓他感到非常高興。", "", "", "", ""
+        ]
+      }
+    ]
+  }
+]

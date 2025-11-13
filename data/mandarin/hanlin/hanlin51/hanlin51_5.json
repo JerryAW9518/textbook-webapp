@@ -1,0 +1,116 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "媲", "采", "脈", "劇", "搜", 
+          "預", "潤", "違"
+        ],
+        "zhuyin": [
+          ["ㄆㄧˋ"], ["ㄘㄞˇ"], ["ㄇㄞˋ"], ["ㄐㄩˋ"], ["ㄙㄡ"], 
+          ["ㄩˋ"], ["ㄖㄨㄣˋ"], ["ㄨㄟˊ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、看圖填入正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "少", "新電影"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "未經授權", "影片", "圖像", "文章"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、選出依據課文回答問題正確意思",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "從左到右依序為",
+          "興奮", "苦惱", "錯愕", "快樂"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "非常開心", "與每一位為她加油的人一同歡呼。"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "君偉聽到爸爸規劃假日帶全家人到遊樂園，他的眼睛立刻亮得像夜空中閃爍的星星，嘴角忍不住一點一點往上翹，雙手在空中揮舞，腳尖輕快地踮起，好像全身的喜悅都要溢出來。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      }
+    ]
+  }
+]

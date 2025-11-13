@@ -1,0 +1,116 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "雛", "鷗", "漲", "陷", "阱",
+          "滔", "襲", "拙", "懼", "膛",
+          "芒", "啾", "啾", "嘹"
+        ],
+        "zhuyin": [
+          ["ㄔㄨˊ"], ["ㄡ"], ["ㄓㄤˇ"], ["ㄒㄧㄢˋ"], ["ㄐㄧㄥˇ"],
+          ["ㄊㄠ"], ["ㄒㄧˊ"], ["ㄓㄨㄛˊ"], ["ㄐㄩˋ"], ["ㄊㄤˊ"],
+          ["ㄇㄤˊ"], ["ㄐㄧㄡ"], ["ㄐㄧㄡ"], ["ㄌㄧㄠ˙"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 灰色炮彈"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、語詞應用",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "ㄌ"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "ㄅ"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "ㄋ"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "ㄈ"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、選詞填寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "啾啾", "滔滔", "小小", "撲撲"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、詩句仿寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "(僅供參考)", "跑吧！奔向原野", "微風是這樣的輕柔自在", "跳吧！躍向浪花", "海浪是這樣的熱情奔放"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "①"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      }
+    ]
+  }
+]

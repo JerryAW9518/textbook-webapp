@@ -1,0 +1,217 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "奧", "膚", "翹", "液", "垂", 
+          "迫", "奈", "構", "划", "鋸"
+        ],
+        "zhuyin": [
+          ["ㄠˋ"], ["ㄈㄨ"], ["ㄑㄧㄠˋ"], ["ㄧㄝˋ"], ["ㄔㄨㄟˊ"],
+          ["ㄆㄛˋ"], ["ㄋㄞˋ"], ["ㄍㄡˋ"], ["ㄏㄨㄚˊ"], ["ㄐㄩˋ"],
+          [""], [""], [""]
+        ]
+      },
+      {
+        "title": "金頭腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓努力不懈", "✓勇往直前"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "①",
+        "category": "vocabulary",
+        "answers": [
+          "微笑著", "麥克風", "唱著他最愛的歌曲。"
+        ]
+      },
+      {
+        "title": "②",
+        "category": "vocabulary",
+        "answers": [
+          "興奮地鼓掌", "手機錄下精彩的表演"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "需要每天訓練，持續努力、快速前進。"
+        ]
+      },
+      {
+        "title": "造句",
+        "category": "vocabulary",
+        "answers": [
+          "若是你每天都專注於學習，也許能在考試中獲得好成績。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、課文小偵探",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "總說",
+        "category": "vocabulary",
+        "answers": [
+          "天才", "創意", "發明"
+        ]
+      },
+      {
+        "title": "分說一 對象",
+        "category": "vocabulary",
+        "answers": [
+          "蚊子"
+        ]
+      },
+      {
+        "title": "分說一 發現",
+        "category": "vocabulary",
+        "answers": [
+          "鋸齒狀", "降低"
+        ]
+      },
+      {
+        "title": "分說一 發明",
+        "category": "vocabulary",
+        "answers": [
+          "無痛針頭"
+        ]
+      },
+      {
+        "title": "分說一 影響",
+        "category": "vocabulary",
+        "answers": [
+          "皮肉之苦"
+        ]
+      },
+      {
+        "title": "分說二 發現",
+        "category": "vocabulary",
+        "answers": [
+          "奈米結構", "帶走灰塵"
+        ]
+      },
+      {
+        "title": "分說二 發明",
+        "category": "vocabulary",
+        "answers": [
+          "塗上奈米塗層"
+        ]
+      },
+      {
+        "title": "分說二 影響",
+        "category": "vocabulary",
+        "answers": [
+          "保持乾淨"
+        ]
+      },
+      {
+        "title": "分說三 對象",
+        "category": "vocabulary",
+        "answers": [
+          "草原鵰"
+        ]
+      },
+      {
+        "title": "分說三 發現",
+        "category": "vocabulary",
+        "answers": [
+          "上翹", "上升力"
+        ]
+      },
+      {
+        "title": "分說三 發明",
+        "category": "vocabulary",
+        "answers": [
+          "A380空中巴士"
+        ]
+      },
+      {
+        "title": "分說三 影響",
+        "category": "vocabulary",
+        "answers": [
+          "機翼長度"
+        ]
+      },
+      {
+        "title": "總結",
+        "category": "vocabulary",
+        "answers": [
+          "大自然"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、連連看",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 2,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"4", "3", "2", "1"
+          	],
+          	[
+            	"補充", "舉例", "標題", "圖解"
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 3 ],
+          		[ 2 ],
+          		[ 0 ],
+          		[ 1 ]
+        		]
+        	]
+      	}
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀測驗",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓加熱後會膨脹的米粒", "✓瞬間釋放壓力的工具", "✓承受高溫高壓的機器"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓搭配清晰的圖示，...", "✓善用淺顯易懂的舉例或形容，..."
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "米香和爆米花的製造過程不同：米香使用米粒，先煮熟、加糖後焙乾，再壓縮成型；爆米花使用玉米粒，則在高溫下加熱使其爆開，形成蓬鬆的形狀。"
+        ]
+      }
+    ]
+  }
+]

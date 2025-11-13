@@ -1,0 +1,164 @@
+[
+  {
+    "title": "一、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "抹", "燦", "爛", "堂", "幢", 
+          "耙", "雕", "霞"
+        ],
+        "zhuyin": [
+          ["ㄇㄛˇ"], ["ㄘㄢˋ"], ["ㄌㄢˋ"], ["ㄊㄤˊ"], ["ㄔㄨㄤˊ"],
+          ["ㄆㄚˊ"], ["ㄉㄧㄠ"], ["ㄒㄧㄚˊ"]
+        ]
+      },
+      {
+        "title": "動動腦",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 用紙做成的"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、將正確的字填入",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "霞", "雲", "霄"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "擠", "抹", "攪"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、連連看",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "鹽田 ➝ 調色盤、棋盤"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "鹽耙 ➝ 水彩筆"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "鹽山 ➝ 金字塔、西洋棋子、白色教堂"
+        ]
+      },
+      {
+      	"title": "",
+        "category": "matching",
+        "extras": {
+        "layerCount": 2,
+        "isVertical": true,
+        "layerWidgets": [
+          	[
+            	"", "", ""
+          	],
+          	[
+              "", "", "", "", "", ""
+            ]
+        	],
+        "multiConnections": [
+          	[
+            	[ 0,1,2 ],
+              [ 4 ],
+              [ 3,5 ]
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "顏色",
+        "category": "vocabulary",
+        "answers": [
+          "紅藍相間"
+        ]
+      },
+      {
+        "title": "量詞",
+        "category": "vocabulary",
+        "answers": [
+          "一段又一段"
+        ]
+      },
+      {
+        "title": "聯想",
+        "category": "vocabulary",
+        "answers": [
+          "絲帶"
+        ]
+      },
+      {
+        "title": "描寫",
+        "category": "vocabulary",
+        "answers": [
+          "那彎曲的跨海拱橋，一段又一段，像紅藍相間的絲帶揮舞在海面上"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "4"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、聆聽練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

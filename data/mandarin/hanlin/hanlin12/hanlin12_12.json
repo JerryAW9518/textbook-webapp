@@ -1,0 +1,186 @@
+[
+  {
+    "title": "一、找出適合的字，填入空格裡",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "故"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "同"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "事"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "能"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "記"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、填入正確的字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "是", "事"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "快", "決"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "拍", "怕"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "忽", "物"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "麼", "臺", "演", "決", "定", 
+          "狼", "故", "事", "完", "記",
+          "物", "期", "段", "間", "能",
+          "全", "班", "同"
+        ],
+        "zhuyin": [
+          ["˙ㄇㄛ"], ["ㄊㄞˊ"], ["ㄧㄢˇ"], ["ㄐㄩㄝˊ"], ["ㄉㄧㄥˋ"],
+          ["ㄌㄤˊ"], ["ㄍㄨˋ"], ["ㄕˋ"], ["ㄨㄢˊ"], ["ㄐㄧˋ"],
+          ["ㄨˋ"], ["ㄑㄧˊ"], ["ㄉㄨㄢˋ"], ["ㄐㄧㄢ"], ["ㄋㄥˊ"],
+          ["ㄑㄩㄢˊ"], ["ㄅㄢ"], ["ㄊㄨㄥˊ"]
+        ]
+      },
+      {
+      	"title": "",
+        "category": "checkbox",
+        "extras": {
+        "showValue" : false,
+        "items": [
+            [
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "checked"
+              },
+              {
+                "type": "text",
+                "value": "",
+                "checked": "unchecked"
+              }
+            ]
+          ]
+        }
+      } 
+    ]
+  },
+  {
+    "title": "四、看圖完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "下課", "同學們一起玩遊戲"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "念書的時間", "我要先把玩具收好。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、看圖寫一寫",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "打掃教室"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "擦玻璃"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "一起擦桌子"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "在掃地"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "提了二桶水"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "title": "寫國字或注音",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "尊", "慮"
+        ],
+        "zhuyin": [
+          ["ㄗㄨㄣ"], ["ㄌㄩˋ"]
+        ]
+      },
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "測"
+        ],
+        "zhuyin": [
+          ["ㄘㄜˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "褐", "測"
+        ],
+        "zhuyin": [
+          ["ㄏㄜˊ"], ["ㄘㄜˋ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "棲", "掀", "暑"
+        ],
+        "zhuyin": [
+          ["ㄑㄧ"], ["ㄒㄧㄢ"], ["ㄕㄨˇ"]
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "覓", "昆"
+        ],
+        "zhuyin": [
+          ["ㄇㄧˋ"], ["ㄎㄨㄣ"]
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "繡"
+        ],
+        "zhuyin": [
+          ["ㄒㄧㄡˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、同音字練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "測"
+        ],
+        "zhuyin": [
+          ["ㄘㄜˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "測驗"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "側"
+        ],
+        "zhuyin": [
+          ["ㄘㄜˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "側邊"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "廁"
+        ],
+        "zhuyin": [
+          ["ㄘㄜˋ"]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "廁所"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "ㄘㄜˋ"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "測", "廁", "側"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、語詞練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "鳴聲"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "推測"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "隱密"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "棲息"
+        ]
+      },
+      {
+        "title": "5",
+        "category": "vocabulary",
+        "answers": [
+          "引誘"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、句子練習",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "蝴蝶", "五彩的花瓣", "在花園中飛翔"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "樹葉", "綠色的翅膀", "隨風輕輕擺動"
+          
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、修辭小達人",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 睡美人"
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "他是家中的睡美人，每週末都能享受長時間的美夢。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "六、依據課文內容，找出作者和斯文豪氏蛙互動的句子。",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "✓ ③",  "✓ ④"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "七、寫作練習",
+    "subtitle": "",
+    "special": "noNumber",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  }
+]

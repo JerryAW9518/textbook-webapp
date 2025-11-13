@@ -1,0 +1,1253 @@
+[
+  {
+    "title": "4-1",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 0.139,
+            			"multiplicand" : 4
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 0.576,
+            			"multiplicand" : 28
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 3.126,
+            			"multiplicand" : 25
+            		}
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.98×6＝5.88" ],
+                    [ "答：5.88公斤" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 0.98,
+            			"multiplicand" : 6
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2.306×9＝20.754" ],
+                    [ "答：20.754" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 2.306,
+            			"multiplicand" : 9
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "0.454×22＝9.988" ],
+                    [ "答：大約9.988公斤" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 0.454,
+            			"multiplicand" : 22
+            		}
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "6.371" ],
+                    [ "63.71" ],
+                    [ "637.1" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "172.8" ],
+                    [ "1728" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "4-2",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.8" ],
+                    [ "0.8" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1.8" ],
+                    [ "1.8" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 3,
+            			"multiplicand" : 2.7
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 12,
+            			"multiplicand" : 10.6
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 432,
+            			"multiplicand" : 0.5
+            		}
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "30×1.5 = 45" ],
+                    [ "答 : 45元" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 30,
+            			"multiplicand" : 1.5
+            		}
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 6,
+            			"multiplicand" : 0.75
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 13,
+            			"multiplicand" : 2.46
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 25,
+            			"multiplicand" : 4.07
+            		}
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "2×2.25＝4.5" ],
+                    [ "答：4.5公升" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 2,
+            			"multiplicand" : 2.25
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "180×1.02＝183.6" ],
+                    [ "答：183.6公分" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 180,
+            			"multiplicand" : 1.02
+            		}
+            	}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "4-3",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.07" ],
+                    [ "0.07" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.012" ],
+                    [ "0.012" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 0.8,
+            			"multiplicand" : 0.7
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 1.6,
+            			"multiplicand" : 0.9
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 5.62,
+            			"multiplicand" : 3.4
+            		}
+            	}
+            ]
+          }
+        ]
+      },
+      { 
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "4.08" ],
+                    [ "0.408" ],
+                    [ "0.0408" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "3.6" ],
+                    [ "0.36" ],
+                    [ "0.036" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "12.3×4.7＝57.81" ],
+                    [ "答：57.81平方公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 12.3,
+            			"multiplicand" : 4.7
+            		}
+            	}
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "42.5×1.66＝70.55" ],
+                    [ "答：70.55公斤" ]
+                  ]
+                }
+              },
+              {
+                "category": "multiply",
+                "mode" : "zero",
+                "border" : false,
+                "extras": {
+            	    "multiplier" : 42.5,
+            			"multiplicand" : 1.66
+            		}
+            	}
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "",
+            "answers": [
+              {
+                "category": "matching",
+                "extras": {
+                  "layerCount": 2,
+                  "isVertical": false,
+                  "layerWidgets": [
+                    [
+                      "", "", "", ""
+                    ],
+                    [
+                      "", "", ""
+                    ]
+                  ],
+                  "multiConnections": [
+                    [
+                      [ 0 ],
+                      [ 1 ],
+                      [ 0 ],
+                      [ 2 ]
+                    ]
+                  ]
+                  
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "4-4",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 0.42,
+                  "divisor": 6,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 0.72,
+                  "divisor": 3,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 20.8,
+                  "divisor": 4,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 9.5,
+                  "divisor": 5,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 6,
+                  "divisor": 5,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 75,
+                  "divisor": 12,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+
+                "category": "division",
+                "extras": {
+                  "dividend": 32,
+                  "divisor": 25,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "25.2÷7＝3.6" ],
+                    [ "答：3.6分" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 25.2,
+                  "divisor": 7,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "16.2÷5＝3.24" ],
+                    [ "答：3.24" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 16.2,
+                  "divisor": 5,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "10÷4＝2.5" ],
+                    [ "答：2.5公分" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 10,
+                  "divisor": 4,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "68÷16＝4.25" ],
+                    [ "答：4.25桶" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 68,
+                  "divisor": 16,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "4",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.375" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 3,
+                  "divisor": 8,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "1.25" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 20,
+                  "divisor": 16,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "5",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "0.67" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 4,
+                  "divisor": 6,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : true,
+                  "texts": [
+                    [ "2.73" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 30,
+                  "divisor": 11,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "6",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 27,
+                  "divisor": 24,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 147,
+                  "divisor": 56,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "7",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "8÷7≈1.14" ],
+                    [ "答：大約1.14公升" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 8,
+                  "divisor": 7,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "10÷6≈1.7" ],
+                    [ "答：大約1.7公斤" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 10,
+                  "divisor": 6,
+                  "isDecimal": true,
+                  "precision" : 3
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "121÷88＝1.375" ],
+                    [ "答：1.375公尺" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 121,
+                  "divisor": 88,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          },
+          {
+            "title": "4",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "35÷40＝0.875" ],
+                    [ "答：0.875倍" ]
+                  ]
+                }
+              },
+              {
+                "category": "division",
+                "extras": {
+                  "dividend": 35,
+                  "divisor": 40,
+                  "isDecimal": true,
+                  "precision" : 5
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "8",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : true,
+                  "decoration": "true",
+                  "texts": [
+                    [ "123" ],
+                    [ "12.3" ],
+                    [ "1.23"]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "border" : true,
+                  "decoration": "false",
+                  "texts": [
+                    [ "64.9" ],
+                    [ "6.49" ],
+                    [ "0.649" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "統整園地",
+    "subtitle": "",
+    "section": [
+      {
+        "title": "1",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+            	{
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "1.044×5＝5.22" ],
+                    [ "答：5.22公斤" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+            	{
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "0.089×4＝0.356" ],
+                    [ "0.356×7＝2.492" ],
+                    [ "答：2.492公斤" ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "3",
+            "answers": [
+            	{
+                "category": "text",
+                "extras": {
+                  "border" : false,
+                  "decoration": "none",
+                  "texts": [
+                    [ "417÷366≈1.14" ],
+                    [ "答 : 大約1.14公斤" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2",
+        "subtitle": "",
+        "question": [
+          {
+            "title": "1",
+            "answers": [
+              {
+                "category": "tablesOptional",
+                "extras": {
+                  "row": [
+                    [
+                      "金星", "52×0.9＝46.8"
+                    ],
+                    [
+                      "火星", "52×0.38＝19.76"
+                    ],
+                    [
+                      "木星", "52×2.535＝131.82"
+                    ],
+                    [
+                      "土星", "52×1.06＝55.12"
+                    ]
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "title": "2",
+            "answers": [
+              {
+                "category": "text",
+                "extras": {
+                  "decoration": "none",
+                  "border" : false,
+                  "texts": [
+                    [ "36÷40＝0.9" ],
+                    [ "101.4÷40＝2.535" ],
+                    [ "0.9 = 金星的重力" ],
+                    [ "2.535 = 木星的重力" ],
+                    [ "答：金星和木星" ]
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

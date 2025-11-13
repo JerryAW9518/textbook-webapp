@@ -1,0 +1,157 @@
+[
+  {
+    "title": "寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "所", "房", "間", "討", "論",
+          "慶", "裙", "指", "將", "剪",
+          "貼", "工", "合", "紫", "而",
+          "且", "候", "裳", "躲", "驚"
+        ],
+        "zhuyin": [
+          ["ㄙㄨㄛˇ"], ["ㄈㄤˊ"], ["ㄐㄧㄢ"], ["ㄊㄠˇ"], ["ㄌㄨㄣˋ"],
+          ["ㄑㄧㄥˋ"], ["ㄑㄩㄣˊ"], ["ㄓˇ"], ["ㄐㄧㄤ"], ["ㄐㄧㄢˇ"],
+          ["ㄊㄧㄝ"], ["ㄍㄨㄥ"], ["ㄏㄜˊ"], ["ㄗˇ"], ["ㄦˊ"],
+          ["ㄑㄧㄝˇ"], ["ㄏㄡˋ"], ["˙ㄕㄤ"], ["ㄉㄨㄛˇ"], ["ㄐㄧㄥ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填寫正確的國字",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "候"
+        ],
+        "zhuyin": [
+          ["ㄏㄡˋ"]
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "後"
+        ],
+        "zhuyin": [
+          ["ㄏㄡˋ"]
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "後"
+        ],
+        "zhuyin": [
+          ["ㄏㄡˋ"]
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "候"
+        ],
+        "zhuyin": [
+          ["ㄏㄡˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "填寫適當的答案",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "慶生"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "外婆拿棉被"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "寫出完整的句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "要盡快完成功課"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "因為下雨了，所以我們只能待在教室裡看書。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "根據課文，回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "3"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "2"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "想一想，再作答",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "小松鼠推車", "小熊撿垃圾", "小猴子掃地", "整理環境"
+        ]
+      }
+    ]
+  }
+]

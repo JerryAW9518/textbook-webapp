@@ -1,0 +1,119 @@
+[
+  {
+    "title": "一、寫出正確筆畫順序",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "1 2 3 (由左至右)"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "1 2 4 (由左至右)"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "5 4 7 (由左至右)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、圈起來",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "女", "且"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "言", "舌"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "亻", "十"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、寫出國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "special": "noNumber",
+        "answers": [
+          "爸", "爸", "姐", "姐", "什", "麼",
+          "生", "日",  "呢", "做", "張",
+          "卡", "片", "送", "寫", "話","畫",
+          "束", "要"
+        ],
+        "zhuyin": [
+          ["ㄅㄚˋ"], ["˙ㄅㄚ"], ["ㄐㄧㄝˇ"], ["˙ㄐㄧㄝ"], ["ㄕㄣˊ"], ["˙ㄇㄜ"],
+          ["ㄕㄥ"], ["ㄖˋ"], ["˙ㄋㄜ"], ["ㄗㄨㄛˋ"], ["ㄓㄤ"],
+          ["ㄎㄚˇ"], ["ㄆㄧㄢˋ"], ["ㄙㄨㄥˋ"], ["ㄒㄧㄝˇ"], ["ㄏㄨㄚˋ"],  ["ㄏㄨㄚˋ"],
+          ["ㄕㄨˋ"], ["ㄧㄠˋ"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、選出適當的字，填入空格中。",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "張", "束", "片"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "張", "朵", "片"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、完成句子",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "人"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "什麼", "口味"
+        ]
+      }
+    ]
+  }
+]

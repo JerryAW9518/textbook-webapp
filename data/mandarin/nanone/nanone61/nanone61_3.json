@@ -1,0 +1,165 @@
+[
+  {
+    "title": "一、寫國字或注音",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "",
+        "category": "vocabularyZhuyin",
+        "answers": [
+          "兼", "緣", "皆", "蓬", "簡",
+          "陋", "舍", "籬", "笆", "潺",
+          "鎮", "寂"
+        ],
+        "zhuyin": [
+          ["ㄐㄧㄢ"], ["ㄩㄢˊ"], ["ㄐㄧㄝ"], ["ㄆㄥˊ"], ["ㄐㄧㄢˇ"],
+          ["ㄌㄡˋ"], ["ㄕㄜˋ"], ["ㄌㄧˊ"], ["ㄅㄚ"], ["ㄔㄢˊ"],
+          ["ㄓㄣˋ"], ["ㄐㄧˊ"], [""]
+        ]
+      },
+      {
+        "title": "",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "二、詩句練習",
+    "subtitle": "",
+    "question": [
+      {
+      
+        "title": "",
+        "category": "matching",
+        "extras": {
+        	"layerCount": 3,
+        	"isVertical": true,
+        	"layerWidgets": [
+          	[
+            	"4", "3", "2", "1"
+          	],
+          	[
+            	"", "", "", ""
+          	],
+          	[
+            	"", "", "", ""
+          	]
+        	],
+        	"multiConnections": [
+        		[
+          		[ 2 ],
+          		[ 3 ],
+          		[ 0 ],
+          		[ 1 ]
+        		],
+        		[
+          		[ 0 ],
+          		[ 2 ],
+          		[ 1 ],
+          		[ 3 ]
+        		]
+        	]
+      	}
+      },
+      
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "瑩瑩：她的語譯更接近原詩句的字面意思，直接描述了南面、北面都是小溪，水鳥天天飛來。語譯簡單明瞭，但較為平實。\n柏新：在語譯中增加了「潺潺溪水環繞」的描述，這一細節描寫增加了環境的動態感，讓場景更加生動，也增添了詩意。\n柏新的語譯更具意境和美感。他使用了「潺潺溪水環繞」來描繪小溪，這樣的表達不僅讓讀者感受到溪水的流動和柔和，也增添了自然環境的詩意氛圍。相比之下，瑩瑩的語譯雖然準確，但相對缺乏描寫上的生動感。因此，柏新的語譯更能喚起讀者的想像，具有更強的意境和美感。"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "家裡距離城鎮太遠，無法買到更多的食材，因此飯菜不夠豐盛。又因為家境貧困，沒有新的酒，只能用未過濾的舊酒招待你。"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "三、依課文內容回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "③"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "②"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "✓重視客人"
+        ]
+      },
+      {
+        "title": "4",
+        "category": "vocabulary",
+        "answers": [
+          "略"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四、詩句猜一猜",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 烏鴉"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "✓ 小白", "✓ 阿甫", "✓ 小清"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "五、閱讀並回答問題",
+    "subtitle": "",
+    "question": [
+      {
+        "title": "1",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "2",
+        "category": "vocabulary",
+        "answers": [
+          "④"
+        ]
+      },
+      {
+        "title": "3",
+        "category": "vocabulary",
+        "answers": [
+          "把離別的愁思比喻為春草，因為春草每年都會枯萎又重生，象徵著離別的情感雖然痛苦，但會隨時間而再度出現，反映了情感的持續和生命的循環。"
+        ]
+      }
+    ]
+  }
+]
